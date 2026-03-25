@@ -1,7 +1,9 @@
 'use client'
-// 動画一覧のフィルター・ソートUI（Client Component）
+// 動画一覧のフィルター・ソート・ページネーションUI（Client Component）
 import { useState, useMemo } from 'react'
 import type { Video } from '@/lib/data'
+
+const PER_PAGE = 20
 
 export default function VideosClient({
   videos,
@@ -12,6 +14,7 @@ export default function VideosClient({
 }) {
   const [selectedChannel, setSelectedChannel] = useState<string>('all')
   const [sort, setSort] = useState<'products' | 'date'>('products')
+  const [page, setPage] = useState(1)
 
   const filtered = useMemo(() => {
     let result = selectedChannel === 'all'
@@ -23,7 +26,7 @@ export default function VideosClient({
         const da = a.published_at || ''
         const db = b.published_at || ''
         if (!da && !db) return 0
-        if (!da) return 1   // 日付なしは末尾
+        if (!da) return 1
         if (!db) return -1
         return db.localeCompare(da)
       })
@@ -31,13 +34,26 @@ export default function VideosClient({
     return [...result].sort((a, b) => b.products.length - a.products.length)
   }, [videos, selectedChannel, sort])
 
+  const totalPages = Math.ceil(filtered.length / PER_PAGE)
+  const paged = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE)
+
+  // フィルター・ソート変更時はページを1に戻す
+  function handleChannelChange(ch: string) {
+    setSelectedChannel(ch)
+    setPage(1)
+  }
+  function handleSortChange(s: 'products' | 'date') {
+    setSort(s)
+    setPage(1)
+  }
+
   return (
     <div className="space-y-4">
       {/* フィルター・ソートバー */}
       <div className="flex flex-wrap gap-2 items-center">
         <select
           value={selectedChannel}
-          onChange={e => setSelectedChannel(e.target.value)}
+          onChange={e => handleChannelChange(e.target.value)}
           className="text-sm border border-gray-200 rounded-lg px-3 py-1.5 bg-white text-gray-700"
         >
           <option value="all">すべてのチャンネル</option>
@@ -48,7 +64,7 @@ export default function VideosClient({
 
         <div className="flex gap-1 ml-auto">
           <button
-            onClick={() => setSort('products')}
+            onClick={() => handleSortChange('products')}
             className={`text-xs px-3 py-1.5 rounded-full transition-colors ${
               sort === 'products'
                 ? 'bg-pink-500 text-white'
@@ -58,7 +74,7 @@ export default function VideosClient({
             商品数順
           </button>
           <button
-            onClick={() => setSort('date')}
+            onClick={() => handleSortChange('date')}
             className={`text-xs px-3 py-1.5 rounded-full transition-colors ${
               sort === 'date'
                 ? 'bg-pink-500 text-white'
@@ -70,12 +86,15 @@ export default function VideosClient({
         </div>
       </div>
 
-      {/* 件数 */}
-      <p className="text-sm text-gray-500">{filtered.length}動画</p>
+      {/* 件数・ページ情報 */}
+      <p className="text-sm text-gray-500">
+        {filtered.length}動画
+        {totalPages > 1 && <span className="ml-2 text-gray-400">（{page} / {totalPages}ページ）</span>}
+      </p>
 
       {/* 動画一覧 */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-        {filtered.map((video) => (
+        {paged.map((video) => (
           <a
             key={video.video_id}
             href={`/video/${video.video_id}`}
@@ -99,6 +118,53 @@ export default function VideosClient({
           </a>
         ))}
       </div>
+
+      {/* ページネーション */}
+      {totalPages > 1 && (
+        <div className="flex items-center justify-center gap-2 pt-2">
+          <button
+            onClick={() => setPage(p => Math.max(1, p - 1))}
+            disabled={page === 1}
+            className="px-4 py-2 text-sm rounded-lg border border-gray-200 text-gray-600 hover:bg-gray-50 disabled:opacity-30 disabled:cursor-not-allowed"
+          >
+            ← 前へ
+          </button>
+
+          {/* ページ番号（最大5つ表示） */}
+          {Array.from({ length: totalPages }, (_, i) => i + 1)
+            .filter(p => p === 1 || p === totalPages || Math.abs(p - page) <= 1)
+            .reduce<(number | '...')[]>((acc, p, i, arr) => {
+              if (i > 0 && p - (arr[i - 1] as number) > 1) acc.push('...')
+              acc.push(p)
+              return acc
+            }, [])
+            .map((p, i) =>
+              p === '...' ? (
+                <span key={`dots-${i}`} className="px-2 text-gray-400">…</span>
+              ) : (
+                <button
+                  key={p}
+                  onClick={() => setPage(p as number)}
+                  className={`w-9 h-9 text-sm rounded-lg ${
+                    page === p
+                      ? 'bg-pink-500 text-white'
+                      : 'border border-gray-200 text-gray-600 hover:bg-gray-50'
+                  }`}
+                >
+                  {p}
+                </button>
+              )
+            )}
+
+          <button
+            onClick={() => setPage(p => Math.min(totalPages, p + 1))}
+            disabled={page === totalPages}
+            className="px-4 py-2 text-sm rounded-lg border border-gray-200 text-gray-600 hover:bg-gray-50 disabled:opacity-30 disabled:cursor-not-allowed"
+          >
+            次へ →
+          </button>
+        </div>
+      )}
     </div>
   )
 }
