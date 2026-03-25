@@ -46,7 +46,7 @@ export default function Home() {
           <div className="border-l border-gray-100" />
           <div>
             <p className="text-2xl font-bold text-pink-500">{getVideos().length}<span className="text-base font-normal">本</span></p>
-            <p className="text-xs text-gray-400">参照動画</p>
+            <p className="text-xs text-gray-400">紹介動画</p>
           </div>
           <div className="border-l border-gray-100" />
           <div>

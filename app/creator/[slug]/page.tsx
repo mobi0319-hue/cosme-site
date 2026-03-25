@@ -63,7 +63,7 @@ export default async function CreatorPage({
           )}
           <div>
             <h1 className="text-xl font-bold text-gray-800">{creator.name}</h1>
-            <p className="text-sm text-gray-500">{creator.videos.length}本の参照動画</p>
+            <p className="text-sm text-gray-500">{creator.videos.length}本の紹介動画</p>
           </div>
         </div>
         <a

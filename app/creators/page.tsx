@@ -43,7 +43,7 @@ export default function CreatorsPage() {
                 )}
                 <div>
                   <h2 className="text-base font-bold text-gray-800">{creator.name}</h2>
-                  <p className="text-sm text-gray-500">{creator.videos.length}本の参照動画</p>
+                  <p className="text-sm text-gray-500">{creator.videos.length}本の紹介動画</p>
                 </div>
               </div>
 
