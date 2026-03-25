@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "コスメまとめ | YouTuberが紹介した商品を一覧で確認",
   description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できます。",
+  verification: {
+    google: "Ta7jjAJLlLrutcIayAWYc_NBz3PClBlqT1ihAEC8T5c",
+  },
 };
 
 export default function RootLayout({

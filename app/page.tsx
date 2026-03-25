@@ -15,14 +15,14 @@ export default function Home() {
           YouTuberが紹介したコスメをまとめてチェック
         </h1>
         <p className="text-gray-500 text-sm">
-          複数のYouTuberが紹介している商品は社会的証明あり。気になる商品をすぐに購入できます。
+          実際に使って「良かった」と紹介されたコスメだけを掲載。複数人が選んだ商品は特におすすめです。
         </p>
       </section>
 
       {/* 人気商品 */}
       <section>
         <div className="flex items-center justify-between mb-4">
-          <h2 className="text-lg font-bold text-gray-800">🔥 複数人が紹介した商品</h2>
+          <h2 className="text-lg font-bold text-gray-800">🔥 YouTuberイチオシのコスメ</h2>
           <a href="/products" className="text-sm text-pink-500 hover:underline">すべて見る →</a>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
