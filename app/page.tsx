@@ -35,7 +35,7 @@ export default function Home() {
           YouTuberが紹介したコスメをまとめてチェック
         </h1>
         <p className="text-gray-500 text-sm mb-6">
-          実際に使って「良かった」と紹介されたコスメだけを掲載。複数人が選んだ商品は特におすすめです。
+          実際に使って「良かった」と紹介されたコスメだけを掲載。多くのYouTuberに選ばれた商品は特におすすめです。
         </p>
         {/* 統計バナー */}
         <div className="flex justify-center gap-6 text-center">
