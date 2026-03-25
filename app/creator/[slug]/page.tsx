@@ -19,6 +19,14 @@ export async function generateMetadata({
   return {
     title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
     description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
+    openGraph: {
+      title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
+      description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
+      url: `https://cosme-site.vercel.app/creator/${slug}`,
+    },
+    twitter: {
+      card: "summary_large_image",
+    },
   }
 }
 

@@ -4,6 +4,14 @@ import { getVideos } from '@/lib/data'
 export const metadata = {
   title: '動画一覧 | YouTuberが紹介したコスメまとめ',
   description: 'YouTuberのコスメ紹介動画一覧です。動画ごとに紹介商品をまとめています。',
+  openGraph: {
+    title: '動画一覧 | YouTuberが紹介したコスメまとめ',
+    description: 'YouTuberのコスメ紹介動画一覧です。動画ごとに紹介商品をまとめています。',
+    url: 'https://cosme-site.vercel.app/videos',
+  },
+  twitter: {
+    card: 'summary_large_image',
+  },
 }
 
 export default function VideosPage() {

@@ -22,6 +22,16 @@ export async function generateMetadata({
   return {
     title: `${product.brand} ${product.product_name} | YouTuber紹介コスメまとめ`,
     description: `${product.brand}の${product.product_name}を紹介しているYouTuber動画まとめ。口コミ・価格・購入リンクを確認できます。`,
+    openGraph: {
+      title: `${product.brand} ${product.product_name} | YouTuber紹介コスメまとめ`,
+      description: `${product.brand}の${product.product_name}を紹介しているYouTuber動画まとめ。口コミ・価格・購入リンクを確認できます。`,
+      url: `https://cosme-site.vercel.app/product/${slug}`,
+      ...(product.image_url ? { images: [{ url: product.image_url }] } : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      ...(product.image_url ? { images: [product.image_url] } : {}),
+    },
   }
 }
 

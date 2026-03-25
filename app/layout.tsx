@@ -7,6 +7,19 @@ export const metadata: Metadata = {
   verification: {
     google: "Ta7jjAJLlLrutcIayAWYc_NBz3PClBlqT1ihAEC8T5c",
   },
+  openGraph: {
+    title: "コスメまとめ | YouTuberが紹介した商品を一覧で確認",
+    description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できます。",
+    url: "https://cosme-site.vercel.app",
+    siteName: "コスメまとめ",
+    locale: "ja_JP",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "コスメまとめ | YouTuberが紹介した商品を一覧で確認",
+    description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できます。",
+  },
 };
 
 export default function RootLayout({

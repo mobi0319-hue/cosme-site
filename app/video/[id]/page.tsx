@@ -19,6 +19,16 @@ export async function generateMetadata({
   return {
     title: `${video.video_title} | 紹介コスメまとめ`,
     description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
+    openGraph: {
+      title: `${video.video_title} | 紹介コスメまとめ`,
+      description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
+      url: `https://cosme-site.vercel.app/video/${id}`,
+      images: [{ url: `https://img.youtube.com/vi/${id}/hqdefault.jpg` }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [`https://img.youtube.com/vi/${id}/hqdefault.jpg`],
+    },
   }
 }
 

@@ -5,6 +5,14 @@ import ProductsClient from './ProductsClient'
 export const metadata = {
   title: '商品一覧 | YouTuberが紹介したコスメまとめ',
   description: 'YouTuberが動画で紹介したコスメ・スキンケア商品の一覧です。',
+  openGraph: {
+    title: '商品一覧 | YouTuberが紹介したコスメまとめ',
+    description: 'YouTuberが動画で紹介したコスメ・スキンケア商品の一覧です。',
+    url: 'https://cosme-site.vercel.app/products',
+  },
+  twitter: {
+    card: 'summary_large_image',
+  },
 }
 
 export default function ProductsPage() {

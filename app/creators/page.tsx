@@ -4,6 +4,14 @@ import { getCreators, slugifyCreator } from '@/lib/data'
 export const metadata = {
   title: 'YouTuber一覧 | コスメまとめ',
   description: 'コスメを紹介しているYouTuber一覧です。各YouTuberの紹介商品をまとめています。',
+  openGraph: {
+    title: 'YouTuber一覧 | コスメまとめ',
+    description: 'コスメを紹介しているYouTuber一覧です。各YouTuberの紹介商品をまとめています。',
+    url: 'https://cosme-site.vercel.app/creators',
+  },
+  twitter: {
+    card: 'summary_large_image',
+  },
 }
 
 export default function CreatorsPage() {
