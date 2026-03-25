@@ -19,9 +19,9 @@ const NON_COSME_KEYWORDS = [
 ]
 
 // カテゴリがコスメ関連かどうかを判定する
-// カテゴリ未設定・不明の場合はコスメチャンネルからの商品とみなし残す
+// カテゴリ未設定・不明・ハイフンのものは除外（コスメ以外が混入するため）
 function isCosmeCategory(category: string): boolean {
-  if (!category || category === '-' || category === '不明') return true
+  if (!category || category === '-' || category === '不明') return false
   return !NON_COSME_KEYWORDS.some(kw => category.includes(kw))
 }
 
