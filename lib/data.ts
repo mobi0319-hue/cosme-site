@@ -84,6 +84,7 @@ export type Channel = {
   url: string
   genre: string
   active: boolean
+  icon_url?: string
 }
 
 export type Video = {
@@ -99,6 +100,7 @@ export type Creator = {
   youtube_name: string
   url: string
   genre: string
+  icon_url?: string
   videos: Video[]
   top_products: Product[]
 }
@@ -219,6 +221,7 @@ export function getCreators(): Creator[] {
       youtube_name: ch.youtube_name,
       url: ch.url,
       genre: ch.genre,
+      icon_url: ch.icon_url,
       videos: creatorVideos,
       top_products: uniqueProducts,
     }

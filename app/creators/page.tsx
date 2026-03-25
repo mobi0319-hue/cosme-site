@@ -33,8 +33,19 @@ export default function CreatorsPage() {
               href={`/creator/${encodeURIComponent(slug)}`}
               className="bg-white border border-gray-100 rounded-xl p-5 hover:shadow-md transition-shadow"
             >
-              <h2 className="text-base font-bold text-gray-800 mb-1">{creator.name}</h2>
-              <p className="text-sm text-gray-500 mb-3">{creator.videos.length}本の動画を収録</p>
+              <div className="flex items-center gap-3 mb-3">
+                {creator.icon_url ? (
+                  <img src={creator.icon_url} alt={creator.name} className="w-12 h-12 rounded-full object-cover flex-shrink-0" />
+                ) : (
+                  <div className="w-12 h-12 rounded-full bg-pink-100 flex items-center justify-center text-pink-500 font-bold text-lg flex-shrink-0">
+                    {creator.name.charAt(0)}
+                  </div>
+                )}
+                <div>
+                  <h2 className="text-base font-bold text-gray-800">{creator.name}</h2>
+                  <p className="text-sm text-gray-500">{creator.videos.length}本の参照動画</p>
+                </div>
+              </div>
 
               {/* よく出る商品プレビュー */}
               {creator.top_products.length > 0 && (

@@ -53,8 +53,19 @@ export default async function CreatorPage({
 
       {/* クリエイター情報 */}
       <div className="bg-white rounded-2xl border border-gray-100 p-5">
-        <h1 className="text-xl font-bold text-gray-800 mb-1">{creator.name}</h1>
-        <p className="text-sm text-gray-500 mb-4">{creator.videos.length}本の動画を収録</p>
+        <div className="flex items-center gap-4 mb-4">
+          {creator.icon_url ? (
+            <img src={creator.icon_url} alt={creator.name} className="w-16 h-16 rounded-full object-cover flex-shrink-0" />
+          ) : (
+            <div className="w-16 h-16 rounded-full bg-pink-100 flex items-center justify-center text-pink-500 font-bold text-2xl flex-shrink-0">
+              {creator.name.charAt(0)}
+            </div>
+          )}
+          <div>
+            <h1 className="text-xl font-bold text-gray-800">{creator.name}</h1>
+            <p className="text-sm text-gray-500">{creator.videos.length}本の参照動画</p>
+          </div>
+        </div>
         <a
           href={creator.url}
           target="_blank"
