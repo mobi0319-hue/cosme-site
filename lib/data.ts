@@ -110,10 +110,15 @@ const DATA_DIR = path.join(process.cwd(), 'data')
 export function getProducts(): Product[] {
   const raw = fs.readFileSync(path.join(DATA_DIR, 'products.json'), 'utf-8')
   const products: Product[] = JSON.parse(raw)
-  // コスメ以外のカテゴリ（ファッション・食品・家電等）を除外し、カテゴリ名を正規化する
+  // コスメ以外のカテゴリを除外し、カテゴリ名を正規化、mention_countをユニークチャンネル数に補正する
   return products
     .filter(p => isCosmeCategory(p.category))
-    .map(p => ({ ...p, category: normalizeCategory(p.category) }))
+    .map(p => ({
+      ...p,
+      category: normalizeCategory(p.category),
+      // 同一YouTuberが複数動画で紹介しても1人とカウントする
+      mention_count: new Set(p.mentioned_by.map((m: MentionedBy) => m.channel)).size,
+    }))
 }
 
 export function getChannels(): Channel[] {
