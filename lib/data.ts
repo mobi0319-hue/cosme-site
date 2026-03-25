@@ -63,6 +63,7 @@ export type MentionedBy = {
   video_url: string
   context: string
   accumulated_at: string
+  published_at?: string
 }
 
 export type Product = {
@@ -92,6 +93,7 @@ export type Video = {
   video_url: string
   video_title: string
   channel: string
+  published_at?: string
   products: Product[]
 }
 
@@ -183,6 +185,7 @@ export function getVideos(): Video[] {
           video_url: mention.video_url,
           video_title: mention.video_title,
           channel: mention.channel,
+          published_at: mention.published_at,
           products: [],
         })
       }
@@ -225,7 +228,7 @@ export function getCreators(): Creator[] {
       videos: creatorVideos,
       top_products: uniqueProducts,
     }
-  })
+  }).sort((a, b) => b.videos.length - a.videos.length)
 }
 
 // スラッグからクリエイターを取得
