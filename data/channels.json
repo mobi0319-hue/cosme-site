@@ -1,0 +1,100 @@
+[
+  {
+    "name": "かじえり",
+    "youtube_name": "KAJIERI",
+    "url": "https://www.youtube.com/channel/UCSC9rYQAZibeNTJ6K1N17wg",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "会社員J",
+    "youtube_name": "会社員J",
+    "url": "https://www.youtube.com/channel/UCN559lrbV9wt46NwlnPJtPw",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "関根りさ",
+    "youtube_name": "SekineRisa",
+    "url": "https://www.youtube.com/user/SekineRisa",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "水越みさと",
+    "youtube_name": "水越みさと",
+    "url": "https://www.youtube.com/channel/UCffg7iYU2K7HFJDhylZzUBw",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "友利新",
+    "youtube_name": "友利新公式チャンネル(内科・皮膚科医)",
+    "url": "https://www.youtube.com/channel/UCS02b3Y9RCzsT2k4no6LN-g",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "さぁや",
+    "youtube_name": "さぁや saaya",
+    "url": "https://www.youtube.com/channel/UC69xoWl5-Y3m-oRFTORIbKw",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "えみ姉",
+    "youtube_name": "えみ姉",
+    "url": "https://www.youtube.com/@emk_oooo",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "nanakoななこ",
+    "youtube_name": "nanakoななこ",
+    "url": "https://www.youtube.com/channel/UC3swo6utVXOSYwxazwoKWBQ",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "みきぽん",
+    "youtube_name": "みきぽんチャンネル",
+    "url": "https://www.youtube.com/channel/UCB1cTldfzuVsnK1pdW8c89A",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "ゆうこす",
+    "youtube_name": "ゆうこす",
+    "url": "https://www.youtube.com/channel/UCxS4vbIvtjHQcEW61J2KQIw",
+    "genre": "cosme",
+    "active": true
+  },
+  {
+    "name": "みんなのキャンプを楽ろうよ！",
+    "youtube_name": "みんなのキャンプを楽ろうよ！",
+    "url": "https://www.youtube.com/channel/UCeSTSEITKai3hEEXAx5o_RQ",
+    "genre": "camp",
+    "active": true
+  },
+  {
+    "name": "旅する家の物語",
+    "youtube_name": "旅する家の物語",
+    "url": "https://www.youtube.com/channel/UCyblWsZQijMpohIqqTSgUZg",
+    "genre": "camp",
+    "active": true
+  },
+  {
+    "name": "たつおと海子",
+    "youtube_name": "たつおと海子 Tatsuo&Umiko",
+    "url": "https://www.youtube.com/channel/UC5KD8iN4gO6R_1zWuEShBXw",
+    "genre": "camp",
+    "active": true
+  },
+  {
+    "name": "kimimaro",
+    "youtube_name": "kimimaro",
+    "url": "https://www.youtube.com/channel/UCwfbjY_xekoK18-YpWS-5qg",
+    "genre": "daily",
+    "active": true
+  }
+]
