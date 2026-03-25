@@ -29,6 +29,20 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
+      <head>
+        {/* GA4 タグ */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2K61BP747" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-F2K61BP747');
+            `,
+          }}
+        />
+      </head>
       <body className="bg-gray-50 text-gray-800 min-h-screen">
         {/* ヘッダー */}
         <header className="bg-white border-b border-pink-100 sticky top-0 z-50">
