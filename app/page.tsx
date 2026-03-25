@@ -1,8 +1,28 @@
 // TOPページ：人気商品 + 最新動画 + YouTuber一覧
+import type { Metadata } from 'next'
 import { getProductsSorted, getVideos, getCreators, slugifyProduct, slugifyCreator } from '@/lib/data'
 
+export const metadata: Metadata = {
+  title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
+  description: '人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめて確認できます。複数人が選んだ商品は特におすすめ。',
+  openGraph: {
+    title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
+    description: '人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめて確認できます。複数人が選んだ商品は特におすすめ。',
+    url: 'https://cosme-site.vercel.app',
+    siteName: 'コスメまとめ',
+    locale: 'ja_JP',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
+    description: '人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめて確認できます。',
+  },
+}
+
 export default function Home() {
-  const products = getProductsSorted().slice(0, 12)
+  const allProducts = getProductsSorted()
+  const products = allProducts.slice(0, 12)
   const videos = getVideos().slice(0, 8)
   const creators = getCreators()
 
@@ -14,9 +34,26 @@ export default function Home() {
         <h1 className="text-2xl font-bold text-gray-800 mb-2">
           YouTuberが紹介したコスメをまとめてチェック
         </h1>
-        <p className="text-gray-500 text-sm">
+        <p className="text-gray-500 text-sm mb-6">
           実際に使って「良かった」と紹介されたコスメだけを掲載。複数人が選んだ商品は特におすすめです。
         </p>
+        {/* 統計バナー */}
+        <div className="flex justify-center gap-6 text-center">
+          <div>
+            <p className="text-2xl font-bold text-pink-500">{allProducts.length}<span className="text-base font-normal">件</span></p>
+            <p className="text-xs text-gray-400">掲載商品</p>
+          </div>
+          <div className="border-l border-gray-100" />
+          <div>
+            <p className="text-2xl font-bold text-pink-500">{getVideos().length}<span className="text-base font-normal">本</span></p>
+            <p className="text-xs text-gray-400">収録動画</p>
+          </div>
+          <div className="border-l border-gray-100" />
+          <div>
+            <p className="text-2xl font-bold text-pink-500">{creators.length}<span className="text-base font-normal">名</span></p>
+            <p className="text-xs text-gray-400">YouTuber</p>
+          </div>
+        </div>
       </section>
 
       {/* 人気商品 */}
