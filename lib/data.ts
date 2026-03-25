@@ -25,6 +25,36 @@ function isCosmeCategory(category: string): boolean {
   return !NON_COSME_KEYWORDS.some(kw => category.includes(kw))
 }
 
+// ======== カテゴリ正規化 ========
+
+// 表示用カテゴリの正規順（この順番でフィルターボタンに並ぶ）
+const CATEGORY_ORDER = [
+  'スキンケア', 'UVケア', '化粧下地', 'ファンデーション', 'フェイスパウダー',
+  'コンシーラー', 'チーク', 'ハイライター', 'シェーディング',
+  'アイシャドウ', 'アイライナー', 'アイブロウ', 'マスカラ',
+  'リップ', 'ヘアケア', 'ボディケア', 'その他',
+]
+
+// 旧データの表記ゆれを正規カテゴリに変換する
+function normalizeCategory(cat: string): string {
+  if (!cat || cat === '-' || cat === '不明') return 'その他'
+  // 「その他（xxx）」パターンはすべて「その他」に統一
+  if (cat.startsWith('その他')) return 'その他'
+  // 下地系統一
+  if (cat === '下地' || cat.includes('下地') && cat.includes('CC')) return '化粧下地'
+  // スキンケア系統一
+  if (cat.startsWith('スキンケア')) return 'スキンケア'
+  // ボディケア系統一
+  if (cat.startsWith('ボディケア')) return 'ボディケア'
+  // ヘアケア系統一
+  if (cat.startsWith('ヘアケア')) return 'ヘアケア'
+  // リップ系統一
+  if (cat.startsWith('リップ')) return 'リップ'
+  // 既知カテゴリ以外は「その他」に
+  if (!CATEGORY_ORDER.includes(cat)) return 'その他'
+  return cat
+}
+
 // ======== 型定義 ========
 
 export type MentionedBy = {
@@ -80,8 +110,10 @@ const DATA_DIR = path.join(process.cwd(), 'data')
 export function getProducts(): Product[] {
   const raw = fs.readFileSync(path.join(DATA_DIR, 'products.json'), 'utf-8')
   const products: Product[] = JSON.parse(raw)
-  // コスメ以外のカテゴリ（ファッション・食品・家電等）を除外する
-  return products.filter(p => isCosmeCategory(p.category))
+  // コスメ以外のカテゴリ（ファッション・食品・家電等）を除外し、カテゴリ名を正規化する
+  return products
+    .filter(p => isCosmeCategory(p.category))
+    .map(p => ({ ...p, category: normalizeCategory(p.category) }))
 }
 
 export function getChannels(): Channel[] {
@@ -192,9 +224,10 @@ export function getCreatorBySlug(slug: string): Creator | null {
   return getCreators().find(c => slugifyCreator(c.name) === slug) ?? null
 }
 
-// カテゴリ一覧
+// カテゴリ一覧（正規順で返す）
 export function getCategories(): string[] {
   const products = getProducts().filter(p => p.genre === 'cosme')
   const cats = new Set(products.map(p => p.category).filter(Boolean))
-  return Array.from(cats).sort()
+  // CATEGORY_ORDER に沿って並べ、定義外のものは末尾に追加
+  return CATEGORY_ORDER.filter(c => cats.has(c))
 }
