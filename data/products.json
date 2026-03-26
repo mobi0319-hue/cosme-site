@@ -1239,7 +1239,7 @@
     "price": "-",
     "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/?af=mobi.0319",
-    "mention_count": 2,
+    "mention_count": 3,
     "mentioned_by": [
       {
         "channel": "KAJIERI",
@@ -1256,6 +1256,14 @@
         "context": "目尻のみのアイラインとして使用",
         "accumulated_at": "2026-03-26",
         "published_at": "2025年12月13日"
+      },
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「一番好きだった」が終売になり心から悲しかった",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
       }
     ]
   },
@@ -1335,7 +1343,7 @@
     "price": "-",
     "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%28DECORT%C3%89%29%20%E3%82%A2%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%B8%E3%82%A7%E3%83%A0&tag=yuaffiliate01-22",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%28DECORT%C3%89%29%20%E3%82%A2%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%B8%E3%82%A7%E3%83%A0/?af=mobi.0319",
-    "mention_count": 1,
+    "mention_count": 2,
     "mentioned_by": [
       {
         "channel": "KAJIERI",
@@ -1344,6 +1352,14 @@
         "context": "ピンク系のぼかし要員として使用。ピンク系メイク時に粘膜ぼかしとして活用",
         "accumulated_at": "2026-03-25",
         "published_at": "2026-03-13"
+      },
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「コスメデコルってすごい好きだよ」「柔らかいやつ…ボケ具合がいい」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
       }
     ]
   },
@@ -8928,6 +8944,14 @@
         "context": "マットな仕上がりのパウダー（01番）",
         "accumulated_at": "2026-03-25",
         "published_at": "2026年01月17日"
+      },
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "超薄型で持ち運びに便利、毛穴カバーが綺麗でふわっとした肌に仕上がるプレストパウダー",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
       }
     ]
   },
@@ -21504,6 +21528,3334 @@
         "context": "ルナソルとの比較で言及。冬は乾燥するとのコメント",
         "accumulated_at": "2026-03-26",
         "published_at": "2025年12月26日"
+      }
+    ]
+  },
+  {
+    "product_name": "豆腐用ブラシ（ちっちゃいファンデーション用ブラシ）",
+    "brand": "WAKEMAKE（ウェイクメイク）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=WAKEMAKE%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E8%B1%86%E8%85%90%E7%94%A8%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%88%E3%81%A1%E3%81%A3%E3%81%A1%E3%82%83%E3%81%84%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%A8%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/WAKEMAKE%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E8%B1%86%E8%85%90%E7%94%A8%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%88%E3%81%A1%E3%81%A3%E3%81%A1%E3%82%83%E3%81%84%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%A8%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "新作のファンデーション用小さいブラシとして使用。品番21-N1を使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月29日"
+      }
+    ]
+  },
+  {
+    "product_name": "コラーゲンマスク",
+    "brand": "-",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "韓国で流行中のマスクとしてLDM美顔器の後に使用と紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月29日"
+      }
+    ]
+  },
+  {
+    "product_name": "クリームチーク（品番：マディ）",
+    "brand": "Supee Original（スーピーオリジナル）",
+    "category": "チーク",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Supee%20Original%EF%BC%88%E3%82%B9%E3%83%BC%E3%83%94%E3%83%BC%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%EF%BC%89%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%81%E3%83%BC%E3%82%AF%EF%BC%88%E5%93%81%E7%95%AA%EF%BC%9A%E3%83%9E%E3%83%87%E3%82%A3%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Supee%20Original%EF%BC%88%E3%82%B9%E3%83%BC%E3%83%94%E3%83%BC%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%EF%BC%89%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%81%E3%83%BC%E3%82%AF%EF%BC%88%E5%93%81%E7%95%AA%EF%BC%9A%E3%83%9E%E3%83%87%E3%82%A3%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "タイで購入。韓国トレンドのトーストメイクに合うベージュ×グレー系カラーとして紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月29日"
+      }
+    ]
+  },
+  {
+    "product_name": "涙袋用影色アイテム",
+    "brand": "rom&nd（ロムアンド）",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=rom%26nd%EF%BC%88%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%EF%BC%89%20%E6%B6%99%E8%A2%8B%E7%94%A8%E5%BD%B1%E8%89%B2%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/rom%26nd%EF%BC%88%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%EF%BC%89%20%E6%B6%99%E8%A2%8B%E7%94%A8%E5%BD%B1%E8%89%B2%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "2023年購入の涙袋の影を描くアイテムとして使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月29日"
+      }
+    ]
+  },
+  {
+    "product_name": "センシュアルヌードグロス 380番 チェリッシュ",
+    "brand": "HERA（ヘラ）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=HERA%EF%BC%88%E3%83%98%E3%83%A9%EF%BC%89%20%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8C%E3%83%BC%E3%83%89%E3%82%B0%E3%83%AD%E3%82%B9%20380%E7%95%AA%20%E3%83%81%E3%82%A7%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HERA%EF%BC%88%E3%83%98%E3%83%A9%EF%BC%89%20%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8C%E3%83%BC%E3%83%89%E3%82%B0%E3%83%AD%E3%82%B9%20380%E7%95%AA%20%E3%83%81%E3%82%A7%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "メインカラーのリップとして使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月29日"
+      }
+    ]
+  },
+  {
+    "product_name": "ボリューム3",
+    "brand": "デュアルソニック（シュリンク）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%88%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%B3%E3%82%AF%EF%BC%89%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A03&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%88%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%B3%E3%82%AF%EF%BC%89%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A03/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "シュリンクの会社から発売されたRF美顔器として紹介。フェイシャルモード・アイモード搭載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "プラエル（新作マルチ機器）",
+    "brand": "プラエル",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "約4万円",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%A9%E3%82%A8%E3%83%AB%20%E3%83%97%E3%83%A9%E3%82%A8%E3%83%AB%EF%BC%88%E6%96%B0%E4%BD%9C%E3%83%9E%E3%83%AB%E3%83%81%E6%A9%9F%E5%99%A8%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%A9%E3%82%A8%E3%83%AB%20%E3%83%97%E3%83%A9%E3%82%A8%E3%83%AB%EF%BC%88%E6%96%B0%E4%BD%9C%E3%83%9E%E3%83%AB%E3%83%81%E6%A9%9F%E5%99%A8%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "RF・EMS・MCEP等4機能搭載のマルチ美顔器として紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "HIFU美顔器（深さ1個）",
+    "brand": "メディキューブ",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%20HIFU%E7%BE%8E%E9%A1%94%E5%99%A8%EF%BC%88%E6%B7%B1%E3%81%951%E5%80%8B%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%20HIFU%E7%BE%8E%E9%A1%94%E5%99%A8%EF%BC%88%E6%B7%B1%E3%81%951%E5%80%8B%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "HIFU系で安価な入門機として言及。引き上げ実感は控えめとの感想",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "AGエアー（RF美顔器）",
+    "brand": "メディキューブ",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "約2万円（韓国価格）",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%20AG%E3%82%A8%E3%82%A2%E3%83%BC%EF%BC%88RF%E7%BE%8E%E9%A1%94%E5%99%A8%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%20AG%E3%82%A8%E3%82%A2%E3%83%BC%EF%BC%88RF%E7%BE%8E%E9%A1%94%E5%99%A8%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "RF美顔器として検証したが密着面積が狭く温まりが不十分と評価",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "フルサーマー",
+    "brand": "メディキューブ",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%20%E3%83%95%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%20%E3%83%95%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "RF美顔器として検証。ヘッドが鋭くジェルが挟まりやすいためおすすめしないと評価",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "クアッドセラ",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%E3%82%BB%E3%83%A9&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%E3%82%BB%E3%83%A9/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "概要欄ハッシュタグに記載。HIFU/EMS系美顔器として言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "グローエム",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "概要欄ハッシュタグに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブースターソニック",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "概要欄ハッシュタグに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "クライオソニック",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%AA%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%AA%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "概要欄ハッシュタグに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "マミーケア",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%83%9E%E3%83%9F%E3%83%BC%E3%82%B1%E3%82%A2&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%83%9E%E3%83%9F%E3%83%BC%E3%82%B1%E3%82%A2/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "概要欄ハッシュタグに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "LDM美顔器",
+    "brand": "イーオーエイ（EOA）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%A4%EF%BC%88EOA%EF%BC%89%20LDM%E7%BE%8E%E9%A1%94%E5%99%A8&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%A4%EF%BC%88EOA%EF%BC%89%20LDM%E7%BE%8E%E9%A1%94%E5%99%A8/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【徹底比較】美顔器の種類と特徴まとめ！失敗しない選び方＆絶対使ってほしいおすすめアイテム",
+        "video_url": "https://www.youtube.com/watch?v=ccBab4OZcKc",
+        "context": "概要欄ハッシュタグに記載。LDMカテゴリで紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "OR スパトリートメント シャンプー＆トリートメント 2.0（カシスミュゲの香り）",
+    "brand": "OFF&RELAX（オフアンドリラックス）",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=OFF%26RELAX%EF%BC%88%E3%82%AA%E3%83%95%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%89%20OR%20%E3%82%B9%E3%83%91%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%EF%BC%86%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%202.0%EF%BC%88%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%9F%E3%83%A5%E3%82%B2%E3%81%AE%E9%A6%99%E3%82%8A%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/OFF%26RELAX%EF%BC%88%E3%82%AA%E3%83%95%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%89%20OR%20%E3%82%B9%E3%83%91%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%EF%BC%86%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%202.0%EF%BC%88%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%9F%E3%83%A5%E3%82%B2%E3%81%AE%E9%A6%99%E3%82%8A%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。香りが大好きで髪にとても合う。リニューアル後の2.0が特にしっくりくる。リピ確定",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "ルルルンプレシャス GREEN（グリーン）※旧版",
+    "brand": "LuLuLun（ルルルン）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=LuLuLun%EF%BC%88%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%EF%BC%89%20%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%20GREEN%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89%E2%80%BB%E6%97%A7%E7%89%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/LuLuLun%EF%BC%88%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%EF%BC%89%20%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%20GREEN%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89%E2%80%BB%E6%97%A7%E7%89%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。旧作も好きだったがリニューアル後の方がさらに良い。デイリー使いに最適",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "ルルルンプレシャス GREEN（グリーン）※リニューアル版",
+    "brand": "LuLuLun（ルルルン）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=LuLuLun%EF%BC%88%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%EF%BC%89%20%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%20GREEN%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89%E2%80%BB%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E7%89%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/LuLuLun%EF%BC%88%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%EF%BC%89%20%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%20GREEN%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89%E2%80%BB%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E7%89%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。液垂れしにくく、フィット感・生地の厚み・水分量が安定。リピ確定",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "キャロットカーミングパッド",
+    "brand": "SKINFOOD（スキンフード）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=SKINFOOD%EF%BC%88%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%83%BC%E3%83%89%EF%BC%89%20%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%91%E3%83%83%E3%83%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SKINFOOD%EF%BC%88%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%83%BC%E3%83%89%EF%BC%89%20%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%91%E3%83%83%E3%83%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。エンボス加工の生地感と液のとろみが絶妙。毛穴詰まりケアに定期使用。王道で結局戻ってくる",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "エプソムソルト（フレークタイプ入浴剤）",
+    "brand": "iHerb購入品",
+    "category": "ボディケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=iHerb%E8%B3%BC%E5%85%A5%E5%93%81%20%E3%82%A8%E3%83%97%E3%82%BD%E3%83%A0%E3%82%BD%E3%83%AB%E3%83%88%EF%BC%88%E3%83%95%E3%83%AC%E3%83%BC%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%97%E5%85%A5%E6%B5%B4%E5%89%A4%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/iHerb%E8%B3%BC%E5%85%A5%E5%93%81%20%E3%82%A8%E3%83%97%E3%82%BD%E3%83%A0%E3%82%BD%E3%83%AB%E3%83%88%EF%BC%88%E3%83%95%E3%83%AC%E3%83%BC%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%97%E5%85%A5%E6%B5%B4%E5%89%A4%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。何個リピか分からないほど愛用。フレーク状で溶けやすく、入浴後の温かさが持続。リピ確定",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "ヨモギ蒸しパック（よもぎ・甘草・もっか・桂皮・ドクダミ・ソウジュツ・陳皮配合）",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%83%A8%E3%83%A2%E3%82%AE%E8%92%B8%E3%81%97%E3%83%91%E3%83%83%E3%82%AF%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%E3%83%BB%E7%94%98%E8%8D%89%E3%83%BB%E3%82%82%E3%81%A3%E3%81%8B%E3%83%BB%E6%A1%82%E7%9A%AE%E3%83%BB%E3%83%89%E3%82%AF%E3%83%80%E3%83%9F%E3%83%BB%E3%82%BD%E3%82%A6%E3%82%B8%E3%83%A5%E3%83%84%E3%83%BB%E9%99%B3%E7%9A%AE%E9%85%8D%E5%90%88%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%83%A8%E3%83%A2%E3%82%AE%E8%92%B8%E3%81%97%E3%83%91%E3%83%83%E3%82%AF%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%E3%83%BB%E7%94%98%E8%8D%89%E3%83%BB%E3%82%82%E3%81%A3%E3%81%8B%E3%83%BB%E6%A1%82%E7%9A%AE%E3%83%BB%E3%83%89%E3%82%AF%E3%83%80%E3%83%9F%E3%83%BB%E3%82%BD%E3%82%A6%E3%82%B8%E3%83%A5%E3%83%84%E3%83%BB%E9%99%B3%E7%9A%AE%E9%85%8D%E5%90%88%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。韓国式よもぎ蒸し用。効果の実感は正直分からないが継続使用。ストック2個あり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "クレンジングバーム（洗い流しタイプ）",
+    "brand": "NIVEA（ニベア）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NIVEA%EF%BC%88%E3%83%8B%E3%83%99%E3%82%A2%EF%BC%89%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%83%A0%EF%BC%88%E6%B4%97%E3%81%84%E6%B5%81%E3%81%97%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NIVEA%EF%BC%88%E3%83%8B%E3%83%99%E3%82%A2%EF%BC%89%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%83%A0%EF%BC%88%E6%B4%97%E3%81%84%E6%B5%81%E3%81%97%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【買って微妙だと悲しい】使い切り正直レビュー",
+        "video_url": "https://www.youtube.com/watch?v=kLTJL1DhgSI",
+        "context": "使い切りレビュー。落ちが良く洗い流しもスムーズで安定感がある",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "スージングガーズパック（サンリオ ポチャココラボ）",
+    "brand": "numbuzin（ナンバーズイン）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%BC%E3%82%BA%E3%83%91%E3%83%83%E3%82%AF%EF%BC%88%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E3%83%9D%E3%83%81%E3%83%A3%E3%82%B3%E3%82%B3%E3%83%A9%E3%83%9C%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%BC%E3%82%BA%E3%83%91%E3%83%83%E3%82%AF%EF%BC%88%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E3%83%9D%E3%83%81%E3%83%A3%E3%82%B3%E3%82%B3%E3%83%A9%E3%83%9C%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "タンニングサンリオシリーズとして紹介・開封",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "スージングガーズクリーム（チューブ＆ジャータイプ／サンリオ ポチャココラボ）",
+    "brand": "numbuzin（ナンバーズイン）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%BC%E3%82%BA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%88%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%EF%BC%86%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%8F%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E3%83%9D%E3%83%81%E3%83%A3%E3%82%B3%E3%82%B3%E3%83%A9%E3%83%9C%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%BC%E3%82%BA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%88%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%EF%BC%86%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%8F%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E3%83%9D%E3%83%81%E3%83%A3%E3%82%B3%E3%82%B3%E3%83%A9%E3%83%9C%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "同シリーズのクリーム、チューブとジャーの2タイプ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "日焼け止め（サンリオ ポチャココラボ）",
+    "brand": "numbuzin（ナンバーズイン）",
+    "category": "UVケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81%EF%BC%88%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E3%83%9D%E3%83%81%E3%83%A3%E3%82%B3%E3%82%B3%E3%83%A9%E3%83%9C%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81%EF%BC%88%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E3%83%9D%E3%83%81%E3%83%A3%E3%82%B3%E3%82%B3%E3%83%A9%E3%83%9C%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "同ラインの日焼け止めとして紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "シカおろして使いました緑パッド（シカカラマンドゥンチョロペド）",
+    "brand": "numbuzin（ナンバーズイン）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E3%82%B7%E3%82%AB%E3%81%8A%E3%82%8D%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%B7%91%E3%83%91%E3%83%83%E3%83%89%EF%BC%88%E3%82%B7%E3%82%AB%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%89%E3%82%A5%E3%83%B3%E3%83%81%E3%83%A7%E3%83%AD%E3%83%9A%E3%83%89%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/numbuzin%EF%BC%88%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%EF%BC%89%20%E3%82%B7%E3%82%AB%E3%81%8A%E3%82%8D%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%B7%91%E3%83%91%E3%83%83%E3%83%89%EF%BC%88%E3%82%B7%E3%82%AB%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%89%E3%82%A5%E3%83%B3%E3%83%81%E3%83%A7%E3%83%AD%E3%83%9A%E3%83%89%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "レフィル付きで開封紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "リップグロス（クリスマス限定コフレ）",
+    "brand": "NARS（ナーズ）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B0%E3%83%AD%E3%82%B9%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B0%E3%83%AD%E3%82%B9%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "クリスマス限定コフレ内のパープルラメ入りグロス",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "リップスティック（クリスマス限定コフレ）",
+    "brand": "NARS（ナーズ）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "クリスマス限定コフレ内のベージュ系リップ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "4色アイシャドウパレット（クリスマス限定コフレ）",
+    "brand": "NARS（ナーズ）",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%204%E8%89%B2%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%204%E8%89%B2%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "クリスマス限定コフレ内、マット2色＋ラメ2色",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "シャドースティック（マットカラー新作・複数色）",
+    "brand": "DEAR DAHLIA（ディアダリア）",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=DEAR%20DAHLIA%EF%BC%88%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%AA%E3%82%A2%EF%BC%89%20%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%EF%BC%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E4%BD%9C%E3%83%BB%E8%A4%87%E6%95%B0%E8%89%B2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DEAR%20DAHLIA%EF%BC%88%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%AA%E3%82%A2%EF%BC%89%20%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%EF%BC%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E4%BD%9C%E3%83%BB%E8%A4%87%E6%95%B0%E8%89%B2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "マットカラー新作、ベースやニュアンスカラー複数色紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "リップ＆チークシロップポット（バターポット／シロップポット）",
+    "brand": "YNM（ワイエヌエム）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=YNM%EF%BC%88%E3%83%AF%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A8%E3%83%A0%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%EF%BC%86%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97%E3%83%9D%E3%83%83%E3%83%88%EF%BC%88%E3%83%90%E3%82%BF%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%EF%BC%8F%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97%E3%83%9D%E3%83%83%E3%83%88%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/YNM%EF%BC%88%E3%83%AF%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A8%E3%83%A0%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%EF%BC%86%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97%E3%83%9D%E3%83%83%E3%83%88%EF%BC%88%E3%83%90%E3%82%BF%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%EF%BC%8F%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97%E3%83%9D%E3%83%83%E3%83%88%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "ケーキボックスパッケージ、シリコンリップブラシ付き",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "リップ（後ろを押して使うタイプ・3色）",
+    "brand": "GESGEP（ジェスジェップ）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=GESGEP%EF%BC%88%E3%82%B8%E3%82%A7%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%83%E3%83%97%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%EF%BC%88%E5%BE%8C%E3%82%8D%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E3%82%BF%E3%82%A4%E3%83%97%E3%83%BB3%E8%89%B2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/GESGEP%EF%BC%88%E3%82%B8%E3%82%A7%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%83%E3%83%97%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%EF%BC%88%E5%BE%8C%E3%82%8D%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E3%82%BF%E3%82%A4%E3%83%97%E3%83%BB3%E8%89%B2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "バクテウン先生コラボ、ツヤ系リップ開封",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "カラコン",
+    "brand": "wakemake（ウェイクメイク）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=wakemake%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%B3&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/wakemake%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%B3/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "ウェイクメイクから出たカラコン、開封紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "カラコン",
+    "brand": "Hapa Kristin（ハパクリスティン）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Hapa%20Kristin%EF%BC%88%E3%83%8F%E3%83%91%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%89%20%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%B3&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Hapa%20Kristin%EF%BC%88%E3%83%8F%E3%83%91%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%89%20%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%B3/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "ウェイクメイクと一緒に紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "トナー（バブル容器＋コットン付き）",
+    "brand": "deepinor（ディーピノール）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=deepinor%EF%BC%88%E3%83%87%E3%82%A3%E3%83%BC%E3%83%94%E3%83%8E%E3%83%BC%E3%83%AB%EF%BC%89%20%E3%83%88%E3%83%8A%E3%83%BC%EF%BC%88%E3%83%90%E3%83%96%E3%83%AB%E5%AE%B9%E5%99%A8%EF%BC%8B%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E4%BB%98%E3%81%8D%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/deepinor%EF%BC%88%E3%83%87%E3%82%A3%E3%83%BC%E3%83%94%E3%83%8E%E3%83%BC%E3%83%AB%EF%BC%89%20%E3%83%88%E3%83%8A%E3%83%BC%EF%BC%88%E3%83%90%E3%83%96%E3%83%AB%E5%AE%B9%E5%99%A8%EF%BC%8B%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E4%BB%98%E3%81%8D%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "内側保湿追求、バブル容器で泡立てて使う化粧水",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブラシ（2本）",
+    "brand": "DOLCE&GABBANA（ドルチェ＆ガッバーナ）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=DOLCE%26GABBANA%EF%BC%88%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%86%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A%EF%BC%89%20%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%882%E6%9C%AC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DOLCE%26GABBANA%EF%BC%88%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%86%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A%EF%BC%89%20%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%882%E6%9C%AC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "宝箱セット内のブラシ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "コンシーラープラシャー（追加色／別コンテキスト）",
+    "brand": "ABOUT TONE（アバウトトーン）",
+    "category": "チーク",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=ABOUT%20TONE%EF%BC%88%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%EF%BC%89%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%BC%EF%BC%88%E8%BF%BD%E5%8A%A0%E8%89%B2%EF%BC%8F%E5%88%A5%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ABOUT%20TONE%EF%BC%88%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%EF%BC%89%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%BC%EF%BC%88%E8%BF%BD%E5%8A%A0%E8%89%B2%EF%BC%8F%E5%88%A5%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "16:18で再度登場",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "talk to Her（トークトゥハー）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=talk%20to%20Her%EF%BC%88%E3%83%88%E3%83%BC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%8F%E3%83%BC%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/talk%20to%20Her%EF%BC%88%E3%83%88%E3%83%BC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%8F%E3%83%BC%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "Dr.FORHAIR（ドクターフォーヘア）",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Dr.FORHAIR%EF%BC%88%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%98%E3%82%A2%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dr.FORHAIR%EF%BC%88%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%98%E3%82%A2%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "Mamonde（マモンド）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Mamonde%EF%BC%88%E3%83%9E%E3%83%A2%E3%83%B3%E3%83%89%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Mamonde%EF%BC%88%E3%83%9E%E3%83%A2%E3%83%B3%E3%83%89%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "peripera（ペリペラ）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=peripera%EF%BC%88%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/peripera%EF%BC%88%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載（19:44）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "VIDIVICI（ビディビーチ）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=VIDIVICI%EF%BC%88%E3%83%93%E3%83%87%E3%82%A3%E3%83%93%E3%83%BC%E3%83%81%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/VIDIVICI%EF%BC%88%E3%83%93%E3%83%87%E3%82%A3%E3%83%93%E3%83%BC%E3%83%81%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "Charlotte Tilbury（シャーロット ティルブリー）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Charlotte%20Tilbury%EF%BC%88%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88%20%E3%83%86%E3%82%A3%E3%83%AB%E3%83%96%E3%83%AA%E3%83%BC%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Charlotte%20Tilbury%EF%BC%88%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88%20%E3%83%86%E3%82%A3%E3%83%AB%E3%83%96%E3%83%AA%E3%83%BC%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載（21:03）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "BYNIQ（バイニーク）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=BYNIQ%EF%BC%88%E3%83%90%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AF%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/BYNIQ%EF%BC%88%E3%83%90%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AF%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "wakemake（ウェイクメイク）",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=wakemake%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/wakemake%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載（22:43）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "espoir（エスポア）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=espoir%EF%BC%88%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/espoir%EF%BC%88%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "COSRX（コスアールエックス）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=COSRX%EF%BC%88%E3%82%B3%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/COSRX%EF%BC%88%E3%82%B3%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "alternative stereo（オルタナティブステレオ）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=alternative%20stereo%EF%BC%88%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/alternative%20stereo%EF%BC%88%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "Biodance（バイオダンス）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Biodance%EF%BC%88%E3%83%90%E3%82%A4%E3%82%AA%E3%83%80%E3%83%B3%E3%82%B9%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Biodance%EF%BC%88%E3%83%90%E3%82%A4%E3%82%AA%E3%83%80%E3%83%B3%E3%82%B9%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "（商品）",
+    "brand": "Fillimilli（フィリミリ）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Fillimilli%EF%BC%88%E3%83%95%E3%82%A3%E3%83%AA%E3%83%9F%E3%83%AA%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Fillimilli%EF%BC%88%E3%83%95%E3%82%A3%E3%83%AA%E3%83%9F%E3%83%AA%EF%BC%89%20%EF%BC%88%E5%95%86%E5%93%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "概要欄タイムスタンプに記載",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年11月22日"
+      }
+    ]
+  },
+  {
+    "product_name": "ザバス",
+    "brand": "明治",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%8E%E6%B2%BB%20%E3%82%B6%E3%83%90%E3%82%B9&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%8E%E6%B2%BB%20%E3%82%B6%E3%83%90%E3%82%B9/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "結婚5年目にして初の同居。",
+        "video_url": "https://www.youtube.com/watch?v=yZI33kU-hzs",
+        "context": "キッチン収納整理中にサプリメント類として発見",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "激落ちくん（コンロ用ワイプ系）",
+    "brand": "レック",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%83%E3%82%AF%20%E6%BF%80%E8%90%BD%E3%81%A1%E3%81%8F%E3%82%93%EF%BC%88%E3%82%B3%E3%83%B3%E3%83%AD%E7%94%A8%E3%83%AF%E3%82%A4%E3%83%97%E7%B3%BB%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%83%E3%82%AF%20%E6%BF%80%E8%90%BD%E3%81%A1%E3%81%8F%E3%82%93%EF%BC%88%E3%82%B3%E3%83%B3%E3%83%AD%E7%94%A8%E3%83%AF%E3%82%A4%E3%83%97%E7%B3%BB%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "結婚5年目にして初の同居。",
+        "video_url": "https://www.youtube.com/watch?v=yZI33kU-hzs",
+        "context": "コンロ掃除に使用した拭き取りシート",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "排水口用ネット",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E6%8E%92%E6%B0%B4%E5%8F%A3%E7%94%A8%E3%83%8D%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E6%8E%92%E6%B0%B4%E5%8F%A3%E7%94%A8%E3%83%8D%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "結婚5年目にして初の同居。",
+        "video_url": "https://www.youtube.com/watch?v=yZI33kU-hzs",
+        "context": "シンクの排水口用に購入・設置",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "タオル福袋（スリムバスタオル＋フェイスタオルセット・グレー）",
+    "brand": "-",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "5,390円",
+    "amazon_url": "https://www.amazon.co.jp/s?k=-%20%E3%82%BF%E3%82%AA%E3%83%AB%E7%A6%8F%E8%A2%8B%EF%BC%88%E3%82%B9%E3%83%AA%E3%83%A0%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%EF%BC%8B%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-%20%E3%82%BF%E3%82%AA%E3%83%AB%E7%A6%8F%E8%A2%8B%EF%BC%88%E3%82%B9%E3%83%AA%E3%83%A0%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%EF%BC%8B%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "【失敗】2026福袋買うが早速失敗するの巻笑",
+        "video_url": "https://www.youtube.com/watch?v=q17hkRHO6ic",
+        "context": "色が統一されたタオル福袋。グレーを選択。スリムバスタオルとフェイスタオル4枚のセット。年1回タオルを買い替えるルールで2026年用に購入",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月04日"
+      }
+    ]
+  },
+  {
+    "product_name": "ライトリフレクティング トーンアップベール",
+    "brand": "NARS",
+    "category": "化粧下地",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "底見えコスメ①：どんなファンデにも合わせやすく、しっとりしつつ重くならない。程よいトーンアップとカバー力で毎日使える下地として愛用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "アーキテクチャ ソフトマット プラーリング クッションファンデーション（カラー1.3）",
+    "brand": "トムフォード",
+    "category": "ファンデーション",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%97%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E3%82%AB%E3%83%A9%E3%83%BC1.3%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%97%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E3%82%AB%E3%83%A9%E3%83%BC1.3%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "底見えコスメ②：薄膜で塗った感が出ず、自分の肌が綺麗に見える仕上がり。崩れにくく春夏によく使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "コンシール ブレンダーパレット クリアカバー",
+    "brand": "ルナ（LUNA）",
+    "category": "コンシーラー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AB%E3%83%8A%EF%BC%88LUNA%EF%BC%89%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%90%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AB%E3%83%8A%EF%BC%88LUNA%EF%BC%89%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%90%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "底見えコスメ③：グリーン・ピンク・オレンジ・ベージュの色展開がちょうど良く、赤み・クマ・くすみをカバー。これに勝つコンシーラーがないと絶賛",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ライトリフレクティング セッティングパウダー プレストN（通常版）",
+    "brand": "NARS",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88N%EF%BC%88%E9%80%9A%E5%B8%B8%E7%89%88%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88N%EF%BC%88%E9%80%9A%E5%B8%B8%E7%89%88%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "底見えコスメ④：サラサラなのに粉っぽくならず、肌の質感を活かしてフィックスしてくれる殿堂入りパウダー",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ライトリフレクティング セッティングパウダー プレストN（限定マーブルタイプ）",
+    "brand": "NARS",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88N%EF%BC%88%E9%99%90%E5%AE%9A%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88N%EF%BC%88%E9%99%90%E5%AE%9A%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "底見えコスメ④：通常版よりツヤっぽく仕上がる限定パッケージ版。こちらも底見え",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ラ プードル（8番）",
+    "brand": "エレガンス",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%EF%BC%888%E7%95%AA%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%EF%BC%888%E7%95%AA%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "底見えコスメ⑤：透明感が出てフォアフォアのマット陶器肌に仕上がる。崩れにくくテカリも抑えてくれる",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ラ プードル（1番）",
+    "brand": "エレガンス",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%EF%BC%881%E7%95%AA%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%EF%BC%881%E7%95%AA%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "8番と併用していると言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ライトリフレクティング セッティングパウダー プレストN フォグ（ベージュカラー新色）",
+    "brand": "NARS",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88N%20%E3%83%95%E3%82%A9%E3%82%B0%EF%BC%88%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E8%89%B2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88N%20%E3%83%95%E3%82%A9%E3%82%B0%EF%BC%88%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E8%89%B2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "カバー力が欲しい方向けの新色として紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "トムフォード リキッドファンデーション",
+    "brand": "トムフォード",
+    "category": "ファンデーション",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%20%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%20%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【超超愛用】コスメを試しまくっている美容系による底見えコスメ10選！",
+        "video_url": "https://www.youtube.com/watch?v=Bhbem7gSCWk",
+        "context": "クッションよりコスパが良くツヤっぽい仕上がりとしておすすめに言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "スカイハイ",
+    "brand": "メイベリン (MAYBELLINE)",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%28MAYBELLINE%29%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%28MAYBELLINE%29%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「スカイハイドね、これ大好きなんだけど」と言及、ブラウン系カラーについて語る",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "ユーグモグレージュ（カラーマスカラ）",
+    "brand": "メイベリン (MAYBELLINE)",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%28MAYBELLINE%29%20%E3%83%A6%E3%83%BC%E3%82%B0%E3%83%A2%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%28MAYBELLINE%29%20%E3%83%A6%E3%83%BC%E3%82%B0%E3%83%A2%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ユーグモグレージュっていうすごい可愛いカラー」だが物足りなくてお手放しに",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "書き足しアイブロウ（3本分かれているタイプ）",
+    "brand": "フジコ (Fujiko)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%B8%E3%82%B3%20%28Fujiko%29%20%E6%9B%B8%E3%81%8D%E8%B6%B3%E3%81%97%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%EF%BC%883%E6%9C%AC%E5%88%86%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%B8%E3%82%B3%20%28Fujiko%29%20%E6%9B%B8%E3%81%8D%E8%B6%B3%E3%81%97%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%EF%BC%883%E6%9C%AC%E5%88%86%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「フジコの3本みたいな分かれてるやつ」毛のように描ける。色が明るかった",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイブロウペンシル（細いタイプ）",
+    "brand": "フジコ (Fujiko)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%B8%E3%82%B3%20%28Fujiko%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%EF%BC%88%E7%B4%B0%E3%81%84%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%B8%E3%82%B3%20%28Fujiko%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%EF%BC%88%E7%B4%B0%E3%81%84%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「フジコもやっぱすごい細くて好き」「アイブロウはやっぱフジコすごい好き」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイブロウペンシル（細いタイプ）",
+    "brand": "ユーピンク (U pink)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A6%E3%83%BC%E3%83%94%E3%83%B3%E3%82%AF%20%28U%20pink%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%EF%BC%88%E7%B4%B0%E3%81%84%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A6%E3%83%BC%E3%83%94%E3%83%B3%E3%82%AF%20%28U%20pink%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%EF%BC%88%E7%B4%B0%E3%81%84%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "柏木由紀プロデュース。ピンクの細いアイブロウ、涙袋にも使えてお気に入り、使い切った",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイブロウペンシル（細いタイプ）",
+    "brand": "ボビイ ブラウン (BOBBI BROWN)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%93%E3%82%A4%20%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%28BOBBI%20BROWN%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%EF%BC%88%E7%B4%B0%E3%81%84%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9C%E3%83%93%E3%82%A4%20%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%28BOBBI%20BROWN%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%EF%BC%88%E7%B4%B0%E3%81%84%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ボビーブラウンも大好きだし」と細いアイブロウとして言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "クリスマスコフレ（アイシャドウパレット）",
+    "brand": "アディクション (ADDICTION)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%28ADDICTION%29%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%88%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%28ADDICTION%29%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC%EF%BC%88%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「これはアディクションですね、クリスマスの時に出たのかな？」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイブロウペンシル",
+    "brand": "ビーアイドル (B IDOL)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%93%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%28B%20IDOL%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%93%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%28B%20IDOL%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "アカリンがコラボ。「細くて曲がっててすごい塗りやすくて」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "細いアイライナー / アイブロウペンシル",
+    "brand": "デジャヴ (dejavu)",
+    "category": "アイライナー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%20%28dejavu%29%20%E7%B4%B0%E3%81%84%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20/%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%20%28dejavu%29%20%E7%B4%B0%E3%81%84%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20/%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「デジャブの細いやつ」「この細いアイライナー大好き」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "カラーアイライナー",
+    "brand": "BBIA (ピアー)",
+    "category": "アイライナー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=BBIA%20%28%E3%83%94%E3%82%A2%E3%83%BC%29%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/BBIA%20%28%E3%83%94%E3%82%A2%E3%83%BC%29%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「BBIAって書いて…」カラーライナーとして紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "ノーズシャドウ",
+    "brand": "おぽんぴー (ミアイさんのブランド)",
+    "category": "シェーディング",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%81%BD%E3%82%93%E3%81%B4%E3%83%BC%20%28%E3%83%9F%E3%82%A2%E3%82%A4%E3%81%95%E3%82%93%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%29%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%81%BD%E3%82%93%E3%81%B4%E3%83%BC%20%28%E3%83%9F%E3%82%A2%E3%82%A4%E3%81%95%E3%82%93%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%29%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ノーズシャドウでね、ミアイさんおぽんぴーの」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "マスカラ（現在使用中）",
+    "brand": "ヒロインメイク",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%EF%BC%88%E7%8F%BE%E5%9C%A8%E4%BD%BF%E7%94%A8%E4%B8%AD%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%EF%BC%88%E7%8F%BE%E5%9C%A8%E4%BD%BF%E7%94%A8%E4%B8%AD%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「今はねキロインメイク（ヒロインメイク）を使ってます」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイシャドウパレット",
+    "brand": "ウェイクメイク (WAKEMAKE)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%28WAKEMAKE%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%28WAKEMAKE%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ウェイクメイクってすごい流行って…結構私引き継ぎって好き」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイシャドウパレット",
+    "brand": "ゲラン (GUERLAIN)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B2%E3%83%A9%E3%83%B3%20%28GUERLAIN%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B2%E3%83%A9%E3%83%B3%20%28GUERLAIN%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「これゲランだね、ゲランのマークついてる」ブラシ紛失エピソード",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイシャドウパレット",
+    "brand": "スック (SUQQU)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%83%E3%82%AF%20%28SUQQU%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%83%E3%82%AF%20%28SUQQU%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「これスックだな、このブラシはスックだよこの形状」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "限定パレット（クリスマス）",
+    "brand": "ボビイ ブラウン (BOBBI BROWN)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%93%E3%82%A4%20%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%28BOBBI%20BROWN%29%20%E9%99%90%E5%AE%9A%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9C%E3%83%93%E3%82%A4%20%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%28BOBBI%20BROWN%29%20%E9%99%90%E5%AE%9A%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ボビーブラウンの限定で出たこのパレット…過去一番好き」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "トースト（アイシャドウ単色）",
+    "brand": "ボビイ ブラウン (BOBBI BROWN)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%93%E3%82%A4%20%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%28BOBBI%20BROWN%29%20%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%88%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E5%8D%98%E8%89%B2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9C%E3%83%93%E3%82%A4%20%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%28BOBBI%20BROWN%29%20%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%88%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E5%8D%98%E8%89%B2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「大好きすぎて絶対にしてられない、ボビーブラウンのトースト」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイシャドウパレット",
+    "brand": "ローインビューティー (raw in beauty)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%20%28raw%20in%20beauty%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%20%28raw%20in%20beauty%29%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ローインビューティーも可愛いんだけど…秋っぽいこういうのすごい好き」",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "バックステージ アイパレット",
+    "brand": "ディオール (Dior)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%28Dior%29%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%28Dior%29%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ディオールのバックステージのこれも大好き」秋カラー、アイブロウにも使える",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "YSL アイシャドウパレット",
+    "brand": "イヴ・サンローラン (YSL)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%28YSL%29%20YSL%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%28YSL%29%20YSL%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「今度YSLのブラシが1個ないんだけど」パレット仕分け中に言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "K-パレット 3色アイブロウ",
+    "brand": "K-パレット",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=K-%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20K-%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%203%E8%89%B2%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20K-%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%203%E8%89%B2%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "SekineRisa",
+        "video_title": "コスメ大量仕分け大会しながら雑談の巻💄",
+        "video_url": "https://www.youtube.com/watch?v=PPVbsrMT0zM",
+        "context": "「ドンキかマツキョでKと3色を買った」大学時代の定番として言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年01月15日"
+      }
+    ]
+  },
+  {
+    "product_name": "トーンアップベース ラベンダー",
+    "brand": "ウォンジョンヨ",
+    "category": "化粧下地",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A9%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%A8%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A9%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%A8%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【2026年春コスメレビュー】春夏新作コスメ大量紹介🍡☀️プチプラコスメ&デパコス【THREE/カネボウ/YSL/ウォンジョンヨ/muice/ポール&ジョー】",
+        "video_url": "https://www.youtube.com/watch?v=tdhSDwTeTfg",
+        "context": "手持ち品としてメロンミントとの比較で言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月13日"
+      }
+    ]
+  },
+  {
+    "product_name": "スムースクレンジングバーム",
+    "brand": "パーフェクトワンフォーカス",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【次のクレンジング候補】試す価値あり！皮膚科医友利新が肌悩み別におすすめのクレンジングを3つ紹介します！",
+        "video_url": "https://www.youtube.com/watch?v=5c8j2NFwbHU",
+        "context": "毛穴の黒ずみ・角栓悩み向けクレンジングバームとして紹介。AHA・LHA・PHAの3つの酸で角質ケアし、角栓を作らせない肌へ導く",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブライトクレンジングオイル",
+    "brand": "シュウ ウエムラ",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B7%E3%83%A5%E3%82%A6%20%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%A5%E3%82%A6%20%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【次のクレンジング候補】試す価値あり！皮膚科医友利新が肌悩み別におすすめのクレンジングを3つ紹介します！",
+        "video_url": "https://www.youtube.com/watch?v=5c8j2NFwbHU",
+        "context": "肌の水分を守り抜くクレンジングオイルとして紹介。赤み・色ムラにアプローチし、摩擦レスでバリア機能を整える",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "クレンジングセラム ピール&ブースト",
+    "brand": "DUO",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=DUO%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%94%E3%83%BC%E3%83%AB%26%E3%83%96%E3%83%BC%E3%82%B9%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DUO%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%94%E3%83%BC%E3%83%AB%26%E3%83%96%E3%83%BC%E3%82%B9%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【次のクレンジング候補】試す価値あり！皮膚科医友利新が肌悩み別におすすめのクレンジングを3つ紹介します！",
+        "video_url": "https://www.youtube.com/watch?v=5c8j2NFwbHU",
+        "context": "導入美容液ライクなクレンジングバームとして紹介。マンデル酸・PHAによる守りのピーリングとリポソーム化ヒト型セラミドでブースター効果",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月05日"
+      }
+    ]
+  },
+  {
+    "product_name": "エリクシール ブライトニング 化粧水",
+    "brand": "エリクシール（資生堂）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E5%8C%96%E7%B2%A7%E6%B0%B4&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E5%8C%96%E7%B2%A7%E6%B0%B4/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【美白ケア一軍入り】資生堂がまたやらかした。デパコス級すぎる新作スキンケアを友利新が完全解説します！",
+        "video_url": "https://www.youtube.com/watch?v=z7C-dpqiAKo",
+        "context": "資生堂のボランティア商品として紹介。4MSKとトラネキサム酸のダブル美白成分配合、コラジェネシス配合、アルコールフリーにリニューアル。みずみずしい・しっとりの2タイプ展開",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月04日"
+      }
+    ]
+  },
+  {
+    "product_name": "エリクシール ブライトニング 乳液",
+    "brand": "エリクシール（資生堂）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E4%B9%B3%E6%B6%B2&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E4%B9%B3%E6%B6%B2/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【美白ケア一軍入り】資生堂がまたやらかした。デパコス級すぎる新作スキンケアを友利新が完全解説します！",
+        "video_url": "https://www.youtube.com/watch?v=z7C-dpqiAKo",
+        "context": "化粧水とセットで紹介。同じくダブル美白成分・コラジェネシス配合。さっぱり・しっとりの2タイプ展開",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月04日"
+      }
+    ]
+  },
+  {
+    "product_name": "イハダ 薬用潤いローション（化粧水）",
+    "brand": "IHADA（資生堂）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=IHADA%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A4%E3%83%8F%E3%83%80%20%E8%96%AC%E7%94%A8%E6%BD%A4%E3%81%84%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E5%8C%96%E7%B2%A7%E6%B0%B4%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/IHADA%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A4%E3%83%8F%E3%83%80%20%E8%96%AC%E7%94%A8%E6%BD%A4%E3%81%84%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E5%8C%96%E7%B2%A7%E6%B0%B4%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【美白ケア一軍入り】資生堂がまたやらかした。デパコス級すぎる新作スキンケアを友利新が完全解説します！",
+        "video_url": "https://www.youtube.com/watch?v=z7C-dpqiAKo",
+        "context": "デジタル疲労による角層の縮こまりにアプローチ。トレハロース・ワレモコエキスGL配合、高精製ワセリン・ダブル抗炎症成分（グリチルリチン酸ジカリウム・アラントイン）配合。しっとり・とてもしっとりの2タイプ展開",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月04日"
+      }
+    ]
+  },
+  {
+    "product_name": "イハダ 薬用潤いエマルジョン（乳液）",
+    "brand": "IHADA（資生堂）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=IHADA%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A4%E3%83%8F%E3%83%80%20%E8%96%AC%E7%94%A8%E6%BD%A4%E3%81%84%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%88%E4%B9%B3%E6%B6%B2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/IHADA%EF%BC%88%E8%B3%87%E7%94%9F%E5%A0%82%EF%BC%89%20%E3%82%A4%E3%83%8F%E3%83%80%20%E8%96%AC%E7%94%A8%E6%BD%A4%E3%81%84%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%88%E4%B9%B3%E6%B6%B2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【美白ケア一軍入り】資生堂がまたやらかした。デパコス級すぎる新作スキンケアを友利新が完全解説します！",
+        "video_url": "https://www.youtube.com/watch?v=z7C-dpqiAKo",
+        "context": "化粧水とセットで紹介。同様の成分コンセプト。1種類のみの展開",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月04日"
+      }
+    ]
+  },
+  {
+    "product_name": "薬用ABCGプレミアムクリームTA（プレミアムTAクリーム）",
+    "brand": "ドクターK",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BCK%20%E8%96%AC%E7%94%A8ABCG%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0TA%EF%BC%88%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0TA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BCK%20%E8%96%AC%E7%94%A8ABCG%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0TA%EF%BC%88%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0TA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【今年の美白】夏なのに乳液&クリームの新作が凄すぎる件。皮膚科医友利新が推す大活躍ケアアイテム",
+        "video_url": "https://www.youtube.com/watch?v=w9k7EU-IrBg",
+        "context": "ストレス老化・炎症老化に着目したトリプル薬用クリーム。トラネキサム酸・ナイアシンアミド・グリチルリチン酸ジカリウムの3種有効成分配合。7年ぶりリニューアルで旧価格17,000円から半額に。赤み・色ムラ・エイジングケアに推奨",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月06日"
+      },
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "トラネキサム酸メイン配合にリニューアル。ビタミンA・B・C配合で炎症を抑え赤み・くすみケア",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "ディープリペアクリームC",
+    "brand": "ドクター365",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC365%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AA%E3%83%9A%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0C&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC365%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AA%E3%83%9A%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0C/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【今年の美白】夏なのに乳液&クリームの新作が凄すぎる件。皮膚科医友利新が推す大活躍ケアアイテム",
+        "video_url": "https://www.youtube.com/watch?v=w9k7EU-IrBg",
+        "context": "毛穴悩み向けクリーム。老化細胞に着目し、エテルベルユースが老化細胞のみに選別作用。APPS含む3種ビタミンC誘導体配合でたるみ毛穴を予防",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "バランシングエッセンスミルク",
+    "brand": "N organic（エヌオーガニック）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=N%20organic%EF%BC%88%E3%82%A8%E3%83%8C%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%89%20%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/N%20organic%EF%BC%88%E3%82%A8%E3%83%8C%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%89%20%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【今年の美白】夏なのに乳液&クリームの新作が凄すぎる件。皮膚科医友利新が推す大活躍ケアアイテム",
+        "video_url": "https://www.youtube.com/watch?v=w9k7EU-IrBg",
+        "context": "複数の抗炎症成分（アカツボクサ・グリチルリチン酸ジカリウム・オウバクエキス）で揺るぎにくい肌に整える乳液。赤み・色ムラ・肌揺らぎが気になる方向け",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブライトバウンスミルク",
+    "brand": "DEW（デュー）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=DEW%EF%BC%88%E3%83%87%E3%83%A5%E3%83%BC%EF%BC%89%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DEW%EF%BC%88%E3%83%87%E3%83%A5%E3%83%BC%EF%BC%89%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【今年の美白】夏なのに乳液&クリームの新作が凄すぎる件。皮膚科医友利新が推す大活躍ケアアイテム",
+        "video_url": "https://www.youtube.com/watch?v=w9k7EU-IrBg",
+        "context": "ツヤ感・潤い感・美白効果に特化した乳液。美白有効成分カモミラET配合。コハク酸ジグリコールグアニジンで角層細胞をふっくらさせ「塗るレフ板」効果。カネボウのヒアルロン酸研究を活用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月06日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブライトニング エリクシール ローション（ボランティア エリクシール 化粧水）",
+    "brand": "ELIXIR（エリクシール）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=ELIXIR%EF%BC%88%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%EF%BC%89%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E5%8C%96%E7%B2%A7%E6%B0%B4%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ELIXIR%EF%BC%88%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%EF%BC%89%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E5%8C%96%E7%B2%A7%E6%B0%B4%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "4MSKとトラネキサム酸が一般向けで初めて同時配合された化粧水。速攻性を感じる使用感で赤み・トーンアップに愛用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "セラムエクラS（4MSK高濃度配合美容液）",
+    "brand": "クレ・ド・ポー ボーテ",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%AC%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%BC%20%E3%83%9C%E3%83%BC%E3%83%86%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%A8%E3%82%AF%E3%83%A9S%EF%BC%884MSK%E9%AB%98%E6%BF%83%E5%BA%A6%E9%85%8D%E5%90%88%E7%BE%8E%E5%AE%B9%E6%B6%B2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%AC%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%BC%20%E3%83%9C%E3%83%BC%E3%83%86%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%A8%E3%82%AF%E3%83%A9S%EF%BC%884MSK%E9%AB%98%E6%BF%83%E5%BA%A6%E9%85%8D%E5%90%88%E7%BE%8E%E5%AE%B9%E6%B6%B2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "4MSKが高濃度配合。エリクシールと併用し美白・毛穴ケアに使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "リペアコンセントレーション",
+    "brand": "ライース（RAIZ）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%82%A4%E3%83%BC%E3%82%B9%EF%BC%88RAIZ%EF%BC%89%20%E3%83%AA%E3%83%9A%E3%82%A2%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%82%A4%E3%83%BC%E3%82%B9%EF%BC%88RAIZ%EF%BC%89%20%E3%83%AA%E3%83%9A%E3%82%A2%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "ライスパワーNo.11とNo.7の2種配合の先行美容液。洗顔後すぐ使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "角層シンクロチューナー",
+    "brand": "SOFINA iP（ソフィーナ シンク）",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=SOFINA%20iP%EF%BC%88%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%82%B7%E3%83%B3%E3%82%AF%EF%BC%89%20%E8%A7%92%E5%B1%A4%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SOFINA%20iP%EF%BC%88%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%82%B7%E3%83%B3%E3%82%AF%EF%BC%89%20%E8%A7%92%E5%B1%A4%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "RNA技術搭載の先行美容液。C1/C2タイプがあり、朝使用。個包装で旅行にも便利",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "リプラスティ プレスティジ ボディクリーム",
+    "brand": "ヘレナ ルビンスタイン",
+    "category": "ボディケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%98%E3%83%AC%E3%83%8A%20%E3%83%AB%E3%83%93%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%20%E3%83%AA%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B8%20%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%98%E3%83%AC%E3%83%8A%20%E3%83%AB%E3%83%93%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%20%E3%83%AA%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B8%20%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "プロキシレン配合で肌を引き締め厚くする。リポカタリストプロで脂肪燃焼促進も",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイカラーレーション 18番",
+    "brand": "ルナソル（LUNASOL）",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%EF%BC%88LUNASOL%EF%BC%89%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2018%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%EF%BC%88LUNASOL%EF%BC%89%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2018%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "青みピンクやグレー系ブラウンを含む4色パレット。最近の出番が多いお気に入り",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "セッティングパウダー（新色ベージュ）",
+    "brand": "LIRFCO（リフコ）",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=LIRFCO%EF%BC%88%E3%83%AA%E3%83%95%E3%82%B3%EF%BC%89%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%88%E6%96%B0%E8%89%B2%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/LIRFCO%EF%BC%88%E3%83%AA%E3%83%95%E3%82%B3%EF%BC%89%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%88%E6%96%B0%E8%89%B2%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "肌をフラットに見せ、毛穴を光飛ばしで目立たなくする新色ベージュ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブラッシュN 903番",
+    "brand": "NARS（ナーズ）",
+    "category": "チーク",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5N%20903%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%EF%BC%88%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%89%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5N%20903%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "落ち着いたコーラルピンク。目の下にグラデーションで入れて色素をカバー",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "リップグロス 01番 リッチローズ",
+    "brand": "Her lip to（ハーリップトゥー）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Her%20lip%20to%EF%BC%88%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%E3%83%88%E3%82%A5%E3%83%BC%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B0%E3%83%AD%E3%82%B9%2001%E7%95%AA%20%E3%83%AA%E3%83%83%E3%83%81%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Her%20lip%20to%EF%BC%88%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%E3%83%88%E3%82%A5%E3%83%BC%EF%BC%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B0%E3%83%AD%E3%82%B9%2001%E7%95%AA%20%E3%83%AA%E3%83%83%E3%83%81%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "こじはるちゃんからいただいたグロス。ローズ系で赤みもありツヤ感が出る。ケア成分入り",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "デュイメルトリップカラー 12番",
+    "brand": "RMK",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=RMK%20%E3%83%87%E3%83%A5%E3%82%A4%E3%83%A1%E3%83%AB%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%2012%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/RMK%20%E3%83%87%E3%83%A5%E3%82%A4%E3%83%A1%E3%83%AB%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%2012%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "青みが入ったローズレッド。お出かけ時に愛用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "モイスチャー グレイズ リップスティック 109番",
+    "brand": "SUQQU（スック）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=SUQQU%EF%BC%88%E3%82%B9%E3%83%83%E3%82%AF%EF%BC%89%20%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20109%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SUQQU%EF%BC%88%E3%82%B9%E3%83%83%E3%82%AF%EF%BC%89%20%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20109%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "ナチュラルベージュピンク。診察時の白衣に合わせて愛用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "ババシャツ（ボートネックインナー）",
+    "brand": "ROSIER（ロジア）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=ROSIER%EF%BC%88%E3%83%AD%E3%82%B8%E3%82%A2%EF%BC%89%20%E3%83%90%E3%83%90%E3%82%B7%E3%83%A3%E3%83%84%EF%BC%88%E3%83%9C%E3%83%BC%E3%83%88%E3%83%8D%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ROSIER%EF%BC%88%E3%83%AD%E3%82%B8%E3%82%A2%EF%BC%89%20%E3%83%90%E3%83%90%E3%82%B7%E3%83%A3%E3%83%84%EF%BC%88%E3%83%9C%E3%83%BC%E3%83%88%E3%83%8D%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "こじはるちゃんの下着ブランド。ボートネックで首元が開いた服でも見えない。ドレス用別バージョンもあり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "もち麦満腹バー（16雑穀プラス／ごまじゃこ／おはぎ／焼きおにぎり／タイとホタテの出汁仕立て／キーマカレー）",
+    "brand": "夕飯味覚糖（UHA味覚糖）",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%95%E9%A3%AF%E5%91%B3%E8%A6%9A%E7%B3%96%EF%BC%88UHA%E5%91%B3%E8%A6%9A%E7%B3%96%EF%BC%89%20%E3%82%82%E3%81%A1%E9%BA%A6%E6%BA%80%E8%85%B9%E3%83%90%E3%83%BC%EF%BC%8816%E9%9B%91%E7%A9%80%E3%83%97%E3%83%A9%E3%82%B9%EF%BC%8F%E3%81%94%E3%81%BE%E3%81%98%E3%82%83%E3%81%93%EF%BC%8F%E3%81%8A%E3%81%AF%E3%81%8E%EF%BC%8F%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%EF%BC%8F%E3%82%BF%E3%82%A4%E3%81%A8%E3%83%9B%E3%82%BF%E3%83%86%E3%81%AE%E5%87%BA%E6%B1%81%E4%BB%95%E7%AB%8B%E3%81%A6%EF%BC%8F%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AC%E3%83%BC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%95%E9%A3%AF%E5%91%B3%E8%A6%9A%E7%B3%96%EF%BC%88UHA%E5%91%B3%E8%A6%9A%E7%B3%96%EF%BC%89%20%E3%82%82%E3%81%A1%E9%BA%A6%E6%BA%80%E8%85%B9%E3%83%90%E3%83%BC%EF%BC%8816%E9%9B%91%E7%A9%80%E3%83%97%E3%83%A9%E3%82%B9%EF%BC%8F%E3%81%94%E3%81%BE%E3%81%98%E3%82%83%E3%81%93%EF%BC%8F%E3%81%8A%E3%81%AF%E3%81%8E%EF%BC%8F%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%EF%BC%8F%E3%82%BF%E3%82%A4%E3%81%A8%E3%83%9B%E3%82%BF%E3%83%86%E3%81%AE%E5%87%BA%E6%B1%81%E4%BB%95%E7%AB%8B%E3%81%A6%EF%BC%8F%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AC%E3%83%BC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "ローソンで発見し箱買い。もち麦で食物繊維豊富、非常食にも。Amazonで箱買い",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "近沢レース（ピザモチーフハンカチ）",
+    "brand": "近沢レース店",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E8%BF%91%E6%B2%A2%E3%83%AC%E3%83%BC%E3%82%B9%E5%BA%97%20%E8%BF%91%E6%B2%A2%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%88%E3%83%94%E3%82%B6%E3%83%A2%E3%83%81%E3%83%BC%E3%83%95%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%BF%91%E6%B2%A2%E3%83%AC%E3%83%BC%E3%82%B9%E5%BA%97%20%E8%BF%91%E6%B2%A2%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%88%E3%83%94%E3%82%B6%E3%83%A2%E3%83%81%E3%83%BC%E3%83%95%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "友利新公式チャンネル(内科・皮膚科医)",
+        "video_title": "【2月愛用品】女医友利新が今、お気に入りのスキンケアから食べ物まで全部紹介します✨️",
+        "video_url": "https://www.youtube.com/watch?v=9A185PdV_0o",
+        "context": "毎月恒例の近沢レース紹介。今月はピザ柄",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年03月02日"
+      }
+    ]
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ（旧作）",
+    "brand": "Visée（ヴィセ）",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vis%C3%A9e%EF%BC%88%E3%83%B4%E3%82%A3%E3%82%BB%EF%BC%89%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vis%C3%A9e%EF%BC%88%E3%83%B4%E3%82%A3%E3%82%BB%EF%BC%89%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル前の旧作として新旧比較に使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2026年02月11日"
+      }
+    ]
+  },
+  {
+    "product_name": "ザ クレンジングオイル",
+    "brand": "オルビス (ORBIS)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%28ORBIS%29%20%E3%82%B6%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%28ORBIS%29%20%E3%82%B6%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "クレンジングオイル部門ベスコス。毛穴の奥まで入り込み角栓を溶かし込む。洗い上がりがつるっとして突っ張り感もない",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "スピーディマスカラリムーバー",
+    "brand": "ヒロインメイク",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%B9%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%AA%E3%83%A0%E3%83%BC%E3%83%90%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%B9%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%AA%E3%83%A0%E3%83%BC%E3%83%90%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "クレンジング前のポイントメイク落としとして繰り返しリピートしていると言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "レディトックス ジェルチューブ ウォータークレンザー",
+    "brand": "ラゴム (LAGOM)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%82%B4%E3%83%A0%20%28LAGOM%29%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B6%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%82%B4%E3%83%A0%20%28LAGOM%29%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B6%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "洗顔部門ベスコス。ジェル洗顔でマイルドな角質ケア成分入り、朝使うとメイクのりが良くなる",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "9番 NMN PDRN トリートメントトナー",
+    "brand": "ナンバーズイン (numbuzin)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%20%28numbuzin%29%209%E7%95%AA%20NMN%20PDRN%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%20%28numbuzin%29%209%E7%95%AA%20NMN%20PDRN%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%8A%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "化粧水部門①ベスコス。塗るだけでツヤツヤ肌になれる化粧水、セラミドパール配合、エイジングケアライン",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "グリーンティー セラミド ミルクエッセンス トナー",
+    "brand": "イニスフリー (innisfree)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%28innisfree%29%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%20%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%89%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%88%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%28innisfree%29%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%20%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%89%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%88%E3%83%8A%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "化粧水部門②ベスコス。乾燥肌向け高保湿化粧水、バリア機能強化、160ml",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "バリアダーム リンガーアンプル",
+    "brand": "スキンアンドラブ (SKIN&LAB)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9%E3%83%96%20%28SKIN%26LAB%29%20%E3%83%90%E3%83%AA%E3%82%A2%E3%83%80%E3%83%BC%E3%83%A0%20%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9%E3%83%96%20%28SKIN%26LAB%29%20%E3%83%90%E3%83%AA%E3%82%A2%E3%83%80%E3%83%BC%E3%83%A0%20%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "水分チャージ美容液部門ベスコス。バリアケアと水分チャージ、メイク前にも使いやすい",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "グルタチオンソームセラム",
+    "brand": "アビブ (Abib)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%93%E3%83%96%20%28Abib%29%20%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%93%E3%83%96%20%28Abib%29%20%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%A9%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "くすみケア美容液部門ベスコス。グルタチオンカプセル処方、ナイアシンアミド5%＋ビタミンC5%配合",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "ザ アルファアルブチンⅡ ニキビアトケアセラム",
+    "brand": "COSRX",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=COSRX%20%E3%82%B6%20%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A2%E3%83%AB%E3%83%96%E3%83%81%E3%83%B3%E2%85%A1%20%E3%83%8B%E3%82%AD%E3%83%93%E3%82%A2%E3%83%88%E3%82%B1%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/COSRX%20%E3%82%B6%20%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A2%E3%83%AB%E3%83%96%E3%83%81%E3%83%B3%E2%85%A1%20%E3%83%8B%E3%82%AD%E3%83%93%E3%82%A2%E3%83%88%E3%82%B1%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "シミ跡ケア美白美容液部門ベスコス。アルファアルブチン・トラネキサム酸・グルタチオンなど美白成分てんこ盛り、50ml",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "マデカフサシド",
+    "brand": "メディヒール (MEDIHEAL)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%83%87%E3%82%A3%E3%83%92%E3%83%BC%E3%83%AB%20%28MEDIHEAL%29%20%E3%83%9E%E3%83%87%E3%82%AB%E3%83%95%E3%82%B5%E3%82%B7%E3%83%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%83%87%E3%82%A3%E3%83%92%E3%83%BC%E3%83%AB%20%28MEDIHEAL%29%20%E3%83%9E%E3%83%87%E3%82%AB%E3%83%95%E3%82%B5%E3%82%B7%E3%83%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "ニキビ鎮静美容液部門ベスコス。鎮静・アトケア・バリアケアが1本でできる、オリヤンで常にランキング上位",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "スキンバリア カーミングローション",
+    "brand": "オングリディエンツ (Ongredients)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%83%84%20%28Ongredients%29%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%90%E3%83%AA%E3%82%A2%20%E3%82%AB%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%83%84%20%28Ongredients%29%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%90%E3%83%AA%E3%82%A2%20%E3%82%AB%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "乳液部門ベスコス。韓国ヘアメイクさん推し、朝のメイク前に使うとベースメイクのりが良くなる",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "マデカクリーム タイムリバース",
+    "brand": "センテリアン24 (Centellian24)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%83%B324%20%28Centellian24%29%20%E3%83%9E%E3%83%87%E3%82%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%83%B324%20%28Centellian24%29%20%E3%83%9E%E3%83%87%E3%82%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】本気で選んだ優秀プチプラスキンケア👑“毛穴•美白•保湿”肌に効いたのはこれだ‼️",
+        "video_url": "https://www.youtube.com/watch?v=zMbRa6zPg0g",
+        "context": "クリーム部門①ベスコス。保湿・ハリ・毛穴・弾力・鎮静をトータルケア、エイジングケアにもおすすめ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月19日"
+      }
+    ]
+  },
+  {
+    "product_name": "エッセンシャルブラッシュタップ",
+    "brand": "エッセンシャル",
+    "category": "チーク",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%97&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%97/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】多幸感溢れる顔を作る💐厳選した下半期“買ってよかった”名品コスメ発表👑",
+        "video_url": "https://www.youtube.com/watch?v=JAZaczkdBLg",
+        "context": "M102番使用。上品なツヤとほんのり発色のパウダーチーク。毛穴が目立ちにくい",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月12日"
+      }
+    ]
+  },
+  {
+    "product_name": "ピカソ 712番 ブラシ",
+    "brand": "ピカソ",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%94%E3%82%AB%E3%82%BD%20%E3%83%94%E3%82%AB%E3%82%BD%20712%E7%95%AA%20%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%AB%E3%82%BD%20%E3%83%94%E3%82%AB%E3%82%BD%20712%E7%95%AA%20%E3%83%96%E3%83%A9%E3%82%B7/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】多幸感溢れる顔を作る💐厳選した下半期“買ってよかった”名品コスメ発表👑",
+        "video_url": "https://www.youtube.com/watch?v=JAZaczkdBLg",
+        "context": "コンシーラー用フラットブラシとして紹介。涙袋作りにもおすすめ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月12日"
+      }
+    ]
+  },
+  {
+    "product_name": "ブリリアージュ チークブラシ",
+    "brand": "ブリリアージュ",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B7/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】多幸感溢れる顔を作る💐厳選した下半期“買ってよかった”名品コスメ発表👑",
+        "video_url": "https://www.youtube.com/watch?v=JAZaczkdBLg",
+        "context": "クリームチークの密着を高めるブラシ。母が使っていたのをきっかけに購入",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年12月12日"
+      }
+    ]
+  },
+  {
+    "product_name": "デーケアレボリューション トーンアップ SP+ aa（クリアタイプ）",
+    "brand": "エリクシール (ELIXIR)",
+    "category": "UVケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%28ELIXIR%29%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20SP%2B%20aa%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%28ELIXIR%29%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20SP%2B%20aa%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "時短におすすめUVとして紹介。トラネキサム酸配合・SPF50+ PA++++のオールインワン日焼け止め",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ライトリフレクティングファンデーション（02164番）",
+    "brand": "NARS",
+    "category": "ファンデーション",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%8802164%E7%95%AA%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%8802164%E7%95%AA%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "カバー力が高くスパチュラブラシと合わせて毛穴カバーに使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "コンシーラー（ルナ）",
+    "brand": "LUNA",
+    "category": "コンシーラー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=LUNA%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%EF%BC%88%E3%83%AB%E3%83%8A%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/LUNA%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%EF%BC%88%E3%83%AB%E3%83%8A%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "ニキビ・クマ隠しに使用。ファンデが明るめの肌色にぴったりと紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "シームレスカバーパウダー 02番",
+    "brand": "セザンヌ (CEZANNE)",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%90%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2002%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%90%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2002%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "ドラッグストアで買えるプチプラパウダー。皮脂崩れ防止＆乾燥対策、ラベンダー色味でくすみ飛ばし",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ニードルブロウ ストーングレイ",
+    "brand": "シュウ ウエムラ (shu uemura)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B7%E3%83%A5%E3%82%A6%20%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%28shu%20uemura%29%20%E3%83%8B%E3%83%BC%E3%83%89%E3%83%AB%E3%83%96%E3%83%AD%E3%82%A6%20%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%A5%E3%82%A6%20%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%28shu%20uemura%29%20%E3%83%8B%E3%83%BC%E3%83%89%E3%83%AB%E3%83%96%E3%83%AD%E3%82%A6%20%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "新作極細繰り出し式アイブロウペンシル。ギフティングでもらった商品",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "アイブロウマスカラ 08番 ムーングレー",
+    "brand": "ロムアンド (rom&nd)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%28rom%26nd%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2008%E7%95%AA%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%28rom%26nd%29%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2008%E7%95%AA%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "髪色を暗くした時に使うアイブロウマスカラ。店頭限定色",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "マイフェイブムードアイパレット オールモストグレープ",
+    "brand": "ホリカホリカ (HOLIKA HOLIKA)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9B%E3%83%AA%E3%82%AB%E3%83%9B%E3%83%AA%E3%82%AB%20%28HOLIKA%20HOLIKA%29%20%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A7%E3%82%A4%E3%83%96%E3%83%A0%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%A2%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9B%E3%83%AA%E3%82%AB%E3%83%9B%E3%83%AA%E3%82%AB%20%28HOLIKA%20HOLIKA%29%20%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A7%E3%82%A4%E3%83%96%E3%83%A0%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%A2%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "アイメイクのメインカラーとして使用。ベージュラベンダー系のナチュラルな仕上がり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "プランプクリッププルーナー 03番",
+    "brand": "キャンメイク (CANMAKE)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%83%97%E3%83%A9%E3%83%B3%E3%83%97%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%AB%E3%83%BC%E3%83%8A%E3%83%BC%2003%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%83%97%E3%83%A9%E3%83%B3%E3%83%97%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%AB%E3%83%BC%E3%83%8A%E3%83%BC%2003%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "下まぶた・涙袋メイクに使用。ぷっくり見せる効果",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "カクシカバーゾーンコンシーラー 02番 なじみピンク",
+    "brand": "セザンヌ (CEZANNE)",
+    "category": "コンシーラー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E3%82%AB%E3%82%AF%E3%82%B7%E3%82%AB%E3%83%90%E3%83%BC%E3%82%BE%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2002%E7%95%AA%20%E3%81%AA%E3%81%98%E3%81%BF%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E3%82%AB%E3%82%AF%E3%82%B7%E3%82%AB%E3%83%90%E3%83%BC%E3%82%BE%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2002%E7%95%AA%20%E3%81%AA%E3%81%98%E3%81%BF%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "目元の赤み消し・涙袋コンシーラーとして新しく購入して紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ラスティンファインE 極細ペンシル ダークブラウン",
+    "brand": "デジャヴュ (dejavu)",
+    "category": "アイライナー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%E3%83%A5%20%28dejavu%29%20%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3E%20%E6%A5%B5%E7%B4%B0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%20%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%E3%83%A5%20%28dejavu%29%20%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3E%20%E6%A5%B5%E7%B4%B0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%20%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "韓国メイクさんのテクニック参考にペンシルアイラインとして使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "カールキープマジック（マスカラ下地）",
+    "brand": "エチュード (ETUDE)",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%28ETUDE%29%20%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%97%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%EF%BC%88%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%E4%B8%8B%E5%9C%B0%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%28ETUDE%29%20%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%97%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%EF%BC%88%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%E4%B8%8B%E5%9C%B0%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "カールキープ抜群のマスカラ下地。繊維入りでまつ毛を濃く見せる",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "カールフィックスマスカラ ボリュームブラック",
+    "brand": "エチュード (ETUDE)",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%28ETUDE%29%20%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%28ETUDE%29%20%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "まつ毛を濃く見せるマスカラとして使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ラベンダーチーク（新作）",
+    "brand": "不明のため除外",
+    "category": "-",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%8D%E6%98%8E%E3%81%AE%E3%81%9F%E3%82%81%E9%99%A4%E5%A4%96%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%EF%BC%88%E6%96%B0%E4%BD%9C%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%8D%E6%98%8E%E3%81%AE%E3%81%9F%E3%82%81%E9%99%A4%E5%A4%96%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%EF%BC%88%E6%96%B0%E4%BD%9C%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "-",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "新作ハイライト",
+    "brand": "キャンメイク (CANMAKE)",
+    "category": "ハイライター",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E6%96%B0%E4%BD%9C%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E6%96%B0%E4%BD%9C%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "概要欄で「キャンメイクの新作ハイライト良き」と言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "新作リップ",
+    "brand": "LAKA",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=LAKA%20%E6%96%B0%E4%BD%9C%E3%83%AA%E3%83%83%E3%83%97&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/LAKA%20%E6%96%B0%E4%BD%9C%E3%83%AA%E3%83%83%E3%83%97/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "概要欄で「激推しのLAKAの新作リップ」と言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年07月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "クイックラッシュカーラー",
+    "brand": "キャンメイク (CANMAKE)",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "湿気に負けないマスカラ下地として紹介。カール特化でキープ力が最強と評価",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "耐久カールマスカラ 01 ブラック",
+    "brand": "セザンヌ (CEZANNE)",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E8%80%90%E4%B9%85%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2001%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E8%80%90%E4%B9%85%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2001%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "1本でカールキープできるマスカラとして紹介。繊維入りでロング効果あり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "スムースコンディショニングウォーター",
+    "brand": "メルト (meルt)",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%83%AB%E3%83%88%20%28me%E3%83%ABt%29%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%83%AB%E3%83%88%20%28me%E3%83%ABt%29%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "髪の化粧水。ドライヤー時間を短縮するアウトバストリートメントとして紹介（パープル・うねりケアシリーズ）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "ウォーターインマトメイク ヘアスティック パープル",
+    "brand": "ウリウス",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A6%E3%83%AA%E3%82%A6%E3%82%B9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%88%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%98%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%83%AA%E3%82%A6%E3%82%B9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%88%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%98%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "前髪キープ・アホ毛対策・まとめ髪用スティック。紫外線対策効果もあり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "パーフェクトビューティ ドライシャンプー（クールタイプ）",
+    "brand": "ダイアン (Diane)",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3%20%28Diane%29%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%EF%BC%88%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3%20%28Diane%29%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%EF%BC%88%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "ベタベタ髪対策のドライシャンプー。クールタイプでミントの香り",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "パーフェクトビューティ ドライシャンプー（フレッシュシトラスペアの香り）",
+    "brand": "ダイアン (Diane)",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3%20%28Diane%29%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%EF%BC%88%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%88%E3%83%A9%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E9%A6%99%E3%82%8A%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3%20%28Diane%29%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%EF%BC%88%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%88%E3%83%A9%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E9%A6%99%E3%82%8A%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "定番のドライシャンプーとして言及",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "拭いた瞬間 肌温度-3℃ 冷シート ももせっけんの香り",
+    "brand": "ビオレ (Bioré)",
+    "category": "ボディケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%93%E3%82%AA%E3%83%AC%20%28Bior%C3%A9%29%20%E6%8B%AD%E3%81%84%E3%81%9F%E7%9E%AC%E9%96%93%20%E8%82%8C%E6%B8%A9%E5%BA%A6-3%E2%84%83%20%E5%86%B7%E3%82%B7%E3%83%BC%E3%83%88%20%E3%82%82%E3%82%82%E3%81%9B%E3%81%A3%E3%81%91%E3%82%93%E3%81%AE%E9%A6%99%E3%82%8A&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%93%E3%82%AA%E3%83%AC%20%28Bior%C3%A9%29%20%E6%8B%AD%E3%81%84%E3%81%9F%E7%9E%AC%E9%96%93%20%E8%82%8C%E6%B8%A9%E5%BA%A6-3%E2%84%83%20%E5%86%B7%E3%82%B7%E3%83%BC%E3%83%88%20%E3%82%82%E3%82%82%E3%81%9B%E3%81%A3%E3%81%91%E3%82%93%E3%81%AE%E9%A6%99%E3%82%8A/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "暑さを吹っ飛ばすボディシートとして紹介。大判シートで冷却効果が高い。20枚入り",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "シームレスカバーパウダー 02 メロンルーセント",
+    "brand": "セザンヌ (CEZANNE)",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%90%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2002%20%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%28CEZANNE%29%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%90%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2002%20%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "1000円以下で粉質が優秀なパウダー。皮脂崩れ防止＆毛穴カバー。内蓋付き",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "マシュマロフィニッシュパウダー ミニ (MI)",
+    "brand": "キャンメイク (CANMAKE)",
+    "category": "フェイスパウダー",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%9F%E3%83%8B%20%28MI%29&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%9F%E3%83%8B%20%28MI%29/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "お直し用ミニサイズ。SPF50 PA++++でUVカット効果付き。カバー力もあり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "ビオレUV アクアリッチ ウォータリーエッセンス",
+    "brand": "ビオレ (Bioré)",
+    "category": "UVケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%93%E3%82%AA%E3%83%AC%20%28Bior%C3%A9%29%20%E3%83%93%E3%82%AA%E3%83%ACUV%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%83%E3%83%81%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%93%E3%82%AA%E3%83%AC%20%28Bior%C3%A9%29%20%E3%83%93%E3%82%AA%E3%83%ACUV%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%83%E3%83%81%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "絶対焼きたくない女の使う日焼け止めとして紹介（推定）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "マシュマロフィニッシュパウダー（通常サイズ）",
+    "brand": "キャンメイク (CANMAKE)",
+    "category": "UVケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%88%E9%80%9A%E5%B8%B8%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%28CANMAKE%29%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%88%E9%80%9A%E5%B8%B8%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "UV効果（SPF50 PA++++）があることを改めて紹介",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "ルルルン フェイスマスク",
+    "brand": "ルルルン (LuLuLun)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%20%28LuLuLun%29%20%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%20%28LuLuLun%29%20%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "紫外線浴びた日の夜パックとして紹介（推定）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "ニベア プレミアムボディミルク（美白ケア）",
+    "brand": "ニベア (NIVEA)",
+    "category": "ボディケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%8B%E3%83%99%E3%82%A2%20%28NIVEA%29%20%E3%83%8B%E3%83%99%E3%82%A2%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%82%AF%EF%BC%88%E7%BE%8E%E7%99%BD%E3%82%B1%E3%82%A2%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%8B%E3%83%99%E3%82%A2%20%28NIVEA%29%20%E3%83%8B%E3%83%99%E3%82%A2%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%82%AF%EF%BC%88%E7%BE%8E%E7%99%BD%E3%82%B1%E3%82%A2%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2000円以下‼️】この夏☀️ドラッグストアで買うべきアイテム12選🍉🌻【プチプラ｜ドラコス】",
+        "video_url": "https://www.youtube.com/watch?v=Xvgxy2bAUAg",
+        "context": "浴びるように使っているボディの美白ケアとして紹介（推定）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月28日"
+      }
+    ]
+  },
+  {
+    "product_name": "ザ・ブラックデイクリーム",
+    "brand": "FASS(ファース)",
+    "category": "UVケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=FASS%28%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%29%20%E3%82%B6%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%87%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FASS%28%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%29%20%E3%82%B6%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%87%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "使い心地良すぎな日焼け止めとして紹介。ツヤっとふっくらした肌を作り、キシミ感がなく美容液成分たっぷり",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "プリズムリーブル スキンケアリング コレクター（ピンク）",
+    "brand": "ジバンシー",
+    "category": "化粧下地",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%83%BC%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%94%E3%83%B3%E3%82%AF%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%83%BC%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%94%E3%83%B3%E3%82%AF%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "くすみ飛ばし・血色感アップの下地。クマや口周りのくすみに仕込んで使用",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "プリズムリーブル スキンケアリング コレクター（ラベンダー）",
+    "brand": "ジバンシー",
+    "category": "化粧下地",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%83%BC%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%83%BC%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "くすみ飛ばし・透明感アップの下地。頬に乗せて透明感を出す使い方",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ライトリフレクティング セラムクッションファンデーション（03789番）",
+    "brand": "NARS(ナーズ)",
+    "category": "ファンデーション",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%28%E3%83%8A%E3%83%BC%E3%82%BA%29%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%8803789%E7%95%AA%EF%BC%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%28%E3%83%8A%E3%83%BC%E3%82%BA%29%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%8803789%E7%95%AA%EF%BC%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "崩れにも強い美容液クッションファンデ。カバー力があり上品なセミツヤ肌に仕上がる",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "スーパースリムアイブロウ 08番 ビターグレージュ",
+    "brand": "セザンヌ",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%A0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%2008%E7%95%AA%20%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%A0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%2008%E7%95%AA%20%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "超細芯で眉毛一本一本描き足せる。安くて色持ちも良いリピートアイテム",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "フィクシーブロウカラー 03番",
+    "brand": "ラカ(LAKA)",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%82%AB%28LAKA%29%20%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9%E3%83%BC%2003%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%82%AB%28LAKA%29%20%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9%E3%83%BC%2003%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "極細ブラシで塗りやすく、毛流れを整えながらピタッと固まる眉マスカラ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "マイフェイブムードアイパレット オールモストグレープ",
+    "brand": "ホリカホリカ",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9B%E3%83%AA%E3%82%AB%E3%83%9B%E3%83%AA%E3%82%AB%20%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A7%E3%82%A4%E3%83%96%E3%83%A0%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%A2%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9B%E3%83%AA%E3%82%AB%E3%83%9B%E3%83%AA%E3%82%AB%20%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A7%E3%82%A4%E3%83%96%E3%83%A0%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%A2%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "ブルベ優勝パレット。捨て色なし、韓国アイドルのヘアメイクさんも推し。発色が良く万能",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "フロッタージュペンシル 14番 ピーチブルーブ",
+    "brand": "トゥークールフォースクール",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20%E3%83%95%E3%83%AD%E3%83%83%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%2014%E7%95%AA%20%E3%83%94%E3%83%BC%E3%83%81%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20%E3%83%95%E3%83%AD%E3%83%83%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%2014%E7%95%AA%20%E3%83%94%E3%83%BC%E3%83%81%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "涙袋アイテム。ベージュピーチの絶妙カラーでぷっくり涙袋が作れるペンシル",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "クイックラッシュカーラー",
+    "brand": "キャンメイク",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "カール特化のマスカラ下地。湿気の多い日もカールキープ、ホットビューラーとの相性も◎",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "ロングマスカラ",
+    "brand": "キングダム",
+    "category": "マスカラ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "ウォータープルーフでカール力最強。特殊コームで束まつ毛が作れるデイリーマスカラ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "コンチュアスティック クール",
+    "brand": "エチュード",
+    "category": "シェーディング",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%E3%82%B3%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%82%AF%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%E3%82%B3%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%82%AF%E3%83%BC%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "グレートーンの自然な影を仕込めるスティックシェーディング。ノーズシャドウに特におすすめ",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
+      }
+    ]
+  },
+  {
+    "product_name": "眉マスカラ 08番",
+    "brand": "ロムアンド",
+    "category": "アイブロウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E7%9C%89%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2008%E7%95%AA&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E7%9C%89%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2008%E7%95%AA/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025上半期ベストコスメ👑】厳選した絶対的信頼コスメ🔥【デパコス｜プチプラ｜韓国コスメ】",
+        "video_url": "https://www.youtube.com/watch?v=dmhk0O2tY6s",
+        "context": "暗い髪色時に使用していた眉マスカラとして言及（ラカとの比較対象）",
+        "accumulated_at": "2026-03-26",
+        "published_at": "2025年06月20日"
       }
     ]
   }
