@@ -52,6 +52,7 @@ export default function RootLayout({
             </a>
             <nav className="flex gap-4 text-sm text-gray-600">
               <a href="/products" className="hover:text-pink-500">商品一覧</a>
+              <a href="/concerns" className="hover:text-pink-500">悩み別</a>
               <a href="/videos" className="hover:text-pink-500">動画一覧</a>
               <a href="/creators" className="hover:text-pink-500">YouTuber</a>
             </nav>
