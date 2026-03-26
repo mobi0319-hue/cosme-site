@@ -238,6 +238,14 @@ export function getCreatorBySlug(slug: string): Creator | null {
   return getCreators().find(c => slugifyCreator(c.name) === slug) ?? null
 }
 
+// 関連商品（同カテゴリ・mention_count降順・自分を除く上位4件）
+export function getRelatedProducts(product: Product): Product[] {
+  return getProducts()
+    .filter(p => p.genre === 'cosme' && p.category === product.category && slugifyProduct(p) !== slugifyProduct(product))
+    .sort((a, b) => b.mention_count - a.mention_count)
+    .slice(0, 4)
+}
+
 // カテゴリ一覧（正規順で返す）
 export function getCategories(): string[] {
   const products = getProducts().filter(p => p.genre === 'cosme')
