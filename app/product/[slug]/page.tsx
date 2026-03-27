@@ -136,18 +136,18 @@ export default async function ProductPage({
           <p className="text-lg font-bold text-gray-800 mb-4">参考価格：{product.price}</p>
         )}
 
-        {/* 購入ボタン（上部） — Amazon優先 */}
+        {/* 購入ボタン（上部） — Amazon・楽天均等 */}
         <div className="flex flex-col sm:flex-row gap-3">
           {product.amazon_url && (
             <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
               className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
-              🛒 Amazonで価格をチェック
+              🛒 Amazonで見る
             </a>
           )}
           {product.rakuten_url && (
             <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm">
-              楽天で見る
+              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
+              🛒 楽天で見る
             </a>
           )}
         </div>
@@ -249,13 +249,13 @@ export default async function ProductPage({
           {product.amazon_url && (
             <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
               className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
-              🛒 Amazonで価格をチェック
+              🛒 Amazonで見る
             </a>
           )}
           {product.rakuten_url && (
             <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm">
-              楽天で見る
+              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
+              🛒 楽天で見る
             </a>
           )}
         </div>
@@ -265,17 +265,27 @@ export default async function ProductPage({
       </div>
 
       {/* モバイル スティッキー購入ボタン用の余白 */}
-      {product.amazon_url && (
+      {(product.amazon_url || product.rakuten_url) && (
         <div className="h-16 sm:hidden" />
       )}
 
       {/* モバイル スティッキー購入ボタン（画面下部に固定表示） */}
-      {product.amazon_url && (
+      {(product.amazon_url || product.rakuten_url) && (
         <div className="fixed bottom-0 left-0 right-0 z-50 sm:hidden bg-white border-t border-gray-200 px-4 py-3 shadow-lg">
-          <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-            className="block w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm">
-            🛒 Amazonで価格をチェック
-          </a>
+          <div className="flex gap-2">
+            {product.amazon_url && (
+              <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+                className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm">
+                🛒 Amazon
+              </a>
+            )}
+            {product.rakuten_url && (
+              <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+                className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm">
+                🛒 楽天
+              </a>
+            )}
+          </div>
         </div>
       )}
 
