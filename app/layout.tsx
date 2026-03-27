@@ -1,26 +1,35 @@
 import type { Metadata } from "next";
+import { getProducts } from "@/lib/data";
 import "./globals.css";
 
-export const metadata: Metadata = {
-  title: "コスメまとめ | YouTuberが紹介した商品を一覧で確認",
-  description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できます。",
-  verification: {
-    google: "Ta7jjAJLlLrutcIayAWYc_NBz3PClBlqT1ihAEC8T5c",
-  },
-  openGraph: {
-    title: "コスメまとめ | YouTuberが紹介した商品を一覧で確認",
-    description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できます。",
-    url: "https://cosme-site.vercel.app",
-    siteName: "コスメまとめ",
-    locale: "ja_JP",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "コスメまとめ | YouTuberが紹介した商品を一覧で確認",
-    description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できます。",
-  },
-};
+export function generateMetadata(): Metadata {
+  const productCount = getProducts().length
+  // 100の位で切り捨てて「○○以上」の表現にする
+  const roundedCount = Math.floor(productCount / 100) * 100
+  const title = `YouTuber紹介コスメ${roundedCount}商品以上 | Amazon・楽天リンク付き`
+  const description = `人気YouTuberが動画で紹介したコスメ・スキンケア${roundedCount}商品以上を掲載。Amazon・楽天の購入リンク付きで、気になる商品をすぐチェックできます。`
+
+  return {
+    title,
+    description,
+    verification: {
+      google: "Ta7jjAJLlLrutcIayAWYc_NBz3PClBlqT1ihAEC8T5c",
+    },
+    openGraph: {
+      title,
+      description,
+      url: "https://cosme-site.vercel.app",
+      siteName: "コスメまとめ",
+      locale: "ja_JP",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
+  }
+}
 
 export default function RootLayout({
   children,

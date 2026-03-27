@@ -209,6 +209,21 @@ export default async function ProductPage({
         </p>
       </div>
 
+      {/* モバイル スティッキー購入ボタン用の余白 */}
+      {product.amazon_url && (
+        <div className="h-16 sm:hidden" />
+      )}
+
+      {/* モバイル スティッキー購入ボタン（画面下部に固定表示） */}
+      {product.amazon_url && (
+        <div className="fixed bottom-0 left-0 right-0 z-50 sm:hidden bg-white border-t border-gray-200 px-4 py-3 shadow-lg">
+          <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+            className="block w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm">
+            Amazonで購入する
+          </a>
+        </div>
+      )}
+
     </div>
   )
 }
