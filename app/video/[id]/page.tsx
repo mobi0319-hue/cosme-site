@@ -153,6 +153,16 @@ export default async function VideoPage({
 
                 {/* 購入ボタン（各商品行に配置） */}
                 <div className="flex gap-2 flex-wrap">
+                  {product.amazon_url && (
+                    <a
+                      href={product.amazon_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 px-4 py-2 rounded-full font-bold transition-colors shadow-sm"
+                    >
+                      🛒 Amazon価格チェック
+                    </a>
+                  )}
                   {product.rakuten_url && (
                     <a
                       href={product.rakuten_url}
@@ -160,17 +170,7 @@ export default async function VideoPage({
                       rel="noopener noreferrer"
                       className="text-xs bg-red-500 hover:bg-red-600 text-white px-3 py-1.5 rounded-full font-bold transition-colors"
                     >
-                      楽天で見る
-                    </a>
-                  )}
-                  {product.amazon_url && (
-                    <a
-                      href={product.amazon_url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 px-3 py-1.5 rounded-full font-bold transition-colors"
-                    >
-                      Amazonで見る
+                      楽天
                     </a>
                   )}
                   <a

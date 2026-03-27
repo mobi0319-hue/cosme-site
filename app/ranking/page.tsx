@@ -151,8 +151,8 @@ export default function RankingPage() {
                 <div className="flex gap-2 mt-3 ml-[52px]">
                   {product.amazon_url && (
                     <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-                      className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-4 py-1.5 rounded-lg transition-colors">
-                      Amazonで見る
+                      className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-4 py-2 rounded-lg transition-colors shadow-sm">
+                      🛒 Amazon価格チェック
                     </a>
                   )}
                   {product.rakuten_url && (
@@ -215,8 +215,8 @@ export default function RankingPage() {
                   <div className="flex gap-2 mt-3 ml-11">
                     {product.amazon_url && (
                       <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-                        className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1 rounded-lg transition-colors">
-                        Amazon
+                        className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
+                        🛒 Amazon
                       </a>
                     )}
                     {product.rakuten_url && (

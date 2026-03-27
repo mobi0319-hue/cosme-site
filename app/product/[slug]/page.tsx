@@ -21,7 +21,7 @@ export async function generateMetadata({
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
   return {
     title: `${product.brand} ${product.product_name} | ${youtuberCount}人のYouTuberが紹介`,
-    description: `${product.brand}の${product.product_name}を${youtuberCount}人のYouTuberが紹介。実際の口コミ・使用感・価格・購入リンクをまとめました。`,
+    description: `${product.brand} ${product.product_name}の口コミ・評判を${youtuberCount}人のYouTuberが解説。Amazon・楽天で最安値チェック。送料無料で今すぐ購入。`,
     openGraph: {
       title: `${product.brand} ${product.product_name} | YouTuber紹介コスメまとめ`,
       description: `${product.brand}の${product.product_name}を紹介しているYouTuber動画まとめ。口コミ・価格・購入リンクを確認できます。`,
@@ -136,18 +136,18 @@ export default async function ProductPage({
           <p className="text-lg font-bold text-gray-800 mb-4">参考価格：{product.price}</p>
         )}
 
-        {/* 購入ボタン（上部） */}
+        {/* 購入ボタン（上部） — Amazon優先 */}
         <div className="flex flex-col sm:flex-row gap-3">
-          {product.rakuten_url && (
-            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors">
-              楽天で見る
-            </a>
-          )}
           {product.amazon_url && (
             <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-              className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors">
-              Amazonで見る
+              className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
+              🛒 Amazonで価格をチェック
+            </a>
+          )}
+          {product.rakuten_url && (
+            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm">
+              楽天で見る
             </a>
           )}
         </div>
@@ -246,16 +246,16 @@ export default async function ProductPage({
           {youtuberCount}人が紹介した{product.brand} {product.product_name}を購入する
         </p>
         <div className="flex flex-col sm:flex-row gap-3">
-          {product.rakuten_url && (
-            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors">
-              楽天で購入する
-            </a>
-          )}
           {product.amazon_url && (
             <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-              className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors">
-              Amazonで購入する
+              className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
+              🛒 Amazonで価格をチェック
+            </a>
+          )}
+          {product.rakuten_url && (
+            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm">
+              楽天で見る
             </a>
           )}
         </div>
@@ -274,7 +274,7 @@ export default async function ProductPage({
         <div className="fixed bottom-0 left-0 right-0 z-50 sm:hidden bg-white border-t border-gray-200 px-4 py-3 shadow-lg">
           <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
             className="block w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm">
-            Amazonで購入する
+            🛒 Amazonで価格をチェック
           </a>
         </div>
       )}
