@@ -242,9 +242,19 @@ export function getCreatorBySlug(slug: string): Creator | null {
 // products.json の mentioned_by[].channel は youtube_name なので、channels.json と照合して表示用情報を返す
 export function getChannelDisplayInfo(youtubeChannelName: string): { displayName: string; iconUrl: string | null } {
   const channels = getChannels()
-  const ch = channels.find(c => c.youtube_name === youtubeChannelName || c.name === youtubeChannelName)
-  if (ch) {
-    return { displayName: ch.name, iconUrl: ch.icon_url || null }
+  // 1. youtube_name または name で完全一致
+  const exact = channels.find(c => c.youtube_name === youtubeChannelName || c.name === youtubeChannelName)
+  if (exact) {
+    return { displayName: exact.name, iconUrl: exact.icon_url || null }
+  }
+  // 2. 部分一致（products.json の channel名に channels.json の name や youtube_name が含まれるケース）
+  //    例: "韓国オンニAちゃん (会社員J)" に "会社員J" が含まれる
+  const partial = channels.find(c =>
+    youtubeChannelName.includes(c.name) || youtubeChannelName.includes(c.youtube_name) ||
+    c.name.includes(youtubeChannelName) || c.youtube_name.includes(youtubeChannelName)
+  )
+  if (partial) {
+    return { displayName: partial.name, iconUrl: partial.icon_url || null }
   }
   // channels.json に見つからない場合はそのまま返す
   return { displayName: youtubeChannelName, iconUrl: null }

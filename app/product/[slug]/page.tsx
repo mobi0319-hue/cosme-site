@@ -153,10 +153,10 @@ export default async function ProductPage({
         </div>
       </div>
 
-      {/* YouTuberの声（コメントを購入ボタン直前に） */}
+      {/* 動画で紹介されたポイント（コメントを購入ボタン直前に） */}
       {topContexts.length > 0 && (
         <div className="bg-white rounded-2xl border border-gray-100 p-5">
-          <h2 className="text-base font-bold text-gray-800 mb-3">💬 YouTuberの声</h2>
+          <h2 className="text-base font-bold text-gray-800 mb-3">💬 動画で紹介されたポイント</h2>
           <div className="space-y-3">
             {topContexts.map((mention, i) => {
               const channelInfo = getChannelDisplayInfo(mention.channel)
