@@ -67,6 +67,7 @@ export default function RootLayout({
         {/* フッター */}
         <footer className="border-t border-gray-200 mt-12 py-6 text-center text-sm text-gray-400">
           <p>※ 当サイトはAmazonアソシエイト・楽天アフィリエイトプログラムに参加しています。</p>
+          <p className="mt-2"><a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a></p>
           <p className="mt-1">© 2026 コスメまとめ</p>
         </footer>
       </body>
