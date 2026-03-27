@@ -1,6 +1,7 @@
-// TOPページ：人気商品 + 最新動画 + YouTuber一覧
+// TOPページ：悩み別 + 人気商品 + YouTuber + 動画 + 記事
 import type { Metadata } from 'next'
 import { getProductsSorted, getVideos, getCreators, getArticles, slugifyProduct, slugifyCreator } from '@/lib/data'
+import { CONCERNS, getProductsForConcern } from '@/lib/concerns'
 
 export const metadata: Metadata = {
   title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
@@ -38,10 +39,16 @@ export default function Home() {
         <p className="text-gray-500 text-xs sm:text-sm mb-4">
           実際に使って「良かった」と紹介されたコスメだけを掲載。多くのYouTuberに選ばれた商品は特におすすめです。
         </p>
-        <a href="/ranking"
-          className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-6 py-2 rounded-xl transition-colors text-sm mb-4">
-          人気ランキングを見る
-        </a>
+        <div className="flex justify-center gap-3 mb-4">
+          <a href="/ranking"
+            className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-5 py-2 rounded-xl transition-colors text-sm">
+            人気ランキングを見る
+          </a>
+          <a href="#concerns"
+            className="inline-block bg-white hover:bg-pink-50 text-pink-500 font-bold px-5 py-2 rounded-xl border border-pink-300 transition-colors text-sm">
+            悩みから探す
+          </a>
+        </div>
         {/* 統計バナー */}
         <div className="flex justify-center gap-4 sm:gap-6 text-center">
           <div>
@@ -58,6 +65,31 @@ export default function Home() {
             <p className="text-xl sm:text-2xl font-bold text-pink-500">{creators.length}<span className="text-sm sm:text-base font-normal">名</span></p>
             <p className="text-xs text-gray-400">YouTuber</p>
           </div>
+        </div>
+      </section>
+
+      {/* 悩み・目的から探す */}
+      <section id="concerns">
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-lg font-bold text-gray-800">🎯 悩み・目的から探す</h2>
+          <a href="/concerns" className="text-sm text-pink-500 hover:underline">すべて見る →</a>
+        </div>
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+          {CONCERNS.map(concern => {
+            const count = getProductsForConcern(concern).length
+            return (
+              <a
+                key={concern.slug}
+                href={`/concerns/${concern.slug}`}
+                className="bg-white border border-gray-100 rounded-xl p-4 hover:border-pink-200 hover:shadow-md transition-all text-center"
+              >
+                <span className="text-2xl sm:text-3xl block mb-2">{concern.icon}</span>
+                <p className="text-sm font-bold text-gray-800 mb-1">{concern.title}</p>
+                <p className="text-xs text-gray-400 line-clamp-1">{concern.subtitle}</p>
+                <p className="text-xs text-pink-500 mt-2">{count}件</p>
+              </a>
+            )
+          })}
         </div>
       </section>
 
@@ -94,6 +126,26 @@ export default function Home() {
               </a>
             )
           })}
+        </div>
+      </section>
+
+      {/* YouTuberから探す */}
+      <section>
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-lg font-bold text-gray-800">👩 YouTuberから探す</h2>
+          <a href="/creators" className="text-sm text-pink-500 hover:underline">すべて見る →</a>
+        </div>
+        <div className="flex flex-wrap gap-2">
+          {creators.map((creator) => (
+            <a
+              key={creator.name}
+              href={`/creator/${encodeURIComponent(slugifyCreator(creator.name))}`}
+              className="bg-white border border-gray-100 rounded-full px-4 py-2 text-sm hover:bg-pink-50 hover:border-pink-200 transition-colors"
+            >
+              {creator.name}
+              <span className="text-gray-400 ml-1 text-xs">({creator.videos.length}動画)</span>
+            </a>
+          ))}
         </div>
       </section>
 
@@ -156,26 +208,6 @@ export default function Home() {
               </a>
             )
           })}
-        </div>
-      </section>
-
-      {/* YouTuber一覧 */}
-      <section>
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-lg font-bold text-gray-800">👩 YouTuberから探す</h2>
-          <a href="/creators" className="text-sm text-pink-500 hover:underline">すべて見る →</a>
-        </div>
-        <div className="flex flex-wrap gap-2">
-          {creators.map((creator) => (
-            <a
-              key={creator.name}
-              href={`/creator/${encodeURIComponent(slugifyCreator(creator.name))}`}
-              className="bg-white border border-gray-100 rounded-full px-4 py-2 text-sm hover:bg-pink-50 hover:border-pink-200 transition-colors"
-            >
-              {creator.name}
-              <span className="text-gray-400 ml-1 text-xs">({creator.videos.length}動画)</span>
-            </a>
-          ))}
         </div>
       </section>
 
