@@ -7572,28 +7572,6 @@
     "canonical_name": "LABEIGE (ラベージュ) ラベージュ"
   },
   {
-    "product_name": "ビブ",
-    "brand": "PAUL & JOE (ポール&ジョー/パリリ)",
-    "category": "その他",
-    "genre": "cosme",
-    "price": "-",
-    "amazon_url": "https://www.amazon.co.jp/s?k=PAUL%20%26%20JOE%20%28%E3%83%9D%E3%83%BC%E3%83%AB%26%E3%82%B8%E3%83%A7%E3%83%BC/%E3%83%91%E3%83%AA%E3%83%AA%29%20%E3%83%93%E3%83%96&tag=yuaffiliate01-22",
-    "rakuten_url": "https://search.rakuten.co.jp/search/mall/PAUL%20%26%20JOE%20%28%E3%83%9D%E3%83%BC%E3%83%AB%26%E3%82%B8%E3%83%A7%E3%83%BC/%E3%83%91%E3%83%AA%E3%83%AA%29%20%E3%83%93%E3%83%96/?af=mobi.0319",
-    "mention_count": 1,
-    "mentioned_by": [
-      {
-        "channel": "SekineRisa",
-        "video_title": "【ぽんりさ】11年前初めてコラボした時の企画やってみた　〜2015−2026〜",
-        "video_url": "https://www.youtube.com/watch?v=VM7i_QakBkA",
-        "context": "鼻の油とり紙的に使用",
-        "accumulated_at": "2026-03-25",
-        "published_at": "2026年02月07日"
-      }
-    ],
-    "brand_normalized": "PAUL & JOE (ポール&ジョー/パリリ)",
-    "canonical_name": "PAUL & JOE (ポール&ジョー/パリリ) ビブ"
-  },
-  {
     "product_name": "リキッドチーク（新作・紫/ピンク）",
     "brand": "SUQQU (スック)",
     "category": "チーク",
@@ -14974,44 +14952,6 @@
     ],
     "brand_normalized": "APRILY",
     "canonical_name": "APRILY ポーチ"
-  },
-  {
-    "product_name": "--------",
-    "brand": "-----------",
-    "category": "----------",
-    "genre": "cosme",
-    "price": "------",
-    "amazon_url": "https://www.amazon.co.jp/s?k=-----------%20--------&tag=yuaffiliate01-22",
-    "rakuten_url": "https://search.rakuten.co.jp/search/mall/-----------%20--------/?af=mobi.0319",
-    "mention_count": 3,
-    "mentioned_by": [
-      {
-        "channel": "KAJIERI",
-        "video_title": "【爆笑】乾燥肌と混合肌の一軍ポーチを交換して雑談メイクしたら面白すぎたってw",
-        "video_url": "https://www.youtube.com/watch?v=cWv2RmYJe_w",
-        "context": "----------",
-        "accumulated_at": "2026-03-26",
-        "published_at": "2026年02月13日"
-      },
-      {
-        "channel": "韓国オンニAちゃん (会社員J)",
-        "video_title": "【開封動画】新作コスメ大量紹介✨",
-        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
-        "context": "----------",
-        "accumulated_at": "2026-03-26",
-        "published_at": ""
-      },
-      {
-        "channel": "さぁや saaya",
-        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
-        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
-        "context": "----------",
-        "accumulated_at": "2026-03-26",
-        "published_at": ""
-      }
-    ],
-    "brand_normalized": "-----------",
-    "canonical_name": "----------- --------"
   },
   {
     "product_name": "ソフトフィットファンデーションブラシ（SNSバズブラシ）",
