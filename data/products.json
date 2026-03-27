@@ -10064,6 +10064,14 @@
         "context": "結局好きだなと再評価、安定感があると紹介",
         "accumulated_at": "2026-03-26",
         "published_at": "2026年01月15日"
+      },
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【GRWM】ニキビ、毛穴もカバーメイク‼️最近GETした推しコスメ使って準備🎀💖｜プチプラ｜韓国コスメ｜デパコス",
+        "video_url": "https://www.youtube.com/watch?v=YwiHTlSllMM",
+        "context": "タイムスタンプ09:56で言及（髪色暗くしたら戻るアイテムとして）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年07月20日"
       }
     ],
     "brand_normalized": "CANMAKE",
@@ -17422,6 +17430,14 @@
         "context": "おすすめ美顔器として紹介",
         "accumulated_at": "2026-03-26",
         "published_at": "2025-12-06"
+      },
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
       }
     ],
     "brand_normalized": "THOME",
@@ -38222,5 +38238,1101 @@
     "canonical_name": "ピヨログ ピヨログ(アプリ)",
     "status": "reject",
     "status_reason": "アプリであり、コスメ・美容商品ではない"
+  },
+  {
+    "product_name": "ジョルジオアルマーニ ベースメイク",
+    "brand": "Giorgio Armani (ジョルジオアルマーニ)",
+    "category": "ファンデーション",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Giorgio%20Armani%20%28%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%AA%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%8B%29%20%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%AA%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%8B%20%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Giorgio%20Armani%20%28%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%AA%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%8B%29%20%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%AA%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%8B%20%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【メガネっ子必見】大人の女性の眼鏡オフィスメイク💙",
+        "video_url": "https://www.youtube.com/watch?v=1HoEtW7I2oE",
+        "context": "眼鏡オフィスメイクのベースメイクで使用",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年12月13日"
+      }
+    ],
+    "brand_normalized": "Giorgio Armani (ジョルジオアルマーニ)",
+    "canonical_name": "Giorgio Armani (ジョルジオアルマーニ) ジョルジオアルマーニ ベースメイク",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "Ameli コスメ",
+    "brand": "Ameli",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Ameli%20Ameli%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Ameli%20Ameli%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【メガネっ子必見】大人の女性の眼鏡オフィスメイク💙",
+        "video_url": "https://www.youtube.com/watch?v=1HoEtW7I2oE",
+        "context": "眼鏡オフィスメイクで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年12月13日"
+      },
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "Ameli",
+    "canonical_name": "Ameli Ameli コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "キャンメイク コスメ",
+    "brand": "CANMAKE (キャンメイク)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=CANMAKE%20%28%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%29%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CANMAKE%20%28%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%29%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【メガネっ子必見】大人の女性の眼鏡オフィスメイク💙",
+        "video_url": "https://www.youtube.com/watch?v=1HoEtW7I2oE",
+        "context": "眼鏡オフィスメイクで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年12月13日"
+      },
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "CANMAKE (キャンメイク)",
+    "canonical_name": "CANMAKE (キャンメイク) キャンメイク コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "マキシグレイヤーティント",
+    "brand": "ラカ (LAKA)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%82%AB%20%28LAKA%29%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%82%AB%20%28LAKA%29%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "さぁや saaya",
+        "video_title": "【2025年ベスコス】多幸感溢れる顔を作る💐厳選した下半期「買ってよかった」名品コスメ発表👑",
+        "video_url": "https://www.youtube.com/watch?v=JAZaczkdBLg",
+        "context": "2025年下半期ベスコス・リップ部門",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年12月12日"
+      }
+    ],
+    "brand_normalized": "ラカ (LAKA)",
+    "canonical_name": "ラカ (LAKA) マキシグレイヤーティント",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II PK850 うさぎのフィアンセ",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20PK850%20%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%BB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20PK850%20%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%BB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II PK850 うさぎのフィアンセ",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II PK851 もっとわがままな肉球",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20PK851%20%E3%82%82%E3%81%A3%E3%81%A8%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AA%E8%82%89%E7%90%83&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20PK851%20%E3%82%82%E3%81%A3%E3%81%A8%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AA%E8%82%89%E7%90%83/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II PK851 もっとわがままな肉球",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II PK852 人魚の願い",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20PK852%20%E4%BA%BA%E9%AD%9A%E3%81%AE%E9%A1%98%E3%81%84&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20PK852%20%E4%BA%BA%E9%AD%9A%E3%81%AE%E9%A1%98%E3%81%84/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II PK852 人魚の願い",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II BE351 完熟桃のはにかみ",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20BE351%20%E5%AE%8C%E7%86%9F%E6%A1%83%E3%81%AE%E3%81%AF%E3%81%AB%E3%81%8B%E3%81%BF&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20BE351%20%E5%AE%8C%E7%86%9F%E6%A1%83%E3%81%AE%E3%81%AF%E3%81%AB%E3%81%8B%E3%81%BF/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II BE351 完熟桃のはにかみ",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II BE352 桜のハミング",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20BE352%20%E6%A1%9C%E3%81%AE%E3%83%8F%E3%83%9F%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20BE352%20%E6%A1%9C%E3%81%AE%E3%83%8F%E3%83%9F%E3%83%B3%E3%82%B0/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II BE352 桜のハミング",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II BR350 林檎のワンモアキス",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20BR350%20%E6%9E%97%E6%AA%8E%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%A2%E3%82%A2%E3%82%AD%E3%82%B9&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20BR350%20%E6%9E%97%E6%AA%8E%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%A2%E3%82%A2%E3%82%AD%E3%82%B9/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II BR350 林檎のワンモアキス",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II RD450 ダリアの誘惑",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20RD450%20%E3%83%80%E3%83%AA%E3%82%A2%E3%81%AE%E8%AA%98%E6%83%91&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20RD450%20%E3%83%80%E3%83%AA%E3%82%A2%E3%81%AE%E8%AA%98%E6%83%91/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II RD450 ダリアの誘惑",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ネンマクフェイク ルージュ II RO650 チェリーのプライド",
+    "brand": "Visee (ヴィセ)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20RO650%20%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%8D%E3%83%B3%E3%83%9E%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20II%20RO650%20%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "リニューアル新色レビュー",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ネンマクフェイク ルージュ II RO650 チェリーのプライド",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ダブル ムード アイズ BE-7 ベージュムード",
+    "brand": "Visee (ヴィセ)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%A0%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%E3%82%BA%20BE-7%20%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%A0%E3%83%BC%E3%83%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%A0%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%E3%82%BA%20BE-7%20%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%A0%E3%83%BC%E3%83%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "限定新色アイシャドウとして紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ダブル ムード アイズ BE-7 ベージュムード",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ダブル ムード アイズ PU-8 モーヴムード",
+    "brand": "Visee (ヴィセ)",
+    "category": "アイシャドウ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%A0%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%E3%82%BA%20PU-8%20%E3%83%A2%E3%83%BC%E3%83%B4%E3%83%A0%E3%83%BC%E3%83%89&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BB%29%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%A0%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%E3%82%BA%20PU-8%20%E3%83%A2%E3%83%BC%E3%83%B4%E3%83%A0%E3%83%BC%E3%83%89/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "水越みさと",
+        "video_title": "【ヴィセ2026年新作】リニューアルしたネンマクフェイクルージュを全色レビュー🩷【限定アイシャドウも登場】",
+        "video_url": "https://www.youtube.com/watch?v=ocwD-GSlJdM",
+        "context": "限定新色アイシャドウとして紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2026年02月11日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィセ)",
+    "canonical_name": "Visee (ヴィセ) ダブル ムード アイズ PU-8 モーヴムード",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "numbuzin コスメ",
+    "brand": "numbuzin (ナンバーズイン)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=numbuzin%20%28%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%29%20numbuzin%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/numbuzin%20%28%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%29%20numbuzin%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "numbuzin (ナンバーズイン)",
+    "canonical_name": "numbuzin (ナンバーズイン) numbuzin コスメ",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "M·A·C コスメ",
+    "brand": "M·A·C (マック)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=M%C2%B7A%C2%B7C%20%28%E3%83%9E%E3%83%83%E3%82%AF%29%20M%C2%B7A%C2%B7C%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/M%C2%B7A%C2%B7C%20%28%E3%83%9E%E3%83%83%E3%82%AF%29%20M%C2%B7A%C2%B7C%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "M·A·C (マック)",
+    "canonical_name": "M·A·C (マック) M·A·C コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "hersteller コスメ",
+    "brand": "hersteller (ハーステラー)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=hersteller%20%28%E3%83%8F%E3%83%BC%E3%82%B9%E3%83%86%E3%83%A9%E3%83%BC%29%20hersteller%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/hersteller%20%28%E3%83%8F%E3%83%BC%E3%82%B9%E3%83%86%E3%83%A9%E3%83%BC%29%20hersteller%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "hersteller (ハーステラー)",
+    "canonical_name": "hersteller (ハーステラー) hersteller コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "NARS コスメ",
+    "brand": "NARS (ナーズ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=NARS%20%28%E3%83%8A%E3%83%BC%E3%82%BA%29%20NARS%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/NARS%20%28%E3%83%8A%E3%83%BC%E3%82%BA%29%20NARS%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "NARS (ナーズ)",
+    "canonical_name": "NARS (ナーズ) NARS コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "DEAR DAHLIA コスメ",
+    "brand": "DEAR DAHLIA (ディアダリア)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=DEAR%20DAHLIA%20%28%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%AA%E3%82%A2%29%20DEAR%20DAHLIA%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DEAR%20DAHLIA%20%28%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%AA%E3%82%A2%29%20DEAR%20DAHLIA%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "DEAR DAHLIA (ディアダリア)",
+    "canonical_name": "DEAR DAHLIA (ディアダリア) DEAR DAHLIA コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "YNM コスメ",
+    "brand": "YNM (ワイエヌエム)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=YNM%20%28%E3%83%AF%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A8%E3%83%A0%29%20YNM%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/YNM%20%28%E3%83%AF%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A8%E3%83%A0%29%20YNM%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "YNM (ワイエヌエム)",
+    "canonical_name": "YNM (ワイエヌエム) YNM コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "GESGEP コスメ",
+    "brand": "GESGEP (ジェスジェップ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=GESGEP%20%28%E3%82%B8%E3%82%A7%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%83%E3%83%97%29%20GESGEP%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/GESGEP%20%28%E3%82%B8%E3%82%A7%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%83%E3%83%97%29%20GESGEP%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "GESGEP (ジェスジェップ)",
+    "canonical_name": "GESGEP (ジェスジェップ) GESGEP コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "ABOUT TONE コスメ",
+    "brand": "ABOUT TONE (アバウトトーン)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=ABOUT%20TONE%20%28%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%29%20ABOUT%20TONE%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ABOUT%20TONE%20%28%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%29%20ABOUT%20TONE%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "ABOUT TONE (アバウトトーン)",
+    "canonical_name": "ABOUT TONE (アバウトトーン) ABOUT TONE コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "too cool for school コスメ",
+    "brand": "too cool for school (トゥークールフォースクール)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=too%20cool%20for%20school%20%28%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%29%20too%20cool%20for%20school%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/too%20cool%20for%20school%20%28%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%29%20too%20cool%20for%20school%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "too cool for school (トゥークールフォースクール)",
+    "canonical_name": "too cool for school (トゥークールフォースクール) too cool for school コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "EITHER& コスメ",
+    "brand": "EITHER& (イーザーアンド)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=EITHER%26%20%28%E3%82%A4%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%29%20EITHER%26%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/EITHER%26%20%28%E3%82%A4%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%29%20EITHER%26%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "EITHER& (イーザーアンド)",
+    "canonical_name": "EITHER& (イーザーアンド) EITHER& コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "BeginS コスメ",
+    "brand": "BeginS by JUNGSAEMMOOL (ビギンスバイジョンセンムル)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=BeginS%20by%20JUNGSAEMMOOL%20%28%E3%83%93%E3%82%AE%E3%83%B3%E3%82%B9%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%A0%E3%83%AB%29%20BeginS%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/BeginS%20by%20JUNGSAEMMOOL%20%28%E3%83%93%E3%82%AE%E3%83%B3%E3%82%B9%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%A0%E3%83%AB%29%20BeginS%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "BeginS by JUNGSAEMMOOL (ビギンスバイジョンセンムル)",
+    "canonical_name": "BeginS by JUNGSAEMMOOL (ビギンスバイジョンセンムル) BeginS コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "wakemake コスメ",
+    "brand": "wakemake (ウェイクメイク)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=wakemake%20%28%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%29%20wakemake%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/wakemake%20%28%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%29%20wakemake%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "wakemake (ウェイクメイク)",
+    "canonical_name": "wakemake (ウェイクメイク) wakemake コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "deepinor コスメ",
+    "brand": "deepinor (ディーピノール)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=deepinor%20%28%E3%83%87%E3%82%A3%E3%83%BC%E3%83%94%E3%83%8E%E3%83%BC%E3%83%AB%29%20deepinor%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/deepinor%20%28%E3%83%87%E3%82%A3%E3%83%BC%E3%83%94%E3%83%8E%E3%83%BC%E3%83%AB%29%20deepinor%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "deepinor (ディーピノール)",
+    "canonical_name": "deepinor (ディーピノール) deepinor コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "DOLCE&GABBANA コスメ",
+    "brand": "DOLCE&GABBANA (ドルチェ&ガッバーナ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=DOLCE%26GABBANA%20%28%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%26%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A%29%20DOLCE%26GABBANA%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DOLCE%26GABBANA%20%28%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%26%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A%29%20DOLCE%26GABBANA%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "DOLCE&GABBANA (ドルチェ&ガッバーナ)",
+    "canonical_name": "DOLCE&GABBANA (ドルチェ&ガッバーナ) DOLCE&GABBANA コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "talk to Her コスメ",
+    "brand": "talk to Her (トークトゥハー)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=talk%20to%20Her%20%28%E3%83%88%E3%83%BC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%8F%E3%83%BC%29%20talk%20to%20Her%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/talk%20to%20Her%20%28%E3%83%88%E3%83%BC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%8F%E3%83%BC%29%20talk%20to%20Her%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "talk to Her (トークトゥハー)",
+    "canonical_name": "talk to Her (トークトゥハー) talk to Her コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "Dr.FORHAIR ヘアケア",
+    "brand": "Dr.FORHAIR (ドクターフォーヘア)",
+    "category": "ヘアケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Dr.FORHAIR%20%28%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%98%E3%82%A2%29%20Dr.FORHAIR%20%E3%83%98%E3%82%A2%E3%82%B1%E3%82%A2&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dr.FORHAIR%20%28%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%98%E3%82%A2%29%20Dr.FORHAIR%20%E3%83%98%E3%82%A2%E3%82%B1%E3%82%A2/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "Dr.FORHAIR (ドクターフォーヘア)",
+    "canonical_name": "Dr.FORHAIR (ドクターフォーヘア) Dr.FORHAIR ヘアケア",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "Mamonde コスメ",
+    "brand": "Mamonde (マモンド)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Mamonde%20%28%E3%83%9E%E3%83%A2%E3%83%B3%E3%83%89%29%20Mamonde%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Mamonde%20%28%E3%83%9E%E3%83%A2%E3%83%B3%E3%83%89%29%20Mamonde%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "Mamonde (マモンド)",
+    "canonical_name": "Mamonde (マモンド) Mamonde コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "peripera コスメ",
+    "brand": "peripera (ペリペラ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=peripera%20%28%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%29%20peripera%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/peripera%20%28%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%29%20peripera%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "peripera (ペリペラ)",
+    "canonical_name": "peripera (ペリペラ) peripera コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "VIDIVICI コスメ",
+    "brand": "VIDIVICI (ビディビーチ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=VIDIVICI%20%28%E3%83%93%E3%83%87%E3%82%A3%E3%83%93%E3%83%BC%E3%83%81%29%20VIDIVICI%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/VIDIVICI%20%28%E3%83%93%E3%83%87%E3%82%A3%E3%83%93%E3%83%BC%E3%83%81%29%20VIDIVICI%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "VIDIVICI (ビディビーチ)",
+    "canonical_name": "VIDIVICI (ビディビーチ) VIDIVICI コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "Charlotte Tilbury コスメ",
+    "brand": "Charlotte Tilbury (シャーロット ティルブリー)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Charlotte%20Tilbury%20%28%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88%20%E3%83%86%E3%82%A3%E3%83%AB%E3%83%96%E3%83%AA%E3%83%BC%29%20Charlotte%20Tilbury%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Charlotte%20Tilbury%20%28%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88%20%E3%83%86%E3%82%A3%E3%83%AB%E3%83%96%E3%83%AA%E3%83%BC%29%20Charlotte%20Tilbury%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "Charlotte Tilbury (シャーロット ティルブリー)",
+    "canonical_name": "Charlotte Tilbury (シャーロット ティルブリー) Charlotte Tilbury コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "BYNIQ コスメ",
+    "brand": "BYNIQ (バイニーク)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=BYNIQ%20%28%E3%83%90%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AF%29%20BYNIQ%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/BYNIQ%20%28%E3%83%90%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AF%29%20BYNIQ%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "BYNIQ (バイニーク)",
+    "canonical_name": "BYNIQ (バイニーク) BYNIQ コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "espoir コスメ",
+    "brand": "espoir (エスポア)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=espoir%20%28%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%29%20espoir%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/espoir%20%28%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%29%20espoir%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "espoir (エスポア)",
+    "canonical_name": "espoir (エスポア) espoir コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "COSRX スキンケア",
+    "brand": "COSRX (コスアールエックス)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=COSRX%20%28%E3%82%B3%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%29%20COSRX%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/COSRX%20%28%E3%82%B3%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%29%20COSRX%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "COSRX (コスアールエックス)",
+    "canonical_name": "COSRX (コスアールエックス) COSRX スキンケア",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "alternative stereo コスメ",
+    "brand": "alternative stereo (オルタナティブステレオ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=alternative%20stereo%20%28%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA%29%20alternative%20stereo%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/alternative%20stereo%20%28%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA%29%20alternative%20stereo%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "alternative stereo (オルタナティブステレオ)",
+    "canonical_name": "alternative stereo (オルタナティブステレオ) alternative stereo コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "Biodance スキンケア",
+    "brand": "Biodance (バイオダンス)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Biodance%20%28%E3%83%90%E3%82%A4%E3%82%AA%E3%83%80%E3%83%B3%E3%82%B9%29%20Biodance%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Biodance%20%28%E3%83%90%E3%82%A4%E3%82%AA%E3%83%80%E3%83%B3%E3%82%B9%29%20Biodance%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "Biodance (バイオダンス)",
+    "canonical_name": "Biodance (バイオダンス) Biodance スキンケア",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "Fillimilli ツール",
+    "brand": "Fillimilli (フィリミリ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Fillimilli%20%28%E3%83%95%E3%82%A3%E3%83%AA%E3%83%9F%E3%83%AA%29%20Fillimilli%20%E3%83%84%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Fillimilli%20%28%E3%83%95%E3%82%A3%E3%83%AA%E3%83%9F%E3%83%AA%29%20Fillimilli%20%E3%83%84%E3%83%BC%E3%83%AB/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【開封動画】新作コスメ大量紹介✨",
+        "video_url": "https://www.youtube.com/watch?v=PEU7-mNSlvM",
+        "context": "新作コスメとして開封紹介",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月22日"
+      }
+    ],
+    "brand_normalized": "Fillimilli (フィリミリ)",
+    "canonical_name": "Fillimilli (フィリミリ) Fillimilli ツール",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "ジャスト・メイクアップ",
+    "brand": "HERA (ヘラ)",
+    "category": "ファンデーション",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=HERA%20%28%E3%83%98%E3%83%A9%29%20%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%BB%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HERA%20%28%E3%83%98%E3%83%A9%29%20%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%E3%83%BB%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "HERA (ヘラ)",
+    "canonical_name": "HERA (ヘラ) ジャスト・メイクアップ",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ロムアンド リップ",
+    "brand": "rom&nd (ロムアンド)",
+    "category": "リップ",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=rom%26nd%20%28%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%29%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/rom%26nd%20%28%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%29%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "rom&nd (ロムアンド)",
+    "canonical_name": "rom&nd (ロムアンド) ロムアンド リップ",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "ヴィゼ コスメ",
+    "brand": "Visee (ヴィゼ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BC%29%20%E3%83%B4%E3%82%A3%E3%82%BC%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BC%29%20%E3%83%B4%E3%82%A3%E3%82%BC%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "Visee (ヴィゼ)",
+    "canonical_name": "Visee (ヴィゼ) ヴィゼ コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
+  },
+  {
+    "product_name": "ラネージュ スキンケア",
+    "brand": "LANEIGE (ラネージュ)",
+    "category": "スキンケア",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=LANEIGE%20%28%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%29%20%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/LANEIGE%20%28%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%29%20%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "LANEIGE (ラネージュ)",
+    "canonical_name": "LANEIGE (ラネージュ) ラネージュ スキンケア",
+    "status": "publish",
+    "status_reason": "カテゴリがコスメ"
+  },
+  {
+    "product_name": "シュウウエムラ コスメ",
+    "brand": "shu uemura (シュウウエムラ)",
+    "category": "その他",
+    "genre": "cosme",
+    "price": "-",
+    "amazon_url": "https://www.amazon.co.jp/s?k=shu%20uemura%20%28%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%29%20%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/shu%20uemura%20%28%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%29%20%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319",
+    "mention_count": 1,
+    "mentioned_by": [
+      {
+        "channel": "韓国オンニAちゃん (会社員J)",
+        "video_title": "【彼氏登場?!】近況報告しつつGRWM❤️",
+        "video_url": "https://www.youtube.com/watch?v=UfMO2A8JjKc",
+        "context": "GRWMで使用（ハッシュタグより）",
+        "accumulated_at": "2026-03-27",
+        "published_at": "2025年11月29日"
+      }
+    ],
+    "brand_normalized": "shu uemura (シュウウエムラ)",
+    "canonical_name": "shu uemura (シュウウエムラ) シュウウエムラ コスメ",
+    "status": "hold",
+    "status_reason": "判定エラー"
   }
 ]
