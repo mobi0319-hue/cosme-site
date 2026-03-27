@@ -45,12 +45,10 @@ export default async function ProductPage({
   if (!product) notFound()
 
   const relatedProducts = getRelatedProducts(product)
+  // mentioned_byはdata.ts側でcontext有りのみにフィルタ済み
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
   const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
-  // コメントがある紹介だけ抽出（空・ハイフン・短すぎるものは除外、最大5件）
-  const topContexts = product.mentioned_by
-    .filter(m => m.context && m.context !== '-' && m.context.trim().length > 10)
-    .slice(0, 5)
+  const topContexts = product.mentioned_by.slice(0, 5)
 
   // パンくず構造化データ（Googleリッチスニペット用）
   const breadcrumbData = {

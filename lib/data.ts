@@ -123,8 +123,13 @@ export function getProducts(): Product[] {
     .map(p => ({
       ...p,
       category: normalizeCategory(p.category),
-      // 同一YouTuberが複数動画で紹介しても1人とカウントする
-      mention_count: new Set(p.mentioned_by.map((m: MentionedBy) => m.channel)).size,
+      // コメントがある紹介のみカウント（空・短すぎる紹介は除外）
+      mentioned_by: p.mentioned_by.filter((m: MentionedBy) => m.context && m.context.trim().length > 10),
+      mention_count: new Set(
+        p.mentioned_by
+          .filter((m: MentionedBy) => m.context && m.context.trim().length > 10)
+          .map((m: MentionedBy) => m.channel)
+      ).size,
     }))
 }
 

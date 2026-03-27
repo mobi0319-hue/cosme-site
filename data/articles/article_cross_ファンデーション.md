@@ -1,4 +1,4 @@
-# 【2026年03月版】YouTuberが複数紹介したファンデーションおすすめ7選
+# 【2026年03月版】YouTuberが複数紹介したファンデーションおすすめ5選
 
 複数の美容系YouTuberが独立して紹介したファンデーションアイテムだけを厳選しました。
 
@@ -52,7 +52,7 @@
 
 ---
 
-### WAKEMAKE（ウェイクメイク） ファンデーションブラシ（-） - 2人が紹介
+### WAKEMAKE（ウェイクメイク） ファンデーションブラシ - 2人が紹介
 
 > **KAJIERI**: 「SNSでバズって話題になったファンデーション用ブラシ。ムラなく均一に塗れるのが魅力で、Amazonで手軽に購入できるのもポイント。ファンデの仕上がりにこだわりたい方におすすめ」
 > （[動画を見る](https://www.youtube.com/watch?v=5zEzusUNR2o)）
@@ -61,29 +61,5 @@
 > （[動画を見る](https://www.youtube.com/watch?v=UfMO2A8JjKc)）
 
 [Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00teq89.zqde70f7.g00teq89.zqde8f7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foliveyoung%2Fyp3666%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foliveyoung%2Fi%2F10013563%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b)
-
----
-
-### YSL（イヴ・サンローラン） オールアワーズ リキッド グロウ（-） - 2人が紹介
-
-> **さぁや saaya**: 「2025年下半期のベストコスメに選ばれたファンデーションアイテム。数あるファンデーションの中から選び抜かれた実力派で、使い心地の良さが手放せないポイント。ファンデーション選びに迷っている方にぜひ試してほしい」
-> （[動画を見る](https://www.youtube.com/watch?v=JAZaczkdBLg)）
-
-> **水越みさと**: 「概要欄で紹介」
-> （[動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)）
-
-[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00u7by9.zqde761f.g00u7by9.zqde89a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyslbeauty%2Fww-51439ysl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyslbeauty%2Fi%2F10000430%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b)
-
----
-
-### ロージーローザ パフ ロージーローザ マルチファンデパフ2P（638円） - 2人が紹介
-
-> **MAI TAKASUGI**: 「概要欄で紹介」
-> （[動画を見る](https://www.youtube.com/watch?v=-nW-sPXuYjk)）
-
-> **水越みさと**: 「概要欄で紹介」
-> （[動画を見る](https://www.youtube.com/watch?v=my6GkmCGuHk)）
-
-[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%91%E3%83%95%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%91%E3%83%952P&tag=yuaffiliate01-22) | [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00r4d89.zqde7523.g00r4d89.zqde8f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcd013638420101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F0101marui%2Fi%2F12490440%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b)
 
 ---
