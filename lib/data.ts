@@ -117,7 +117,7 @@ export function getProducts(): Product[] {
   const products: Product[] = JSON.parse(raw)
   // コスメ以外のカテゴリを除外し、ブランド・商品名が不明なものも除外する
   return products
-    .filter(p => p.status !== 'reject')
+    .filter(p => p.status === 'publish')
     .filter(p => isCosmeCategory(p.category))
     .filter(p => p.brand !== '不明' && !p.product_name.includes('不明'))
     .map(p => ({
