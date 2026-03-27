@@ -148,7 +148,11 @@ export default function RootLayout({
             {/* 免責事項 */}
             <div className="text-center text-xs text-gray-400 space-y-1">
               <p>※ 当サイトはAmazonアソシエイト・楽天アフィリエイトプログラムに参加しています。</p>
-              <p><a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a></p>
+              <p>
+                <a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a>
+                <span className="mx-2">|</span>
+                <a href="/contact" className="hover:text-pink-500 underline">お問い合わせ</a>
+              </p>
               <p>© 2026 コスメまとめ</p>
             </div>
           </div>

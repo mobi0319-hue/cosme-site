@@ -62,12 +62,43 @@ export default function PrivacyPage() {
         </p>
       </section>
 
+      {/* 運営者情報 */}
+      <section className="mb-8">
+        <h2 className="text-lg font-bold text-gray-700 mb-3">運営者情報</h2>
+        <table className="text-sm text-gray-600 w-full">
+          <tbody>
+            <tr className="border-b border-gray-100">
+              <td className="py-2 pr-4 font-medium text-gray-700 whitespace-nowrap">運営者</td>
+              <td className="py-2">コスメまとめ編集部</td>
+            </tr>
+            <tr className="border-b border-gray-100">
+              <td className="py-2 pr-4 font-medium text-gray-700 whitespace-nowrap">サイトURL</td>
+              <td className="py-2">
+                <a href="https://cosme-site.vercel.app" className="text-pink-500 hover:underline">https://cosme-site.vercel.app</a>
+              </td>
+            </tr>
+            <tr>
+              <td className="py-2 pr-4 font-medium text-gray-700 whitespace-nowrap">お問い合わせ</td>
+              <td className="py-2">
+                下記のお問い合わせフォームよりご連絡ください
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
       {/* お問い合わせ */}
       <section className="mb-8">
         <h2 className="text-lg font-bold text-gray-700 mb-3">お問い合わせ</h2>
-        <p className="text-sm text-gray-600 leading-relaxed">
-          当サイトへのお問い合わせは、各ページのお問い合わせフォームよりお願いいたします。
+        <p className="text-sm text-gray-600 leading-relaxed mb-4">
+          当サイトに関するお問い合わせ・ご要望・掲載内容の修正依頼等は、下記フォームよりお願いいたします。
         </p>
+        <a
+          href="/contact"
+          className="inline-block bg-pink-500 text-white text-sm font-medium px-6 py-3 rounded-lg hover:bg-pink-600 transition-colors"
+        >
+          お問い合わせフォームはこちら
+        </a>
       </section>
     </div>
   );
