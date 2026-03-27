@@ -103,7 +103,7 @@ export default function VideosClient({
             <img
               src={`https://img.youtube.com/vi/${video.video_id}/mqdefault.jpg`}
               alt={video.video_title}
-              className="w-28 h-18 object-cover rounded-lg flex-shrink-0"
+              className="w-20 sm:w-28 h-14 sm:h-18 object-cover rounded-lg flex-shrink-0"
             />
             <div className="min-w-0">
               <p className="text-xs text-pink-500 mb-1">{video.channel}</p>

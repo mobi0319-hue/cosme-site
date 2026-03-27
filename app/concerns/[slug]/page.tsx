@@ -116,7 +116,7 @@ export default async function ConcernPage({
 
                 {/* 商品情報 */}
                 <div className="flex-1 min-w-0">
-                  <p className="text-xs text-gray-400 mb-0.5">{product.category} / {product.brand}</p>
+                  <p className="text-xs text-gray-400 mb-0.5 truncate">{product.category} / {product.brand}</p>
                   <p className="font-medium text-gray-800 line-clamp-1">{product.product_name}</p>
                   {product.price && product.price !== '-' && (
                     <p className="text-xs text-gray-500 mt-0.5">{product.price}</p>
@@ -136,7 +136,7 @@ export default async function ConcernPage({
 
               {/* 購入ボタン */}
               {(product.amazon_url || product.rakuten_url) && (
-                <div className="flex gap-2 mt-3 ml-12">
+                <div className="flex gap-2 mt-3 ml-0 sm:ml-12">
                   {product.amazon_url && (
                     <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
                       className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-4 py-1.5 rounded-lg transition-colors">

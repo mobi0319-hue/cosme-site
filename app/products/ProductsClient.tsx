@@ -73,7 +73,7 @@ export default function ProductsClient({ products, categories, topProduct }: Pro
                   }`}>
                     {i + 1}
                   </span>
-                  <span className="flex-1 min-w-0">
+                  <span className="flex-1 min-w-0 truncate">
                     <span className="text-xs text-gray-400 mr-1">{p.brand}</span>
                     <span className="text-sm text-gray-800">{p.product_name}</span>
                   </span>

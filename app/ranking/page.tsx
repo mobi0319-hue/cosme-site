@@ -71,7 +71,7 @@ export default function RankingPage() {
 
       {/* ヘッダー */}
       <section className="text-center py-8 bg-white rounded-2xl border border-pink-100">
-        <h1 className="text-2xl font-bold text-gray-800 mb-2">
+        <h1 className="text-xl sm:text-2xl font-bold text-gray-800 mb-2">
           YouTuberおすすめコスメランキング
         </h1>
         <p className="text-sm text-gray-500 mb-1">
@@ -131,7 +131,7 @@ export default function RankingPage() {
 
                   {/* 商品情報 */}
                   <div className="flex-1 min-w-0">
-                    <p className="text-xs text-gray-400 mb-0.5">{product.category} / {product.brand}</p>
+                    <p className="text-xs text-gray-400 mb-0.5 truncate">{product.category} / {product.brand}</p>
                     <a href={`/product/${encodeURIComponent(slug)}`}
                       className="text-sm font-bold text-gray-800 hover:text-pink-500 transition-colors line-clamp-1">
                       {product.product_name}
@@ -148,21 +148,21 @@ export default function RankingPage() {
                 </div>
 
                 {/* 購入ボタン */}
-                <div className="flex gap-2 mt-3 ml-[52px]">
+                <div className="flex flex-wrap gap-2 mt-3 ml-0 sm:ml-[52px]">
                   {product.amazon_url && (
                     <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-                      className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-4 py-2 rounded-lg transition-colors shadow-sm">
-                      🛒 Amazon価格チェック
+                      className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors shadow-sm">
+                      🛒 Amazon
                     </a>
                   )}
                   {product.rakuten_url && (
                     <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-                      className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-4 py-1.5 rounded-lg transition-colors">
-                      楽天で見る
+                      className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 sm:px-4 py-1.5 rounded-lg transition-colors">
+                      楽天
                     </a>
                   )}
                   <a href={`/product/${encodeURIComponent(slug)}`}
-                    className="text-xs bg-gray-100 hover:bg-gray-200 text-gray-600 px-4 py-1.5 rounded-lg transition-colors">
+                    className="text-xs bg-gray-100 hover:bg-gray-200 text-gray-600 px-3 sm:px-4 py-1.5 rounded-lg transition-colors">
                     詳細
                   </a>
                 </div>
@@ -212,7 +212,7 @@ export default function RankingPage() {
                       </div>
                     </div>
                   </div>
-                  <div className="flex gap-2 mt-3 ml-11">
+                  <div className="flex flex-wrap gap-2 mt-3 ml-0 sm:ml-11">
                     {product.amazon_url && (
                       <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
                         className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">

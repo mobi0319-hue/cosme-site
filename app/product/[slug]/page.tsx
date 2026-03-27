@@ -100,12 +100,12 @@ export default async function ProductPage({
       />
 
       {/* パンくず */}
-      <nav className="text-xs text-gray-400 flex gap-1">
-        <a href="/" className="hover:text-pink-500">TOP</a>
-        <span>/</span>
-        <a href="/products" className="hover:text-pink-500">商品一覧</a>
-        <span>/</span>
-        <span>{product.product_name}</span>
+      <nav className="text-xs text-gray-400 flex gap-1 min-w-0">
+        <a href="/" className="hover:text-pink-500 flex-shrink-0">TOP</a>
+        <span className="flex-shrink-0">/</span>
+        <a href="/products" className="hover:text-pink-500 flex-shrink-0">商品一覧</a>
+        <span className="flex-shrink-0">/</span>
+        <span className="truncate">{product.product_name}</span>
       </nav>
 
       {/* 商品基本情報 */}
@@ -242,7 +242,7 @@ export default async function ProductPage({
 
       {/* 購入ボタン（下部） */}
       <div className="bg-white rounded-2xl border border-gray-100 p-5">
-        <p className="text-sm font-bold text-gray-700 mb-3 text-center">
+        <p className="text-xs sm:text-sm font-bold text-gray-700 mb-3 text-center line-clamp-2">
           {youtuberCount}人が紹介した{product.brand} {product.product_name}を購入する
         </p>
         <div className="flex flex-col sm:flex-row gap-3">

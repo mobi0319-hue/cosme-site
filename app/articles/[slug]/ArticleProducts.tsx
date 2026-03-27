@@ -46,7 +46,7 @@ export default function ArticleProducts({ products }: Props) {
                   href={product.amazon_url}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
-                  className="inline-flex items-center justify-center gap-1.5 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-sm font-bold px-5 py-2.5 rounded-xl transition-colors shadow-sm flex-1 min-w-[200px]"
+                  className="inline-flex items-center justify-center gap-1.5 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-xs sm:text-sm font-bold px-4 sm:px-5 py-2 sm:py-2.5 rounded-xl transition-colors shadow-sm flex-1 min-w-0 sm:min-w-[200px]"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 100 4 2 2 0 000-4z" />

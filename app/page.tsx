@@ -31,11 +31,11 @@ export default function Home() {
     <div className="space-y-10">
 
       {/* ヒーローセクション */}
-      <section className="text-center py-8 bg-white rounded-2xl border border-pink-100">
-        <h1 className="text-2xl font-bold text-gray-800 mb-2">
+      <section className="text-center py-6 sm:py-8 px-4 bg-white rounded-2xl border border-pink-100">
+        <h1 className="text-lg sm:text-2xl font-bold text-gray-800 mb-2">
           YouTuberが紹介したコスメをまとめてチェック
         </h1>
-        <p className="text-gray-500 text-sm mb-4">
+        <p className="text-gray-500 text-xs sm:text-sm mb-4">
           実際に使って「良かった」と紹介されたコスメだけを掲載。多くのYouTuberに選ばれた商品は特におすすめです。
         </p>
         <a href="/ranking"
@@ -43,19 +43,19 @@ export default function Home() {
           人気ランキングを見る
         </a>
         {/* 統計バナー */}
-        <div className="flex justify-center gap-6 text-center">
+        <div className="flex justify-center gap-4 sm:gap-6 text-center">
           <div>
-            <p className="text-2xl font-bold text-pink-500">{allProducts.length}<span className="text-base font-normal">件</span></p>
+            <p className="text-xl sm:text-2xl font-bold text-pink-500">{allProducts.length}<span className="text-sm sm:text-base font-normal">件</span></p>
             <p className="text-xs text-gray-400">掲載商品</p>
           </div>
           <div className="border-l border-gray-100" />
           <div>
-            <p className="text-2xl font-bold text-pink-500">{getVideos().length}<span className="text-base font-normal">本</span></p>
+            <p className="text-xl sm:text-2xl font-bold text-pink-500">{getVideos().length}<span className="text-sm sm:text-base font-normal">本</span></p>
             <p className="text-xs text-gray-400">紹介動画</p>
           </div>
           <div className="border-l border-gray-100" />
           <div>
-            <p className="text-2xl font-bold text-pink-500">{creators.length}<span className="text-base font-normal">名</span></p>
+            <p className="text-xl sm:text-2xl font-bold text-pink-500">{creators.length}<span className="text-sm sm:text-base font-normal">名</span></p>
             <p className="text-xs text-gray-400">YouTuber</p>
           </div>
         </div>

@@ -60,13 +60,13 @@ export default function RootLayout({
             <a href="/" className="text-xl font-bold text-pink-500">
               💄 コスメまとめ
             </a>
-            <nav className="flex gap-4 text-sm text-gray-600">
-              <a href="/ranking" className="hover:text-pink-500 font-medium">ランキング</a>
-              <a href="/products" className="hover:text-pink-500">商品一覧</a>
-              <a href="/concerns" className="hover:text-pink-500">悩み別</a>
-              <a href="/videos" className="hover:text-pink-500">動画一覧</a>
-              <a href="/creators" className="hover:text-pink-500">YouTuber</a>
-              <a href="/articles" className="hover:text-pink-500">記事</a>
+            <nav className="flex gap-3 sm:gap-4 text-xs sm:text-sm text-gray-600 overflow-x-auto whitespace-nowrap">
+              <a href="/ranking" className="hover:text-pink-500 font-medium flex-shrink-0">ランキング</a>
+              <a href="/products" className="hover:text-pink-500 flex-shrink-0">商品一覧</a>
+              <a href="/concerns" className="hover:text-pink-500 flex-shrink-0">悩み別</a>
+              <a href="/videos" className="hover:text-pink-500 flex-shrink-0 hidden sm:inline">動画一覧</a>
+              <a href="/creators" className="hover:text-pink-500 flex-shrink-0 hidden sm:inline">YouTuber</a>
+              <a href="/articles" className="hover:text-pink-500 flex-shrink-0">記事</a>
             </nav>
           </div>
         </header>
@@ -80,7 +80,7 @@ export default function RootLayout({
         <footer className="border-t border-gray-200 mt-12 bg-white">
           <div className="max-w-5xl mx-auto px-4 py-8">
             {/* フッター内部リンク集 */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 mb-8 text-sm">
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6 mb-8 text-xs sm:text-sm">
 
               {/* サイトマップ */}
               <div>
