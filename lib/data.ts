@@ -238,6 +238,18 @@ export function getCreatorBySlug(slug: string): Creator | null {
   return getCreators().find(c => slugifyCreator(c.name) === slug) ?? null
 }
 
+// チャンネルのYouTube名から表示名とアイコンURLを取得する
+// products.json の mentioned_by[].channel は youtube_name なので、channels.json と照合して表示用情報を返す
+export function getChannelDisplayInfo(youtubeChannelName: string): { displayName: string; iconUrl: string | null } {
+  const channels = getChannels()
+  const ch = channels.find(c => c.youtube_name === youtubeChannelName || c.name === youtubeChannelName)
+  if (ch) {
+    return { displayName: ch.name, iconUrl: ch.icon_url || null }
+  }
+  // channels.json に見つからない場合はそのまま返す
+  return { displayName: youtubeChannelName, iconUrl: null }
+}
+
 // 関連商品（同カテゴリ・mention_count降順・自分を除く上位4件）
 export function getRelatedProducts(product: Product): Product[] {
   return getProducts()

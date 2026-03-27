@@ -1,5 +1,5 @@
 // 商品詳細ページ（CV改善版）
-import { getProducts, getProductBySlug, getRelatedProducts, slugifyProduct, extractVideoId } from '@/lib/data'
+import { getProducts, getProductBySlug, getRelatedProducts, slugifyProduct, extractVideoId, getChannelDisplayInfo } from '@/lib/data'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 
@@ -47,9 +47,9 @@ export default async function ProductPage({
   const relatedProducts = getRelatedProducts(product)
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
   const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
-  // コメントがある紹介だけ抽出（最大5件）
+  // コメントがある紹介だけ抽出（空・ハイフン・短すぎるものは除外、最大5件）
   const topContexts = product.mentioned_by
-    .filter(m => m.context && m.context.length > 10)
+    .filter(m => m.context && m.context !== '-' && m.context.trim().length > 10)
     .slice(0, 5)
 
   // パンくず構造化データ（Googleリッチスニペット用）
@@ -158,17 +158,28 @@ export default async function ProductPage({
         <div className="bg-white rounded-2xl border border-gray-100 p-5">
           <h2 className="text-base font-bold text-gray-800 mb-3">💬 YouTuberの声</h2>
           <div className="space-y-3">
-            {topContexts.map((mention, i) => (
-              <div key={i} className="flex gap-3 items-start">
-                <div className="flex-shrink-0 w-8 h-8 bg-pink-100 rounded-full flex items-center justify-center text-xs font-bold text-pink-600">
-                  {mention.channel.charAt(0)}
+            {topContexts.map((mention, i) => {
+              const channelInfo = getChannelDisplayInfo(mention.channel)
+              return (
+                <div key={i} className="flex gap-3 items-start">
+                  {channelInfo.iconUrl ? (
+                    <img
+                      src={channelInfo.iconUrl}
+                      alt={channelInfo.displayName}
+                      className="flex-shrink-0 w-8 h-8 rounded-full object-cover"
+                    />
+                  ) : (
+                    <div className="flex-shrink-0 w-8 h-8 bg-pink-100 rounded-full flex items-center justify-center text-xs font-bold text-pink-600">
+                      {channelInfo.displayName.charAt(0)}
+                    </div>
+                  )}
+                  <div className="flex-1 min-w-0">
+                    <p className="text-xs text-pink-500 font-medium mb-1">{channelInfo.displayName}</p>
+                    <p className="text-sm text-gray-700 leading-relaxed">{mention.context}</p>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <p className="text-xs text-pink-500 font-medium mb-1">{mention.channel}</p>
-                  <p className="text-sm text-gray-700 leading-relaxed">{mention.context}</p>
-                </div>
-              </div>
-            ))}
+              )
+            })}
           </div>
         </div>
       )}
