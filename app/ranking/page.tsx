@@ -152,13 +152,13 @@ export default function RankingPage() {
                   {product.amazon_url && (
                     <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
                       className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors shadow-sm">
-                      🛒 Amazon
+                      🛒 Amazonで見る
                     </a>
                   )}
                   {product.rakuten_url && (
                     <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-                      className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 sm:px-4 py-1.5 rounded-lg transition-colors">
-                      楽天
+                      className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors shadow-sm">
+                      🛒 楽天で見る
                     </a>
                   )}
                   <a href={`/product/${encodeURIComponent(slug)}`}
@@ -216,13 +216,13 @@ export default function RankingPage() {
                     {product.amazon_url && (
                       <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
                         className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
-                        🛒 Amazon
+                        🛒 Amazonで見る
                       </a>
                     )}
                     {product.rakuten_url && (
                       <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-                        className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 py-1 rounded-lg transition-colors">
-                        楽天
+                        className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
+                        🛒 楽天で見る
                       </a>
                     )}
                   </div>

@@ -275,14 +275,14 @@ export default async function ProductPage({
           <div className="flex gap-2">
             {product.amazon_url && (
               <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
-                className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm">
-                🛒 Amazon
+                className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm shadow-sm">
+                🛒 Amazonで見る
               </a>
             )}
             {product.rakuten_url && (
               <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
-                className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm">
-                🛒 楽天
+                className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm shadow-sm">
+                🛒 楽天で見る
               </a>
             )}
           </div>
