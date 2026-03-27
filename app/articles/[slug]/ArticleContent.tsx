@@ -93,7 +93,7 @@ export default function ArticleContent({ content, videoId, channelName, channelI
                 em: ({ children }) => (
                   <em className="text-gray-400 text-xs not-italic">{children}</em>
                 ),
-                // リンク（Amazon・楽天リンク対応 → ボタン風スタイル）
+                // リンク（Amazon・楽天リンク → 商品ページと同じボタンスタイル）
                 a: ({ href, children }) => {
                   const text = String(children)
                   const isAmazon = text.includes('Amazon') || text.includes('▶ Amazon') || (href && href.includes('amazon'))
@@ -104,10 +104,9 @@ export default function ArticleContent({ content, videoId, channelName, channelI
                         href={href}
                         target="_blank"
                         rel="noopener noreferrer nofollow"
-                        className="inline-flex items-center gap-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-xs font-bold px-4 py-2 rounded-xl mr-2 mb-2 transition-colors shadow-sm"
+                        className="inline-flex items-center justify-center gap-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-6 rounded-xl mr-2 mb-2 transition-colors text-sm shadow-sm"
                       >
-                        <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.616 15.393c-.32-.22-.667-.326-1.04-.326-.267 0-.52.066-.76.2-.24.133-.467.333-.68.6l-.2.267c-.16.213-.32.32-.48.32-.107 0-.213-.054-.32-.16-.107-.107-.173-.267-.2-.48l-.04-.28c-.027-.213-.04-.44-.04-.68 0-.587.067-1.16.2-1.72.133-.56.333-1.067.6-1.52.267-.453.587-.813.96-1.08.373-.267.787-.4 1.24-.4.32 0 .613.067.88.2.267.133.493.313.68.54.187.227.333.487.44.78.107.293.16.6.16.92 0 .48-.08.933-.24 1.36-.16.427-.373.8-.64 1.12-.267.32-.573.573-.92.76-.347.187-.707.28-1.08.28h-.04zM21.6 19.2c-.8.667-1.96 1-3.48 1-1.627 0-3-.533-4.12-1.6.08-.08.22-.213.42-.4.2-.187.307-.307.32-.36.96.827 2.047 1.24 3.26 1.24.907 0 1.627-.2 2.16-.6.533-.4.8-.92.8-1.56 0-.48-.16-.907-.48-1.28-.32-.373-.867-.693-1.64-.96-.4-.133-.733-.267-1-.4-.267-.133-.493-.28-.68-.44-.187-.16-.333-.34-.44-.54-.107-.2-.16-.44-.16-.72 0-.747.293-1.36.88-1.84.587-.48 1.32-.72 2.2-.72 1.12 0 2 .307 2.64.92-.107.133-.267.307-.48.52-.213.213-.347.347-.4.4-.48-.48-1.087-.72-1.82-.72-.533 0-.96.133-1.28.4-.32.267-.48.6-.48 1 0 .347.133.64.4.88.267.24.707.467 1.32.68.667.24 1.2.547 1.6.92.4.373.6.88.6 1.52 0 .827-.32 1.493-.96 2-.64.507-1.48.76-2.52.76-.133 0-.273-.007-.42-.02z"/></svg>
-                        {text}
+                        🛒 Amazonで見る
                       </a>
                     )
                   }
@@ -117,9 +116,9 @@ export default function ArticleContent({ content, videoId, channelName, channelI
                         href={href}
                         target="_blank"
                         rel="noopener noreferrer nofollow"
-                        className="inline-flex items-center gap-1 bg-red-500 hover:bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-xl mr-2 mb-2 transition-colors shadow-sm"
+                        className="inline-flex items-center justify-center gap-1 bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-xl mr-2 mb-2 transition-colors text-sm shadow-sm"
                       >
-                        {text}
+                        🛒 楽天で見る
                       </a>
                     )
                   }
