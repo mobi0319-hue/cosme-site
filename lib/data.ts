@@ -142,9 +142,14 @@ export function slugifyProduct(product: Product): string {
     .replace(/[^\w\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF\u3400-\u4DBF]/g, '-')
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '')
-  // Vercelのファイルシステム制限対策: 長すぎるスラッグを切り詰め
-  if (slug.length > 120) {
-    return slug.slice(0, 120).replace(/-$/, '')
+  // Vercelのファイルシステム制限対策（Linux ext4: 255バイト上限）
+  // 日本語はUTF-8で1文字3バイトなので、80文字（約240バイト）で切り詰め
+  if (Buffer.byteLength(slug, 'utf8') > 200) {
+    let trimmed = slug
+    while (Buffer.byteLength(trimmed, 'utf8') > 200) {
+      trimmed = trimmed.slice(0, -1)
+    }
+    return trimmed.replace(/-$/, '')
   }
   return slug
 }
