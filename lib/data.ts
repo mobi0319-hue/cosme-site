@@ -158,6 +158,21 @@ export function extractVideoId(url: string): string {
   return match ? match[1] : url
 }
 
+// ======== チャンネル名照合 ========
+
+// products.json の channel名と channels.json の name/youtube_name を照合する
+// 1. 完全一致（channel名 === name or youtube_name）
+// 2. 部分一致（channel名がnameを含む or nameがchannel名を含む）
+// 3. youtube_nameでも同様の部分一致
+function channelMatches(productChannel: string, ch: Channel): boolean {
+  // 完全一致
+  if (productChannel === ch.name || productChannel === ch.youtube_name) return true
+  // 部分一致
+  if (productChannel.includes(ch.name) || ch.name.includes(productChannel)) return true
+  if (productChannel.includes(ch.youtube_name) || ch.youtube_name.includes(productChannel)) return true
+  return false
+}
+
 // ======== 集計・変換 ========
 
 // 全商品（mention_count降順）
@@ -212,8 +227,8 @@ export function getCreators(): Creator[] {
   const videos = getVideos()
 
   return channels.map(ch => {
-    // このチャンネルの動画を抽出
-    const creatorVideos = videos.filter(v => v.channel === ch.name || v.channel === ch.youtube_name)
+    // このチャンネルの動画を抽出（部分一致も含めて照合）
+    const creatorVideos = videos.filter(v => channelMatches(v.channel, ch))
 
     // よく出る商品（mention_count降順で上位10件）
     const allProducts = creatorVideos.flatMap(v => v.products)
@@ -242,19 +257,10 @@ export function getCreatorBySlug(slug: string): Creator | null {
 // products.json の mentioned_by[].channel は youtube_name なので、channels.json と照合して表示用情報を返す
 export function getChannelDisplayInfo(youtubeChannelName: string): { displayName: string; iconUrl: string | null } {
   const channels = getChannels()
-  // 1. youtube_name または name で完全一致
-  const exact = channels.find(c => c.youtube_name === youtubeChannelName || c.name === youtubeChannelName)
-  if (exact) {
-    return { displayName: exact.name, iconUrl: exact.icon_url || null }
-  }
-  // 2. 部分一致（products.json の channel名に channels.json の name や youtube_name が含まれるケース）
-  //    例: "韓国オンニAちゃん (会社員J)" に "会社員J" が含まれる
-  const partial = channels.find(c =>
-    youtubeChannelName.includes(c.name) || youtubeChannelName.includes(c.youtube_name) ||
-    c.name.includes(youtubeChannelName) || c.youtube_name.includes(youtubeChannelName)
-  )
-  if (partial) {
-    return { displayName: partial.name, iconUrl: partial.icon_url || null }
+  // channelMatches で完全一致＋部分一致を一括照合
+  const matched = channels.find(c => channelMatches(youtubeChannelName, c))
+  if (matched) {
+    return { displayName: matched.name, iconUrl: matched.icon_url || null }
   }
   // channels.json に見つからない場合はそのまま返す
   return { displayName: youtubeChannelName, iconUrl: null }
