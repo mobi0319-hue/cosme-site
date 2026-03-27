@@ -274,6 +274,33 @@ export function getRelatedProducts(product: Product): Product[] {
     .slice(0, 4)
 }
 
+// 記事本文に登場する商品をproducts.jsonからマッチングして返す
+export function getMatchedProductsForArticle(articleContent: string, articleChannel: string): Product[] {
+  const products = getProducts().filter(p => p.genre === 'cosme')
+  const matched: Product[] = []
+
+  for (const product of products) {
+    // 商品名が記事本文に含まれているか（部分一致）
+    // 短すぎる商品名（3文字以下）は誤マッチ防止のためブランド名も合わせてチェック
+    const nameInContent = product.product_name.length > 3
+      ? articleContent.includes(product.product_name)
+      : articleContent.includes(product.product_name) && articleContent.includes(product.brand)
+
+    if (nameInContent) {
+      // リンクが両方とも空なら意味がないのでスキップ
+      if (!product.amazon_url && !product.rakuten_url) continue
+      matched.push(product)
+    }
+  }
+
+  // 重複除去（同じ商品名+ブランドの組み合わせ）
+  const unique = Array.from(
+    new Map(matched.map(p => [`${p.brand}-${p.product_name}`, p])).values()
+  )
+
+  return unique
+}
+
 // カテゴリ一覧（正規順で返す）
 export function getCategories(): string[] {
   const products = getProducts().filter(p => p.genre === 'cosme')

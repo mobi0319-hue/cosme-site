@@ -1,8 +1,9 @@
 // 個別記事ページ
 import type { Metadata } from 'next'
-import { getArticles, getArticleBySlug, getChannelDisplayInfo } from '@/lib/data'
+import { getArticles, getArticleBySlug, getChannelDisplayInfo, getMatchedProductsForArticle } from '@/lib/data'
 import { notFound } from 'next/navigation'
 import ArticleContent from './ArticleContent'
+import ArticleProducts from './ArticleProducts'
 
 // 全記事のスラッグを静的パスとして生成
 export function generateStaticParams() {
@@ -71,6 +72,9 @@ export default async function ArticlePage({
 
   // チャンネル情報
   const channelInfo = getChannelDisplayInfo(article.channel)
+
+  // 記事本文に登場する商品をマッチング
+  const matchedProducts = getMatchedProductsForArticle(article.content, article.channel)
 
   // BreadcrumbList 構造化データ
   const breadcrumbJsonLd = {
@@ -160,6 +164,9 @@ export default async function ArticlePage({
 
       {/* 記事本文 */}
       <ArticleContent content={contentForRender} videoId={null} channelName={channelInfo.displayName} channelIconUrl={channelInfo.iconUrl} />
+
+      {/* この記事で紹介された商品（購入リンク付き） */}
+      <ArticleProducts products={matchedProducts} />
 
       {/* 記事一覧に戻るリンク */}
       <div className="mt-6 pt-6 border-t border-gray-100">
