@@ -1,7 +1,7 @@
-// TOPページ：悩み別 + 人気商品 + YouTuber + 動画 + 記事
+// TOPページ：人気商品 + YouTuber + 動画 + 記事（悩み別はヒーロー内タグ）
 import type { Metadata } from 'next'
 import { getProductsSorted, getVideos, getCreators, getArticles, slugifyProduct, slugifyCreator } from '@/lib/data'
-import { CONCERNS, getProductsForConcern } from '@/lib/concerns'
+import { CONCERNS } from '@/lib/concerns'
 
 export const metadata: Metadata = {
   title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
@@ -31,65 +31,29 @@ export default function Home() {
   return (
     <div className="space-y-10">
 
-      {/* ヒーローセクション */}
-      <section className="text-center py-6 sm:py-8 px-4 bg-white rounded-2xl border border-pink-100">
-        <h1 className="text-lg sm:text-2xl font-bold text-gray-800 mb-2">
+      {/* ヒーローセクション（悩み別タグ統合・コンパクト版） */}
+      <section className="text-center py-5 sm:py-6 px-4 bg-white rounded-2xl border border-pink-100">
+        <h1 className="text-lg sm:text-2xl font-bold text-gray-800 mb-1">
           YouTuberが紹介したコスメをまとめてチェック
         </h1>
-        <p className="text-gray-500 text-xs sm:text-sm mb-4">
-          実際に使って「良かった」と紹介されたコスメだけを掲載。多くのYouTuberに選ばれた商品は特におすすめです。
+        <p className="text-gray-400 text-xs mb-3">
+          {creators.length}名のYouTuberが紹介した{allProducts.length}件のコスメを掲載中
         </p>
-        <div className="flex justify-center gap-3 mb-4">
-          <a href="/ranking"
-            className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-5 py-2 rounded-xl transition-colors text-sm">
-            人気ランキングを見る
-          </a>
-          <a href="#concerns"
-            className="inline-block bg-white hover:bg-pink-50 text-pink-500 font-bold px-5 py-2 rounded-xl border border-pink-300 transition-colors text-sm">
-            悩みから探す
-          </a>
-        </div>
-        {/* 統計バナー */}
-        <div className="flex justify-center gap-4 sm:gap-6 text-center">
-          <div>
-            <p className="text-xl sm:text-2xl font-bold text-pink-500">{allProducts.length}<span className="text-sm sm:text-base font-normal">件</span></p>
-            <p className="text-xs text-gray-400">掲載商品</p>
-          </div>
-          <div className="border-l border-gray-100" />
-          <div>
-            <p className="text-xl sm:text-2xl font-bold text-pink-500">{getVideos().length}<span className="text-sm sm:text-base font-normal">本</span></p>
-            <p className="text-xs text-gray-400">紹介動画</p>
-          </div>
-          <div className="border-l border-gray-100" />
-          <div>
-            <p className="text-xl sm:text-2xl font-bold text-pink-500">{creators.length}<span className="text-sm sm:text-base font-normal">名</span></p>
-            <p className="text-xs text-gray-400">YouTuber</p>
-          </div>
-        </div>
-      </section>
-
-      {/* 悩み・目的から探す */}
-      <section id="concerns">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-lg font-bold text-gray-800">🎯 悩み・目的から探す</h2>
-          <a href="/concerns" className="text-sm text-pink-500 hover:underline">すべて見る →</a>
-        </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-          {CONCERNS.map(concern => {
-            const count = getProductsForConcern(concern).length
-            return (
-              <a
-                key={concern.slug}
-                href={`/concerns/${concern.slug}`}
-                className="bg-white border border-gray-100 rounded-xl p-4 hover:border-pink-200 hover:shadow-md transition-all text-center"
-              >
-                <span className="text-2xl sm:text-3xl block mb-2">{concern.icon}</span>
-                <p className="text-sm font-bold text-gray-800 mb-1">{concern.title}</p>
-                <p className="text-xs text-gray-400 line-clamp-1">{concern.subtitle}</p>
-                <p className="text-xs text-pink-500 mt-2">{count}件</p>
-              </a>
-            )
-          })}
+        <a href="/ranking"
+          className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-6 py-2 rounded-xl transition-colors text-sm mb-4">
+          人気ランキングを見る
+        </a>
+        {/* 悩み・目的タグ */}
+        <div className="flex flex-wrap justify-center gap-2 pt-3 border-t border-pink-50">
+          {CONCERNS.map(concern => (
+            <a
+              key={concern.slug}
+              href={`/concerns/${concern.slug}`}
+              className="text-xs bg-pink-50 hover:bg-pink-100 text-pink-600 px-3 py-1.5 rounded-full transition-colors"
+            >
+              {concern.icon} {concern.title}
+            </a>
+          ))}
         </div>
       </section>
 

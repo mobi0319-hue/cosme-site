@@ -63,9 +63,9 @@ export default function RootLayout({
             <nav className="flex gap-3 sm:gap-4 text-xs sm:text-sm text-gray-600 overflow-x-auto whitespace-nowrap">
               <a href="/ranking" className="hover:text-pink-500 font-medium flex-shrink-0">ランキング</a>
               <a href="/products" className="hover:text-pink-500 flex-shrink-0">商品一覧</a>
-              <a href="/concerns" className="hover:text-pink-500 flex-shrink-0">悩み別</a>
+              <a href="/creators" className="hover:text-pink-500 flex-shrink-0">YouTuber</a>
               <a href="/videos" className="hover:text-pink-500 flex-shrink-0 hidden sm:inline">動画一覧</a>
-              <a href="/creators" className="hover:text-pink-500 flex-shrink-0 hidden sm:inline">YouTuber</a>
+              <a href="/concerns" className="hover:text-pink-500 flex-shrink-0 hidden sm:inline">悩み別</a>
               <a href="/articles" className="hover:text-pink-500 flex-shrink-0">記事</a>
             </nav>
           </div>
@@ -82,16 +82,30 @@ export default function RootLayout({
             {/* フッター内部リンク集 */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6 mb-8 text-xs sm:text-sm">
 
-              {/* サイトマップ */}
+              {/* サイト案内 */}
               <div>
                 <h3 className="font-bold text-gray-700 mb-3">サイト案内</h3>
                 <ul className="space-y-1.5 text-gray-500">
                   <li><a href="/ranking" className="hover:text-pink-500">ランキング</a></li>
                   <li><a href="/products" className="hover:text-pink-500">商品一覧</a></li>
-                  <li><a href="/concerns" className="hover:text-pink-500">悩み別まとめ</a></li>
-                  <li><a href="/videos" className="hover:text-pink-500">動画一覧</a></li>
                   <li><a href="/creators" className="hover:text-pink-500">YouTuber一覧</a></li>
+                  <li><a href="/videos" className="hover:text-pink-500">動画一覧</a></li>
+                  <li><a href="/concerns" className="hover:text-pink-500">悩み別まとめ</a></li>
                   <li><a href="/articles" className="hover:text-pink-500">記事一覧</a></li>
+                </ul>
+              </div>
+
+              {/* 人気YouTuber */}
+              <div>
+                <h3 className="font-bold text-gray-700 mb-3">人気YouTuber</h3>
+                <ul className="space-y-1.5 text-gray-500">
+                  {getCreators().slice(0, 8).map(creator => (
+                    <li key={creator.name}>
+                      <a href={`/creator/${encodeURIComponent(slugifyCreator(creator.name))}`} className="hover:text-pink-500">
+                        {creator.name}
+                      </a>
+                    </li>
+                  ))}
                 </ul>
               </div>
 
@@ -109,7 +123,7 @@ export default function RootLayout({
                 </ul>
               </div>
 
-              {/* 悩み別 */}
+              {/* 悩み・テーマ別 */}
               <div>
                 <h3 className="font-bold text-gray-700 mb-3">悩み・テーマ別</h3>
                 <ul className="space-y-1.5 text-gray-500">
@@ -117,20 +131,6 @@ export default function RootLayout({
                     <li key={c.slug}>
                       <a href={`/concerns/${c.slug}`} className="hover:text-pink-500">
                         {c.icon} {c.title}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-
-              {/* 人気YouTuber */}
-              <div>
-                <h3 className="font-bold text-gray-700 mb-3">人気YouTuber</h3>
-                <ul className="space-y-1.5 text-gray-500">
-                  {getCreators().slice(0, 8).map(creator => (
-                    <li key={creator.name}>
-                      <a href={`/creator/${encodeURIComponent(slugifyCreator(creator.name))}`} className="hover:text-pink-500">
-                        {creator.name}
                       </a>
                     </li>
                   ))}
