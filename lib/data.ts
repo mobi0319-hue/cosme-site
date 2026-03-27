@@ -253,3 +253,75 @@ export function getCategories(): string[] {
   // CATEGORY_ORDER に沿って並べ、定義外のものは末尾に追加
   return CATEGORY_ORDER.filter(c => cats.has(c))
 }
+
+// ======== 記事データ ========
+
+export type Article = {
+  slug: string
+  title: string
+  channel: string
+  date: string
+  videoUrl: string
+  genre: string
+  content: string
+}
+
+// 記事ファイル名からメタデータを抽出する
+function parseArticleFilename(filename: string): { channel: string; date: string } {
+  // article_video_チャンネル名_YYYYMMDD_HHMMSS.md
+  const match = filename.match(/^article_video_(.+)_(\d{8})_\d{6}\.md$/)
+  if (!match) {
+    // article_multi.md など特殊なファイル
+    return { channel: '複数チャンネル', date: '' }
+  }
+  const channel = match[1]
+  const dateStr = match[2]
+  const date = `${dateStr.slice(0, 4)}-${dateStr.slice(4, 6)}-${dateStr.slice(6, 8)}`
+  return { channel, date }
+}
+
+// Markdownの先頭コメントからメタデータを抽出する
+function parseArticleMeta(content: string): { videoUrl: string; genre: string; title: string } {
+  const videoMatch = content.match(/<!--\s*VIDEO_URL:\s*(.+?)\s*-->/)
+  const genreMatch = content.match(/<!--\s*GENRE:\s*(.+?)\s*-->/)
+  // H1 タイトルを取得
+  const titleMatch = content.match(/^#\s+(.+)$/m)
+  return {
+    videoUrl: videoMatch ? videoMatch[1] : '',
+    genre: genreMatch ? genreMatch[1] : 'cosme',
+    title: titleMatch ? titleMatch[1] : '無題',
+  }
+}
+
+const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles')
+
+// 全記事を取得（日付の新しい順）
+export function getArticles(): Article[] {
+  if (!fs.existsSync(ARTICLES_DIR)) return []
+
+  const files = fs.readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.md'))
+  const articles: Article[] = []
+
+  for (const file of files) {
+    const content = fs.readFileSync(path.join(ARTICLES_DIR, file), 'utf-8')
+    const { channel, date } = parseArticleFilename(file)
+    const { videoUrl, genre, title } = parseArticleMeta(content)
+    // スラッグはファイル名から .md を除いたもの
+    const slug = file.replace(/\.md$/, '')
+    articles.push({ slug, title, channel, date, videoUrl, genre, content })
+  }
+
+  // 日付の新しい順にソート
+  return articles.sort((a, b) => b.date.localeCompare(a.date))
+}
+
+// スラッグから記事を取得
+export function getArticleBySlug(slug: string): Article | null {
+  const filePath = path.join(ARTICLES_DIR, `${slug}.md`)
+  if (!fs.existsSync(filePath)) return null
+
+  const content = fs.readFileSync(filePath, 'utf-8')
+  const { channel, date } = parseArticleFilename(`${slug}.md`)
+  const { videoUrl, genre, title } = parseArticleMeta(content)
+  return { slug, title, channel, date, videoUrl, genre, content }
+}

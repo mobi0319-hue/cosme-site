@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getProducts, getCategories, getCreators, slugifyCreator } from "@/lib/data";
+import { getProducts, getCategories, getCreators, getArticles, slugifyCreator } from "@/lib/data";
 import { CONCERNS } from "@/lib/concerns";
 import "./globals.css";
 
@@ -66,6 +66,7 @@ export default function RootLayout({
               <a href="/concerns" className="hover:text-pink-500">悩み別</a>
               <a href="/videos" className="hover:text-pink-500">動画一覧</a>
               <a href="/creators" className="hover:text-pink-500">YouTuber</a>
+              <a href="/articles" className="hover:text-pink-500">記事</a>
             </nav>
           </div>
         </header>
@@ -90,6 +91,7 @@ export default function RootLayout({
                   <li><a href="/concerns" className="hover:text-pink-500">悩み別まとめ</a></li>
                   <li><a href="/videos" className="hover:text-pink-500">動画一覧</a></li>
                   <li><a href="/creators" className="hover:text-pink-500">YouTuber一覧</a></li>
+                  <li><a href="/articles" className="hover:text-pink-500">記事一覧</a></li>
                 </ul>
               </div>
 

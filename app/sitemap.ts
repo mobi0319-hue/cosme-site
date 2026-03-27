@@ -1,4 +1,4 @@
-import { getProducts, getVideos, getCreators, slugifyProduct, slugifyCreator } from '@/lib/data'
+import { getProducts, getVideos, getCreators, getArticles, slugifyProduct, slugifyCreator } from '@/lib/data'
 
 const BASE_URL = 'https://cosme-site.vercel.app'
 
@@ -6,6 +6,7 @@ export default function sitemap() {
   const products = getProducts()
   const videos = getVideos()
   const creators = getCreators()
+  const articles = getArticles()
 
   const staticPages = [
     { url: BASE_URL, lastModified: new Date(), changeFrequency: 'daily' as const, priority: 1.0 },
@@ -38,5 +39,19 @@ export default function sitemap() {
     priority: 0.5,
   }))
 
-  return [...staticPages, ...productPages, ...videoPages, ...creatorPages]
+  const articleListPage = {
+    url: `${BASE_URL}/articles`,
+    lastModified: new Date(),
+    changeFrequency: 'daily' as const,
+    priority: 0.8,
+  }
+
+  const articlePages = articles.map(a => ({
+    url: `${BASE_URL}/articles/${encodeURIComponent(a.slug)}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.6,
+  }))
+
+  return [...staticPages, articleListPage, ...productPages, ...videoPages, ...creatorPages, ...articlePages]
 }

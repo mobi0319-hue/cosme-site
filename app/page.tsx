@@ -1,6 +1,6 @@
 // TOPページ：人気商品 + 最新動画 + YouTuber一覧
 import type { Metadata } from 'next'
-import { getProductsSorted, getVideos, getCreators, slugifyProduct, slugifyCreator } from '@/lib/data'
+import { getProductsSorted, getVideos, getCreators, getArticles, slugifyProduct, slugifyCreator } from '@/lib/data'
 
 export const metadata: Metadata = {
   title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
@@ -25,6 +25,7 @@ export default function Home() {
   const products = allProducts.slice(0, 12)
   const videos = getVideos().slice(0, 8)
   const creators = getCreators()
+  const latestArticles = getArticles().slice(0, 6)
 
   return (
     <div className="space-y-10">
@@ -121,6 +122,40 @@ export default function Home() {
               </div>
             </a>
           ))}
+        </div>
+      </section>
+
+      {/* 最新記事 */}
+      <section>
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-lg font-bold text-gray-800">📝 最新のコスメ記事</h2>
+          <a href="/articles" className="text-sm text-pink-500 hover:underline">すべて見る →</a>
+        </div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          {latestArticles.map((article) => {
+            const vidMatch = article.videoUrl.match(/[?&]v=([^&]+)/)
+            const vid = vidMatch ? vidMatch[1] : null
+            return (
+              <a
+                key={article.slug}
+                href={`/articles/${encodeURIComponent(article.slug)}`}
+                className="bg-white border border-gray-100 rounded-xl p-4 hover:shadow-md transition-shadow flex gap-3"
+              >
+                {vid && (
+                  <img
+                    src={`https://img.youtube.com/vi/${vid}/mqdefault.jpg`}
+                    alt=""
+                    className="w-24 h-16 object-cover rounded-lg flex-shrink-0"
+                  />
+                )}
+                <div className="min-w-0">
+                  <p className="text-xs text-pink-500 mb-1">{article.channel}</p>
+                  <p className="text-sm font-medium text-gray-800 line-clamp-2">{article.title}</p>
+                  {article.date && <p className="text-xs text-gray-400 mt-1">{article.date}</p>}
+                </div>
+              </a>
+            )
+          })}
         </div>
       </section>
 
