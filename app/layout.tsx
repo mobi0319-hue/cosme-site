@@ -138,18 +138,19 @@ export default function RootLayout({
               </div>
             </div>
 
-            {/* サイト説明文（SEO向け） */}
+            {/* サイト説明文 */}
             <div className="border-t border-gray-100 pt-6 mb-6">
               <p className="text-xs text-gray-400 leading-relaxed">
-                「コスメまとめ」は、人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめたサイトです。
-                複数のYouTuberが紹介している商品は特に信頼性が高く、購入の参考になります。
-                Amazon・楽天の購入リンク付きで、気になった商品をすぐにチェックできます。
+                「コスメまとめ」は、人気YouTuberが動画で紹介したコスメ・スキンケア商品の情報をまとめ、動画をより多くの方に届けるためのガイドサイトです。
+                各商品ページから元の動画へのリンクを掲載しており、気になった商品の詳しいレビューは動画でご確認いただけます。
+                当サイトは各YouTuber・クリエイターとは独立して運営しており、公式サイトではありません。
               </p>
             </div>
 
-            {/* 免責事項 */}
+            {/* 広告表示・免責事項 */}
             <div className="text-center text-xs text-gray-400 space-y-1">
-              <p>※ 当サイトはAmazonアソシエイト・楽天アフィリエイトプログラムに参加しています。</p>
+              <p>※ 当サイトはアフィリエイト広告を利用しています。商品リンクを経由して購入された場合、当サイトに紹介料が支払われます。</p>
+              <p>※ 掲載クリエイターの方で掲載停止をご希望の場合は<a href="/contact" className="text-pink-500 hover:text-pink-600 underline">お問い合わせ</a>よりご連絡ください。速やかに対応いたします。</p>
               <p>
                 <a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a>
                 <span className="mx-2">|</span>

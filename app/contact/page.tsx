@@ -64,9 +64,19 @@ export default function ContactPage() {
       </nav>
 
       <h1 className="text-2xl font-bold text-gray-800 mb-2">お問い合わせ</h1>
-      <p className="text-sm text-gray-500 mb-8">
+      <p className="text-sm text-gray-500 mb-6">
         当サイトに関するご質問・ご要望・掲載内容の修正依頼等は、下記フォームよりお送りください。
       </p>
+
+      {/* クリエイター向け案内 */}
+      <div className="bg-pink-50 border border-pink-100 rounded-xl p-4 mb-8">
+        <h2 className="text-sm font-bold text-gray-800 mb-2">クリエイター・YouTuberの方へ</h2>
+        <p className="text-xs text-gray-600 leading-relaxed">
+          当サイトでは、YouTube動画で紹介された商品情報をまとめ、視聴者の方が動画や商品を見つけやすくすることを目的としています。
+          掲載内容の修正・削除をご希望の場合は、下記フォームの種別から「掲載削除の依頼」を選択してご連絡ください。
+          確認後、速やかに対応いたします（原則24時間以内）。
+        </p>
+      </div>
 
       <form onSubmit={handleSubmit} className="space-y-6">
         {/* お名前 */}
