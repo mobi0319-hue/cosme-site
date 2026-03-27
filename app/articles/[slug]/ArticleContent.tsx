@@ -11,9 +11,28 @@ type Props = {
   channelIconUrl?: string | null
 }
 
+// 冒頭の「この動画で紹介されたアイテム一覧」セクションからリンクを除去する（目次化）
+function removeLinksFromItemList(markdown: string): string {
+  // 「この動画で紹介されたアイテム一覧」と「各アイテムの詳細」の間の番号付きリストからリンクを除去
+  const listSectionRegex = /(## この動画で紹介されたアイテム一覧\s*\n)([\s\S]*?)((?=\n## )|$)/
+  const match = markdown.match(listSectionRegex)
+  if (!match) return markdown
+
+  const before = markdown.slice(0, match.index! + match[1].length)
+  const listSection = match[2]
+  const after = markdown.slice(match.index! + match[1].length + listSection.length)
+
+  // 番号付きリスト内の Markdown リンク [テキスト](URL) を除去（前後の全角スペースも含む）
+  const cleanedList = listSection.replace(/[\s　]*\[(?:▶\s*)?(?:Amazon(?:で見る)?|楽天(?:で見る)?)\]\([^)]*\)/g, '')
+
+  return before + cleanedList + after
+}
+
 export default function ArticleContent({ content, videoId, channelName, channelIconUrl }: Props) {
+  // 冒頭一覧のリンクを除去（目次化）
+  const processedContent = removeLinksFromItemList(content)
   // [YOUTUBE_EMBED] の前後でコンテンツを分割
-  const parts = content.split('[YOUTUBE_EMBED]')
+  const parts = processedContent.split('[YOUTUBE_EMBED]')
 
   return (
     <div className="space-y-4">
@@ -115,9 +134,9 @@ export default function ArticleContent({ content, videoId, channelName, channelI
                     </a>
                   )
                 },
-                // 順序付きリスト（商品一覧）をカード風に
+                // 順序付きリスト（商品一覧）
                 ol: ({ children }) => (
-                  <div className="space-y-2 my-4">{children}</div>
+                  <ol className="space-y-2 my-4 list-none">{children}</ol>
                 ),
                 // 順序なしリスト
                 ul: ({ children }) => (
