@@ -52,8 +52,36 @@ export default async function ProductPage({
     .filter(m => m.context && m.context.length > 10)
     .slice(0, 5)
 
+  // Schema.org構造化データ（Googleリッチスニペット用）
+  const offers = [
+    ...(product.amazon_url ? [{ "@type": "Offer" as const, url: product.amazon_url, seller: { "@type": "Organization" as const, name: "Amazon" } }] : []),
+    ...(product.rakuten_url ? [{ "@type": "Offer" as const, url: product.rakuten_url, seller: { "@type": "Organization" as const, name: "楽天" } }] : []),
+  ]
+  const structuredData = {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    name: `${product.brand} ${product.product_name}`,
+    brand: { "@type": "Brand", name: product.brand },
+    description: `${youtuberCount}人のYouTuberが紹介した${product.brand}の${product.product_name}。実際の口コミ・使用感をまとめました。`,
+    ...(product.image_url ? { image: product.image_url } : {}),
+    ...(offers.length > 0 ? {
+      offers: {
+        "@type": "AggregateOffer",
+        priceCurrency: "JPY",
+        offerCount: offers.length,
+        offers,
+      },
+    } : {}),
+  }
+
   return (
     <div className="max-w-2xl mx-auto space-y-4">
+
+      {/* Schema.org構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
 
       {/* パンくず */}
       <nav className="text-xs text-gray-400 flex gap-1">
