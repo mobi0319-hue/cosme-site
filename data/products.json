@@ -5915,7 +5915,9 @@
       }
     ],
     "brand_normalized": "不明（韓国コスメ）",
-    "canonical_name": "不明（韓国コスメ） リッチグロウ(乾燥肌用・青色パッケージ)"
+    "canonical_name": "不明（韓国コスメ） リッチグロウ(乾燥肌用・青色パッケージ)",
+    "status": "reject",
+    "status_reason": "ブランド名不明のため除外（Amazon審査対策）"
   },
   {
     "product_name": "カラー下地 イエロー",
@@ -19059,7 +19061,9 @@
       }
     ],
     "brand_normalized": "不明ブランド",
-    "canonical_name": "不明ブランド ジェルストラート(イエローコンシーラー)"
+    "canonical_name": "不明ブランド ジェルストラート(イエローコンシーラー)",
+    "status": "reject",
+    "status_reason": "ブランド名不明のため除外（Amazon審査対策）"
   },
   {
     "product_name": "デイケアレボリューション トーンアップ うるわしベージュ",
@@ -24539,7 +24543,9 @@
       }
     ],
     "brand_normalized": "不明のため除外",
-    "canonical_name": "不明のため除外 ラベンダーチーク(新作)"
+    "canonical_name": "不明のため除外 ラベンダーチーク(新作)",
+    "status": "reject",
+    "status_reason": "ブランド名不明のため除外（Amazon審査対策）"
   },
   {
     "product_name": "新作ハイライト",
