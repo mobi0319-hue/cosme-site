@@ -138,10 +138,15 @@ export function getChannels(): Channel[] {
 // 商品スラッグ: brand + product_name をURLセーフな文字列に変換
 export function slugifyProduct(product: Product): string {
   const str = `${product.brand}-${product.product_name}`
-  return str
+  const slug = str
     .replace(/[^\w\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF\u3400-\u4DBF]/g, '-')
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '')
+  // Vercelのファイルシステム制限対策: 長すぎるスラッグを切り詰め
+  if (slug.length > 120) {
+    return slug.slice(0, 120).replace(/-$/, '')
+  }
+  return slug
 }
 
 // クリエイタースラッグ: チャンネル名をURLセーフに
