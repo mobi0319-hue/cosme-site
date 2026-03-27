@@ -52,6 +52,17 @@ export default async function ProductPage({
     .filter(m => m.context && m.context.length > 10)
     .slice(0, 5)
 
+  // パンくず構造化データ（Googleリッチスニペット用）
+  const breadcrumbData = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
+      { "@type": "ListItem", position: 2, name: "商品一覧", item: "https://cosme-site.vercel.app/products" },
+      { "@type": "ListItem", position: 3, name: `${product.brand} ${product.product_name}` },
+    ],
+  }
+
   // Schema.org構造化データ（Googleリッチスニペット用）
   const offers = [
     ...(product.amazon_url ? [{ "@type": "Offer" as const, url: product.amazon_url, seller: { "@type": "Organization" as const, name: "Amazon" } }] : []),
@@ -77,6 +88,11 @@ export default async function ProductPage({
   return (
     <div className="max-w-2xl mx-auto space-y-4">
 
+      {/* パンくず構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+      />
       {/* Schema.org構造化データ */}
       <script
         type="application/ld+json"

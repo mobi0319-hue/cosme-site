@@ -39,8 +39,25 @@ export default async function CreatorPage({
   const creator = getCreatorBySlug(decodeURIComponent(slug))
   if (!creator) notFound()
 
+  // パンくず構造化データ
+  const breadcrumbData = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
+      { "@type": "ListItem", position: 2, name: "YouTuber一覧", item: "https://cosme-site.vercel.app/creators" },
+      { "@type": "ListItem", position: 3, name: creator.name },
+    ],
+  }
+
   return (
     <div className="max-w-2xl mx-auto space-y-6">
+
+      {/* パンくず構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+      />
 
       {/* パンくず */}
       <nav className="text-xs text-gray-400 flex gap-1">

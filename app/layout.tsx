@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { getProducts } from "@/lib/data";
+import { getProducts, getCategories, getCreators, slugifyCreator } from "@/lib/data";
+import { CONCERNS } from "@/lib/concerns";
 import "./globals.css";
 
 export function generateMetadata(): Metadata {
@@ -60,6 +61,7 @@ export default function RootLayout({
               💄 コスメまとめ
             </a>
             <nav className="flex gap-4 text-sm text-gray-600">
+              <a href="/ranking" className="hover:text-pink-500 font-medium">ランキング</a>
               <a href="/products" className="hover:text-pink-500">商品一覧</a>
               <a href="/concerns" className="hover:text-pink-500">悩み別</a>
               <a href="/videos" className="hover:text-pink-500">動画一覧</a>
@@ -73,11 +75,83 @@ export default function RootLayout({
           {children}
         </main>
 
-        {/* フッター */}
-        <footer className="border-t border-gray-200 mt-12 py-6 text-center text-sm text-gray-400">
-          <p>※ 当サイトはAmazonアソシエイト・楽天アフィリエイトプログラムに参加しています。</p>
-          <p className="mt-2"><a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a></p>
-          <p className="mt-1">© 2026 コスメまとめ</p>
+        {/* フッター（SEO内部リンク強化） */}
+        <footer className="border-t border-gray-200 mt-12 bg-white">
+          <div className="max-w-5xl mx-auto px-4 py-8">
+            {/* フッター内部リンク集 */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 mb-8 text-sm">
+
+              {/* サイトマップ */}
+              <div>
+                <h3 className="font-bold text-gray-700 mb-3">サイト案内</h3>
+                <ul className="space-y-1.5 text-gray-500">
+                  <li><a href="/ranking" className="hover:text-pink-500">ランキング</a></li>
+                  <li><a href="/products" className="hover:text-pink-500">商品一覧</a></li>
+                  <li><a href="/concerns" className="hover:text-pink-500">悩み別まとめ</a></li>
+                  <li><a href="/videos" className="hover:text-pink-500">動画一覧</a></li>
+                  <li><a href="/creators" className="hover:text-pink-500">YouTuber一覧</a></li>
+                </ul>
+              </div>
+
+              {/* カテゴリ別 */}
+              <div>
+                <h3 className="font-bold text-gray-700 mb-3">カテゴリ別</h3>
+                <ul className="space-y-1.5 text-gray-500">
+                  {getCategories().slice(0, 8).map(cat => (
+                    <li key={cat}>
+                      <a href={`/products?category=${encodeURIComponent(cat)}`} className="hover:text-pink-500">
+                        {cat}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* 悩み別 */}
+              <div>
+                <h3 className="font-bold text-gray-700 mb-3">悩み・テーマ別</h3>
+                <ul className="space-y-1.5 text-gray-500">
+                  {CONCERNS.map(c => (
+                    <li key={c.slug}>
+                      <a href={`/concerns/${c.slug}`} className="hover:text-pink-500">
+                        {c.icon} {c.title}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* 人気YouTuber */}
+              <div>
+                <h3 className="font-bold text-gray-700 mb-3">人気YouTuber</h3>
+                <ul className="space-y-1.5 text-gray-500">
+                  {getCreators().slice(0, 8).map(creator => (
+                    <li key={creator.name}>
+                      <a href={`/creator/${encodeURIComponent(slugifyCreator(creator.name))}`} className="hover:text-pink-500">
+                        {creator.name}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+
+            {/* サイト説明文（SEO向け） */}
+            <div className="border-t border-gray-100 pt-6 mb-6">
+              <p className="text-xs text-gray-400 leading-relaxed">
+                「コスメまとめ」は、人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめたサイトです。
+                複数のYouTuberが紹介している商品は特に信頼性が高く、購入の参考になります。
+                Amazon・楽天の購入リンク付きで、気になった商品をすぐにチェックできます。
+              </p>
+            </div>
+
+            {/* 免責事項 */}
+            <div className="text-center text-xs text-gray-400 space-y-1">
+              <p>※ 当サイトはAmazonアソシエイト・楽天アフィリエイトプログラムに参加しています。</p>
+              <p><a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a></p>
+              <p>© 2026 コスメまとめ</p>
+            </div>
+          </div>
         </footer>
       </body>
     </html>

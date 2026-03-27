@@ -34,9 +34,13 @@ export default function Home() {
         <h1 className="text-2xl font-bold text-gray-800 mb-2">
           YouTuberが紹介したコスメをまとめてチェック
         </h1>
-        <p className="text-gray-500 text-sm mb-6">
+        <p className="text-gray-500 text-sm mb-4">
           実際に使って「良かった」と紹介されたコスメだけを掲載。多くのYouTuberに選ばれた商品は特におすすめです。
         </p>
+        <a href="/ranking"
+          className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-6 py-2 rounded-xl transition-colors text-sm mb-4">
+          人気ランキングを見る
+        </a>
         {/* 統計バナー */}
         <div className="flex justify-center gap-6 text-center">
           <div>

@@ -43,8 +43,25 @@ export default async function VideoPage({
 
   const creatorSlug = slugifyCreator(video.channel)
 
+  // パンくず構造化データ
+  const breadcrumbData = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
+      { "@type": "ListItem", position: 2, name: "動画一覧", item: "https://cosme-site.vercel.app/videos" },
+      { "@type": "ListItem", position: 3, name: video.video_title },
+    ],
+  }
+
   return (
     <div className="max-w-2xl mx-auto space-y-6">
+
+      {/* パンくず構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+      />
 
       {/* パンくず */}
       <nav className="text-xs text-gray-400 flex gap-1 flex-wrap">

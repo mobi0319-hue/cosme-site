@@ -36,6 +36,17 @@ export default async function ConcernPage({
   const concern = getConcernBySlug(slug)
   if (!concern) notFound()
 
+  // パンくず構造化データ
+  const breadcrumbData = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
+      { "@type": "ListItem", position: 2, name: "悩み別まとめ", item: "https://cosme-site.vercel.app/concerns" },
+      { "@type": "ListItem", position: 3, name: concern.title },
+    ],
+  }
+
   const products = getProductsForConcern(concern)
   const totalYoutubers = new Set(
     products.flatMap(p => p.mentioned_by.map(m => m.channel))
@@ -43,6 +54,12 @@ export default async function ConcernPage({
 
   return (
     <div className="space-y-6">
+
+      {/* パンくず構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+      />
 
       {/* パンくず */}
       <nav className="text-xs text-gray-400 flex gap-1">
