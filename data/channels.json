@@ -92,7 +92,7 @@
     "youtube_name": "fukuse yuuriマリリン",
     "url": "https://www.youtube.com/@MarilynFukuseYuuri",
     "genre": "cosme",
-    "active": false,
+    "active": true,
     "icon_url": "https://yt3.ggpht.com/eBirJpP2lDYb6_IM2IGcd5S-3qTpJfXfcfLQv-Xqy5OriPNwFtO_mPbzNTe9KCVFGo3pg5oRBkE=s240-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -100,7 +100,7 @@
     "youtube_name": "ふくれな/fukurena",
     "url": "https://www.youtube.com/channel/UCCuizDTLsr-mNm_PEGdChVg",
     "genre": "cosme",
-    "active": false,
+    "active": true,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_ndu9IbKm4gRdUhROIDwYaVKbtsk3FAg_A7kLtalaND098=s240-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -302,6 +302,38 @@
     "genre": "cosme",
     "active": false,
     "icon_url": "https://yt3.ggpht.com/ftgHG5Dn8eGfH-rehAAygmunzVMZcB-B_yJHs-zOj8jhU16KPnS0iIRDVIlILdOYk2TD9zjm_g=s240-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "まあたそ",
+    "youtube_name": "まあたそ",
+    "url": "https://www.youtube.com/channel/UCxlsYyeri8MOpap3w3JbWSQ",
+    "genre": "cosme",
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mvf2uPV7NVegfyJBhXurLiPdBG7hpSWFOY46QTOlMqcU0=s240-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "吉田朱里",
+    "youtube_name": "吉田朱里",
+    "url": "https://www.youtube.com/channel/UCNIwy_Q7EjUxLlsewfuhjgg",
+    "genre": "cosme",
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mUbeVn2F3RXkTYi7aE6Rzt5m1rMLh17g9iRkbbyJhjwfA=s240-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "佐々木あさひ",
+    "youtube_name": "sasakiasahi",
+    "url": "https://www.youtube.com/channel/UCfCY70zRsvnnKzQ39mBq0rw",
+    "genre": "cosme",
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mePaYa-jogUopTdOmlB_cBwbQhl0BmeYbtAKOWUZ4zL-g=s240-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "きぬちゃんねる",
+    "youtube_name": "きぬちゃんねる",
+    "url": "https://www.youtube.com/channel/UCnZysTtGHpnh-WIw7zAytyQ",
+    "genre": "cosme",
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_kGLqj_YqEdkn8q_Fc14_tDWRcBh4XyOOM9lL4PxIsupQ=s240-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "みんなのキャンプを楽ろうよ！",
