@@ -180,11 +180,17 @@ export function extractVideoId(url: string): string {
 // 2. 部分一致（channel名がnameを含む or nameがchannel名を含む）
 // 3. youtube_nameでも同様の部分一致
 function channelMatches(productChannel: string, ch: Channel): boolean {
+  // 空文字列は全チャンネルにマッチしてしまうため除外
+  if (!productChannel || !ch.name) return false
   // 完全一致
   if (productChannel === ch.name || productChannel === ch.youtube_name) return true
-  // 部分一致
-  if (productChannel.includes(ch.name) || ch.name.includes(productChannel)) return true
-  if (productChannel.includes(ch.youtube_name) || ch.youtube_name.includes(productChannel)) return true
+  // 部分一致（短すぎる文字列の誤マッチを防ぐため、2文字以上の場合のみ）
+  if (productChannel.length >= 2 && ch.name.length >= 2) {
+    if (productChannel.includes(ch.name) || ch.name.includes(productChannel)) return true
+  }
+  if (productChannel.length >= 2 && ch.youtube_name.length >= 2) {
+    if (productChannel.includes(ch.youtube_name) || ch.youtube_name.includes(productChannel)) return true
+  }
   return false
 }
 
