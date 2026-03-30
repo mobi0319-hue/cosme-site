@@ -149,7 +149,7 @@ export default function RootLayout({
 
             {/* 広告表示・免責事項 */}
             <div className="text-center text-xs text-gray-400 space-y-1">
-              <p>※ 当サイトはアフィリエイト広告を利用しています。商品リンクを経由して購入された場合、当サイトに紹介料が支払われます。</p>
+              <p>※ Amazonのアソシエイトとして、コスメまとめは適格販売により収入を得ています。また、楽天アフィリエイトを利用しています。</p>
               <p>※ 掲載クリエイターの方で掲載停止をご希望の場合は<a href="/contact" className="text-pink-500 hover:text-pink-600 underline">お問い合わせ</a>よりご連絡ください。速やかに対応いたします。</p>
               <p>
                 <a href="/privacy" className="hover:text-pink-500 underline">プライバシーポリシー・免責事項</a>
