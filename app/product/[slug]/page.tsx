@@ -130,8 +130,14 @@ export default async function ProductPage({
         </div>
 
         {/* 価格 */}
-        {product.price && product.price !== '-' && (
-          <p className="text-lg font-bold text-gray-800 mb-4">参考価格：{product.price}</p>
+        {(product.api_price || (product.price && product.price !== '-')) && (
+          <div className="mb-4">
+            {product.api_price ? (
+              <p className="text-lg font-bold text-gray-800">Amazon価格：{product.api_price}</p>
+            ) : (
+              <p className="text-lg font-bold text-gray-800">参考価格：{product.price}</p>
+            )}
+          </div>
         )}
 
         {/* 購入ボタン（上部） — Amazon・楽天均等 */}

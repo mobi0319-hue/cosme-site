@@ -170,8 +170,8 @@ export default function ProductsClient({ products, categories, topProduct }: Pro
                 )}
                 <p className="text-xs text-gray-400 mb-0.5">{product.brand}</p>
                 <p className="text-sm font-medium text-gray-800 line-clamp-2">{product.product_name}</p>
-                {product.price && (
-                  <p className="text-xs font-bold text-gray-700 mt-1">{product.price}</p>
+                {(product.api_price || product.price) && (
+                  <p className="text-xs font-bold text-gray-700 mt-1">{product.api_price || product.price}</p>
                 )}
               </a>
             )
@@ -202,8 +202,8 @@ export default function ProductsClient({ products, categories, topProduct }: Pro
                 )}
                 <p className="text-xs text-gray-400 mb-0.5">{product.brand}</p>
                 <p className="text-sm font-medium text-gray-800 line-clamp-2">{product.product_name}</p>
-                {product.price && (
-                  <p className="text-xs font-bold text-gray-700 mt-1">{product.price}</p>
+                {(product.api_price || product.price) && (
+                  <p className="text-xs font-bold text-gray-700 mt-1">{product.api_price || product.price}</p>
                 )}
               </a>
             )

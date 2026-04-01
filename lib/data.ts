@@ -77,6 +77,10 @@ export type Product = {
   mention_count: number
   mentioned_by: MentionedBy[]
   image_url?: string
+  asin?: string
+  api_price?: string
+  api_title?: string
+  api_fetched_at?: string
   status?: string
 }
 
@@ -86,6 +90,7 @@ export type Channel = {
   url: string
   genre: string
   active: boolean
+  display?: boolean
   icon_url?: string
 }
 
@@ -244,7 +249,7 @@ export function getVideoById(id: string): Video | null {
 
 // クリエイター一覧
 export function getCreators(): Creator[] {
-  const channels = getChannels().filter(c => c.genre === 'cosme' && c.active)
+  const channels = getChannels().filter(c => c.genre === 'cosme' && c.active && c.display !== false)
   const videos = getVideos()
 
   return channels.map(ch => {
