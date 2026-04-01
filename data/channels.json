@@ -65,11 +65,12 @@
   },
   {
     "name": "みきぽん",
-    "youtube_name": "みきぽんチャンネル",
+    "youtube_name": "美希ぽんチャンネル",
     "url": "https://www.youtube.com/channel/UCB1cTldfzuVsnK1pdW8c89A",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_kKORjLXEBWuHyw8uUuSa8dXOFFWaN5ftHl-PaxHzw-lw=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_kKORjLXEBWuHyw8uUuSa8dXOFFWaN5ftHl-PaxHzw-lw=s240-c-k-c0x00ffffff-no-rj",
+    "display": true
   },
   {
     "name": "ゆうこす",
@@ -116,8 +117,9 @@
     "youtube_name": "Yukirinu",
     "url": "https://www.youtube.com/channel/UCMsuwHzQPFMDtHaoR7_HDxg",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/Bpgq0Vppy_FhXWFmxodgTGBSmRXUGkfSK-r40odoB1yzqDxDPaoN8Lyh7G46LbtzzZFtmfDBh-8=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/Bpgq0Vppy_FhXWFmxodgTGBSmRXUGkfSK-r40odoB1yzqDxDPaoN8Lyh7G46LbtzzZFtmfDBh-8=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "古川優香",
@@ -148,40 +150,45 @@
     "youtube_name": "Marina Takewaki",
     "url": "https://www.youtube.com/channel/UCw7HTQv0F4CB9zGRhqosYsg",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mvwp_yES3d5SeexZZ3-oVUGicz2DZxsFCx4XUcVBqORBU=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mvwp_yES3d5SeexZZ3-oVUGicz2DZxsFCx4XUcVBqORBU=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "石井亜美",
-    "youtube_name": "石井亜美 AmiIshii",
+    "youtube_name": "石井亜美AmiIshii",
     "url": "https://www.youtube.com/channel/UC7kOT7mhjBzHv0hxDsDPUhA",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/RvD-lvsQ8hnlSnc20uq3O2mLTa5mfZD5UdSqotO48rauDVZhOl2NUl6KHN3XgLCkgnUDWaUYLg=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/RvD-lvsQ8hnlSnc20uq3O2mLTa5mfZD5UdSqotO48rauDVZhOl2NUl6KHN3XgLCkgnUDWaUYLg=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "EGA.channel",
     "youtube_name": "EGA.channel",
     "url": "https://www.youtube.com/channel/UCVRDCteAx6zMUWMB86QRXxw",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_m0WrS9r9UsmtnD6ydBLHCnMP-qR_c2ayVEBfMUlxPnRvE=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_m0WrS9r9UsmtnD6ydBLHCnMP-qR_c2ayVEBfMUlxPnRvE=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "のえのん",
     "youtube_name": "のえのん",
     "url": "https://www.youtube.com/channel/UCP7IUk7EY45VtpGOZMgZS6g",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/4-HtnmRAw3gM0QuNlL06Swg1W8fMaLfNHLjNUdOiL3SxazCHDzJjo6X6XDEPv1l6-UlvZ53t-r8=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/4-HtnmRAw3gM0QuNlL06Swg1W8fMaLfNHLjNUdOiL3SxazCHDzJjo6X6XDEPv1l6-UlvZ53t-r8=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "あやなん",
-    "youtube_name": "あやなん",
+    "youtube_name": "しばなんといっしょ!",
     "url": "https://www.youtube.com/channel/UCAne8GG-iUcTzUkpQG4N7jw",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nEOd4h0Py_Tmv6NvNiQAr5jcjcbC0X50UGphS5ZvPcPQ=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nEOd4h0Py_Tmv6NvNiQAr5jcjcbC0X50UGphS5ZvPcPQ=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "ひよんちゃんねる",
@@ -193,59 +200,66 @@
   },
   {
     "name": "ゆうりちゃんねる",
-    "youtube_name": "YUURI ChanneL",
+    "youtube_name": "YUURI ChanneLゆうりチャンネル",
     "url": "https://www.youtube.com/channel/UCBcDCMGW7keegf4Ez1uZSDg",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mPfAsjhOEI0zWf1ngcwO4ANKB6E8DnfNu6dkgfSKf_pA=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mPfAsjhOEI0zWf1ngcwO4ANKB6E8DnfNu6dkgfSKf_pA=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "かす",
     "youtube_name": "かす",
     "url": "https://www.youtube.com/channel/UC1fYrot9lgMstv7vX0BnjnQ",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/1_pwE7wqyAsyx-6J0psT6Vq-qXVJD4uHPSOMSFdWD10WOeQApmckJxIHaNHI3E_g4M76cSHM=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/1_pwE7wqyAsyx-6J0psT6Vq-qXVJD4uHPSOMSFdWD10WOeQApmckJxIHaNHI3E_g4M76cSHM=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "とうあ",
     "youtube_name": "とうあ",
     "url": "https://www.youtube.com/channel/UC9Wl5AzCQzp2esQ7uVoQz0g",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_npSULKOYT7z_D_lb69nCJHlpMN8sa84po8kJ4lPqd5WQ=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_npSULKOYT7z_D_lb69nCJHlpMN8sa84po8kJ4lPqd5WQ=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "よしミチ",
     "youtube_name": "よしミチch",
     "url": "https://www.youtube.com/channel/UCiJkV6aSJpX9xEJUu00tVlw",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_k8HlizXUheKj7ENw5IS440tr2zd1pIYOw9TYIOG1_f5es=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_k8HlizXUheKj7ENw5IS440tr2zd1pIYOw9TYIOG1_f5es=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "ゆりいちちゃんねる",
-    "youtube_name": "ゆりな Yurina",
+    "youtube_name": "ゆりなYurina's Diary",
     "url": "https://www.youtube.com/channel/UCySfIDBkBFIICu4Bm0qwtSA",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/obMmN3lGr2cOjrhkbQ5dLyG88Z_5iQysRmNvMuHM4KQ54e3xgk2FCLqTWfh1D1GunfGpaxug13s=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/obMmN3lGr2cOjrhkbQ5dLyG88Z_5iQysRmNvMuHM4KQ54e3xgk2FCLqTWfh1D1GunfGpaxug13s=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "ひなちゃんねる",
     "youtube_name": "ひなちゃんねる",
     "url": "https://www.youtube.com/channel/UCC0JWiw4BJYR4NUDxQCf0Hg",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/V92bI8Bm24208mUkWrWQOq1IIIDdJUOMTCQmoajfgRMh27423azIm5KO7zA3yj8QEFhAFOWuXQ=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/V92bI8Bm24208mUkWrWQOq1IIIDdJUOMTCQmoajfgRMh27423azIm5KO7zA3yj8QEFhAFOWuXQ=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "ななみん",
     "youtube_name": "nanachannel",
     "url": "https://www.youtube.com/channel/UCLO1yCo0gDgpXhyM0fXfXXA",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/-S1Ci4M3g_cV-CVfQsHAfO2XO7glQP_HnCaQXoEjwpSkUamCbq6zjiCVlOjC5it4o1j5kBzK=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/-S1Ci4M3g_cV-CVfQsHAfO2XO7glQP_HnCaQXoEjwpSkUamCbq6zjiCVlOjC5it4o1j5kBzK=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "かずのすけ",
@@ -257,51 +271,57 @@
   },
   {
     "name": "まつきりな",
-    "youtube_name": "まつきりな",
+    "youtube_name": "まつきりな【まつきの日常】",
     "url": "https://www.youtube.com/channel/UCyiEyGiQpCyzWD6GwQtsmuw",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/C4yGfTwaMMBcZpr92dn52seOPBbskfEq5g6RqSZHWUz_fPmbTGy2-oKL3f_5lAc1ZFxKH6KwVA=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/C4yGfTwaMMBcZpr92dn52seOPBbskfEq5g6RqSZHWUz_fPmbTGy2-oKL3f_5lAc1ZFxKH6KwVA=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "ゆうなちゃんねる",
     "youtube_name": "ゆなちゃんねる",
     "url": "https://www.youtube.com/channel/UCsTM1roCxoot1-03EO5zQxg",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/JQ0j8wIPw57-SKEMfh1-VRIwWHi_O4rnaI1WTBimV_U8Z7OrIv0jiBFuG3dJPhgGWbKCnTlJ=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/JQ0j8wIPw57-SKEMfh1-VRIwWHi_O4rnaI1WTBimV_U8Z7OrIv0jiBFuG3dJPhgGWbKCnTlJ=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "miku / 未来",
     "youtube_name": "miku / 未来",
     "url": "https://www.youtube.com/channel/UCCqQcLx_lIz70zeWzlB6fmQ",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_k-5F2RTUephPRDoafk6OOvlxxHf8piiJd8r_YTqd1vdA=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_k-5F2RTUephPRDoafk6OOvlxxHf8piiJd8r_YTqd1vdA=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "あいり",
     "youtube_name": "あいり",
     "url": "https://www.youtube.com/channel/UC4-TMrb7Mm4KnYx1VsUgcJA",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ae-VyBdo8QgA8rX96LZfgcP3n95rH-6pIp044k8aj48DFwZw3tjS5XNYSgtJxN2MvzRFg97DYg=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ae-VyBdo8QgA8rX96LZfgcP3n95rH-6pIp044k8aj48DFwZw3tjS5XNYSgtJxN2MvzRFg97DYg=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "なこなこチャンネル",
     "youtube_name": "なこなこチャンネル",
     "url": "https://www.youtube.com/channel/UC75NfjEdgZ3BvqJ2ssCyHdg",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nWaA9gggX99N-mCOdjvyRttHTnsRriJ4hN5BzvkR5CKw=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nWaA9gggX99N-mCOdjvyRttHTnsRriJ4hN5BzvkR5CKw=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "かよこやざき",
     "youtube_name": "かよこやざき",
     "url": "https://www.youtube.com/channel/UCIi-xj_h3-H3EqFSTpKf78g",
     "genre": "cosme",
-    "active": false,
-    "icon_url": "https://yt3.ggpht.com/ftgHG5Dn8eGfH-rehAAygmunzVMZcB-B_yJHs-zOj8jhU16KPnS0iIRDVIlILdOYk2TD9zjm_g=s240-c-k-c0x00ffffff-no-rj"
+    "active": true,
+    "icon_url": "https://yt3.ggpht.com/ftgHG5Dn8eGfH-rehAAygmunzVMZcB-B_yJHs-zOj8jhU16KPnS0iIRDVIlILdOYk2TD9zjm_g=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "まあたそ",
@@ -313,7 +333,7 @@
   },
   {
     "name": "吉田朱里",
-    "youtube_name": "吉田朱里",
+    "youtube_name": "YoshidaAkari",
     "url": "https://www.youtube.com/channel/UCNIwy_Q7EjUxLlsewfuhjgg",
     "genre": "cosme",
     "active": true,
@@ -337,27 +357,30 @@
   },
   {
     "name": "みんなのキャンプを楽ろうよ！",
-    "youtube_name": "みんなのキャンプを楽ろうよ！",
+    "youtube_name": "幕人のキャンプやろうぜ!",
     "url": "https://www.youtube.com/channel/UCeSTSEITKai3hEEXAx5o_RQ",
     "genre": "camp",
     "active": true,
-    "icon_url": "https://yt3.ggpht.com/-aF3sukl3wW5MTgWzAOmxY5vVS9yxOMlGccysjazQPzl2QXUR0D8QkC0iaFtdbOSs8-MiFrq=s240-c-k-c0x00ffffff-no-rj"
+    "icon_url": "https://yt3.ggpht.com/-aF3sukl3wW5MTgWzAOmxY5vVS9yxOMlGccysjazQPzl2QXUR0D8QkC0iaFtdbOSs8-MiFrq=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "旅する家の物語",
-    "youtube_name": "旅する家の物語",
+    "youtube_name": "TABI-IE",
     "url": "https://www.youtube.com/channel/UCyblWsZQijMpohIqqTSgUZg",
     "genre": "camp",
     "active": true,
-    "icon_url": "https://yt3.ggpht.com/xCmSoZWntjFZBJpDDg2ygg8mR0clbOgJUXjdCKdiad9Rp7IZd7a6l3EOLnCDsKOlBF4fQ2-nNw=s240-c-k-c0x00ffffff-no-rj"
+    "icon_url": "https://yt3.ggpht.com/xCmSoZWntjFZBJpDDg2ygg8mR0clbOgJUXjdCKdiad9Rp7IZd7a6l3EOLnCDsKOlBF4fQ2-nNw=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "たつおと海子",
-    "youtube_name": "たつおと海子 Tatsuo&Umiko",
+    "youtube_name": "Tatsuo and Umiko",
     "url": "https://www.youtube.com/channel/UC5KD8iN4gO6R_1zWuEShBXw",
     "genre": "camp",
     "active": true,
-    "icon_url": "https://yt3.ggpht.com/G5tHGP-Y8tdaBiwSeY-FcntV7-rYOV2dlESMPdG0JHeen_RZcF_Pbso6okNkwwcThf5ENpCmZQ=s240-c-k-c0x00ffffff-no-rj"
+    "icon_url": "https://yt3.ggpht.com/G5tHGP-Y8tdaBiwSeY-FcntV7-rYOV2dlESMPdG0JHeen_RZcF_Pbso6okNkwwcThf5ENpCmZQ=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
   },
   {
     "name": "kimimaro",
@@ -365,6 +388,327 @@
     "url": "https://www.youtube.com/channel/UCwfbjY_xekoK18-YpWS-5qg",
     "genre": "daily",
     "active": true,
-    "icon_url": "https://yt3.ggpht.com/MbwslWLxCh7czMdC902UpD7FXRUho0GdTu07TgrRim-XUc-D6f2LdtqbIStilgUA_ejOblzW=s240-c-k-c0x00ffffff-no-rj"
+    "icon_url": "https://yt3.ggpht.com/MbwslWLxCh7czMdC902UpD7FXRUho0GdTu07TgrRim-XUc-D6f2LdtqbIStilgUA_ejOblzW=s240-c-k-c0x00ffffff-no-rj",
+    "display": false
+  },
+  {
+    "name": "小田切ヒロ",
+    "youtube_name": "HIRO BEAUTY CHANNEL",
+    "url": "https://www.youtube.com/@hirobeautychannel",
+    "genre": "cosme",
+    "active": true,
+    "display": true
+  },
+  {
+    "name": "和田さん。",
+    "youtube_name": "和田さん。チャンネル",
+    "url": "https://www.youtube.com/@wadasanchannel",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "元美容部員和田さん",
+    "youtube_name": "元美容部員和田さん",
+    "url": "https://www.youtube.com/@wadasan_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "COCO",
+    "youtube_name": "COCO Beauty channel",
+    "url": "https://www.youtube.com/@COCOBeautychannel",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "アラフォーちえ",
+    "youtube_name": "アラフォーちえ",
+    "url": "https://www.youtube.com/@arafochie",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "元鈴木さん",
+    "youtube_name": "元鈴木さん",
+    "url": "https://www.youtube.com/@motosuzukisan",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "かわにしみき",
+    "youtube_name": "Kawanishi Mikiかわにしみき",
+    "url": "https://www.youtube.com/@kawanishimiki",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "佐藤優里亜",
+    "youtube_name": "佐藤優里亜",
+    "url": "https://www.youtube.com/@satoyuria",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "peko",
+    "youtube_name": "peko",
+    "url": "https://www.youtube.com/@peko_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "ALL ABOUT",
+    "youtube_name": "ALL ABOUT",
+    "url": "https://www.youtube.com/@AllAbout_channel",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "Kawaii Pateen",
+    "youtube_name": "KAWAII PATEEN",
+    "url": "https://www.youtube.com/@KawaiiPateen",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "MimiTV",
+    "youtube_name": "MiMi TV",
+    "url": "https://www.youtube.com/@MimiTV",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "LDK the Beauty",
+    "youtube_name": "LDK the Beauty",
+    "url": "https://www.youtube.com/@LDKtheBeauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "おめがシスターズ",
+    "youtube_name": "おめがシスターズ",
+    "url": "https://www.youtube.com/@OmegaSisters",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "兵藤小百合",
+    "youtube_name": "兵藤小百合",
+    "url": "https://www.youtube.com/@hyodosayuri",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "Sasakiasahi",
+    "youtube_name": "佐々木あさひ",
+    "url": "https://www.youtube.com/@saikiasahi",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "河北裕介",
+    "youtube_name": "河北裕介公式チャンネル",
+    "url": "https://www.youtube.com/@kawakitayusuke",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "ALISAのメイク講座",
+    "youtube_name": "ALISAのメイク講座",
+    "url": "https://www.youtube.com/@ALISA_makeup",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "イガリシノブ",
+    "youtube_name": "イガリシノブ",
+    "url": "https://www.youtube.com/@igari_shinobu",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "おかめ",
+    "youtube_name": "おかめ",
+    "url": "https://www.youtube.com/@okame_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "ここあ",
+    "youtube_name": "ここあ",
+    "url": "https://www.youtube.com/@cocoa_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "プチプラのあや",
+    "youtube_name": "プチプラのあや",
+    "url": "https://www.youtube.com/@PuchiPura_Aya",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "整形アイドル轟ちゃん",
+    "youtube_name": "整形アイドル轟ちゃん",
+    "url": "https://www.youtube.com/@todoroki_chan",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "こばしり。",
+    "youtube_name": "こばしり。",
+    "url": "https://www.youtube.com/@kobashiri",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "MAKEY",
+    "youtube_name": "MAKEY DESIGN",
+    "url": "https://www.youtube.com/@makey_official",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "美的チャンネル",
+    "youtube_name": "美的チャンネル",
+    "url": "https://www.youtube.com/@biteki_channel",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "VOCE",
+    "youtube_name": "VOCE",
+    "url": "https://www.youtube.com/@VOCE_official",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "MAQUIA",
+    "youtube_name": "MAQUIA",
+    "url": "https://www.youtube.com/@MAQUIA_official",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "美容オタクちゃんみな",
+    "youtube_name": "美容オタクちゃんみな",
+    "url": "https://www.youtube.com/@chamina_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "みぃ",
+    "youtube_name": "みぃ",
+    "url": "https://www.youtube.com/@mii_beauty_ch",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "noel_izm",
+    "youtube_name": "noel_izm",
+    "url": "https://www.youtube.com/@noel_izm",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "ShuShu",
+    "youtube_name": "ShuShu",
+    "url": "https://www.youtube.com/@shushu_cosme",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "かんだま劇場",
+    "youtube_name": "かんだま劇場",
+    "url": "https://www.youtube.com/@kandama",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "momohaha",
+    "youtube_name": "momohaha",
+    "url": "https://www.youtube.com/@momohaha_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "韓国コスメオタクyuna",
+    "youtube_name": "韓国コスメオタクyuna",
+    "url": "https://www.youtube.com/@yuna_kbeauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "ワタナベ薫",
+    "youtube_name": "ワタナベ薫",
+    "url": "https://www.youtube.com/@watanabe_kaoru",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "田中みな実",
+    "youtube_name": "田中みな実",
+    "url": "https://www.youtube.com/@tanakaminami_ch",
+    "genre": "cosme",
+    "active": false,
+    "display": false
+  },
+  {
+    "name": "石井美保",
+    "youtube_name": "石井美保",
+    "url": "https://www.youtube.com/@ishiimiho",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "千葉由佳",
+    "youtube_name": "千葉由佳",
+    "url": "https://www.youtube.com/@chibayuka",
+    "genre": "cosme",
+    "active": true,
+    "display": false
+  },
+  {
+    "name": "meg_beauty",
+    "youtube_name": "meg_beauty",
+    "url": "https://www.youtube.com/@meg_beauty",
+    "genre": "cosme",
+    "active": false,
+    "display": false
   }
 ]
