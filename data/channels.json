@@ -103,7 +103,7 @@
     "youtube_name": "fukuse yuuriマリリン",
     "url": "https://www.youtube.com/@MarilynFukuseYuuri",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/eBirJpP2lDYb6_IM2IGcd5S-3qTpJfXfcfLQv-Xqy5OriPNwFtO_mPbzNTe9KCVFGo3pg5oRBkE=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -112,7 +112,7 @@
     "youtube_name": "ふくれな/fukurena",
     "url": "https://www.youtube.com/channel/UCCuizDTLsr-mNm_PEGdChVg",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_ndu9IbKm4gRdUhROIDwYaVKbtsk3FAg_A7kLtalaND098=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -139,7 +139,7 @@
     "youtube_name": "古川優香",
     "url": "https://www.youtube.com/channel/UCm-m76oSXXj41CUxDwUeF4Q",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nsjeHcVTOY0UcPPz4ECsYaI2g13VGtWW1qqvG51KX3Yqc=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -175,7 +175,7 @@
     "youtube_name": "石井亜美AmiIshii",
     "url": "https://www.youtube.com/channel/UC7kOT7mhjBzHv0hxDsDPUhA",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/RvD-lvsQ8hnlSnc20uq3O2mLTa5mfZD5UdSqotO48rauDVZhOl2NUl6KHN3XgLCkgnUDWaUYLg=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -193,7 +193,7 @@
     "youtube_name": "のえのん",
     "url": "https://www.youtube.com/channel/UCP7IUk7EY45VtpGOZMgZS6g",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/4-HtnmRAw3gM0QuNlL06Swg1W8fMaLfNHLjNUdOiL3SxazCHDzJjo6X6XDEPv1l6-UlvZ53t-r8=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -265,7 +265,7 @@
     "youtube_name": "ひなちゃんねる",
     "url": "https://www.youtube.com/channel/UCC0JWiw4BJYR4NUDxQCf0Hg",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/V92bI8Bm24208mUkWrWQOq1IIIDdJUOMTCQmoajfgRMh27423azIm5KO7zA3yj8QEFhAFOWuXQ=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -319,7 +319,7 @@
     "youtube_name": "あいり",
     "url": "https://www.youtube.com/channel/UC4-TMrb7Mm4KnYx1VsUgcJA",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ae-VyBdo8QgA8rX96LZfgcP3n95rH-6pIp044k8aj48DFwZw3tjS5XNYSgtJxN2MvzRFg97DYg=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -328,7 +328,7 @@
     "youtube_name": "なこなこチャンネル",
     "url": "https://www.youtube.com/channel/UC75NfjEdgZ3BvqJ2ssCyHdg",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nWaA9gggX99N-mCOdjvyRttHTnsRriJ4hN5BzvkR5CKw=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -337,7 +337,7 @@
     "youtube_name": "かよこやざき",
     "url": "https://www.youtube.com/channel/UCIi-xj_h3-H3EqFSTpKf78g",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ftgHG5Dn8eGfH-rehAAygmunzVMZcB-B_yJHs-zOj8jhU16KPnS0iIRDVIlILdOYk2TD9zjm_g=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -346,7 +346,7 @@
     "youtube_name": "まあたそ",
     "url": "https://www.youtube.com/channel/UCxlsYyeri8MOpap3w3JbWSQ",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mvf2uPV7NVegfyJBhXurLiPdBG7hpSWFOY46QTOlMqcU0=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -355,7 +355,7 @@
     "youtube_name": "YoshidaAkari",
     "url": "https://www.youtube.com/channel/UCNIwy_Q7EjUxLlsewfuhjgg",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mUbeVn2F3RXkTYi7aE6Rzt5m1rMLh17g9iRkbbyJhjwfA=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -364,7 +364,7 @@
     "youtube_name": "sasakiasahi",
     "url": "https://www.youtube.com/channel/UCfCY70zRsvnnKzQ39mBq0rw",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mePaYa-jogUopTdOmlB_cBwbQhl0BmeYbtAKOWUZ4zL-g=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -373,7 +373,7 @@
     "youtube_name": "きぬちゃんねる",
     "url": "https://www.youtube.com/channel/UCnZysTtGHpnh-WIw7zAytyQ",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_kGLqj_YqEdkn8q_Fc14_tDWRcBh4XyOOM9lL4PxIsupQ=s240-c-k-c0x00ffffff-no-rj",
     "display": false
   },
@@ -467,7 +467,7 @@
     "youtube_name": "Kawanishi Mikiかわにしみき",
     "url": "https://www.youtube.com/@kawanishimiki",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -547,7 +547,7 @@
     "youtube_name": "河北裕介公式チャンネル",
     "url": "https://www.youtube.com/@kawakitayusuke",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -603,7 +603,7 @@
     "youtube_name": "こばしり。",
     "url": "https://www.youtube.com/@kobashiri",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -723,7 +723,7 @@
     "youtube_name": "千葉由佳",
     "url": "https://www.youtube.com/@chibayuka",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
