@@ -126,22 +126,41 @@ export default async function VideoPage({
 
             return (
               <div key={slug} className="border border-gray-100 rounded-xl p-4">
-                <div className="flex justify-between items-start gap-2 mb-2">
-                  <div className="min-w-0">
-                    <p className="text-xs text-gray-400">{product.brand}</p>
-                    <a
-                      href={`/product/${encodeURIComponent(slug)}`}
-                      className="text-sm font-bold text-gray-800 hover:text-pink-500 transition-colors"
-                    >
-                      {product.product_name}
-                    </a>
-                    <p className="text-xs text-gray-500">{product.category}</p>
+                <div className="flex gap-3 mb-2">
+                  {/* 商品画像 */}
+                  <a href={`/product/${encodeURIComponent(slug)}`} className="flex-shrink-0">
+                    {product.image_url ? (
+                      <img
+                        src={product.image_url}
+                        alt={product.product_name}
+                        className="w-16 h-16 rounded-lg object-cover bg-gray-100"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <div className="w-16 h-16 rounded-lg bg-gray-100 flex items-center justify-center">
+                        <span className="text-gray-300 text-xs">No Image</span>
+                      </div>
+                    )}
+                  </a>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex justify-between items-start gap-2">
+                      <div className="min-w-0">
+                        <p className="text-xs text-gray-400">{product.brand}</p>
+                        <a
+                          href={`/product/${encodeURIComponent(slug)}`}
+                          className="text-sm font-bold text-gray-800 hover:text-pink-500 transition-colors"
+                        >
+                          {product.product_name}
+                        </a>
+                        <p className="text-xs text-gray-500">{product.category}</p>
+                      </div>
+                      {product.mention_count >= 2 && (
+                        <span className="text-xs bg-pink-100 text-pink-600 rounded-full px-2 py-0.5 flex-shrink-0">
+                          {product.mention_count}人が紹介
+                        </span>
+                      )}
+                    </div>
                   </div>
-                  {product.mention_count >= 2 && (
-                    <span className="text-xs bg-pink-100 text-pink-600 rounded-full px-2 py-0.5 flex-shrink-0">
-                      {product.mention_count}人が紹介
-                    </span>
-                  )}
                 </div>
 
                 {/* 動画内コメント */}
