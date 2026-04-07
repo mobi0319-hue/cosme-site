@@ -104,11 +104,19 @@ export default async function CreatorPage({
                 <a
                   key={pSlug}
                   href={`/product/${encodeURIComponent(pSlug)}`}
-                  className="border border-gray-100 rounded-xl p-3 hover:shadow-md transition-shadow"
+                  className="border border-gray-100 rounded-xl p-3 hover:shadow-md transition-shadow flex gap-3"
                 >
-                  <p className="text-xs text-gray-400 mb-0.5">{product.brand}</p>
-                  <p className="text-sm font-medium text-gray-800 line-clamp-2">{product.product_name}</p>
-                  <p className="text-xs text-gray-500 mt-1">{product.category}</p>
+                  {product.image_url ? (
+                    <img src={product.image_url} alt={product.product_name}
+                      className="w-14 h-14 rounded-lg object-cover bg-gray-100 flex-shrink-0" loading="lazy" />
+                  ) : (
+                    <div className="w-14 h-14 rounded-lg bg-gray-100 flex-shrink-0" />
+                  )}
+                  <div className="min-w-0">
+                    <p className="text-xs text-gray-400 mb-0.5">{product.brand}</p>
+                    <p className="text-sm font-medium text-gray-800 line-clamp-2">{product.product_name}</p>
+                    <p className="text-xs text-gray-500 mt-1">{product.category}</p>
+                  </div>
                 </a>
               )
             })}

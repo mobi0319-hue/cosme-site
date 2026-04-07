@@ -114,6 +114,14 @@ export default async function ConcernPage({
                   {i + 1}
                 </div>
 
+                {/* 商品画像 */}
+                {product.image_url ? (
+                  <img src={product.image_url} alt={product.product_name}
+                    className="w-14 h-14 rounded-lg object-cover bg-gray-100 flex-shrink-0" loading="lazy" />
+                ) : (
+                  <div className="w-14 h-14 rounded-lg bg-gray-100 flex-shrink-0" />
+                )}
+
                 {/* 商品情報 */}
                 <div className="flex-1 min-w-0">
                   <p className="text-xs text-gray-400 mb-0.5 truncate">{product.category} / {product.brand}</p>
