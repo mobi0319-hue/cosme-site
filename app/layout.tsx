@@ -19,7 +19,7 @@ export function generateMetadata(): Metadata {
     openGraph: {
       title,
       description,
-      url: "https://cosme-site.vercel.app",
+      url: "https://cosme-ch.com",
       siteName: "コスメまとめ",
       locale: "ja_JP",
       type: "website",

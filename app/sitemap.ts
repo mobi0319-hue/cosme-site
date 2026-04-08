@@ -1,6 +1,6 @@
 import { getVideos, getCreators, getArticles, slugifyCreator } from '@/lib/data'
 
-const BASE_URL = 'https://cosme-site.vercel.app'
+const BASE_URL = 'https://cosme-ch.com'
 
 export default function sitemap() {
   const videos = getVideos()

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【2026年最新】YouTuberおすすめコスメランキング',
     description: '35人以上のYouTuberが紹介したコスメをカテゴリ別にランキング。紹介回数の多い人気商品をまとめました。',
-    url: 'https://cosme-site.vercel.app/ranking',
+    url: 'https://cosme-ch.com/ranking',
     siteName: 'コスメまとめ',
     locale: 'ja_JP',
     type: 'website',
@@ -49,7 +49,7 @@ export default function RankingPage() {
       "@type": "ListItem",
       position: i + 1,
       name: `${p.brand} ${p.product_name}`,
-      url: `https://cosme-site.vercel.app/product/${encodeURIComponent(slugifyProduct(p))}`,
+      url: `https://cosme-ch.com/product/${encodeURIComponent(slugifyProduct(p))}`,
     })),
   }
 

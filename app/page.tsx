@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
     description: '人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめて確認できます。複数人が選んだ商品は特におすすめ。',
-    url: 'https://cosme-site.vercel.app',
+    url: 'https://cosme-ch.com',
     siteName: 'コスメまとめ',
     locale: 'ja_JP',
     type: 'website',

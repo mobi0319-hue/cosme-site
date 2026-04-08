@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://cosme-site.vercel.app/sitemap-index.xml',
+    sitemap: 'https://cosme-ch.com/sitemap-index.xml',
   }
 }

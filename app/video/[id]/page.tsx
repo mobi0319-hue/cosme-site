@@ -22,7 +22,7 @@ export async function generateMetadata({
     openGraph: {
       title: `${video.video_title} | 紹介コスメまとめ`,
       description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
-      url: `https://cosme-site.vercel.app/video/${id}`,
+      url: `https://cosme-ch.com/video/${id}`,
       images: [{ url: `https://img.youtube.com/vi/${id}/hqdefault.jpg` }],
     },
     twitter: {
@@ -48,8 +48,8 @@ export default async function VideoPage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
-      { "@type": "ListItem", position: 2, name: "動画一覧", item: "https://cosme-site.vercel.app/videos" },
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-ch.com/" },
+      { "@type": "ListItem", position: 2, name: "動画一覧", item: "https://cosme-ch.com/videos" },
       { "@type": "ListItem", position: 3, name: video.video_title },
     ],
   }

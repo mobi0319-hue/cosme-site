@@ -38,7 +38,7 @@ export async function generateMetadata({
     openGraph: {
       title: article.title,
       description: plainText,
-      url: `https://cosme-site.vercel.app/articles/${encodeURIComponent(article.slug)}`,
+      url: `https://cosme-ch.com/articles/${encodeURIComponent(article.slug)}`,
       siteName: 'コスメまとめ',
       locale: 'ja_JP',
       type: 'article',
@@ -85,19 +85,19 @@ export default async function ArticlePage({
         '@type': 'ListItem',
         position: 1,
         name: 'トップ',
-        item: 'https://cosme-site.vercel.app',
+        item: 'https://cosme-ch.com',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '記事一覧',
-        item: 'https://cosme-site.vercel.app/articles',
+        item: 'https://cosme-ch.com/articles',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: article.title,
-        item: `https://cosme-site.vercel.app/articles/${encodeURIComponent(article.slug)}`,
+        item: `https://cosme-ch.com/articles/${encodeURIComponent(article.slug)}`,
       },
     ],
   }

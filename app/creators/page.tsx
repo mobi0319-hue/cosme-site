@@ -7,7 +7,7 @@ export const metadata = {
   openGraph: {
     title: 'YouTuber一覧 | コスメまとめ',
     description: 'コスメを紹介しているYouTuber一覧です。各YouTuberの紹介商品をまとめています。',
-    url: 'https://cosme-site.vercel.app/creators',
+    url: 'https://cosme-ch.com/creators',
   },
   twitter: {
     card: 'summary_large_image',

@@ -1,6 +1,6 @@
 import { getProducts } from '@/lib/data'
 
-const BASE_URL = 'https://cosme-site.vercel.app'
+const BASE_URL = 'https://cosme-ch.com'
 const PRODUCTS_PER_SITEMAP = 2000
 
 export function GET() {

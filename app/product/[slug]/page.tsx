@@ -25,7 +25,7 @@ export async function generateMetadata({
     openGraph: {
       title: `${product.brand} ${product.product_name} | YouTuber紹介コスメまとめ`,
       description: `${product.brand}の${product.product_name}を紹介しているYouTuber動画まとめ。口コミ・価格・購入リンクを確認できます。`,
-      url: `https://cosme-site.vercel.app/product/${slug}`,
+      url: `https://cosme-ch.com/product/${slug}`,
       ...(product.image_url ? { images: [{ url: product.image_url }] } : {}),
     },
     twitter: {
@@ -55,8 +55,8 @@ export default async function ProductPage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
-      { "@type": "ListItem", position: 2, name: "商品一覧", item: "https://cosme-site.vercel.app/products" },
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-ch.com/" },
+      { "@type": "ListItem", position: 2, name: "商品一覧", item: "https://cosme-ch.com/products" },
       { "@type": "ListItem", position: 3, name: `${product.brand} ${product.product_name}` },
     ],
   }

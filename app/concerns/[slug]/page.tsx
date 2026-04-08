@@ -22,7 +22,7 @@ export async function generateMetadata({
     openGraph: {
       title: `${concern.title} | YouTuber紹介コスメまとめ`,
       description: concern.description,
-      url: `https://cosme-site.vercel.app/concerns/${slug}`,
+      url: `https://cosme-ch.com/concerns/${slug}`,
     },
   }
 }
@@ -41,8 +41,8 @@ export default async function ConcernPage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
-      { "@type": "ListItem", position: 2, name: "悩み別まとめ", item: "https://cosme-site.vercel.app/concerns" },
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-ch.com/" },
+      { "@type": "ListItem", position: 2, name: "悩み別まとめ", item: "https://cosme-ch.com/concerns" },
       { "@type": "ListItem", position: 3, name: concern.title },
     ],
   }

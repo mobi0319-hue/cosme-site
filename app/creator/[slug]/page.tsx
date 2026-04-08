@@ -22,7 +22,7 @@ export async function generateMetadata({
     openGraph: {
       title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
       description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
-      url: `https://cosme-site.vercel.app/creator/${slug}`,
+      url: `https://cosme-ch.com/creator/${slug}`,
     },
     twitter: {
       card: "summary_large_image",
@@ -44,8 +44,8 @@ export default async function CreatorPage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-site.vercel.app/" },
-      { "@type": "ListItem", position: 2, name: "YouTuber一覧", item: "https://cosme-site.vercel.app/creators" },
+      { "@type": "ListItem", position: 1, name: "TOP", item: "https://cosme-ch.com/" },
+      { "@type": "ListItem", position: 2, name: "YouTuber一覧", item: "https://cosme-ch.com/creators" },
       { "@type": "ListItem", position: 3, name: creator.name },
     ],
   }

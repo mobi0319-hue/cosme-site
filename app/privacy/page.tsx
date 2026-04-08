@@ -74,7 +74,7 @@ export default function PrivacyPage() {
             <tr className="border-b border-gray-100">
               <td className="py-2 pr-4 font-medium text-gray-700 whitespace-nowrap">サイトURL</td>
               <td className="py-2">
-                <a href="https://cosme-site.vercel.app" className="text-pink-500 hover:underline">https://cosme-site.vercel.app</a>
+                <a href="https://cosme-ch.com" className="text-pink-500 hover:underline">https://cosme-ch.com</a>
               </td>
             </tr>
             <tr>
