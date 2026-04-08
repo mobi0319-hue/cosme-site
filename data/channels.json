@@ -6,7 +6,11 @@
     "genre": "cosme",
     "active": true,
     "icon_url": "https://yt3.ggpht.com/NmuxYOBv9pVqhJD15WZ-EzmKaXU67VRmveX_egZZwjrTsRp8Lv_IsmJjzMAmnBMTc14u6O_hig=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": true,
+    "aliases": [
+      "KAJIERI",
+      "かじえり KAJIERI"
+    ]
   },
   {
     "name": "韓国オンニAちゃん (会社員J)",
@@ -87,7 +91,10 @@
     "genre": "cosme",
     "active": true,
     "icon_url": "https://yt3.ggpht.com/WqperuM-kIbBW_mtwE4sw4iY23lYvXMwrsgL0zjT80I20TTGuEkmvYPrqFyBw6SIzae5gNv5Ar8=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": true,
+    "aliases": [
+      "ゆうこすモテちゃんねる"
+    ]
   },
   {
     "name": "MAI TAKASUGI",
@@ -159,7 +166,10 @@
     "genre": "cosme",
     "active": true,
     "icon_url": "https://yt3.ggpht.com/fjsAyvhmOeXOVy-T-9xiYOyntyGwq-2ezZX3uTJfcpvTuG2_APSExtdLfkF1-BTWyYuoAbik=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": true,
+    "aliases": [
+      "ありちゃん〜毎月の支出の半分をコスメに充てる女〜"
+    ]
   },
   {
     "name": "Marina Takewaki",
@@ -348,7 +358,10 @@
     "genre": "cosme",
     "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_mvf2uPV7NVegfyJBhXurLiPdBG7hpSWFOY46QTOlMqcU0=s240-c-k-c0x00ffffff-no-rj",
-    "display": false
+    "display": false,
+    "aliases": [
+      "まあたそ（まあたそ）"
+    ]
   },
   {
     "name": "吉田朱里",
