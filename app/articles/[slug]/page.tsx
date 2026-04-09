@@ -23,6 +23,10 @@ export async function generateMetadata({
   const article = getArticleBySlug(decodeURIComponent(slug))
   if (!article) return { title: '記事が見つかりません' }
 
+  // OGP画像用にYouTube動画IDを取得
+  const videoIdMatch = article.videoUrl?.match(/[?&]v=([^&]+)/)
+  const videoId = videoIdMatch ? videoIdMatch[1] : null
+
   // 記事本文の冒頭150文字をdescriptionに
   const plainText = article.content
     .replace(/<!--.*?-->/g, '')
@@ -45,11 +49,13 @@ export async function generateMetadata({
       siteName: 'コスメまとめ',
       locale: 'ja_JP',
       type: 'article',
+      ...(videoId ? { images: [{ url: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg` }] } : {}),
     },
     twitter: {
       card: 'summary_large_image',
       title: article.title,
       description: plainText,
+      ...(videoId ? { images: [`https://img.youtube.com/vi/${videoId}/hqdefault.jpg`] } : {}),
     },
   }
 }

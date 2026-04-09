@@ -26,9 +26,11 @@ export async function generateMetadata({
       title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
       description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
       url: `https://cosme-ch.com/creator/${slug}`,
+      ...(creator.icon_url ? { images: [{ url: creator.icon_url }] } : {}),
     },
     twitter: {
       card: "summary_large_image",
+      ...(creator.icon_url ? { images: [creator.icon_url] } : {}),
     },
   }
 }
@@ -110,6 +112,18 @@ export default async function CreatorPage({
         >
           YouTubeチャンネルを見る ↗
         </a>
+
+        {/* 自動生成の説明文（SEO用テキスト量確保） */}
+        {creator.top_products.length > 0 && (() => {
+          const categories = [...new Set(creator.top_products.map(p => p.category))].slice(0, 5)
+          return (
+            <p className="text-xs text-gray-500 mt-4 leading-relaxed">
+              {creator.name}さんは{categories.join('・')}などのカテゴリを中心に、
+              動画{creator.videos.length}本で合計{creator.top_products.length}点以上のコスメ・スキンケア商品を紹介しています。
+              実際に使った感想や使い方のコツなど、購入前に参考になる情報が満載です。
+            </p>
+          )
+        })()}
       </div>
 
       {/* よく出る商品 */}
