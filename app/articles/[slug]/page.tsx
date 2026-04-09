@@ -168,7 +168,12 @@ export default async function ArticlePage({
           <div>
             <p className="text-sm font-medium text-gray-800">{channelInfo.displayName}</p>
             {article.date && (
-              <p className="text-xs text-gray-400">{article.date}</p>
+              <p className="text-xs text-gray-400">
+                {article.date}
+                {article.lastUpdated && article.lastUpdated !== article.date && (
+                  <span className="ml-2">（更新: {article.lastUpdated}）</span>
+                )}
+              </p>
             )}
           </div>
         </div>

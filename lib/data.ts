@@ -342,6 +342,7 @@ export type Article = {
   title: string
   channel: string
   date: string
+  lastUpdated: string
   videoUrl: string
   genre: string
   content: string
@@ -362,15 +363,17 @@ function parseArticleFilename(filename: string): { channel: string; date: string
 }
 
 // Markdownの先頭コメントからメタデータを抽出する
-function parseArticleMeta(content: string): { videoUrl: string; genre: string; title: string } {
+function parseArticleMeta(content: string): { videoUrl: string; genre: string; title: string; lastUpdated: string } {
   const videoMatch = content.match(/<!--\s*VIDEO_URL:\s*(.+?)\s*-->/)
   const genreMatch = content.match(/<!--\s*GENRE:\s*(.+?)\s*-->/)
+  const updatedMatch = content.match(/<!--\s*LAST_UPDATED:\s*(.+?)\s*-->/)
   // H1 タイトルを取得
   const titleMatch = content.match(/^#\s+(.+)$/m)
   return {
     videoUrl: videoMatch ? videoMatch[1] : '',
     genre: genreMatch ? genreMatch[1] : 'cosme',
     title: titleMatch ? titleMatch[1] : '無題',
+    lastUpdated: updatedMatch ? updatedMatch[1] : '',
   }
 }
 
@@ -386,10 +389,10 @@ export function getArticles(): Article[] {
   for (const file of files) {
     const content = fs.readFileSync(path.join(ARTICLES_DIR, file), 'utf-8')
     const { channel, date } = parseArticleFilename(file)
-    const { videoUrl, genre, title } = parseArticleMeta(content)
+    const { videoUrl, genre, title, lastUpdated } = parseArticleMeta(content)
     // スラッグはファイル名から .md を除いたもの
     const slug = file.replace(/\.md$/, '')
-    articles.push({ slug, title, channel, date, videoUrl, genre, content })
+    articles.push({ slug, title, channel, date, lastUpdated, videoUrl, genre, content })
   }
 
   // 日付の新しい順にソート
@@ -403,6 +406,6 @@ export function getArticleBySlug(slug: string): Article | null {
 
   const content = fs.readFileSync(filePath, 'utf-8')
   const { channel, date } = parseArticleFilename(`${slug}.md`)
-  const { videoUrl, genre, title } = parseArticleMeta(content)
-  return { slug, title, channel, date, videoUrl, genre, content }
+  const { videoUrl, genre, title, lastUpdated } = parseArticleMeta(content)
+  return { slug, title, channel, date, lastUpdated, videoUrl, genre, content }
 }

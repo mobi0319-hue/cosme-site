@@ -1,5 +1,6 @@
 <!-- VIDEO_URL: https://www.youtube.com/watch?v=cRHM_qcrjwg -->
 <!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-09 -->
 # 【nanakoななこ】Qoo10メガ割＆ドラコス購入品まとめ【2026年03月】
 
 Qoo10メガ割で何を買えばいいか迷っている方、必見です。人気美容YouTuber・nanakoななこさんが実際に購入した18アイテムの中から、感動品やリピ品を厳選して紹介してくれました。新作コスメからお得なボディケアまで、気になるアイテムをまとめてお届けします。

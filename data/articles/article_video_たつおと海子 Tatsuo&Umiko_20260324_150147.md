@@ -1,5 +1,6 @@
 <!-- VIDEO_URL: https://www.youtube.com/watch?v=CYbInYK8gmU -->
 <!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-09 -->
 # 【2026年03月】たつおと海子 Tatsuo&Umikoが紹介したキャンピングカー装備まとめ
 
 たつおと海子 Tatsuo&Umikoが、加藤モーターの5m未満キャンピングカー「Life is beautiful（リブ）」を中心に、反転シートや2段ベッドなど常識破りの車内装備を詳しく紹介しました。

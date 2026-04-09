@@ -35,7 +35,7 @@ export default function sitemap() {
 
   const articlePages = articles.map(a => ({
     url: `${BASE_URL}/articles/${encodeURIComponent(a.slug)}`,
-    lastModified: new Date(),
+    lastModified: a.lastUpdated ? new Date(a.lastUpdated) : (a.date ? new Date(a.date) : new Date()),
     changeFrequency: 'weekly' as const,
     priority: 0.6,
   }))
