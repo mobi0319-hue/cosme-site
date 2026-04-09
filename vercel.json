@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "cosme-site.vercel.app"
+        }
+      ],
+      "destination": "https://cosme-ch.com/:path*",
+      "permanent": true
+    }
+  ]
+}
