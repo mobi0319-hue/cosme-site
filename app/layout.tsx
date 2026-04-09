@@ -68,6 +68,24 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-gray-50 text-gray-800 min-h-screen">
+        {/* サイト全体の構造化データ */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "コスメまとめ",
+              url: "https://cosme-ch.com",
+              description: "人気YouTuberが動画で紹介したコスメ・スキンケア商品をまとめて確認できるサイトです。",
+              publisher: {
+                "@type": "Organization",
+                name: "コスメまとめ",
+                url: "https://cosme-ch.com",
+              },
+            }),
+          }}
+        />
         {/* ヘッダー */}
         <header className="bg-white border-b border-pink-100 sticky top-0 z-50">
           <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">

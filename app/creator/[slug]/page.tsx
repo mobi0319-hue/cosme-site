@@ -42,6 +42,17 @@ export default async function CreatorPage({
   const creator = getCreatorBySlug(decodeURIComponent(slug))
   if (!creator) notFound()
 
+  // Person 構造化データ（YouTuberリッチスニペット用）
+  const personData = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: creator.name,
+    url: creator.url,
+    sameAs: [creator.url],
+    ...(creator.icon_url ? { image: creator.icon_url } : {}),
+    description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
+  }
+
   // パンくず構造化データ
   const breadcrumbData = {
     "@context": "https://schema.org",
@@ -56,6 +67,11 @@ export default async function CreatorPage({
   return (
     <div className="max-w-2xl mx-auto space-y-6">
 
+      {/* Person 構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personData) }}
+      />
       {/* パンくず構造化データ */}
       <script
         type="application/ld+json"

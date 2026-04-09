@@ -79,6 +79,25 @@ export default async function ArticlePage({
   // 記事本文に登場する商品をマッチング
   const matchedProducts = getMatchedProductsForArticle(article.content, article.channel)
 
+  // Article 構造化データ（記事リッチスニペット用）
+  const articleJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    ...(article.date ? { datePublished: article.date } : {}),
+    author: {
+      '@type': 'Person',
+      name: channelInfo.displayName,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'コスメまとめ',
+      url: 'https://cosme-ch.com',
+    },
+    mainEntityOfPage: `https://cosme-ch.com/articles/${encodeURIComponent(article.slug)}`,
+    ...(videoId ? { image: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg` } : {}),
+  }
+
   // BreadcrumbList 構造化データ
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
@@ -107,7 +126,12 @@ export default async function ArticlePage({
 
   return (
     <div className="max-w-2xl mx-auto">
-      {/* 構造化データ */}
+      {/* Article 構造化データ */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+      />
+      {/* パンくず構造化データ */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
