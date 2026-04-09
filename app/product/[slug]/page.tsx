@@ -19,9 +19,12 @@ export async function generateMetadata({
   const product = getProductBySlug(decodeURIComponent(slug))
   if (!product) return {}
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
+  const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
+  const now = new Date()
+  const yearMonth = `${now.getFullYear()}年${now.getMonth() + 1}月`
   return {
-    title: `${product.brand} ${product.product_name} | ${youtuberCount}人のYouTuberが紹介`,
-    description: `${product.brand} ${product.product_name}の口コミ・評判を${youtuberCount}人のYouTuberが解説。Amazon・楽天で最安値チェック。送料無料で今すぐ購入。`,
+    title: `${product.brand} ${product.product_name} 口コミ・レビュー | ${youtuberCount}人のYouTuberが紹介【${yearMonth}】`,
+    description: `【${yearMonth}最新】${product.brand} ${product.product_name}を${youtuberCount}人のYouTuberが${videoCount}本の動画で紹介。実際の使用感・口コミをまとめました。Amazon・楽天の購入リンク付き。`,
     alternates: {
       canonical: `https://cosme-ch.com/product/${encodeURIComponent(slug)}`,
     },

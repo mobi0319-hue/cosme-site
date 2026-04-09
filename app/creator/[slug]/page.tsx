@@ -17,8 +17,8 @@ export async function generateMetadata({
   const creator = getCreatorBySlug(decodeURIComponent(slug))
   if (!creator) return {}
   return {
-    title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
-    description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
+    title: `${creator.name}が紹介したコスメまとめ${creator.top_products.length}選 | 動画${creator.videos.length}本`,
+    description: `人気YouTuber ${creator.name}が動画で実際に使って紹介したコスメ・スキンケア${creator.top_products.length}商品をまとめました。動画${creator.videos.length}本分の紹介商品を一覧で確認できます。`,
     alternates: {
       canonical: `https://cosme-ch.com/creator/${encodeURIComponent(slug)}`,
     },

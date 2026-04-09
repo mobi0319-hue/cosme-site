@@ -17,8 +17,8 @@ export async function generateMetadata({
   const video = getVideoById(id)
   if (!video) return {}
   return {
-    title: `${video.video_title} | 紹介コスメまとめ`,
-    description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
+    title: `${video.video_title} | ${video.channel}紹介コスメ${video.products.length}選`,
+    description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品を一覧で確認。各商品のAmazon・楽天リンク付き。`,
     alternates: {
       canonical: `https://cosme-ch.com/video/${encodeURIComponent(id)}`,
     },
