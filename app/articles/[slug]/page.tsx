@@ -35,6 +35,9 @@ export async function generateMetadata({
   return {
     title: `${article.title} | コスメまとめ`,
     description: plainText,
+    alternates: {
+      canonical: `https://cosme-ch.com/articles/${encodeURIComponent(article.slug)}`,
+    },
     openGraph: {
       title: article.title,
       description: plainText,
@@ -156,6 +159,7 @@ export default async function ArticlePage({
               title="YouTube動画"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
+              loading="lazy"
               className="absolute inset-0 w-full h-full"
             />
           </div>

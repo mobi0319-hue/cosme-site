@@ -19,6 +19,9 @@ export async function generateMetadata({
   return {
     title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
     description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,
+    alternates: {
+      canonical: `https://cosme-ch.com/creator/${slug}`,
+    },
     openGraph: {
       title: `${creator.name} 紹介コスメまとめ | YouTuberコスメ`,
       description: `${creator.name}が動画で紹介したコスメ・スキンケア商品${creator.top_products.length}点をまとめています。`,

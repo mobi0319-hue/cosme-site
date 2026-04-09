@@ -19,6 +19,9 @@ export async function generateMetadata({
   return {
     title: `${video.video_title} | 紹介コスメまとめ`,
     description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
+    alternates: {
+      canonical: `https://cosme-ch.com/video/${id}`,
+    },
     openGraph: {
       title: `${video.video_title} | 紹介コスメまとめ`,
       description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
@@ -176,7 +179,7 @@ export default async function VideoPage({
                     <a
                       href={product.amazon_url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow"
                       className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 px-4 py-2 rounded-full font-bold transition-colors shadow-sm"
                     >
                       🛒 Amazonで見る
@@ -186,7 +189,7 @@ export default async function VideoPage({
                     <a
                       href={product.rakuten_url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow"
                       className="text-xs bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-full font-bold transition-colors shadow-sm"
                     >
                       🛒 楽天で見る

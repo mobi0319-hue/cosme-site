@@ -19,6 +19,9 @@ export async function generateMetadata({
   return {
     title: `${concern.title} | YouTuber紹介コスメまとめ`,
     description: concern.description,
+    alternates: {
+      canonical: `https://cosme-ch.com/concerns/${slug}`,
+    },
     openGraph: {
       title: `${concern.title} | YouTuber紹介コスメまとめ`,
       description: concern.description,
@@ -146,13 +149,13 @@ export default async function ConcernPage({
               {(product.amazon_url || product.rakuten_url) && (
                 <div className="flex gap-2 mt-3 ml-0 sm:ml-12">
                   {product.amazon_url && (
-                    <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+                    <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
                       className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
                       🛒 Amazonで見る
                     </a>
                   )}
                   {product.rakuten_url && (
-                    <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+                    <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
                       className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
                       🛒 楽天で見る
                     </a>

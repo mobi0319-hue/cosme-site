@@ -1,7 +1,12 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { getProducts, getCategories, getCreators, getArticles, slugifyCreator } from "@/lib/data";
 import { CONCERNS } from "@/lib/concerns";
 import "./globals.css";
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+}
 
 export function generateMetadata(): Metadata {
   const productCount = getProducts().length
@@ -13,6 +18,9 @@ export function generateMetadata(): Metadata {
   return {
     title,
     description,
+    alternates: {
+      canonical: "https://cosme-ch.com",
+    },
     verification: {
       google: "Ta7jjAJLlLrutcIayAWYc_NBz3PClBlqT1ihAEC8T5c",
     },
@@ -40,6 +48,12 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <head>
+        {/* 外部リソースへの事前接続（ページ速度改善） */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://img.youtube.com" />
+        <link rel="preconnect" href="https://www.youtube.com" />
+        <link rel="dns-prefetch" href="https://thumbnail.image.rakuten.co.jp" />
+        <link rel="dns-prefetch" href="https://m.media-amazon.com" />
         {/* GA4 タグ */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2K61BP747" />
         <script

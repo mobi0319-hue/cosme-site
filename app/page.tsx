@@ -6,6 +6,9 @@ import { CONCERNS } from '@/lib/concerns'
 export const metadata: Metadata = {
   title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
   description: '人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめて確認できます。複数人が選んだ商品は特におすすめ。',
+  alternates: {
+    canonical: 'https://cosme-ch.com',
+  },
   openGraph: {
     title: 'コスメまとめ | YouTuberが紹介したコスメ・スキンケアを一覧でチェック',
     description: '人気YouTuberが動画で実際に使って紹介したコスメ・スキンケア商品をまとめて確認できます。複数人が選んだ商品は特におすすめ。',
@@ -160,7 +163,7 @@ export default function Home() {
                 {vid && (
                   <img
                     src={`https://img.youtube.com/vi/${vid}/mqdefault.jpg`}
-                    alt=""
+                    alt={article.title}
                     className="w-24 h-16 object-cover rounded-lg flex-shrink-0"
                   />
                 )}

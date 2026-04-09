@@ -1,4 +1,5 @@
 import { getVideos, getCreators, getArticles, slugifyCreator } from '@/lib/data'
+import { CONCERNS } from '@/lib/concerns'
 
 const BASE_URL = 'https://cosme-ch.com'
 
@@ -39,5 +40,20 @@ export default function sitemap() {
     priority: 0.6,
   }))
 
-  return [...staticPages, ...videoPages, ...creatorPages, ...articlePages]
+  const concernPages = [
+    {
+      url: `${BASE_URL}/concerns`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    },
+    ...CONCERNS.map(c => ({
+      url: `${BASE_URL}/concerns/${c.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.6,
+    })),
+  ]
+
+  return [...staticPages, ...videoPages, ...creatorPages, ...articlePages, ...concernPages]
 }

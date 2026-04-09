@@ -172,7 +172,7 @@ export default function ArticleContent({ content, videoId, channelName, channelI
                       {channelIconUrl ? (
                         <img
                           src={channelIconUrl}
-                          alt=""
+                          alt={channelName || 'チャンネルアイコン'}
                           className="w-8 h-8 rounded-full object-cover flex-shrink-0 mt-0.5"
                         />
                       ) : (
@@ -208,6 +208,7 @@ export default function ArticleContent({ content, videoId, channelName, channelI
                     title="YouTube動画"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
+                    loading="lazy"
                     className="absolute inset-0 w-full h-full"
                   />
                 </div>

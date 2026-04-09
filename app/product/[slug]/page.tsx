@@ -22,6 +22,9 @@ export async function generateMetadata({
   return {
     title: `${product.brand} ${product.product_name} | ${youtuberCount}人のYouTuberが紹介`,
     description: `${product.brand} ${product.product_name}の口コミ・評判を${youtuberCount}人のYouTuberが解説。Amazon・楽天で最安値チェック。送料無料で今すぐ購入。`,
+    alternates: {
+      canonical: `https://cosme-ch.com/product/${slug}`,
+    },
     openGraph: {
       title: `${product.brand} ${product.product_name} | YouTuber紹介コスメまとめ`,
       description: `${product.brand}の${product.product_name}を紹介しているYouTuber動画まとめ。口コミ・価格・購入リンクを確認できます。`,
@@ -143,13 +146,13 @@ export default async function ProductPage({
         {/* 購入ボタン（上部） — Amazon・楽天均等 */}
         <div className="flex flex-col sm:flex-row gap-3">
           {product.amazon_url && (
-            <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+            <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
               className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
               🛒 Amazonで見る
             </a>
           )}
           {product.rakuten_url && (
-            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
               className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
               🛒 楽天で見る
             </a>
@@ -251,13 +254,13 @@ export default async function ProductPage({
         </p>
         <div className="flex flex-col sm:flex-row gap-3">
           {product.amazon_url && (
-            <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+            <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
               className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
               🛒 Amazonで見る
             </a>
           )}
           {product.rakuten_url && (
-            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
               className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
               🛒 楽天で見る
             </a>
@@ -278,13 +281,13 @@ export default async function ProductPage({
         <div className="fixed bottom-0 left-0 right-0 z-50 sm:hidden bg-white border-t border-gray-200 px-4 py-3 shadow-lg">
           <div className="flex gap-2">
             {product.amazon_url && (
-              <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+              <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
                 className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm shadow-sm">
                 🛒 Amazonで見る
               </a>
             )}
             {product.rakuten_url && (
-              <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+              <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
                 className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm shadow-sm">
                 🛒 楽天で見る
               </a>

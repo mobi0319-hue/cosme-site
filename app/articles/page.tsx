@@ -5,6 +5,9 @@ import { getArticles, getChannelDisplayInfo } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'コスメ記事一覧 | YouTuber紹介コスメまとめ',
   description: '人気YouTuberが動画で紹介したコスメの詳細記事一覧。商品レビューやおすすめポイントをまとめてチェックできます。',
+  alternates: {
+    canonical: 'https://cosme-ch.com/articles',
+  },
   openGraph: {
     title: 'コスメ記事一覧 | YouTuber紹介コスメまとめ',
     description: '人気YouTuberが動画で紹介したコスメの詳細記事一覧。',

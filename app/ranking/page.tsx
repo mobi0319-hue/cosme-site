@@ -6,6 +6,9 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: '【2026年最新】YouTuberおすすめコスメランキング | カテゴリ別TOP商品',
   description: '35人以上のYouTuberが実際に使って紹介したコスメを、カテゴリ別にランキング形式でまとめました。スキンケア・ファンデーション・アイシャドウ・リップなど、紹介回数の多い人気商品がひと目でわかります。',
+  alternates: {
+    canonical: 'https://cosme-ch.com/ranking',
+  },
   openGraph: {
     title: '【2026年最新】YouTuberおすすめコスメランキング',
     description: '35人以上のYouTuberが紹介したコスメをカテゴリ別にランキング。紹介回数の多い人気商品をまとめました。',
@@ -150,13 +153,13 @@ export default function RankingPage() {
                 {/* 購入ボタン */}
                 <div className="flex flex-wrap gap-2 mt-3 ml-0 sm:ml-[52px]">
                   {product.amazon_url && (
-                    <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+                    <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
                       className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors shadow-sm">
                       🛒 Amazonで見る
                     </a>
                   )}
                   {product.rakuten_url && (
-                    <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+                    <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
                       className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors shadow-sm">
                       🛒 楽天で見る
                     </a>
@@ -214,13 +217,13 @@ export default function RankingPage() {
                   </div>
                   <div className="flex flex-wrap gap-2 mt-3 ml-0 sm:ml-11">
                     {product.amazon_url && (
-                      <a href={product.amazon_url} target="_blank" rel="noopener noreferrer"
+                      <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
                         className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
                         🛒 Amazonで見る
                       </a>
                     )}
                     {product.rakuten_url && (
-                      <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer"
+                      <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
                         className="text-xs bg-red-500 hover:bg-red-600 text-white font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">
                         🛒 楽天で見る
                       </a>

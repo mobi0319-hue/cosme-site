@@ -5,6 +5,9 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: '悩み別コスメまとめ | YouTuber紹介コスメ',
   description: '崩れにくいベースメイク・乾燥肌ケア・韓国コスメなど、悩みやテーマ別にYouTuberが紹介したコスメをまとめました。',
+  alternates: {
+    canonical: 'https://cosme-ch.com/concerns',
+  },
 }
 
 export default function ConcernsPage() {

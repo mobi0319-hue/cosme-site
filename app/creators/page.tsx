@@ -4,6 +4,9 @@ import { getCreators, slugifyCreator } from '@/lib/data'
 export const metadata = {
   title: 'YouTuber一覧 | コスメまとめ',
   description: 'コスメを紹介しているYouTuber一覧です。各YouTuberの紹介商品をまとめています。',
+  alternates: {
+    canonical: 'https://cosme-ch.com/creators',
+  },
   openGraph: {
     title: 'YouTuber一覧 | コスメまとめ',
     description: 'コスメを紹介しているYouTuber一覧です。各YouTuberの紹介商品をまとめています。',

@@ -5,6 +5,9 @@ import VideosClient from './VideosClient'
 export const metadata = {
   title: '動画一覧 | YouTuberが紹介したコスメまとめ',
   description: 'YouTuberのコスメ紹介動画一覧です。動画ごとに紹介商品をまとめています。',
+  alternates: {
+    canonical: 'https://cosme-ch.com/videos',
+  },
   openGraph: {
     title: '動画一覧 | YouTuberが紹介したコスメまとめ',
     description: 'YouTuberのコスメ紹介動画一覧です。動画ごとに紹介商品をまとめています。',
