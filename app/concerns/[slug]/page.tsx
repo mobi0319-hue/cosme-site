@@ -61,7 +61,7 @@ export default async function ConcernPage({
       {/* パンくず構造化データ */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData).replace(/</g, '\\u003c') }}
       />
 
       {/* パンくず */}

@@ -54,7 +54,7 @@ export default async function VideoPage({
     description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめています。`,
     thumbnailUrl: `https://img.youtube.com/vi/${video.video_id}/hqdefault.jpg`,
     embedUrl: `https://www.youtube.com/embed/${video.video_id}`,
-    contentUrl: video.video_url,
+    url: video.video_url,
     ...(video.published_at ? { uploadDate: video.published_at } : {}),
   }
 
@@ -75,12 +75,12 @@ export default async function VideoPage({
       {/* VideoObject 構造化データ */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchemaData) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchemaData).replace(/</g, '\\u003c') }}
       />
       {/* パンくず構造化データ */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData).replace(/</g, '\\u003c') }}
       />
 
       {/* パンくず */}

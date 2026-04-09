@@ -70,12 +70,12 @@ export default async function CreatorPage({
       {/* Person 構造化データ */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(personData) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personData).replace(/</g, '\\u003c') }}
       />
       {/* パンくず構造化データ */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData).replace(/</g, '\\u003c') }}
       />
 
       {/* パンくず */}

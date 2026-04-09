@@ -83,7 +83,7 @@ export default function RootLayout({
                 name: "コスメまとめ",
                 url: "https://cosme-ch.com",
               },
-            }),
+            }).replace(/</g, '\\u003c'),
           }}
         />
         {/* ヘッダー */}
