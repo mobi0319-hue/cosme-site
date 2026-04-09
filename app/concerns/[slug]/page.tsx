@@ -20,7 +20,7 @@ export async function generateMetadata({
     title: `${concern.title} | YouTuber紹介コスメまとめ`,
     description: concern.description,
     alternates: {
-      canonical: `https://cosme-ch.com/concerns/${slug}`,
+      canonical: `https://cosme-ch.com/concerns/${encodeURIComponent(slug)}`,
     },
     openGraph: {
       title: `${concern.title} | YouTuber紹介コスメまとめ`,

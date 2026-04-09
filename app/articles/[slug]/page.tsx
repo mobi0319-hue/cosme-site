@@ -84,7 +84,7 @@ export default async function ArticlePage({
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: article.title,
-    ...(article.date ? { datePublished: article.date } : {}),
+    datePublished: article.date || new Date().toISOString().split('T')[0],
     author: {
       '@type': 'Person',
       name: channelInfo.displayName,

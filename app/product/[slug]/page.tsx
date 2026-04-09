@@ -23,7 +23,7 @@ export async function generateMetadata({
     title: `${product.brand} ${product.product_name} | ${youtuberCount}人のYouTuberが紹介`,
     description: `${product.brand} ${product.product_name}の口コミ・評判を${youtuberCount}人のYouTuberが解説。Amazon・楽天で最安値チェック。送料無料で今すぐ購入。`,
     alternates: {
-      canonical: `https://cosme-ch.com/product/${slug}`,
+      canonical: `https://cosme-ch.com/product/${encodeURIComponent(slug)}`,
     },
     openGraph: {
       title: `${product.brand} ${product.product_name} | YouTuber紹介コスメまとめ`,

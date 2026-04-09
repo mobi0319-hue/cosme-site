@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "プライバシーポリシー・免責事項 | コスメまとめ",
   description: "コスメまとめのプライバシーポリシーおよび免責事項です。",
+  alternates: {
+    canonical: "https://cosme-ch.com/privacy",
+  },
 };
 
 export default function PrivacyPage() {

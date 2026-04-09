@@ -20,7 +20,7 @@ export async function generateMetadata({
     title: `${video.video_title} | 紹介コスメまとめ`,
     description: `${video.channel}の動画「${video.video_title}」で紹介されたコスメ${video.products.length}商品をまとめて確認できます。`,
     alternates: {
-      canonical: `https://cosme-ch.com/video/${id}`,
+      canonical: `https://cosme-ch.com/video/${encodeURIComponent(id)}`,
     },
     openGraph: {
       title: `${video.video_title} | 紹介コスメまとめ`,
