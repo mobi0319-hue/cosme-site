@@ -69,9 +69,12 @@ export default async function ProductPage({
 
   // Schema.org構造化データ（Googleリッチスニペット用）
   const offers = [
-    ...(product.amazon_url ? [{ "@type": "Offer" as const, url: product.amazon_url, seller: { "@type": "Organization" as const, name: "Amazon" } }] : []),
-    ...(product.rakuten_url ? [{ "@type": "Offer" as const, url: product.rakuten_url, seller: { "@type": "Organization" as const, name: "楽天" } }] : []),
+    ...(product.amazon_url ? [{ "@type": "Offer" as const, url: product.amazon_url, availability: "https://schema.org/InStock" as const, seller: { "@type": "Organization" as const, name: "Amazon" } }] : []),
+    ...(product.rakuten_url ? [{ "@type": "Offer" as const, url: product.rakuten_url, availability: "https://schema.org/InStock" as const, seller: { "@type": "Organization" as const, name: "楽天" } }] : []),
   ]
+  // 価格文字列から数値を抽出（例: "3,850円(税込)" → 3850）
+  const priceStr = product.api_price || product.price || ''
+  const priceNum = parseInt(priceStr.replace(/[^0-9]/g, ''), 10) || 0
   const structuredData = {
     "@context": "https://schema.org/",
     "@type": "Product",
@@ -84,6 +87,7 @@ export default async function ProductPage({
         "@type": "AggregateOffer",
         priceCurrency: "JPY",
         offerCount: offers.length,
+        ...(priceNum > 0 ? { lowPrice: priceNum, highPrice: priceNum } : {}),
         offers,
       },
     } : {}),
