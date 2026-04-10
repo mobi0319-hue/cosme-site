@@ -280,7 +280,7 @@ export default async function ProductPage({
 
       {/* モバイル スティッキー購入ボタン用の余白 */}
       {(product.amazon_url || product.rakuten_url) && (
-        <div className="h-16 sm:hidden" />
+        <div className="h-20 sm:hidden" />
       )}
 
       {/* モバイル スティッキー購入ボタン（画面下部に固定表示） */}

@@ -147,7 +147,7 @@ export default async function ConcernPage({
 
               {/* 購入ボタン */}
               {(product.amazon_url || product.rakuten_url) && (
-                <div className="flex gap-2 mt-3 ml-0 sm:ml-12">
+                <div className="flex flex-wrap gap-2 mt-3 ml-0 sm:ml-12">
                   {product.amazon_url && (
                     <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
                       className="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold px-3 py-1.5 rounded-lg transition-colors shadow-sm">

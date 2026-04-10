@@ -168,7 +168,7 @@ export default async function VideoPage({
                         <p className="text-xs text-gray-400">{product.brand}</p>
                         <a
                           href={`/product/${encodeURIComponent(slug)}`}
-                          className="text-sm font-bold text-gray-800 hover:text-pink-500 transition-colors"
+                          className="text-sm font-bold text-gray-800 hover:text-pink-500 transition-colors line-clamp-2"
                         >
                           {product.product_name}
                         </a>

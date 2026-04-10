@@ -90,7 +90,7 @@ export default function ContactPage() {
             name="name"
             required
             placeholder="山田 太郎"
-            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300"
+            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300"
           />
         </div>
 
@@ -105,7 +105,7 @@ export default function ContactPage() {
             name="email"
             required
             placeholder="example@email.com"
-            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300"
+            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300"
           />
         </div>
 
@@ -117,7 +117,7 @@ export default function ContactPage() {
           <select
             id="category"
             name="category"
-            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300 bg-white"
+            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300 bg-white"
           >
             <option value="一般的なお問い合わせ">一般的なお問い合わせ</option>
             <option value="掲載内容の修正依頼">掲載内容の修正依頼</option>
@@ -138,7 +138,7 @@ export default function ContactPage() {
             required
             rows={6}
             placeholder="お問い合わせ内容をご記入ください"
-            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300 resize-vertical"
+            className="w-full px-4 py-3 border border-gray-200 rounded-lg text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-pink-300 resize-vertical"
           />
         </div>
 

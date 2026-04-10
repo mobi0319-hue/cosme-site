@@ -44,8 +44,8 @@ export default function CreatorsPage() {
                     {creator.name.charAt(0)}
                   </div>
                 )}
-                <div>
-                  <h2 className="text-base font-bold text-gray-800">{creator.name}</h2>
+                <div className="flex-1 min-w-0">
+                  <h2 className="text-base font-bold text-gray-800 truncate">{creator.name}</h2>
                   <p className="text-sm text-gray-500">{creator.videos.length}本の紹介動画</p>
                 </div>
               </div>

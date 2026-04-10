@@ -21,7 +21,7 @@ export default function NotFound() {
         >
           トップページへ
         </a>
-        <div className="flex gap-3 justify-center">
+        <div className="flex flex-wrap gap-3 justify-center">
           <a href="/ranking" className="text-sm text-pink-500 hover:text-pink-600">
             ランキング
           </a>
