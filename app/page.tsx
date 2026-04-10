@@ -133,6 +133,7 @@ export default function Home() {
                 src={`https://img.youtube.com/vi/${video.video_id}/mqdefault.jpg`}
                 alt={video.video_title}
                 className="w-24 h-16 object-cover rounded-lg flex-shrink-0"
+                loading="lazy"
               />
               <div className="min-w-0">
                 <p className="text-xs text-pink-500 mb-1">{video.channel}</p>

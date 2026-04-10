@@ -38,7 +38,7 @@ export default function CreatorsPage() {
             >
               <div className="flex items-center gap-3 mb-3">
                 {creator.icon_url ? (
-                  <img src={creator.icon_url} alt={creator.name} className="w-12 h-12 rounded-full object-cover flex-shrink-0" />
+                  <img src={creator.icon_url} alt={creator.name} className="w-12 h-12 rounded-full object-cover flex-shrink-0" loading="lazy" />
                 ) : (
                   <div className="w-12 h-12 rounded-full bg-pink-100 flex items-center justify-center text-pink-500 font-bold text-lg flex-shrink-0">
                     {creator.name.charAt(0)}

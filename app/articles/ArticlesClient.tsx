@@ -51,7 +51,7 @@ export default function ArticlesClient({ articles }: { articles: ArticleItem[] }
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   {article.iconUrl ? (
-                    <img src={article.iconUrl} alt={article.displayName} className="w-6 h-6 rounded-full object-cover" />
+                    <img src={article.iconUrl} alt={article.displayName} className="w-6 h-6 rounded-full object-cover" loading="lazy" />
                   ) : (
                     <div className="w-6 h-6 bg-pink-100 rounded-full flex items-center justify-center text-xs font-bold text-pink-600">
                       {article.displayName.charAt(0)}

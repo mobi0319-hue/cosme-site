@@ -158,7 +158,7 @@ export default function ProductsClient({ products, categories, topProduct }: Pro
               >
                 <div className="w-full aspect-square bg-pink-50 rounded-lg mb-2 overflow-hidden">
                   {product.image_url ? (
-                    <img src={product.image_url} alt={product.product_name} className="w-full h-full object-cover" />
+                    <img src={product.image_url} alt={product.product_name} className="w-full h-full object-cover" loading="lazy" />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-3xl">💄</div>
                   )}
@@ -190,7 +190,7 @@ export default function ProductsClient({ products, categories, topProduct }: Pro
               >
                 <div className="w-full aspect-square bg-pink-50 rounded-lg mb-2 overflow-hidden">
                   {product.image_url ? (
-                    <img src={product.image_url} alt={product.product_name} className="w-full h-full object-cover" />
+                    <img src={product.image_url} alt={product.product_name} className="w-full h-full object-cover" loading="lazy" />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-3xl">💄</div>
                   )}
