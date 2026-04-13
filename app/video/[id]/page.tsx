@@ -5,8 +5,13 @@ import type { Metadata } from 'next'
 
 export async function generateStaticParams() {
   const videos = getVideos()
-  return videos.map((v) => ({ id: v.video_id }))
+  // 商品数が多い動画を優先して上位200件のみビルド時生成（Vercelメモリ対策）
+  const sorted = [...videos].sort((a, b) => b.products.length - a.products.length)
+  return sorted.slice(0, 200).map((v) => ({ id: v.video_id }))
 }
+
+// 未生成ページはアクセス時に生成してキャッシュ
+export const dynamicParams = true
 
 export async function generateMetadata({
   params,

@@ -5,13 +5,16 @@ import { notFound } from 'next/navigation'
 import ArticleContent from './ArticleContent'
 import ArticleProducts from './ArticleProducts'
 
-// 全記事のスラッグを静的パスとして生成
+// 記事のスラッグを静的パスとして生成（上位200件、残りはアクセス時生成）
 export function generateStaticParams() {
   const articles = getArticles()
-  return articles.map((article) => ({
+  return articles.slice(0, 200).map((article) => ({
     slug: article.slug,
   }))
 }
+
+// 未生成ページはアクセス時に生成してキャッシュ
+export const dynamicParams = true
 
 // メタデータ生成
 export async function generateMetadata({
