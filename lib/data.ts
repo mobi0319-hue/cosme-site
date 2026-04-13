@@ -62,7 +62,6 @@ export type MentionedBy = {
   video_title: string
   video_url: string
   context: string
-  accumulated_at: string
   published_at?: string
 }
 
@@ -77,11 +76,7 @@ export type Product = {
   mention_count: number
   mentioned_by: MentionedBy[]
   image_url?: string
-  asin?: string
   api_price?: string
-  api_title?: string
-  api_fetched_at?: string
-  status?: string
 }
 
 export type Channel = {
