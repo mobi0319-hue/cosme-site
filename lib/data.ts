@@ -117,11 +117,16 @@ export type Creator = {
 
 const DATA_DIR = path.join(process.cwd(), 'data')
 
+// ビルド中に何度も呼ばれるため、パース結果をキャッシュしてメモリ節約
+let _productsCache: Product[] | null = null
+
 export function getProducts(): Product[] {
+  if (_productsCache) return _productsCache
+
   const raw = fs.readFileSync(path.join(DATA_DIR, 'products.json'), 'utf-8')
   const products: Product[] = JSON.parse(raw)
   // コスメ以外のカテゴリを除外し、ブランド・商品名が不明なものも除外する
-  return products
+  _productsCache = products
     .filter(p => p.status === 'publish')
     .filter(p => isCosmeCategory(p.category))
     .filter(p => p.brand !== '不明' && !p.product_name.includes('不明'))
@@ -136,11 +141,16 @@ export function getProducts(): Product[] {
           .map((m: MentionedBy) => m.channel)
       ).size,
     }))
+  return _productsCache
 }
 
+let _channelsCache: Channel[] | null = null
+
 export function getChannels(): Channel[] {
+  if (_channelsCache) return _channelsCache
   const raw = fs.readFileSync(path.join(DATA_DIR, 'channels.json'), 'utf-8')
-  return JSON.parse(raw)
+  _channelsCache = JSON.parse(raw)
+  return _channelsCache!
 }
 
 // ======== スラッグ生成 ========
@@ -215,7 +225,10 @@ export function getProductBySlug(slug: string): Product | null {
 }
 
 // 動画一覧（video_urlでグループ化）
+let _videosCache: Video[] | null = null
+
 export function getVideos(): Video[] {
+  if (_videosCache) return _videosCache
   const products = getProducts().filter(p => p.genre === 'cosme')
   const map = new Map<string, Video>()
 
@@ -237,9 +250,10 @@ export function getVideos(): Video[] {
   }
 
   // コスメ商品が1件以上ある動画のみ、商品数が多い順に並べる
-  return Array.from(map.values())
+  _videosCache = Array.from(map.values())
     .filter(v => v.products.length > 0)
     .sort((a, b) => b.products.length - a.products.length)
+  return _videosCache
 }
 
 // 動画IDから動画を取得
