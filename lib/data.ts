@@ -126,8 +126,8 @@ export function getProducts(): Product[] {
   const raw = fs.readFileSync(path.join(DATA_DIR, 'products.json'), 'utf-8')
   const products: Product[] = JSON.parse(raw)
   // コスメ以外のカテゴリを除外し、ブランド・商品名が不明なものも除外する
+  // products.jsonはpublish済みのみ収録されている
   _productsCache = products
-    .filter(p => p.status === 'publish')
     .filter(p => isCosmeCategory(p.category))
     .filter(p => p.brand !== '不明' && !p.product_name.includes('不明'))
     .map(p => ({

@@ -3,12 +3,18 @@ import { getProducts, getProductBySlug, getRelatedProducts, slugifyProduct, extr
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 
+// ビルド時はアクセスの多い上位500件のみ静的生成。残りはアクセス時に動的生成+キャッシュ
 export async function generateStaticParams() {
   const products = getProducts()
-  return products.map((p) => ({
+  // mention_count順にソートして上位100件のみ（Vercel 80MBデプロイ制限対策）
+  const sorted = [...products].sort((a, b) => (b.mention_count || 0) - (a.mention_count || 0))
+  return sorted.slice(0, 100).map((p) => ({
     slug: slugifyProduct(p),
   }))
 }
+
+// 未生成ページはアクセス時に生成してキャッシュ
+export const dynamicParams = true
 
 export async function generateMetadata({
   params,

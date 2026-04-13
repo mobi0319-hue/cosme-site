@@ -5,10 +5,10 @@ import { notFound } from 'next/navigation'
 import ArticleContent from './ArticleContent'
 import ArticleProducts from './ArticleProducts'
 
-// 記事のスラッグを静的パスとして生成（上位200件、残りはアクセス時生成）
+// 記事のスラッグを静的パスとして生成（上位50件、残りはアクセス時生成）
 export function generateStaticParams() {
   const articles = getArticles()
-  return articles.slice(0, 200).map((article) => ({
+  return articles.slice(0, 50).map((article) => ({
     slug: article.slug,
   }))
 }
