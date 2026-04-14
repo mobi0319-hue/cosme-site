@@ -77,8 +77,8 @@
 
 **価格**: 3410円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=NQKyxIvbadQ)
+> **MAI TAKASUGI**: 「1アイテム目は じゃーん エリクシールデイケアレボリューショントーンアップBEプラスCAです 日中用乳液になってます こちらがですねすごく便利なことに 化粧水を塗った後すぐこちらで大丈夫だよっていう」
+> [動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978265755&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/19593/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -134,8 +134,8 @@
 
 ### トーン 5番　白玉グルタチオンCアップベース
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Q4CpgI3nR6I)
+> **MAI TAKASUGI**: 「ナンバーズインは美容液とトーンアコーディエースを以前ちょっといただきまして 初めてナンバーズインを使ってみたんですね この美容液がめちゃめちゃ良くって 塗った翌日、」
+> [動画を見る](https://www.youtube.com/watch?v=Q4CpgI3nR6I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%205%E7%95%AA%E3%80%80%E7%99%BD%E7%8E%89%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3C%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%205%E7%95%AA%E3%80%80%E7%99%BD%E7%8E%89%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3C%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9/?af=mobi.0319)
 

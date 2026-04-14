@@ -51,8 +51,8 @@
 
 ### セザンヌ ミネラルカバーBBクリームN
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「そして次。 3月3日追加発売。 セザンヌカクアイゾンコンシーラー02番と、 ライティングアップアイシャドウ02番。 こちらセザンヌの新作レビュー動画を出してますので、 そちらをご覧ください。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BCBB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0N&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BCBB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0N/?af=mobi.0319)
 
@@ -60,8 +60,8 @@
 
 ### セザンヌ 薬用クリアセラム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「そして次。 3月3日追加発売。 セザンヌカクアイゾンコンシーラー02番と、 ライティングアップアイシャドウ02番。 こちらセザンヌの新作レビュー動画を出してますので、 そちらをご覧ください。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E8%96%AC%E7%94%A8%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E8%96%AC%E7%94%A8%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%A0/?af=mobi.0319)
 
@@ -69,8 +69,8 @@
 
 ### セザンヌ まつげ美容液リッチプラス
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「そして次。 3月3日追加発売。 セザンヌカクアイゾンコンシーラー02番と、 ライティングアップアイシャドウ02番。 こちらセザンヌの新作レビュー動画を出してますので、 そちらをご覧ください。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%81%BE%E3%81%A4%E3%81%92%E7%BE%8E%E5%AE%B9%E6%B6%B2%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%81%BE%E3%81%A4%E3%81%92%E7%BE%8E%E5%AE%B9%E6%B6%B2%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9/?af=mobi.0319)
 
@@ -78,8 +78,8 @@
 
 ### エクセル スキンフラッター セラムクッション
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「こちら、NARS、 ライトリフレクティングセラムクッションファンデーション、 SPF42、 EPA2プラス。 色がビエンナです。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
@@ -87,8 +87,8 @@
 
 ### セザンヌ 販売名：　薬用美容液C【医薬部外品】
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=M2j7QvuZ1ho)
+> **コスメヲタちゃんねるサラ**: 「ということで今回はみんな大好き 私も大好きセザンヌの春の新作大量レビューしていきたいとおもいます この季節がやってきました毎年私楽しみにしてるんですけど今回も魅力的な商品が たくさんあります商品はセザンヌ様にお」
+> [動画を見る](https://www.youtube.com/watch?v=M2j7QvuZ1ho)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E8%B2%A9%E5%A3%B2%E5%90%8D%EF%BC%9A%E3%80%80%E8%96%AC%E7%94%A8%E7%BE%8E%E5%AE%B9%E6%B6%B2C%E3%80%90%E5%8C%BB%E8%96%AC%E9%83%A8%E5%A4%96%E5%93%81%E3%80%91&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E8%B2%A9%E5%A3%B2%E5%90%8D%EF%BC%9A%E3%80%80%E8%96%AC%E7%94%A8%E7%BE%8E%E5%AE%B9%E6%B6%B2C%E3%80%90%E5%8C%BB%E8%96%AC%E9%83%A8%E5%A4%96%E5%93%81%E3%80%91/?af=mobi.0319)
 
@@ -96,8 +96,8 @@
 
 ### ESPOIR espoir / ウォータースプラッシュサンクリーム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
+> **コスメヲタちゃんねるサラ**: 「まずこちらエスポアウォータースプラッシュサンクリームトーンアップラスティング SPF50プラスPA++++ エスポアのこの下地のシリーズ大人気だと思うんですけど そちらのラベンダーカラーが出まして 結構 トーンア」
+> [動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ESPOIR%20espoir%20/%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%97%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ESPOIR%20espoir%20/%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%97%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319)
 
@@ -105,8 +105,8 @@
 
 ### オバジ オバジ / オバジC デイセラムBB
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=D4zDXYRcnG0)
+> **コスメヲタちゃんねるサラ**: 「それではまず最初こちらオバジシーデイサラム bb ナチュラル spf 50プラス pf 4プラス これはもう発売されてから私何回も紹介してると思うんですけど 伸びもいいし spf 値も 国」
+> [動画を見る](https://www.youtube.com/watch?v=D4zDXYRcnG0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%90%E3%82%B8%20%E3%82%AA%E3%83%90%E3%82%B8%20/%20%E3%82%AA%E3%83%90%E3%82%B8C%20%E3%83%87%E3%82%A4%E3%82%BB%E3%83%A9%E3%83%A0BB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%90%E3%82%B8%20%E3%82%AA%E3%83%90%E3%82%B8%20/%20%E3%82%AA%E3%83%90%E3%82%B8C%20%E3%83%87%E3%82%A4%E3%82%BB%E3%83%A9%E3%83%A0BB/?af=mobi.0319)
 
@@ -132,8 +132,8 @@
 
 ### Laneige LANEIGE / ウォーターバンク インテンシブクリーム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=KR0U31b2iys)
+> **コスメヲタちゃんねるサラ**: 「そして次がこちら。 ラネージュウォーターバンクブルーヒアルロニックインテンシブモイスチャライザー。 今日紹介するアイテムの中で一番新しめな商品だと思います。」
+> [動画を見る](https://www.youtube.com/watch?v=KR0U31b2iys)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%20/%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B7%E3%83%96%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Laneige%20LANEIGE%20/%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B7%E3%83%96%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319)
 
@@ -141,8 +141,8 @@
 
 ### バニラコ カバーリシャス アルティメット ホワイトクッション モイスチャー
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
+> **コスメヲタちゃんねるサラ**: 「はい、次がこちら。 バニラコ カバーリシャス アルティメット ホワイトクッションモイスチャー SPF50プラス PA++++ こちら既存のホワイトクッションファンデだと乾燥しちゃうという人」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC/?af=mobi.0319)
 
@@ -150,8 +150,8 @@
 
 ### トーン tfit/ルミネールスキップトーンアップクリーム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wlFekbZLBXc)
+> **コスメヲタちゃんねるサラ**: 「こんな感じ 次がこちらティーフィットのルミネールスキップトーンアップクリームです ティーフィットといえば3色のコンシーラーとかパウダーが有名だと思うんですけども 個人的に使ってみてこれが感動したやつ 結構ねサイズが大きくて」
+> [動画を見る](https://www.youtube.com/watch?v=wlFekbZLBXc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20tfit/%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20tfit/%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319)
 

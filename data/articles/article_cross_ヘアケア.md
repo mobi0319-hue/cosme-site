@@ -47,9 +47,8 @@
 
 **価格**: 23100円 | **2人のYouTuberが紹介**
 
-動画の概要欄でヘアケアアイテムとして紹介されています。
-
-**紹介YouTuber**: 小田切ヒロ / えみ姉
+> **えみ姉**: 「あえてここには載せないでおくね でも 私このフェイシャルトリートメントエッセンス もう無いと無理なんですよ 私は乾燥肌だから 化粧水自体は結構ねしっとり系が好きなのね なのにこれはめちゃめちゃサラサラなの 普通のサラ」
+> [動画を見る](https://www.youtube.com/watch?v=GYBSIeNy-o0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4979006070125&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/f252107-yasu/sk002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

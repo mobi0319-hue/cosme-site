@@ -63,8 +63,8 @@
 
 **価格**: 3960円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=9eRFKuDlGSw)
+> **鹿の間**: 「ローシュポジUVデアエクセルプロテクショントーンアップのクリアでございます これね肌が荒れてる時 どんなコンディションの時に使っても めっちゃ綺麗に見えるけん なんやろ使い始めてメンタルケアになっとる トーン」
+> [動画を見る](https://www.youtube.com/watch?v=HC73HeHNJcc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20La%20Roche-Posay%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%AA%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20La%20Roche-Posay%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%AA%E3%82%A2/?af=mobi.0319&s=2&v=2)
 
@@ -89,8 +89,8 @@
 
 **価格**: 3960円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=MqrHoFhXO7o)
+> **鹿の間**: 「肌がなめらかになります かなりツヤと高めでし 肌のトーンアップ具合がかなり明るめなので ちょっとね私の肌からすると 首白浮きしてるなと感じるんですが まぁそういう時はね首まで塗れば問題ないんですけど ちょっと珍しいで」
+> [動画を見る](https://www.youtube.com/watch?v=K3ZeccM0ToQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20La%20Roche-Posay%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%AA%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g3337875585859_mail/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -115,8 +115,8 @@
 
 **価格**: 1078円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7DuJAb2z_MM)
+> **鹿の間**: 「一番使った日焼け止めが こちらニベアのUVディーププロテクと ケアトーンアップエッセンスでございます 香港ディズニーランドに行ったんですけど できる限り私肌をね白く見せたかったので 液体はねこのトーンアップUV」
+> [動画を見る](https://www.youtube.com/watch?v=7DuJAb2z_MM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901301415363&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901301415363/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -128,8 +128,8 @@
 
 **価格**: 3300円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=HC73HeHNJcc)
+> **鹿の間**: 「激推しアイテムです こちらラローシュポゼの エリオスUVプロテクションミストでございます 皆さんお顔の日焼け止めの塗り直し 何でしてますか 顔塗りたくってるからあんま日焼けしないと思って あんまり塗り直ししなかったんですけど これをね使」
+> [動画を見る](https://www.youtube.com/watch?v=HC73HeHNJcc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=La%20Roche-Posay%20%E2%9D%B9%20%E3%82%A2%E3%83%B3%E3%83%86%E3%83%AA%E3%82%AA%E3%82%B9%20UV%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%82%B9%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/aquabouquet/3337875549530/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

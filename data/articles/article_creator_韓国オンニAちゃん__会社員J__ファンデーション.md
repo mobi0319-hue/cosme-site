@@ -32,8 +32,8 @@
 
 **価格**: 3630円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=y1Kw4YgzHJY)
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_cs_cf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -236,8 +236,8 @@
 
 ### トーン ナンバーズイン ノーファンデ 陶器肌 トーンアップクリーム
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=SWk14VyqD9k)
+> **韓国オンニAちゃん (会社員J)**: 「ということで今回は、韓国で有名なトーンアップカラーコントロール日焼け止めを紹介したいと思います。」
+> [動画を見る](https://www.youtube.com/watch?v=SWk14VyqD9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%20%E3%83%8E%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%20%E9%99%B6%E5%99%A8%E8%82%8C%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bijin-cosme/numbuzin-tone-up-beige/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

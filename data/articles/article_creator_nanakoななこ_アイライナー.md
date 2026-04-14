@@ -20,8 +20,8 @@
 
 **価格**: 1100円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+> **nanakoななこ**: 「っていう人はぜひ はい使いすぎ ヒロインメイクのスムースリキッドアイライナー02番 これはガチ落ちない これはね本当にもうこれ何回言ってんの?って感じなんですけど 昔東海オンエアの動画に出た時に 水彩絵の具」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -59,8 +59,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+> **nanakoななこ**: 「こういうクリームペンシル 特にクリーミータッチライナーは もともと作る量が薄いから パンダにならないの黒じゃないし でもうちょっと盛れないなぁと言ってますね っていう人はぜひ はい使いすぎ ヒロインメイクのスムース」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2006&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901008312606/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -68,8 +68,8 @@
 
 ### デジャヴュ 密着アイライナー 極細クリームペンシル
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zOB_-eUTfXw)
+> **nanakoななこ**: 「スッと描いていきます もうすぐ新発売されるこちら デジャヴュのものなんですけど デジャヴュの密着アイライナーの極細クリームペンシル これはローズボルドーっていうカラーを 使っていきます。」
+> [動画を見る](https://www.youtube.com/watch?v=zOB_-eUTfXw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%E3%83%A5%20%E5%AF%86%E7%9D%80%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E6%A5%B5%E7%B4%B0%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmebox/j4903335103728y1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

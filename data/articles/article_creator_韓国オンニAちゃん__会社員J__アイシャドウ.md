@@ -111,8 +111,8 @@
 
 ### ウェイクメイク ウェイクメイク
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=S66Ay9gX9NA)
+> **韓国オンニAちゃん (会社員J)**: 「ますとザーセムのパレットが1番硬くて ルナデイジークウェイクメイクの順番で テクスチャーが柔らかくなっていくんです けれども全食のスウォッチを見てみますと こんな感じでございます赤身は気になら ないからグリーンはいらなくてボリ」
+> [動画を見る](https://www.youtube.com/watch?v=S66Ay9gX9NA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/wakemake_sf_blurring_eyepalette1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

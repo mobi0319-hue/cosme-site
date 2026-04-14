@@ -33,8 +33,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Z4c1zcXIve0)
+> **まつきりな**: 「顔の中心が出やすいから 続いてじゃーん コーセーのメイクキープパウダー これもうすごく良くて ノリで薬局で買ったけど その後ねなんかすごい色んなモデルさん女優さんとかがめっちゃいいみたいな SNSで載せてるの見てあ当たりあ」
+> [動画を見る](https://www.youtube.com/watch?v=Z4c1zcXIve0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KOSE%20KOSE%EF%BD%9C%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%BC%E3%83%97%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BD%9C5g%EF%BD%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kamiya/10038884/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

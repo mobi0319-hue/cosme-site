@@ -456,8 +456,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1320円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PyhMa531qiQ)
+> **鹿の間**: 「本日リップはペリペラのインクベルベット24番使っていきます 数年前のね自分のメイクを見返して やっぱこのマットのね ヌーディーというかオレンジカラーで作る 秋メイクが可愛いってなって そう」
+> [動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PERIPERA%20PERIPERA%20%E3%82%A4%E3%83%B3%E3%82%AF%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%2024%20MILKY%20NUDE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/biccamera/4573198753219/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -651,8 +651,8 @@ SPステイ ヴィニルインク
 
 **価格**: 4730円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=fAx7YQM-VoA)
+> **鹿の間**: 「まず1つ目が サボンのボディスクラブリリーパレスでございます これはね結構プレゼントの定番アイテムかと思うんですが やっぱりスクラブって使い切っちゃうので いくつあっても嬉しいですね 私はまだね手」
+> [動画を見る](https://www.youtube.com/watch?v=yoHef9gamEQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SABON%20%E3%83%9C%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sabon/s0002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -677,8 +677,8 @@ SPステイ ヴィニルインク
 
 **価格**: 990円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
+> **鹿の間**: 「で今日マスカラ何使うかというと コセのカールキープマジック これですよね とにかくカールをしっかりと作りたいとき 存在感をね出したいときはこれがいい と言う訳で塗ります 根元からしっかりとすくい上げて 天まで 天に届け」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KOSE%20KOSE%20%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%97%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4971710511505/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -690,8 +690,8 @@ SPステイ ヴィニルインク
 
 **価格**: 858円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+> **鹿の間**: 「今回アイシャドウは キャンメイクパーフェクトマルチアイズの 08番使っていきます 色出すとこんな感じです 結構肉眼で見るとベリーみの強いカラーなんですが 免許センターはそうでもないんですけど 照明写真の機械自体が黄み」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A2%E3%82%A4%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/to514132740101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -716,8 +716,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1969円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+> **鹿の間**: 「メイベリーニューヨークSPステイビニルインクの280番 甘さ控えめいちごオレでございます ほんとにもうこれはお願いします 既存色にしてください これをもうずっと使えないなんてもったいなさすぎる」
+> [動画を見る](https://www.youtube.com/watch?v=XQ92dco4hrI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20SP%E3%82%B9%E3%83%86%E3%82%A4%C2%A0%E3%83%B4%E3%82%A3%E3%83%8B%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/maybelline/404931/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -729,8 +729,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1100円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=k3rId0sKOLw)
+> **鹿の間**: 「本日のマスカラは オペラのマイラッシュアドバンストの サバンモカブラウンを使っていきます さあ根元からしっかりと 立ち上げながら まつげ塗っていきましょう これだけでもかわいい けどねなんかいっぱい」
+> [動画を見る](https://www.youtube.com/watch?v=k3rId0sKOLw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4903335085949&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4903335085949/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -755,8 +755,8 @@ SPステイ ヴィニルインク
 
 **価格**: 7150円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qvYc6LMRUHk)
+> **鹿の間**: 「はいこちらディオールスキンフォーエバークチュールルミナイザーの2番ピンクでございまーす 1番やったっけなもう見るからに私がドストライクで好きなカラーがあったんですよ 白系のめっちゃもうドゥーンと発光するやつ」
+> [動画を見る](https://www.youtube.com/watch?v=qvYc6LMRUHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20Dior%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2002%20%E3%83%94%E3%83%B3%E3%82%AF%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rareu/20210923199/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -781,8 +781,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1100円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=tHo6uvXDYOw)
+> **鹿の間**: 「マスカラめちゃくちゃ悩んだんですが こちら オペラのマイラッシュアドバンスド1番でございます この オペラのマスカラは ほーんとに お湯でするっと シャワー流すだけでするっと落ちるんですけど なのにキープ力が高くって 圧倒的」
+> [動画を見る](https://www.youtube.com/watch?v=tHo6uvXDYOw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4903335085895&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakutensokuhaimart/4903335085895/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -794,8 +794,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1430円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
+> **鹿の間**: 「そしたら本日ハイライトは ルムアンドのシースルーベールライターの1番使っていきます これしかないでしょうというぐらい もういちご狩りにぴったり もうね見るからにちょっとピンクがかってますよね こちらのハイライトがですね こ」
+> [動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4582356617898&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/wellness-web/10153191/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -807,8 +807,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1650円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「さあ今回のアイシャドウはエクセルの リアルクローズシャドウの 8番クォーツリングを使っていきます 一目見た時に胃腸の黄色から 徐々に暖かくなっていく グラデーションのように感じて これ絶対使いたいと思って この日のため」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4964596785283&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4964596785283/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -820,8 +820,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1639円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
+> **鹿の間**: 「そしたら細まつ毛を作っていきたいので メイベリーのスカイハイ のブラック使っていきます それではいきまーす まあ二三度塗りぽんぽんぽんとしまして 待ってうちあれ買ったんやん じゃじゃーん 待って手持ち鏡見れんやん えでき」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/maybelline/6902395833307/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -846,8 +846,8 @@ SPステイ ヴィニルインク
 
 **価格**: 10890円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
+> **鹿の間**: 「今日はちょっとラグジュアリーな気分 イヴサンローランのクチュールミニクラッチの100番使っていきます ベージュとくすみ系のカラーで構成されてて ちょっとねどちらかというと寒色襟なのでブルベさんも似合うと思います 色味出してみ」
+> [動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%8B%20%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%20No.100%20%E3%82%B9%E3%83%88%E3%83%A9%20%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/treasurebeauty/10612020/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -859,8 +859,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1694円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
+> **鹿の間**: 「ピタッと密着してくれるようなテクスチャーでリピ買いするぐらい大好きなプライマー なんかさ最近気温も下がってきてなんか肌がいつ」
+> [動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%2002%20%E3%81%9F%E3%81%9D%E3%81%8C%E3%82%8C%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%2002%20%E3%81%9F%E3%81%9D%E3%81%8C%E3%82%8C%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC/?af=mobi.0319)
 
@@ -898,8 +898,8 @@ SPステイ ヴィニルインク
 
 **価格**: 660円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「そしたらセザンヌのフェイスグロウカラーを使って ツヤ入れていきます ちょっと高い位置にツヤ入れて こっちもツヤ入れまーす さっきもツヤ入れたけど 上からつや入れます そしたらケイトのブラウンのライン」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9%E3%83%BC%2001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cc008222450101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -924,8 +924,8 @@ SPステイ ヴィニルインク
 
 **価格**: 2750円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PO11SXSb3Vc)
+> **鹿の間**: 「乾燥さんの下地はやっぱりしっとりしてますね トーンアップ具合いかがでしょうか でもめっちゃ緑ってわけでもない 白気してる感じもしない 多分動画越しでもめっちゃ赤み伝わると思う どうしちゃったの私 塗ってみます」
+> [動画を見る](https://www.youtube.com/watch?v=PO11SXSb3Vc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9F%E3%82%B7%E3%83%A3%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%91%E3%82%AF%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/irecosmetic/10054442/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -937,8 +937,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1100円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
+> **鹿の間**: 「次 サナエクセルロングカラードラッシュのクランベリーでございます これ発売当初から使ってるんですけど 最初限定かなと思ったんですが 定番品としりもう本当に発狂するぐらい嬉しかっ」
+> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%83%AD%E3%83%B3%E3%82%B0%26%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5LC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lifezakkaevery/20250208003128_208/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -950,8 +950,8 @@ SPステイ ヴィニルインク
 
 **価格**: 748円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
+> **鹿の間**: 「続いてはこちら セザンヌのベージュトーンアイシャドウの 2番ローズベージュでございます 推しのねプチプラアイシャドウいっぱいあったんですけど このベージュトーンアイシャドウが出てきてか」
+> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042327&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/?af=mobi.0319)
 
@@ -989,8 +989,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1045円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
+> **鹿の間**: 「あかわいい でねこのキャンメイクのフローレスブロウリキッドの4番 ごめんちょっと拳汚いけど こんな感じでこれアイブロウなんですけど 涙袋の陰にめっちゃちょうどよくって 描きまーす ちょっとあの黒目の真下にあの2ミリほど」
+> [動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008317069&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sanreishop/4901008317069/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -1028,8 +1028,8 @@ SPステイ ヴィニルインク
 
 **価格**: 858円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
+> **鹿の間**: 「もう可愛い未来しかない それではこちら キャンメイクのパーフェクトマルチアイズの 8番スリーズショコラ使っていきます 去年の年末出た新色で色合いこんな感じです ピンクで構成されてまして ちょっと深みのあるカラーなので 夜にもおすすめです」
+> [動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A2%E3%82%A4%E3%82%BA%2008&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000181856/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -1054,8 +1054,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1210円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=TfXphx1tQGc)
+> **鹿の間**: 「続いてがマジョリカマジョルカの ラッシュエキスパンダーロングロングロングのRD505使っていきます 今日は下まつ毛からやっていくんですが 2、」
+> [動画を見る](https://www.youtube.com/watch?v=TfXphx1tQGc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAJOLICA%20MAJORCA%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20EX&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAJOLICA%20MAJORCA%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20EX/?af=mobi.0319)
 
@@ -1093,8 +1093,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1969円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=F5gzXmZ7_N4)
+> **鹿の間**: 「まず一つ目がこちら ロレアルパリのボンドリペア導入エッセンスでございます これね、」
+> [動画を見る](https://www.youtube.com/watch?v=F5gzXmZ7_N4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%AC%E3%82%A2%E3%83%AB%20%E3%83%AD%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%91%E3%83%AA%E3%80%80%E3%83%9C%E3%83%B3%E3%83%89%E3%83%AA%E3%83%9A%E3%82%A2%20%E5%B0%8E%E5%85%A5%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/superdeal/15186lorbondrepair3itemset/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -1141,8 +1141,8 @@ SPステイ ヴィニルインク
 
 ### メイベリン 提供： ニューヨーク
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
+> **鹿の間**: 「ピタッと密着してくれるようなテクスチャーでリピ買いするぐらい大好きなプライマー なんかさ最近気温も下がってきてなんか肌がいつ」
+> [動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E6%8F%90%E4%BE%9B%EF%BC%9A%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E6%8F%90%E4%BE%9B%EF%BC%9A%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
@@ -1181,8 +1181,8 @@ SPステイ ヴィニルインク
 
 **価格**: 5060円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PfF2WGEDH0Y)
+> **鹿の間**: 「全人類一度は使うべきミスト クラランスのフィックスメイクアップミストでございます ちょっと現在使っているのがね ラブエディションという この春に出たばかりの ものなんですけど 皆さんメイクミストは使いますか こ」
+> [動画を見る](https://www.youtube.com/watch?v=PfF2WGEDH0Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20N&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLARINS%20CLARINS%20%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20N/?af=mobi.0319)
 
@@ -1192,8 +1192,8 @@ SPステイ ヴィニルインク
 
 **価格**: 5610円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「うん じゃあマスカラなんですけれども はい ランコムのラッシュイドルフラッターエクステンション1番トゥルブラックでございます これお用途です こっちっていうのもあり うん 液体がしっかりつくので うん さらっと」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0%20%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%A4%E3%83%89%E3%83%AB%20%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%2001%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0%20%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%A4%E3%83%89%E3%83%AB%20%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%2001%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -1214,8 +1214,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1650円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「マスカラはじゃあこれ塗ってもらっていいかな なんだろう マジョリカマジョルカのラッシュエキスパンダドーリーカールというマスカラ これ私すごく好きで あ、」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%E3%80%80%E3%83%89%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%ABBK921%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%E3%80%80%E3%83%89%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%ABBK921%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -1253,8 +1253,8 @@ SPステイ ヴィニルインク
 
 **価格**: 4840円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=31sAP3eKCN4)
+> **鹿の間**: 「シュウムラのキヌキアグロウアップBG958梅ゼリーでございます これはねフィーより全然前に使い始めたんですけど 出会ってから毎日リップになって 全色持ってるんですけど 中でも私はこの梅ゼリーを一番使った」
+> [動画を見る](https://www.youtube.com/watch?v=31sAP3eKCN4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%AD%E3%83%8C%E3%82%B1%E3%82%A2%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%20BG%20958%20%E3%82%A6%E3%83%A1%E3%82%BC%E3%83%AA%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%AD%E3%83%8C%E3%82%B1%E3%82%A2%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%20BG%20958%20%E3%82%A6%E3%83%A1%E3%82%BC%E3%83%AA%E3%83%BC/?af=mobi.0319)
 
@@ -1354,8 +1354,8 @@ SPステイ ヴィニルインク
 
 ### ファンケル 情報みなさまありがとうございます！
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kVHo56qFC3g)
+> **鹿の間**: 「朝と夜で二つあります まずは朝洗顔からこちら ファンケルの柔肌ミルク洗顔でございます これはねもう使ってすぐ リピ買い確定しました これは朝用の洗顔なんですけど 私いつも朝の洗顔 ラゴム使ってるじゃないですか 朝の洗」
+> [動画を見る](https://www.youtube.com/watch?v=kVHo56qFC3g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E6%83%85%E5%A0%B1%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BE%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E6%83%85%E5%A0%B1%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BE%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81/?af=mobi.0319)
 
@@ -1393,8 +1393,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1760円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「そしたらちょっと先にカラコン入れます 今日はシシカのベベカカオでございます ナチュラルなカラコン ちょっと水光とかでもね良かったんですけど ドレスが十分華やかなので 眼球はそんな華やかじゃなくてもいいかなっていう 刻んでご」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=cicica%20cicica%0D%E3%83%99%E3%83%99%E3%82%AB%E3%82%AB%E3%82%AA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/cicica%20cicica%0D%E3%83%99%E3%83%99%E3%82%AB%E3%82%AB%E3%82%AA/?af=mobi.0319)
 
@@ -1406,8 +1406,8 @@ SPステイ ヴィニルインク
 
 **価格**: 1694円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「キュルッとね そしたらマスカラはスカイハイのブラックでございます やっぱり泣くかもということで 私はスカイハイかなり落ちにくかったから すごい信頼してます はっついた わっほんとに落ちにくいから注意 ス」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20%0D%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%0D01%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20%0D%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%0D01%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -1419,8 +1419,8 @@ L02 たそがれブラウン
 
 **価格**: 1694円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「キュルッとね そしたらマスカラはスカイハイのブラックでございます やっぱり泣くかもということで 私はスカイハイかなり落ちにくかったから すごい信頼してます はっついた わっほんとに落ちにくいから注意 ス」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20%0D%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%0DL02%20%E3%81%9F%E3%81%9D%E3%81%8C%E3%82%8C%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20%0D%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%0DL02%20%E3%81%9F%E3%81%9D%E3%81%8C%E3%82%8C%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
 

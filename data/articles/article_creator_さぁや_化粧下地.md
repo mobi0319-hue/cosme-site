@@ -126,8 +126,8 @@
 
 ### トーン トーンアップ化粧下地
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=OZUGPBNNvHk)
+> **さぁや**: 「まず最初に NARSのライトリフレクティングトーンアップウェール NARSの下地ですね こんな感じの ホワイトベージュのような感じの下地で めっちゃ白浮きするわけじゃなくて 自然に肌をこうトーンアップしてくれる」
+> [動画を見る](https://www.youtube.com/watch?v=OZUGPBNNvHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E5%8C%96%E7%B2%A7%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/4328/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -135,8 +135,8 @@
 
 ### トーン 悩まずこれ！トーンアップベース
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Pdz0NUX6wrE)
+> **さぁや**: 「NARSのライトリフレクティングトーンアップベール SPF27のPA++です 結構悩まずにもう一択ぐらいな感じで これ!っていう風にね、決まりました で、」
+> [動画を見る](https://www.youtube.com/watch?v=Pdz0NUX6wrE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E6%82%A9%E3%81%BE%E3%81%9A%E3%81%93%E3%82%8C%EF%BC%81%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E6%82%A9%E3%81%BE%E3%81%9A%E3%81%93%E3%82%8C%EF%BC%81%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9/?af=mobi.0319)
 
@@ -144,8 +144,8 @@
 
 ### トーン 崩れないトーンアップ下地
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=S41Vnq_xKzs)
+> **さぁや**: 「ライトリフレクティングトーンアップベールです こちらはですね SPFは27のPA++ これは本当に崩れにくい下地で めっちゃバズってる 色味はこういったホワイトベージュのカラーなんですけど」
+> [動画を見る](https://www.youtube.com/watch?v=S41Vnq_xKzs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/quince/lcs/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

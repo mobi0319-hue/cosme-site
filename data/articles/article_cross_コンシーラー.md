@@ -42,9 +42,8 @@
 
 **価格**: 1650円 | **3人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「次がこちら 最近話題のティーフィットカバーアッププロコンシーラー01使います 3色あるんだけど中間の色味を塗っていきます めちゃくちゃ滑らかでムラなくカバーしてくれる 全体的にテクスチャーとかカバー力とかバランスのいい商品で」
+> [動画を見る](https://www.youtube.com/watch?v=FmK9N_kBjlM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%0A%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/tfit%20tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%0D%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC/?af=mobi.0319)
 
@@ -58,6 +57,9 @@
 
 > **かじえり**: 「かじえりが一軍コスメとして太鼓判を押すアイテム。毎日のメイクに欠かせない存在になっているとのこと。気になる部分をしっかりカバーしてくれるのが魅力で、肌悩みをしっかり隠したい方におすすめ」
 > [動画を見る](https://www.youtube.com/watch?v=cWv2RmYJe_w)
+
+> **ひよんちゃんねる**: 「こちら使います ボーンの ペタルフロートフローレスタッチ 01番のコンシーラーとフェイスカラーが 一緒になっているパレット 3色のコンシーラーとフェイスカラーがある っていう感じですね 小さい」
+> [動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=to/one%20%E3%83%9A%E3%82%BF%E3%83%AB%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9%20%E3%82%BF%E3%83%83%E3%83%81%2002&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/toonecosmetics/4573623430555/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -83,9 +85,8 @@
 
 **価格**: 1210円 | **2人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「これも人気でそうですね そして1月 1月の16日発売の ヴィセトリニタスグロウパウダー 3色のコントロールカラーが肌に溶け込み 色ムラくすみ毛穴を自然にカバー しっとりとした薄膜ベールで 透け感のあるツヤ肌へ導く シルクタ」
+> [動画を見る](https://www.youtube.com/watch?v=aDTGelQPIvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710592955&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%B4%E3%82%A3%E3%82%BB%20%E3%83%B4%E3%82%A3%E3%82%BB%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%87%E3%83%A5%E3%82%AA%20%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E2%80%BB1/16%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -97,9 +98,11 @@
 
 **価格**: 1650円 | **2人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
+> **鹿の間**: 「いつも使ってたのとはまた別で クールというカラーを最近購入しました 肉眼で見る限りオレンジが一番鮮やかで クマがしっかり隠れるかなと思って買ってみたんですけど 案の定ですねオレンジ一色だけでも ク」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
-**紹介YouTuber**: 鹿の間 / MAI TAKASUGI
+> **MAI TAKASUGI**: 「はい、次はこちらです。 ティーフィットのカバーアッププロコンシーラー、クールのアイラです。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%82%AF%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lucky-happy/3187/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -111,9 +114,8 @@
 
 **価格**: 748円 | **2人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / 小田切ヒロ
+> **鹿の間**: 「えっいいかも いいかもいいかも これねキョメイクのコンシーラーブロウマスカラの一番なんですけど これね眉毛の色を消すためのアイブロウマスカラ アイブロウマスカラみたいな感じなんですけど 眉毛用やけど見た目がさまつげもいけそうやったっけや」
+> [動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008317380&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/biccamera/4901008317380/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -125,9 +127,8 @@
 
 **価格**: 1320円 | **2人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「では次、コンシーラー。 こちら、Viseeエクストラスキニーコンシーラー03番。 これで気になるポイントに狙い撃ちしてカバーしていきます。 リキッドタイプなんだけど、めっちゃカバー力が高くて、 仕上がりも綺麗。」
+> [動画を見る](https://www.youtube.com/watch?v=LYZmDf1j4BM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VISEE%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%20%E3%82%B9%E3%82%AD%E3%83%8B%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000184478/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -139,9 +140,11 @@
 
 **価格**: 660円 | **2人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
+> **MAI TAKASUGI**: 「そしたら次はこちらですね。セザンヌのカクアイゾンコンシーラー01番なじみベージュのお色です。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
-**紹介YouTuber**: MAI TAKASUGI / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「そして次。 3月3日追加発売。 セザンヌカクアイゾンコンシーラー02番と、 ライティングアップアイシャドウ02番。 こちらセザンヌの新作レビュー動画を出してますので、 そちらをご覧ください。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042891&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cd012815970101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

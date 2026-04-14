@@ -28,8 +28,8 @@
 
 ### ラカ FASIO ウルトバーコンシーラーwp
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
+> **ななみん**: 「じゃーんこのパシオのコンシーラーです えーとウルトラカバーコンシーラー スーパーオーダーブルファイルのコンシーラーです これドンキで買ったんだけど なんかすごく話題だったので買ってみたので ポンって取って使うやつで」
+> [動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%82%AB%20FASIO%20%E3%82%A6%E3%83%AB%E3%83%88%E3%83%90%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BCwp&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%82%AB%20FASIO%20%E3%82%A6%E3%83%AB%E3%83%88%E3%83%90%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BCwp/?af=mobi.0319)
 
@@ -37,8 +37,8 @@
 
 ### RMK アイディファイニング ペンシル
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
+> **ななみん**: 「塗ることもできます私はこのケイトのコントーペンシル02番をよく使ってます 買ってるんですけどそれの代わりになればいいなと思ってアマゾンで買いましたね そうあのマルチコントアペンシルを検索したらこれが関連商品みた」
+> [動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319)
 
@@ -46,8 +46,8 @@
 
 ### RMK リクイド マット リップカラー
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
+> **ななみん**: 「締まるね で続いてがこちらのRMKのアイディファイニングペンシルの07 こんな感じの色味です このカラーすごくかわいいです 深みブラウンって感じでちょっと赤強めですね うん!でこっちがちょっとス」
+> [動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%89%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%89%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC/?af=mobi.0319)
 

@@ -110,8 +110,8 @@
 
 ### トーン 崩れない新作トーンアップ下地
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-8ANrIWnsfk)
+> **さぁや**: 「下地は新作のNARSのライトリフレティングトーンアップベール。 という下地です。」
+> [動画を見る](https://www.youtube.com/watch?v=-8ANrIWnsfk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0/?af=mobi.0319)
 

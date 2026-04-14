@@ -66,6 +66,9 @@
 > **水越みさと**: 「新作UV全種類レビュー、提供動画」
 > [動画を見る](https://www.youtube.com/watch?v=naO3sRUsMQ4)
 
+> **コスメヲタちゃんねるサラ**: 「はい次がこちら コスメデコルテ uv コンフォート エアリートランスペアレントです2月16日発売 spf 45 pa 3プラス uv 耐水性保湿にもともと コスデコにサンシェルターシリーズっ」
+> [動画を見る](https://www.youtube.com/watch?v=GzPHsdTXBiM)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710635409&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/grandberry/c37225/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -90,9 +93,11 @@
 
 **価格**: 3410円 | **2人のYouTuberが紹介**
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
+> **ひよんちゃんねる**: 「続きましてこちら エルクシール ベイキアレボリューショントーンアップ これはカメハンケルも紹介させていただいた ものなんですけど 1年を通して大好きだったので 今回も紹介させていただきます エルクシールの方がよりピンクかな」
+> [動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
 
-**紹介YouTuber**: ひよんちゃんねる / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「色と性効果がすごいしっかりあります だからトーンアップ重視の方にはこれねすごいおすすめです ベージュじゃないのにこんなにね 自然なジムシートーンアップするっていうのに感動したんだけど でもねやっぱ最近新しくち」
+> [動画を見る](https://www.youtube.com/watch?v=7P_IkVs3J5E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978195939&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%20SP%2B%20aa%20SPF50%2B%20/%20PA%2B%2B%2B%2B/?af=mobi.0319)
 

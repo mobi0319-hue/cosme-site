@@ -59,8 +59,8 @@
 
 **価格**: 580円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+> **nanakoななこ**: 「そしたら次ハイライトやります ハイライトははいこちらの セザンヌのパールグロウハイライトの4番 シェルピンクを使うんですけど これちょっとピンクっぽいから ピンクって実際に腫れて見える色じゃないですか だから腫れた色を使うこ」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042297&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4939553042297/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -72,8 +72,8 @@
 
 **価格**: 1034円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+> **nanakoななこ**: 「よしそしたらパウダーを塗りたくりまーす キャンメイクのマシュマロフィニッシュパウダーのアブルーム01番 たくさん色の入ってるフェイスパウダーなんですけど 結構使っちゃってる でこれ割れないよ 紫は透明感 緑は赤みを消して 黄色はくすみを飛ばして」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008314037&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008314037/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

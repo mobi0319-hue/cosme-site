@@ -56,8 +56,8 @@
 
 ### セザンヌ セザンヌ UVクリアフェイスパウダー 01
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=KL7qCsvSmSE)
+> **みきぽん**: 「こちら、セザンヌのUVクリアフェイスパウダーの1番です でもこれ先月紹介してたんですよ 紹介したのかなって思って 先月のお気に入りのやつ見てみたんですけど 今月だったんだね ま」
+> [動画を見る](https://www.youtube.com/watch?v=KL7qCsvSmSE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20UV%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20UV%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001/?af=mobi.0319)
 
@@ -65,8 +65,8 @@
 
 ### セザンヌ セザンヌUVフェイスパウダーN4（イエロー系）
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=KL7qCsvSmSE)
+> **みきぽん**: 「こちら、セザンヌのUVクリアフェイスパウダーの1番です でもこれ先月紹介してたんですよ 紹介したのかなって思って 先月のお気に入りのやつ見てみたんですけど 今月だったんだね ま」
+> [動画を見る](https://www.youtube.com/watch?v=KL7qCsvSmSE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8CUV%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BCN4%EF%BC%88%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E7%B3%BB%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8CUV%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BCN4%EF%BC%88%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E7%B3%BB%EF%BC%89/?af=mobi.0319)
 
@@ -74,8 +74,8 @@
 
 ### セザンヌ UVクリアフェイスパウダー 02
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=RcRr5jNba1Y)
+> **みきぽん**: 「今回紹介するのは、こちらの セザンヌのUVクリアフェイスパウダーの 1番を紹介したいと思うんですけれども フェイスパウダーでここまで厚塗り感がない フェイスパウダーっていうのが初めてで 今までのフ」
+> [動画を見る](https://www.youtube.com/watch?v=RcRr5jNba1Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20UV%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2002&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20UV%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2002/?af=mobi.0319)
 

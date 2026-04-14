@@ -69,8 +69,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=4aubYe-Jhg0)
+> **鹿の間**: 「ファンケロから新たに登場した、 やわ肌ミルク洗顔でございます。 はい。 皆さんもね、たぶんご存知かとは思うんですけど、 私、朝はほんとにラゴムの洗顔一択で、 でも、ラゴムってほんとに買いにくいんですよ。」
+> [動画を見る](https://www.youtube.com/watch?v=H0cXh2NBDts)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4908049658649&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4908049658588/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -186,8 +186,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=5E1lOE9AJ-4)
+> **鹿の間**: 「これちょっと前のね、抜け殻を取っておいたんですけど このオルビスのね、」
+> [動画を見る](https://www.youtube.com/watch?v=5E1lOE9AJ-4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%EF%BC%88%E7%A8%8E%E8%BE%BC%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cc007757530101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -199,8 +199,8 @@
 
 **価格**: 3630円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=RM5Yqlzb4g4)
+> **鹿の間**: 「まず1つ目がこちら ラメージュのクリームスキンローションでございます あのこれめちゃくちゃ有名な化粧水なんですけど 私使ったことなくて もう乾燥肌の私からしたらね この白色っていうのは めちゃくちゃ保湿されそうで 最」
+> [動画を見る](https://www.youtube.com/watch?v=RM5Yqlzb4g4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/0000000009201/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -212,8 +212,8 @@
 
 **価格**: 19800円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=fAx7YQM-VoA)
+> **鹿の間**: 「全然お得じゃないんですけど ランコム一つ目の購入品がレネルジーMメモリーシェイプローションでございます ランコムって多分美白化粧水がすごく人気だと思うんですけど 私正直今そこまで美白必要なくって 日焼けしちゃってるんですけ」
+> [動画を見る](https://www.youtube.com/watch?v=qvYc6LMRUHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LANCOME%20%E3%83%AC%E3%83%8D%E3%83%AB%E3%82%B8%E3%83%BC%20HPN%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmelink/0185923941/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -225,8 +225,8 @@
 
 **価格**: 3630円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=5E1lOE9AJ-4)
+> **鹿の間**: 「これちょっと前のね、抜け殻を取っておいたんですけど このオルビスのね、」
+> [動画を見る](https://www.youtube.com/watch?v=5E1lOE9AJ-4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%83%A6%E3%83%BC%20%E3%83%89%E3%83%83%E3%83%88%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cd012022220101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -264,8 +264,8 @@
 
 **価格**: 2860円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=map8VQX6zMg)
+> **鹿の間**: 「明るく見えるので 癖になりますねこれは なんか肌ワントーン明るくなったように見えません? なんかぶどう狩りデートとかでさ このリップつけるとちょっと雰囲気もマッチして めちゃくちゃ映えると思いますし だけど甘すぎないカ」
+> [動画を見る](https://www.youtube.com/watch?v=map8VQX6zMg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20d%27Alba%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/plazastyle/p02sun0573/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -277,8 +277,8 @@
 
 **価格**: 3990円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qdyaWpFWgEk)
+> **鹿の間**: 「今日はこちらパーフェクトダイアリーの マルチペプチドエッセンストーンアップクリーム 使っていきます 結構ね、ナチュラルにトーンアップしてくれる クリームなんですけど 今日ね、」
+> [動画を見る](https://www.youtube.com/watch?v=qdyaWpFWgEk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20PERFECTDIARY%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%9A%E3%83%97%E3%83%81%E3%83%89%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/perfectdiary/10000035/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -290,8 +290,8 @@
 
 **価格**: 2800円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=alqiCKy2r4o)
+> **鹿の間**: 「さあ続いてが美容液ですこちら アヌアのダークスポットセラムでございます 最近花粉荒れしてスキンケアでどうにか正常まで戻して でなんか知らんけどめっちゃモチベ上がってるんですよ だから今回Qoo10でアヌアをね5個ぐらい」
+> [動画を見る](https://www.youtube.com/watch?v=alqiCKy2r4o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Anua%20%E2%9D%BA%20%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/renew-beauty/anua04/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -303,8 +303,8 @@
 
 **価格**: 2300円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=O7doQMx7r-Q)
+> **鹿の間**: 「それではやっていこうと思います ちょっと一旦下地として日焼け止め濡らしてください 今年もコスRXのバイタライジングサンクリームを 安定に使ってます 今日のメイクはね結構儚めなので 色も柔らかいものを使うから それがはっきりさ」
+> [動画を見る](https://www.youtube.com/watch?v=O7doQMx7r-Q)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=COSRX%20%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3E%E3%83%90%E3%82%A4%E3%82%BF%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0UV%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81%20SFP50%EF%BC%8B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/COSRX%20%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3E%E3%83%90%E3%82%A4%E3%82%BF%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0UV%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81%20SFP50%EF%BC%8B/?af=mobi.0319)
 
@@ -316,8 +316,8 @@
 
 **価格**: 1870円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WSWnlZmu-Iw)
+> **鹿の間**: 「牛乳クリームっていう 本当に白くなるトーンアップクリームが 昔流行って それがさマジで白くなるんですよ ほんのりトーンアップって感じで これ香りもね結構いいし めっちゃ服につくとかないし 自分の肌かなっ」
+> [動画を見る](https://www.youtube.com/watch?v=WSWnlZmu-Iw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20tfit%20%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/turuya783/c00203/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -329,8 +329,8 @@
 
 **価格**: 3200円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qK3O-yjq0PU)
+> **鹿の間**: 「アヌアを使い始めました アヌアのナノレチノール0.3ナイアシンリニューイングセラムでございます レチノールって攻めなんですけど 私はトラブルなく使えたので嬉しかったです レチノールアイテムってたくさんあると思うん」
+> [動画を見る](https://www.youtube.com/watch?v=qK3O-yjq0PU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Anua%20anua%20%E3%83%8A%E3%83%8E%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB0.3%20%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/joyance-m/10000484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -342,8 +342,8 @@
 
 **価格**: 3300円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qK3O-yjq0PU)
+> **鹿の間**: 「こちらアヌアのドクダミ70%インテンスカーミングクリームでございます これこんな感じの真っ白なクリームなんですけど ほっくりとしてそうじゃないですか 意外とね取ると結構ね みずみずし」
+> [動画を見る](https://www.youtube.com/watch?v=qK3O-yjq0PU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Anua%20ANUA%20%E3%83%89%E3%82%AF%E3%83%80%E3%83%9F%2070%25%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B9%20%E3%82%AB%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/clushop/anua_70intesecream/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -351,8 +351,8 @@
 
 ### ウェイクメイク # #velyvely はちみつクッション #小顔ケア美顔器 #センテラアンプル
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=alqiCKy2r4o)
+> **鹿の間**: 「さあ続いてが最後なんですけど みんな私の大好きなウェイクメイクの新作 じゃじゃん 今宵の大鳥は ウェイクメイクの新作 ウェイクメイクのソフトカラーリングリップパレットの 1号と2号でございます ねえ嘘やろ リップパレットだ」
+> [動画を見る](https://www.youtube.com/watch?v=alqiCKy2r4o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%23%20%23velyvely%20%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%23%E5%B0%8F%E9%A1%94%E3%82%B1%E3%82%A2%E7%BE%8E%E9%A1%94%E5%99%A8%20%23%E3%82%BB%E3%83%B3%E3%83%86%E3%83%A9%E3%82%A2%E3%83%B3%E3%83%97%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%23%20%23velyvely%20%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%23%E5%B0%8F%E9%A1%94%E3%82%B1%E3%82%A2%E7%BE%8E%E9%A1%94%E5%99%A8%20%23%E3%82%BB%E3%83%B3%E3%83%86%E3%83%A9%E3%82%A2%E3%83%B3%E3%83%97%E3%83%AB/?af=mobi.0319)
 
@@ -362,8 +362,8 @@
 
 **価格**: 2640円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qK9KehXlPew)
+> **鹿の間**: 「ちょっと結構衝撃を受けた ヘアアイテム こちら ダルバのプロフェッショナルヘアオイルセラムでございます はい見た目かわいい これねあ あ振っちゃった これ2層になってて 振っちゃった 容器をね上下に2,3回振った状」
+> [動画を見る](https://www.youtube.com/watch?v=qK9KehXlPew)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%E3%82%BB%E3%83%A9%E3%83%A0%EF%BC%86%E3%83%9F%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%E3%82%BB%E3%83%A9%E3%83%A0%EF%BC%86%E3%83%9F%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88/?af=mobi.0319)
 
@@ -374,8 +374,8 @@
 
 **価格**: 1870円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「ナチュラル系だったので色が もうちょい気持ちトーン上げたいなっていうので このクリームピンク買いました なんかこんな感じ ジョンセンムルンはね 本当に崩れにくくって この子でいきます ちなみに昨日これ開けたばっ」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20tfit%0D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20tfit%0D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319)
 

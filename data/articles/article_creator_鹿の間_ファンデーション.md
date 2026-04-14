@@ -71,8 +71,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BlnCIGVzz24)
+> **鹿の間**: 「本日のファンデーションは バニラコンのカバーリシャスホワイトクッションの 21番使っていきます 私の乾燥肌の上からのせると 結構マットっぽく仕上がるので 今回の照明写真にぴったり かなと思ってこちらを選びました」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20BANILA%20CO%20%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/8809759904070/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -149,8 +149,8 @@
 
 **価格**: 2600円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2CCiCuS-_0I)
+> **鹿の間**: 「ファンデーションブラシはウェイクメイクの スパチュラワイドファンデーションブラシを使っております 名前の通りブラシなんですけど 横向けるとこの平らさ スパチュラワイドファンデーションブラシは スパ効果もあるブラシなんですけど 拳でファンデー」
+> [動画を見る](https://www.youtube.com/watch?v=2CCiCuS-_0I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%82%B9%E3%83%91%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AF%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/oliveyoung/yp3248/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -162,8 +162,8 @@
 
 **価格**: 4290円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=UBEKAIFmv80)
+> **鹿の間**: 「私が手放したので久しぶりに買いました ヒースのセカンドスキンファンデーションでございます 3年前ぐらいですかね使ってました 私あのどちらかというとクッション派で リキッドファンデーションがね結構摩擦に感じてしまうので苦手なんですけど そ」
+> [動画を見る](https://www.youtube.com/watch?v=UBEKAIFmv80)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20hince%20%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hincejapan/foundation_7/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -175,8 +175,8 @@
 
 **価格**: 7590円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=UBEKAIFmv80)
+> **鹿の間**: 「マキアージュのドラマティックエッセンスリキッドで ございまーす 待ってこれめちゃくちゃ久しぶりに使うんですけど うわぁ伸びいいですね 伸びいいけど私これ乾燥した記憶あるんですよね すこーし乾燥した」
+> [動画を見る](https://www.youtube.com/watch?v=UBEKAIFmv80)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0021/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -188,8 +188,8 @@
 
 **価格**: 2992円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
+> **鹿の間**: 「ピタッと密着してくれるようなテクスチャーでリピ買いするぐらい大好きなプライマー なんかさ最近気温も下がってきてなんか肌がいつ」
+> [動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC/?af=mobi.0319)
 
@@ -201,8 +201,8 @@
 
 **価格**: 1969円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「さあファンデーション崩れないものといえば メイベリンのフィットミーリキッドの ファンデーションでございます いろんなね、」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20R%20112&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20R%20112/?af=mobi.0319)
 
@@ -212,8 +212,8 @@
 
 **価格**: 7480円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「今回ファンデーションは シュウウェムラのアンリミテッドケアツヤセラムファンデーション 484番 withツヤ55ファンデーションブラシでお送りいたします これなんと20色展開で悩んだんですけど ピンク寄りの明るめ4」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3484&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3484/?af=mobi.0319)
 
@@ -223,8 +223,8 @@
 
 **価格**: 6820円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「うねってますね で、こちらも家から持ってきたウエットブラシを使って 髪の毛を解いていきます 基本的にホテルに置いてあるアメニティは使わないです 綿棒だけは本当に助かる この間 私も ドンキにいた時に買ったドンコの髪の毛」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%83%84%E3%83%A4%2055%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%83%84%E3%83%A4%2055%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%96%E3%83%A9%E3%82%B7/?af=mobi.0319)
 

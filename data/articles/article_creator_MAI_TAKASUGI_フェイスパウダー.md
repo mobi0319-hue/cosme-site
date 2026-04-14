@@ -158,8 +158,8 @@
 
 **価格**: 1703円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「はい、では次はこちらです。 キャンメイクのイルミネイティングフィニッシュパウダーです。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80Abloom%2001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80Abloom%2001/?af=mobi.0319)
 
@@ -171,8 +171,8 @@
 
 **価格**: 396円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「はい、では次はこちらです。 キャンメイクのイルミネイティングフィニッシュパウダーです。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6v02&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6v02/?af=mobi.0319)
 

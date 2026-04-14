@@ -78,8 +78,8 @@
 
 **価格**: 1199円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wVz6I2kCsGk)
+> **まつきりな**: 「あとこの形量ね ノンスリーブって結構勇気いるじゃない 二の腕バーンって出す感じが けどこれはなんかここのなんか絶妙な 出しすぎずちょっと二の腕カバーされてるっていうので すごい細見えする」
+> [動画を見る](https://www.youtube.com/watch?v=wVz6I2kCsGk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%8F%E3%82%A4%E3%83%8D%E3%83%83%E3%82%AF%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AA%E3%83%96%E3%83%8B%E3%83%83%E3%83%88%E3%83%88%E3%83%83%E3%83%97%E3%82%B9%EF%BD%9C%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%EF%BD%9CM%EF%BD%9C%EF%BD%9Crut&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%8F%E3%82%A4%E3%83%8D%E3%83%83%E3%82%AF%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AA%E3%83%96%E3%83%8B%E3%83%83%E3%83%88%E3%83%88%E3%83%83%E3%83%97%E3%82%B9%EF%BD%9C%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%EF%BD%9CM%EF%BD%9C%EF%BD%9Crut/?af=mobi.0319)
 
@@ -130,8 +130,8 @@
 
 **価格**: 1320円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=71KJLUFICV0)
+> **まつきりな**: 「マジで肌綺麗に見える 最後仕上げとして コンセのキープミストを顔面に 切り細かーい最高 のせて こういうスポンジで 密着させる これするだけでマジで ヨレ防止なんでね リップちょっとね 中央だけに 最初ちょっと試し」
+> [動画を見る](https://www.youtube.com/watch?v=71KJLUFICV0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710576306&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/beautyforest2018/250428-002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -156,8 +156,8 @@
 
 **価格**: 11000円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=yeBohRBNW8M)
+> **まつきりな**: 「フェイスパウダーコスメデコルテね 最近気に入ってよく使っているパウダー これはオーライフレクターの2番 クッションファンデで一番の今お気に入りは ドクターソワ5Gリフトアップファンデーション」
+> [動画を見る](https://www.youtube.com/watch?v=yeBohRBNW8M)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%EF%BD%9CAQ%20%E3%82%AA%E3%83%BC%E3%83%A9%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BD%9C02%20light%20mix%EF%BD%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%EF%BD%9CAQ%20%E3%82%AA%E3%83%BC%E3%83%A9%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BD%9C02%20light%20mix%EF%BD%9C/?af=mobi.0319)
 
@@ -294,8 +294,8 @@
 
 ### スリー ユニープ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=FljswwmmHHk)
+> **まつきりな**: 「できました嬉しい まだ開けてないんですけど これユニスリープこれも人気で赤ちゃん用抱き枕みたいな感じで 赤ちゃんがここの上で寝るとすごい寝てくれるっていう 口コミがいいユニスリープなんですけど 数か月経って使ってみよう」
+> [動画を見る](https://www.youtube.com/watch?v=FljswwmmHHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%A6%E3%83%8B%E3%83%BC%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%A6%E3%83%8B%E3%83%BC%E3%83%97/?af=mobi.0319)
 

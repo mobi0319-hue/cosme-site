@@ -48,8 +48,8 @@
 
 ### ルナ 使用BGM：桜餅 /Runa Channel　様
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-29C_o-Mt08)
+> **ゆきりぬ**: 「全然ねちゃんとできませんでした 本当にルナルナを入れるぐらいしかやってなかったんで だからね多分1年間もできなかったんだと思います 本当に でもあれいいですね この配卵検査薬めっちゃいいと思います 私も」
+> [動画を見る](https://www.youtube.com/watch?v=ADuOrKONa9c)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AB%E3%83%8A%20%E4%BD%BF%E7%94%A8BGM%EF%BC%9A%E6%A1%9C%E9%A4%85%20/Runa%20Channel%E3%80%80%E6%A7%98&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AB%E3%83%8A%20%E4%BD%BF%E7%94%A8BGM%EF%BC%9A%E6%A1%9C%E9%A4%85%20/Runa%20Channel%E3%80%80%E6%A7%98/?af=mobi.0319)
 
@@ -111,8 +111,8 @@
 
 ### TAG 千葉科学大学 Instagram
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3ey6oJwNfos)
+> **ゆきりぬ**: 「あの、実はですね 千葉科学大学っていう大学に来てるんですけれども なんでね、今日大学に来たかっていうと 実はですね、私最近看護に興味を持ち始めて もともとね、」
+> [動画を見る](https://www.youtube.com/watch?v=3ey6oJwNfos)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E5%8D%83%E8%91%89%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6%20Instagram&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E5%8D%83%E8%91%89%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6%20Instagram/?af=mobi.0319)
 
@@ -138,8 +138,8 @@
 
 ### YSL アンクル ド ポー ルクッション B10
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
+> **ゆきりぬ**: 「ごまかしにかかります はい、ということで 続いて アンクルドポールクッションB10番を使っていきます このイブサンローランのファンデーションはやっぱいいよね これね、結構白いんですよ で、」
+> [動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20%E3%82%A2%E3%83%B3%E3%82%AF%E3%83%AB%20%E3%83%89%20%E3%83%9D%E3%83%BC%20%E3%83%AB%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20B10&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20%E3%82%A2%E3%83%B3%E3%82%AF%E3%83%AB%20%E3%83%89%20%E3%83%9D%E3%83%BC%20%E3%83%AB%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20B10/?af=mobi.0319)
 
@@ -156,8 +156,8 @@
 
 ### Dior ディオールショウ マキシマイザー3D
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
+> **ゆきりぬ**: 「ディオールのディオールショーマキシマイザー3Dってやつを使ってます まつ毛がね本当に綺麗に束になるし 綺麗にこうカールキープされるんで 使わないより使った方がいい感じになると思います そしたら鼻も描いていき」
+> [動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC3D&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC3D/?af=mobi.0319)
 

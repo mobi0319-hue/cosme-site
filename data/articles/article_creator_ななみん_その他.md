@@ -59,8 +59,8 @@
 
 ### マック M･A･C ()
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zRM7eblLLZI)
+> **ななみん**: 「リップはね、この超超超可愛いリップ マックのラスターガラスリップスティック ポッシュピットってやつ ブラウン系っぽい色味ですね これを塗っていきまーす ちょっと秋っぽい感じで 意識できたらと思うので は」
+> [動画を見る](https://www.youtube.com/watch?v=zRM7eblLLZI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%83%E3%82%AF%20M%EF%BD%A5A%EF%BD%A5C%20%28%29&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%83%E3%82%AF%20M%EF%BD%A5A%EF%BD%A5C%20%28%29/?af=mobi.0319)
 
@@ -106,8 +106,8 @@
 
 ### dasique デイジーク
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=779ft9TER9Y)
+> **ななみん**: 「私のねこういうところ 黒とかこういうちょっと傷跡は デイジークでカバーします 明るいんでめっちゃ馴染んじゃうんだよね? へー ちょっとさコンシーラーの色味ってベージュっぽいじゃんって ベージュっぽくすると そのカバーしてる」
+> [動画を見る](https://www.youtube.com/watch?v=dwP0UOCWLao)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dasique%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dasique%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
@@ -124,8 +124,8 @@
 
 ### CLIO クリオ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=dwP0UOCWLao)
+> **ななみん**: 「こことここ アイシャドウはいただいてた このクリオのミッキーパレットを これを使います 本当ごめんなんだけど ここちょっと使うね ごめんね あでも意外と残ってるね これも使います 一番使うカラーのところにミッキ」
+> [動画を見る](https://www.youtube.com/watch?v=dwP0UOCWLao)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20%E3%82%AF%E3%83%AA%E3%82%AA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20%E3%82%AF%E3%83%AA%E3%82%AA/?af=mobi.0319)
 
@@ -133,8 +133,8 @@
 
 ### OPERA オペラ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Sr1910fLlFI)
+> **ななみん**: 「まぁ最初は下地で 形作ってからリップのせます リップはねオペラの306番アイシーベージュ これを塗っていきたいと思います 私もオペラを使うのなんて もう何年ぶりでしょうか? めっちゃかわいいじゃない?この色 ちょっと使って」
+> [動画を見る](https://www.youtube.com/watch?v=Sr1910fLlFI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=OPERA%20%E3%82%AA%E3%83%9A%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/OPERA%20%E3%82%AA%E3%83%9A%E3%83%A9/?af=mobi.0319)
 
@@ -142,8 +142,8 @@
 
 ### トーン #ハイ #MAKEUP #ヘアアレンジ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=n1HuTKV8xg0)
+> **ななみん**: 「皆さんこんばんは、ななみです はい、ちょっと久々のハイトーン復活ってことで でもちょっとまだオレンジっぽくなってると思うんですけど ちょっと髪をいたわってダブルブリーチはしないで 1回のブリーチって感じで で、」
+> [動画を見る](https://www.youtube.com/watch?v=n1HuTKV8xg0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%23%E3%83%8F%E3%82%A4%20%23MAKEUP%20%23%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%23%E3%83%8F%E3%82%A4%20%23MAKEUP%20%23%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8/?af=mobi.0319)
 
@@ -196,8 +196,8 @@
 
 ### セザンヌ 春の新作コスメ祭りでメイク✨
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=KJVAiFSa6U8)
+> **ななみん**: 「皆さんこんばんは、ななみです 今日はセザンヌの新しいコスメを買ったので そちらでメイクしていきたいと思います それではビデオスタート はーい、じゃあ今日は下地、石にすましてます 眉毛、」
+> [動画を見る](https://www.youtube.com/watch?v=KJVAiFSa6U8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E6%98%A5%E3%81%AE%E6%96%B0%E4%BD%9C%E3%82%B3%E3%82%B9%E3%83%A1%E7%A5%AD%E3%82%8A%E3%81%A7%E3%83%A1%E3%82%A4%E3%82%AF%E2%9C%A8&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E6%98%A5%E3%81%AE%E6%96%B0%E4%BD%9C%E3%82%B3%E3%82%B9%E3%83%A1%E7%A5%AD%E3%82%8A%E3%81%A7%E3%83%A1%E3%82%A4%E3%82%AF%E2%9C%A8/?af=mobi.0319)
 
@@ -205,8 +205,8 @@
 
 ### ORBIS オルビス
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kMmmtjLXaKU)
+> **ななみん**: 「ないとやっぱ怖いもんね で、日焼け止めはこれね オルビス これどっちを先に塗るべきなのかすごい迷うんだけど 日焼け止めから塗って 毛穴?閉じるやつした方がいいのかな それとも毛穴を先に塗って その上から日焼け止めする」
+> [動画を見る](https://www.youtube.com/watch?v=kMmmtjLXaKU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ORBIS%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ORBIS%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9/?af=mobi.0319)
 
@@ -223,8 +223,8 @@
 
 ### RMK スプリングコレクション２０２４
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BJj8Do-YybM)
+> **ななみん**: 「なのみです 今日は新しいコスメだったり あとRMKの新作を 早速使ってメイクしてみました それではビデオスタート おはようございます もう起きて 15分くらいしか経ってません この後直すんですけど 今日の動画は」
+> [動画を見る](https://www.youtube.com/watch?v=BJj8Do-YybM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94/?af=mobi.0319)
 
@@ -234,8 +234,8 @@
 
 **価格**: 3300円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=9bOF13kViLE)
+> **ななみん**: 「これ懐かしいでしょ ラネージュのネオクッショングロウNで これ新しくなんとリニューアルされまして 中見ていただくと分かると思うんですけど これ何?って感じじゃん これなんかパフが 飛ばないよ」
+> [動画を見る](https://www.youtube.com/watch?v=9bOF13kViLE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%F0%9F%86%95%E3%83%8D%E3%82%AA%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%F0%9F%86%95%E3%83%8D%E3%82%AA%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 
@@ -243,8 +243,8 @@
 
 ### トーン アップフィルタークッションレビュー❤️
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=fbs13jJ-29w)
+> **ななみん**: 「トーンアップフィルターコレクション 本庄の下地といったらトーンアップベース出てると思うんですけど こっちのベースに関しては基本的には一番最初に塗るんですけど メイク直」
+> [動画を見る](https://www.youtube.com/watch?v=fbs13jJ-29w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E2%9D%A4%EF%B8%8F&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E2%9D%A4%EF%B8%8F/?af=mobi.0319)
 
@@ -252,8 +252,8 @@
 
 ### トーン #アップフィルターコレクション
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=fbs13jJ-29w)
+> **ななみん**: 「トーンアップフィルターコレクション 本庄の下地といったらトーンアップベース出てると思うんですけど こっちのベースに関しては基本的には一番最初に塗るんですけど メイク直」
+> [動画を見る](https://www.youtube.com/watch?v=fbs13jJ-29w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%23%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%23%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
@@ -263,8 +263,8 @@
 
 **価格**: ３８５０円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ihUPgCgKXqE)
+> **ななみん**: 「チークはベアミネラルのジェムヌードブロンダーを使います キスオブモーヴっていうやつです これをちょっと優しく入れます つけすぎちゃうとちょっと今日深いリップ使うので 全部コテコテになっちゃうので こんな感じで優しい目に入」
+> [動画を見る](https://www.youtube.com/watch?v=ihUPgCgKXqE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%82%AA%E3%83%96%E3%83%A2%E3%83%BC%E3%83%B4&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%82%AA%E3%83%96%E3%83%A2%E3%83%BC%E3%83%B4/?af=mobi.0319)
 
@@ -299,8 +299,8 @@
 
 ### デイジーク のコスメはQoo10メガ割どきに買うのがおすすめ❤️☃️
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=R7Af2Hiu804)
+> **ななみん**: 「みなさんこんばんは、ななみです 今日はデイジークのキラキラメイクやっていきたいと思います それではビデオスタート デイジークのアイシャドウパレットホリデースノーボールっていう これね、」
+> [動画を見る](https://www.youtube.com/watch?v=R7Af2Hiu804)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%A1%E3%81%AFQoo10%E3%83%A1%E3%82%AC%E5%89%B2%E3%81%A9%E3%81%8D%E3%81%AB%E8%B2%B7%E3%81%86%E3%81%AE%E3%81%8C%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E2%9D%A4%EF%B8%8F%E2%98%83%EF%B8%8F&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%A1%E3%81%AFQoo10%E3%83%A1%E3%82%AC%E5%89%B2%E3%81%A9%E3%81%8D%E3%81%AB%E8%B2%B7%E3%81%86%E3%81%AE%E3%81%8C%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E2%9D%A4%EF%B8%8F%E2%98%83%EF%B8%8F/?af=mobi.0319)
 
@@ -308,8 +308,8 @@
 
 ### RMK ダンシング ディメンションズ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=igWjrPFHwPg)
+> **ななみん**: 「皆さんこんばんはみです今日はRMKの クリスマスコフレ使ってメイクしていき たいと思いますそれではをスタートじゃ まずはファシオのプライマーから今日は 湘南の友達が遊びに来てるのでちょっと下 が」
+> [動画を見る](https://www.youtube.com/watch?v=igWjrPFHwPg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA/?af=mobi.0319)
 

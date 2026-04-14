@@ -156,8 +156,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「はい、では次はこちらです。 キャンメイクのイルミネイティングフィニッシュパウダーです。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000077168/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

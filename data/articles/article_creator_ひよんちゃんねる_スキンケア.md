@@ -463,8 +463,8 @@
 
 **価格**: 4400円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=JqgTLMisJok)
+> **ひよんちゃんねる**: 「これはSPF入ってるし 私が持ってるこのレチノールの方は 少し色づくんですよね なのでほんのり血色感が欲しい方にも おすすめです え、アンドビューってヘアもあんだ ボリュームダウン、ボリュームアップ あ、」
+> [動画を見る](https://www.youtube.com/watch?v=JqgTLMisJok)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=innisfree%20innisfree%20%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB%20PDRN%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%89%20%E3%82%BB%E3%83%A9%E3%83%A0%2025mL&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/matsukiyo/8809843703909/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -537,8 +537,8 @@
 
 ### コスメデコルテ ｜リフトディメンション スムージング クレンジングオイル
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=AHJqqv-avXM)
+> **ひよんちゃんねる**: 「こちらです コスメタコズテの リフトディメンションスムージングクレンジングオイルです これまだ使い始めて そんなに経っていないんだけど でもすごく虜になっていて 何がいいかって このリフトディメンションって ハリだったりた」
+> [動画を見る](https://www.youtube.com/watch?v=AHJqqv-avXM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%EF%BD%9C%E3%83%AA%E3%83%95%E3%83%88%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%EF%BD%9C%E3%83%AA%E3%83%95%E3%83%88%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB/?af=mobi.0319)
 
@@ -546,8 +546,8 @@
 
 ### コスメデコルテ ｜リポソーム アドバンスト リペアセラム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=AHJqqv-avXM)
+> **ひよんちゃんねる**: 「好きな導入美容液で言えばこちら デコルテのリポソームアドバンストリペアセラムなんですけど これも本当にしっかりエイジングケアできる導入美容液っていう感じなんですけど 乾燥小じわだったりハリ不足を改善してくれたり いろんなエイ」
+> [動画を見る](https://www.youtube.com/watch?v=AHJqqv-avXM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%EF%BD%9C%E3%83%AA%E3%83%9D%E3%82%BD%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%88%20%E3%83%AA%E3%83%9A%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%EF%BD%9C%E3%83%AA%E3%83%9D%E3%82%BD%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%88%20%E3%83%AA%E3%83%9A%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%A0/?af=mobi.0319)
 
@@ -555,8 +555,8 @@
 
 ### コスメデコルテ ｜ユース パワー エッセンス ローション
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=AHJqqv-avXM)
+> **ひよんちゃんねる**: 「化粧水も最近大のお気に入りはこちらです コスメデコルテ ユースバワーエッセンスローションです ちょっとコスメデコルテ紹介すると多いなっていう感じで なるんだけどそのぐらい好きなんだけど これ何がすごいかって最先端の」
+> [動画を見る](https://www.youtube.com/watch?v=AHJqqv-avXM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%EF%BD%9C%E3%83%A6%E3%83%BC%E3%82%B9%20%E3%83%91%E3%83%AF%E3%83%BC%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%EF%BD%9C%E3%83%A6%E3%83%BC%E3%82%B9%20%E3%83%91%E3%83%AF%E3%83%BC%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
@@ -573,8 +573,8 @@
 
 ### RMK Wトリートメント ローション
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=fRi7ZlACubk)
+> **ひよんちゃんねる**: 「私の中で つい 続きまして こちら RMKのダブルトリートメントローションです これもあんまり SNSで紹介したことがないかもしれないんだけど めちゃくちゃおすすめで 最近のめっちゃ好きな化粧水なので」
+> [動画を見る](https://www.youtube.com/watch?v=fRi7ZlACubk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20W%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20W%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
@@ -591,8 +591,8 @@
 
 ### CLINIQUE CLINIQUE｜モイスチャー サージ ジェルクリーム 100H
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=T5KOzVQm8AY)
+> **ひよんちゃんねる**: 「私グリー持ってんだけど やっぱ頭皮マッサージも大切ですので 最後の方は抜け毛とかもあると思うし これから 年齢重ねると 白髪とかの問題でもなってくると思うのでね 頭皮をしっかりほぐしておく っていうこと大」
+> [動画を見る](https://www.youtube.com/watch?v=T5KOzVQm8AY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLINIQUE%20CLINIQUE%EF%BD%9C%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%B5%E3%83%BC%E3%82%B8%20%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20100H&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLINIQUE%20CLINIQUE%EF%BD%9C%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%B5%E3%83%BC%E3%82%B8%20%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20100H/?af=mobi.0319)
 

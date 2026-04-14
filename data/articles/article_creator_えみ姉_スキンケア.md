@@ -195,8 +195,8 @@
 
 ### ダルバ ダルバ プロフェッショナルリペアリングヘアオイルセラムR
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
+> **えみ姉**: 「これ一本でサラッサラプルプルになるわけ そうなの ダルバってヘアケアも出てんだ ダルバ最近私すげえと思って いろいろ使ってるんだけど ダルバやっぱ改めてすごい もうスプレーのイメージが強すぎて 色々他のやつって どう」
+> [動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%AA%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%E3%82%BB%E3%83%A9%E3%83%A0R&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%AA%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%E3%82%BB%E3%83%A9%E3%83%A0R/?af=mobi.0319)
 
@@ -204,8 +204,8 @@
 
 ### Dr.G Dr.G レッドブレミッシュ クリアスージングクリーム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
+> **えみ姉**: 「もう何回目何回目何回目って感じなんだけど ドクターGのレッドブレミッシュクリームです はい 何回目? って感じなんだけど やっぱりもう夏前のスキンケア この夏前の目代わりで買うべきものとしてはやっぱりもう外せないと思って 確かにね」
+> [動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dr.G%20Dr.G%20%E3%83%AC%E3%83%83%E3%83%89%E3%83%96%E3%83%AC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/roseroseshop/drg_2007002_2p/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -213,8 +213,8 @@
 
 ### ダルバ ダルバ ウォータフルエッセンスサンクリーム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
+> **えみ姉**: 「これ一本でサラッサラプルプルになるわけ そうなの ダルバってヘアケアも出てんだ ダルバ最近私すげえと思って いろいろ使ってるんだけど ダルバやっぱ改めてすごい もうスプレーのイメージが強すぎて 色々他のやつって どう」
+> [動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AB%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/koreabeautystar/s-water-full-essence-sun-50ml/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -222,8 +222,8 @@
 
 ### Anua Anua ビタミンC20 ブレミッシュ セラム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GYBSIeNy-o0)
+> **えみ姉**: 「大好きで使ってるっていうアイテムが アヌアのビタミンC20 ブレミッシュセラム これがビタミンの美容液です 桃のナイアシンセラムが あの時はすごいおすすめだったんですよ あともう一つ私がずっとおすすめしてたのが ダーク」
+> [動画を見る](https://www.youtube.com/watch?v=GYBSIeNy-o0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Anua%20Anua%20%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C20%20%E3%83%96%E3%83%AC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Anua%20Anua%20%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C20%20%E3%83%96%E3%83%AC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%BB%E3%83%A9%E3%83%A0/?af=mobi.0319)
 
@@ -240,8 +240,8 @@
 
 ### ダルバ ダルバ/ウォーターフォール エッセンス サンクリーム
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZAKoe1TZ7x0)
+> **えみ姉**: 「マジで何度も使い続けてるんだ僕はっていうのが ダルバです ダルバのエッセンスサンクリームです へー 去年トミーに出会ったけど その時から目合う度にダルバって言ってた そうだよね こないだの動画で見せたニデアUVの」
+> [動画を見る](https://www.youtube.com/watch?v=ZAKoe1TZ7x0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%83%AB%E3%83%90%20%E3%83%80%E3%83%AB%E3%83%90/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?af=mobi.0319)
 

@@ -63,8 +63,8 @@
 
 **価格**: 4290円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
+> **ひよんちゃんねる**: 「一番使えそうなのはこれな気がする 自分の肌トーンに合う色を選んで これがルメマット肌にしてくれる シアでもマットでもない この真ん中のちょうどいい セミマット的な 肌にしてくれるファンデーションになるんだけど」
+> [動画を見る](https://www.youtube.com/watch?v=T5KOzVQm8AY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20ASTALIFT%EF%BD%9CD-UV%20%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%20SPF50%2B%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fujifilm-h/16833942/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -115,8 +115,8 @@
 
 **価格**: 3410円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
+> **ひよんちゃんねる**: 「続きましてこちら エルクシール ベイキアレボリューショントーンアップ これはカメハンケルも紹介させていただいた ものなんですけど 1年を通して大好きだったので 今回も紹介させていただきます エルクシールの方がよりピンクかな」
+> [動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978195939&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%20SP%2B%20aa%20SPF50%2B%20/%20PA%2B%2B%2B%2B/?af=mobi.0319)
 
@@ -124,8 +124,8 @@
 
 ### トーン ASTALIFT D-UV シールド トーンアップがやばいらしい…♡
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=KjN57BB5ibg)
+> **ひよんちゃんねる**: 「はい。 ちなみにマリコ推しはローズです。 結構トーンアップする感じで、 ローズが馴染む感じでした。 うんうんうん。 みんな超嬉しくない?こんな情報。」
+> [動画を見る](https://www.youtube.com/watch?v=KjN57BB5ibg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20ASTALIFT%20D-UV%20%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%8C%E3%82%84%E3%81%B0%E3%81%84%E3%82%89%E3%81%97%E3%81%84%E2%80%A6%E2%99%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20ASTALIFT%20D-UV%20%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%8C%E3%82%84%E3%81%B0%E3%81%84%E3%82%89%E3%81%97%E3%81%84%E2%80%A6%E2%99%A1/?af=mobi.0319)
 

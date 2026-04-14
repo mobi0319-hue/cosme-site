@@ -180,8 +180,8 @@
 
 ### デイジーク デイジークの新色やばいのきた！
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
+> **さぁや**: 「使いたくなる アイパレットの一つです こちら、デイジークのアイパレットの 07番ミルクラテです 結構定番のね、」
+> [動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%E3%81%AE%E6%96%B0%E8%89%B2%E3%82%84%E3%81%B0%E3%81%84%E3%81%AE%E3%81%8D%E3%81%9F%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%E3%81%AE%E6%96%B0%E8%89%B2%E3%82%84%E3%81%B0%E3%81%84%E3%81%AE%E3%81%8D%E3%81%9F%EF%BC%81/?af=mobi.0319)
 
@@ -207,8 +207,8 @@
 
 ### ヒロインメイク 提供：
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3yH3HgbG82U)
+> **さぁや**: 「それがー! じゃじゃん!こちらでーす! ヒロインメイクのプライムリキッドアイライナー リッチキープなんですけど こちらのアイライナーが、今日もね、使ってるんですけど 本当にめちゃめちゃ良くて もう久しぶりにね、」
+> [動画を見る](https://www.youtube.com/watch?v=3yH3HgbG82U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E6%8F%90%E4%BE%9B%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E6%8F%90%E4%BE%9B%EF%BC%9A/?af=mobi.0319)
 
@@ -234,8 +234,8 @@
 
 ### トーン ここで一気にウォームトーンに寄せるのだ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=JgfV57rdcRE)
+> **さぁや**: 「ラロージュポゼのUVイデアエクセル プロテクショントーンアップの 新しいローズプラスです この前バラ園にね、行ってきたんですけど インスタにね、」
+> [動画を見る](https://www.youtube.com/watch?v=JgfV57rdcRE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%81%93%E3%81%93%E3%81%A7%E4%B8%80%E6%B0%97%E3%81%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AB%E5%AF%84%E3%81%9B%E3%82%8B%E3%81%AE%E3%81%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%81%93%E3%81%93%E3%81%A7%E4%B8%80%E6%B0%97%E3%81%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AB%E5%AF%84%E3%81%9B%E3%82%8B%E3%81%AE%E3%81%A0/?af=mobi.0319)
 
@@ -252,8 +252,8 @@
 
 ### マック 弟と爆食したぞー！！！
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=S5AFcw5Skqw)
+> **さぁや**: 「こんにちは!さあやです! 今日はですね、弟と一緒にマックを爆食いしていきたいと思います。 ツキミバーガーとジュースキーツキミ、私これ食べたことないんだよ。」
+> [動画を見る](https://www.youtube.com/watch?v=S5AFcw5Skqw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%83%E3%82%AF%20%E5%BC%9F%E3%81%A8%E7%88%86%E9%A3%9F%E3%81%97%E3%81%9F%E3%81%9E%E3%83%BC%EF%BC%81%EF%BC%81%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%83%E3%82%AF%20%E5%BC%9F%E3%81%A8%E7%88%86%E9%A3%9F%E3%81%97%E3%81%9F%E3%81%9E%E3%83%BC%EF%BC%81%EF%BC%81%EF%BC%81/?af=mobi.0319)
 
@@ -261,8 +261,8 @@
 
 ### マック みんなはで何が好き？？
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=S5AFcw5Skqw)
+> **さぁや**: 「こんにちは!さあやです! 今日はですね、弟と一緒にマックを爆食いしていきたいと思います。 ツキミバーガーとジュースキーツキミ、私これ食べたことないんだよ。」
+> [動画を見る](https://www.youtube.com/watch?v=S5AFcw5Skqw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%83%E3%82%AF%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AF%E3%81%A7%E4%BD%95%E3%81%8C%E5%A5%BD%E3%81%8D%EF%BC%9F%EF%BC%9F&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%83%E3%82%AF%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AF%E3%81%A7%E4%BD%95%E3%81%8C%E5%A5%BD%E3%81%8D%EF%BC%9F%EF%BC%9F/?af=mobi.0319)
 
@@ -270,8 +270,8 @@
 
 ### トーン ＃ネイチャーリパブリック＃アップ＃ビタミンC
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=W4o1RFJt6b4)
+> **さぁや**: 「かなりもちっとしたような 肌のこのくすんだ感じから トーンがね明るくなるような感じがして 特にくすみが気になる方におすすめです その後にこちらのミニサイズの ビタペアCジェルクリーム塗っていきます こちらはジェルの質感」
+> [動画を見る](https://www.youtube.com/watch?v=W4o1RFJt6b4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%EF%BC%83%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%EF%BC%83%E3%82%A2%E3%83%83%E3%83%97%EF%BC%83%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%EF%BC%83%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%EF%BC%83%E3%82%A2%E3%83%83%E3%83%97%EF%BC%83%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C/?af=mobi.0319)
 

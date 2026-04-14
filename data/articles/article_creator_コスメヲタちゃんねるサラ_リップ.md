@@ -106,8 +106,8 @@
 
 **価格**: 4180円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
+> **コスメヲタちゃんねるサラ**: 「じゃーん。 あ。 はい。 私それ変えてない。 まだ。 RMKとクリオのリップペンシルです。 私シャネルなんすよ。 え? 意外と。 意外。 ルージュアリュールラック64。」
+> [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%83%87%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%2011/12/13/EX-05%20%E2%80%BB1/9%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%83%87%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%2011/12/13/EX-05%20%E2%80%BB1/9%E7%99%BA%E5%A3%B2/?af=mobi.0319&s=2&v=2)
 
@@ -132,8 +132,8 @@
 
 **価格**: 1500円以下
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=6zjJoG9JpfQ)
+> **コスメヲタちゃんねるサラ**: 「自然なツヤが出るんですよね こんな感じ リップはもう好きなのを使ってくださいって感じなんだけど あえて 提案させていただくのがこちらの2種類 もう土定番のリップモンスター これが新色ですね19番 こんな感じ」
+> [動画を見る](https://www.youtube.com/watch?v=6zjJoG9JpfQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -145,8 +145,8 @@
 
 **価格**: 1430円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kNU2AcYCLdY)
+> **コスメヲタちゃんねるサラ**: 「はい、そして次がこちらです。 Visee エッセンスリッププランパーです。 こちらはSP001番。一番定番なカラーですね。 これもね、過去にも紹介しているお気に入り商品です。 塗ってみると、こんな感じです。」
+> [動画を見る](https://www.youtube.com/watch?v=kNU2AcYCLdY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710581911&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikishop/visee2-1-/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -158,8 +158,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
+> **コスメヲタちゃんねるサラ**: 「こちらがロムアンドザジューシーラスティングティント。 20番。あのロムアンドのロングセラーリップティントが最近リニューアルしました。」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%E3%80%80%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%E3%80%80%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -171,8 +171,8 @@
 
 **価格**: 660円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
+> **コスメヲタちゃんねるサラ**: 「そして次が、こちら。 8月の2日発売。 セザンヌ耐久カールスリムマスカラ。 湿気やにじみに強く、 上向きカールをキープする、 耐久カールマスカラから、 束感仕上げの、 極細ブラシタイプが登場。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553043003/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -197,8 +197,8 @@
 
 **価格**: 2698円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
+> **コスメヲタちゃんねるサラ**: 「2個あれば全色入れることもできる。 そして次がこちら。 オペラグロウリップティント。 11月27日発売。 色が402シアーガーネットと403グレーピージェムです。 ラメが入っててキラキラ可愛いです。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88305%20%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/1000057313431212/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -210,8 +210,8 @@
 
 **価格**: 2200円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「新作祭り。 ではいきます。 まず、こちら。 ラネージュグレイズティントリップセラム。 思わず食べたくなるドーナッツの香り広がるドーナッツリップ。 95%スキンケア成分配合。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/divastyle/lip_tinted_serum/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -219,8 +219,8 @@
 
 ### セザンヌ トリートメントリップバーム
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=6LMPWweRLrc)
+> **コスメヲタちゃんねるサラ**: 「注目の新作を紹介していきます まずこちら セザンヌブレンドカラーチーク めっちゃ可愛い 3色のマットカラーと 1色のパールカラーが一つになったチーク 混ぜ方次第でツヤチークにも マットチークにもなる ピンク系と」
+> [動画を見る](https://www.youtube.com/watch?v=6LMPWweRLrc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)
 
@@ -237,8 +237,8 @@
 
 ### オペラ オペラ / シアーマットリップスティック
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gdIOE22vvGE)
+> **コスメヲタちゃんねるサラ**: 「はいこんな感じ 次がこちら オペラシアーマットリップスティック こちらは07番です マットリップって苦手な方多いと思うんですけど いかがですか 私もね実はあんまりマットリップって塗らないんだけど」
+> [動画を見る](https://www.youtube.com/watch?v=gdIOE22vvGE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20/%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20/%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -246,8 +246,8 @@
 
 ### セザンヌ グロウフォンデュリップ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「そして次。 3月3日追加発売。 セザンヌカクアイゾンコンシーラー02番と、 ライティングアップアイシャドウ02番。 こちらセザンヌの新作レビュー動画を出してますので、 そちらをご覧ください。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%A5%E3%83%AA%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%A5%E3%83%AA%E3%83%83%E3%83%97/?af=mobi.0319)
 
@@ -282,8 +282,8 @@
 
 ### ニベア リッチケア＆カラーリップ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
+> **コスメヲタちゃんねるサラ**: 「そしたら最後リップいきます こちら ニベアリッチケアカラーリップクリームの スモーキーローズ使っていきます ここお好みでいいと思うんですけど ひなたちゃん結構元の唇の血色感がすごくいいので ほんのりベー」
+> [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%8B%E3%83%99%E3%82%A2%20%E3%83%AA%E3%83%83%E3%83%81%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%8B%E3%83%99%E3%82%A2%20%E3%83%AA%E3%83%83%E3%83%81%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97/?af=mobi.0319)
 
@@ -291,8 +291,8 @@
 
 ### ペリペラ ペリペラ / パフィープランピング デューリップペンシル
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
+> **コスメヲタちゃんねるサラ**: 「次、こちら。 ヘリペラパフィープランピング。 デューリップペンシル01。 こちらリップペンシルなんですが、 まず、パッケージが非常に可愛い。 ペンみたい。」
+> [動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20/%20%E3%83%91%E3%83%95%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%20%E3%83%87%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20/%20%E3%83%91%E3%83%95%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%20%E3%83%87%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319)
 
@@ -300,8 +300,8 @@
 
 ### ペリペラ ペリペラ / ムードグロイティント
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
+> **コスメヲタちゃんねるサラ**: 「やっぱね、プランパーって癖になるよね。 はい、次も実はペリペラです。 ペリペラのディーナッツ。 リニューアルした新作、こちら。 ムードグロウィーティントです。 2番、3番、5番。」
+> [動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20/%20%E3%83%A0%E3%83%BC%E3%83%89%E3%82%B0%E3%83%AD%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%20/%20%E3%83%A0%E3%83%BC%E3%83%89%E3%82%B0%E3%83%AD%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -309,8 +309,8 @@
 
 ### ロムアンド ジューシーフラッシュリップオイル
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
+> **コスメヲタちゃんねるサラ**: 「まず、こちら。 4月7日発売。 ロムアンドジューシーフラッシュリップオイル。 なんと、ロムアンドから新作リップが出ます。 今回は、なんとリップオイル。 かわいい。」
+> [動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB/?af=mobi.0319)
 
@@ -318,8 +318,8 @@
 
 ### ケイト リップモンスター クリアトーン
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
+> **コスメヲタちゃんねるサラ**: 「はいで次が4月25日追加発売のケイトリップモンスタークリアトーンの新色。 C04ちょっと青み系の色味が登場します。 可愛い。 次が4月25日。 次が4月25日追加発売。」
+> [動画を見る](https://www.youtube.com/watch?v=ultTFM8xjuk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%88%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%88%E3%83%BC%E3%83%B3/?af=mobi.0319)
 
@@ -327,8 +327,8 @@
 
 ### d'Alba d'Alba / プランピングリップグロウ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
+> **コスメヲタちゃんねるサラ**: 「そして次がこちら ダルバのプランピングリップグロウムードボリューマイザー 01番フィーブルピンクと03番ペタルローズです 私知らなかったんだけど1回売り切れて今再販してるみたい ダルバってねスキンケアのイメージ」
+> [動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=d%27Alba%20d%27Alba%20/%20%E3%83%97%E3%83%A9%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/d%27Alba%20d%27Alba%20/%20%E3%83%97%E3%83%A9%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 
@@ -345,8 +345,8 @@
 
 ### AMUSE ティントワンタッチリムーバー
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
+> **コスメヲタちゃんねるサラ**: 「ちょっと斬新じゃないですか ティントワンタッチリムーバーっていう リップティント専用のクレンジングペンが出るんですけど これめっちゃ気になってる 先端がちょっとボコボコになってて 角質とかも取れそうじゃない? これも」
+> [動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=AMUSE%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E3%83%AA%E3%83%A0%E3%83%BC%E3%83%90%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/AMUSE%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E3%83%AA%E3%83%A0%E3%83%BC%E3%83%90%E3%83%BC/?af=mobi.0319)
 
@@ -354,8 +354,8 @@
 
 ### ロムアンド ロムアンド/ザ･ジューシーラスティングティント
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=bhKjOeyka00)
+> **コスメヲタちゃんねるサラ**: 「そして次がこちらです。 あの爆売れリップ。 ロムアンドジューシーラスティングティントがリニューアルしました。 ザ・ジューシーラスティングティント。」
+> [動画を見る](https://www.youtube.com/watch?v=bhKjOeyka00)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89/%E3%82%B6%EF%BD%A5%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89/%E3%82%B6%EF%BD%A5%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -381,8 +381,8 @@
 
 ### キス shaishaishai / サンキスドプランプリップバーム
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=D4zDXYRcnG0)
+> **コスメヲタちゃんねるサラ**: 「サンキスドペランプリップバームです リップはねもうどれを選ぶか めっちゃ悩んで めっちゃ悩んだ挙句決められず 最近のティントどれもいいんだもん 全部 だから最近のティン」
+> [動画を見る](https://www.youtube.com/watch?v=D4zDXYRcnG0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20shaishaishai%20/%20%E3%82%B5%E3%83%B3%E3%82%AD%E3%82%B9%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20shaishaishai%20/%20%E3%82%B5%E3%83%B3%E3%82%AD%E3%82%B9%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)
 
@@ -390,8 +390,8 @@
 
 ### キス shaishaishai　サンドプランプリップバーム　[05]Berry Fizz
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=nBL6g3Q5B8U)
+> **コスメヲタちゃんねるサラ**: 「ごめんなさい 毎回 それ前のやつか マジョマジョラインエキスパンダーDR713 エクセルメロウシェードリキッドライナー あー ML02です そっちに浮気しようかなって思ったんだけど ずっとここに刺してるから あーわかる」
+> [動画を見る](https://www.youtube.com/watch?v=nBL6g3Q5B8U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20shaishaishai%E3%80%80%E3%82%B5%E3%83%B3%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0%E3%80%80%5B05%5DBerry%20Fizz&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20shaishaishai%E3%80%80%E3%82%B5%E3%83%B3%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0%E3%80%80%5B05%5DBerry%20Fizz/?af=mobi.0319)
 
@@ -399,8 +399,8 @@
 
 ### ケイト リップモンスター ツヤバース
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+> **コスメヲタちゃんねるサラ**: 「左からリップモンスター リップモンスターツヤバースヒンスピアー ラカアミューズティルティル リントン ロム&ポレンコスですまずそれぞれの特徴を説明していきますまずこちらリップモンスタ」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%84%E3%83%A4%E3%83%90%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%84%E3%83%A4%E3%83%90%E3%83%BC%E3%82%B9/?af=mobi.0319)
 
@@ -419,8 +419,8 @@
 
 ### FORENCOS ソーク タトゥー ティント
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+> **コスメヲタちゃんねるサラ**: 「こちらがフォレンコスソークタトゥーティント03番。 これはとにかく落ちないと話題になったやつ。 カラバリが16色なんですけど、結構ね濃いめのカラーが多いです。」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=FORENCOS%20%E3%82%BD%E3%83%BC%E3%82%AF%20%E3%82%BF%E3%83%88%E3%82%A5%E3%83%BC%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/FORENCOS%20%E3%82%BD%E3%83%BC%E3%82%AF%20%E3%82%BF%E3%83%88%E3%82%A5%E3%83%BC%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -428,8 +428,8 @@
 
 ### トーン リップモンスター クリア
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3JC3KIH2bbQ)
+> **コスメヲタちゃんねるサラ**: 「耳にも使えます。 色味はこんな感じです。 伸ばします。 トーンアップパウダーが配合されてて、しっかりトーンアップしつつ毛穴もカバーしてくれます。」
+> [動画を見る](https://www.youtube.com/watch?v=2lBY42q7yX8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%AF%E3%83%AA%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%AF%E3%83%AA%E3%82%A2/?af=mobi.0319)
 
@@ -437,8 +437,8 @@
 
 ### セザンヌ セザンヌ / 影色リップメイカー
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
+> **コスメヲタちゃんねるサラ**: 「ではまずお気に入りから セザンヌシームレスカバーパウダー01フォギーベージュです なんとセザンヌから新作パウダーが出たんですけど まずこのパフの厚みこれ1センチぐらいありそうなぐらいめちゃくち」
+> [動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20%E5%BD%B1%E8%89%B2%E3%83%AA%E3%83%83%E3%83%97%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20%E5%BD%B1%E8%89%B2%E3%83%AA%E3%83%83%E3%83%97%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC/?af=mobi.0319)
 
@@ -446,8 +446,8 @@
 
 ### キス リップアーマー新色5色
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
+> **コスメヲタちゃんねるサラ**: 「これも人気出そうだな そしてこちら 10月1日追加発売 キスリップアーマー 結構ねカラー増えます 今まではくすみ系カラーが多かったんですけど 一気に明るいそして青み系のカラーが増えます 10番サクランボホリック 11番強」
+> [動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E6%96%B0%E8%89%B25%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E6%96%B0%E8%89%B25%E8%89%B2/?af=mobi.0319)
 
@@ -455,8 +455,8 @@
 
 ### キス 金のリップアーマー限定2色
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
+> **コスメヲタちゃんねるサラ**: 「これも人気出そうだな そしてこちら 10月1日追加発売 キスリップアーマー 結構ねカラー増えます 今まではくすみ系カラーが多かったんですけど 一気に明るいそして青み系のカラーが増えます 10番サクランボホリック 11番強」
+> [動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E9%87%91%E3%81%AE%E3%83%AA%E3%83%83%E3%83%97%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E9%99%90%E5%AE%9A2%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E9%87%91%E3%81%AE%E3%83%AA%E3%83%83%E3%83%97%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E9%99%90%E5%AE%9A2%E8%89%B2/?af=mobi.0319)
 
@@ -464,8 +464,8 @@
 
 ### キャンメイク キャンメイク/グラスティントシロップ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PCLSHYhRYV4)
+> **コスメヲタちゃんねるサラ**: 「セザンヌとかキャンメイクってイエベ向き、ブルベ向きって結構ね、はっきり分かれているものが多いんですけど、珍しく割とニュートラルなカラー。 腕に塗るとこんな感じ。」
+> [動画を見る](https://www.youtube.com/watch?v=PCLSHYhRYV4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97/?af=mobi.0319)
 
@@ -473,8 +473,8 @@
 
 ### セザンヌ セザンヌ/リップカラーシールド
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PCLSHYhRYV4)
+> **コスメヲタちゃんねるサラ**: 「ではまずアイシャドウからこちら。 セザンヌペールトーンアイシャドウ01コットン。」
+> [動画を見る](https://www.youtube.com/watch?v=PCLSHYhRYV4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C/%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C/%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89/?af=mobi.0319)
 
@@ -482,8 +482,8 @@
 
 ### スリー リップピングマスク ミッドナイトミニズ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
+> **コスメヲタちゃんねるサラ**: 「10月の12日発売で3つあります。 こちら。 リップスリーピングマスクミッドナイトミニズ。 大人気のリップスリーピングマスクのミニサイズの詰め合わせ。 プレゼントとかにも絶対いいと思う。 こちらが定番のベリーの香り。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%9F%E3%83%8B%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%9F%E3%83%8B%E3%82%BA/?af=mobi.0319)
 
@@ -491,8 +491,8 @@
 
 ### スリー リップピングマスク キャンディケイン
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
+> **コスメヲタちゃんねるサラ**: 「10月の12日発売で3つあります。 こちら。 リップスリーピングマスクミッドナイトミニズ。 大人気のリップスリーピングマスクのミニサイズの詰め合わせ。 プレゼントとかにも絶対いいと思う。 こちらが定番のベリーの香り。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3/?af=mobi.0319)
 
@@ -500,8 +500,8 @@
 
 ### ヴィセ エッセンス リッププランパー ミニセット
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Rs3p_Bz6Msg)
+> **コスメヲタちゃんねるサラ**: 「今後もモンスター楽しみですね 次がこちら ヴィセ粘膜フェイクリキッド PK831バレリーラの糖水 ヴィセからもあのバズった粘膜フェイクルージュのリキッドタイプ出ました 粘膜フェイクもどうするよ ルージュ来てリ」
+> [動画を見る](https://www.youtube.com/watch?v=Rs3p_Bz6Msg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%B4%E3%82%A3%E3%82%BB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%20%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%B4%E3%82%A3%E3%82%BB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%20%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%83%E3%83%88/?af=mobi.0319)
 
@@ -509,8 +509,8 @@
 
 ### エチュード エチュード/ディアダーリンマーカーティント
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
+> **コスメヲタちゃんねるサラ**: 「そして、次こちら。 これなんだかわかりますか? ウチらのエチュードディアダーリンティントです。 ペンになっちゃった。 エチュードディアダーリンマーカーティント04番です。 前、エチュードハウスだったもんね。」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%20%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -518,8 +518,8 @@
 
 ### MAC グロープレイテンダートークリップバーム
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
+> **コスメヲタちゃんねるサラ**: 「7月はね、結構デパコスが多いんですよ。 次、MACですね。 7月5日発売。 MAC グロウプレイ テンダートークリップバーム これは6月11日、西武渋谷先行発売。 6月25日、千葉そごう先行発売。」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAC%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%83%80%E3%83%BC%E3%83%88%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAC%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%83%80%E3%83%BC%E3%83%88%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)
 
@@ -527,8 +527,8 @@
 
 ### セザンヌ 3Dジェリーリップ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
+> **コスメヲタちゃんねるサラ**: 「はい、そして次。 7月5日発売。 セザンヌ 3D ジェリーリップ。 ジェリーのような、ぷるんとした質感で、 ボリューム光沢艶、 美発色仕上げの新リップ。 美容保湿成分90%以上。」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%203D%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%203D%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97/?af=mobi.0319)
 
@@ -545,8 +545,8 @@
 
 ### ケイト バーチャルリップバーム
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GluE2IE70TA)
+> **コスメヲタちゃんねるサラ**: 「そして次がこちら。 9月21日ケイトから数量限定のものがたくさん出ます。 まずケイトトランスフォームチーク。 地球の地図みたいなチークが出ます。」
+> [動画を見る](https://www.youtube.com/watch?v=GluE2IE70TA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)
 

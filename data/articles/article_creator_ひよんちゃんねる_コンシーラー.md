@@ -18,8 +18,8 @@
 
 **価格**: 4180円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
+> **ひよんちゃんねる**: 「こちら使います ボーンの ペタルフロートフローレスタッチ 01番のコンシーラーとフェイスカラーが 一緒になっているパレット 3色のコンシーラーとフェイスカラーがある っていう感じですね 小さい」
+> [動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=to/one%20%E3%83%9A%E3%82%BF%E3%83%AB%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9%20%E3%82%BF%E3%83%83%E3%83%81%2002&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/toonecosmetics/4573623430555/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

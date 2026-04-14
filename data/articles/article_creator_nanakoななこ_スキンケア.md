@@ -139,8 +139,8 @@
 
 ### オバジ Cセラム シリーズ　https://bit.ly/42PnScY
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=QQkxIS4VCLA)
+> **nanakoななこ**: 「そしたら美容液塗っていきます 今回はこちら使いまーす オバジのC10セラム これはね12ミリ入りのやつです オバジの美容液ってめちゃくちゃ有名でさ これ知ってる人も多分多いと思うよね これはもともと私が使ってて 人生初め」
+> [動画を見る](https://www.youtube.com/watch?v=QQkxIS4VCLA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%90%E3%82%B8%20C%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%80%80https%3A//bit.ly/42PnScY&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%90%E3%82%B8%20C%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%80%80https%3A//bit.ly/42PnScY/?af=mobi.0319)
 

@@ -74,8 +74,8 @@
 
 **価格**: 660円
 
-動画の概要欄でハイライトとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
+> **コスメヲタちゃんねるサラ**: 「可愛いんですけど。 可愛いです。 こちら。 セザンヌパールグロウハイライトSP2番。 ロマンスブルームです。 こちら限定です。 SNSの写真で見た時よりもめちゃ可愛い。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553041122&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%91%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
 
@@ -83,8 +83,8 @@
 
 ### トーン fwee / グリッツ ストーン ハイライト
 
-動画の概要欄でハイライトとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=6LMPWweRLrc)
+> **コスメヲタちゃんねるサラ**: 「ラロッシュポゼ UVイデアXLプロテクショントーンアップ ローズプラス あの大人気のラロッシュポゼ ローズがリニューアル発売 します シングローピンク設計 反射力アッププラス気ぐすみ補正 抗酸化成分 ビタミンC」
+> [動画を見る](https://www.youtube.com/watch?v=6LMPWweRLrc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20/%20%E3%82%B0%E3%83%AA%E3%83%83%E3%83%84%20%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20/%20%E3%82%B0%E3%83%AA%E3%83%83%E3%83%84%20%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88/?af=mobi.0319)
 

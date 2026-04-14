@@ -39,9 +39,8 @@
 
 **価格**: 3630円 | **3人のYouTuberが紹介**
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / 鹿の間 / miku / 未来
+> **鹿の間**: 「まず1つ目がこちら ラメージュのクリームスキンローションでございます あのこれめちゃくちゃ有名な化粧水なんですけど 私使ったことなくて もう乾燥肌の私からしたらね この白色っていうのは めちゃくちゃ保湿されそうで 最」
+> [動画を見る](https://www.youtube.com/watch?v=RM5Yqlzb4g4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/0000000009201/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -53,9 +52,8 @@
 
 **価格**: 1430円 | **2人のYouTuberが紹介**
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-
-**紹介YouTuber**: MAI TAKASUGI / かずのすけ
+> **かずのすけ**: 「次に見ていくのは 厚生のメイクキープミストEXプラスのクールタイプです 赤色タイプがギリギリCランクかなって言ってたんですけど こちらはギリギリBランクかなみたいな感じの結果でございまして 左に比べれば右も」
+> [動画を見る](https://www.youtube.com/watch?v=0_Y-w8o4rRY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710576306&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4971710576306/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -137,9 +135,8 @@
 
 **価格**: 2970円 | **2人のYouTuberが紹介**
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-
-**紹介YouTuber**: ふくれな / 鹿の間
+> **鹿の間**: 「これちょっと前のね、抜け殻を取っておいたんですけど このオルビスのね、」
+> [動画を見る](https://www.youtube.com/watch?v=5E1lOE9AJ-4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%EF%BC%88%E7%A8%8E%E8%BE%BC%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cc007757530101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

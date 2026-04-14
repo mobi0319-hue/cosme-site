@@ -63,8 +63,8 @@
 
 ### ジルスチュアート 提供：　ビューティ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VyZ1C_2tamM)
+> **かす**: 「お花見をした時の動画だったと思うんですけど ジルスチュアートさんの下地をね、紹介したことがありまして 今でも使ってるんですけど もうめっちゃ肌ツヤツヤになる下地がありまして それを気に入ってね、」
+> [動画を見る](https://www.youtube.com/watch?v=VyZ1C_2tamM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E6%8F%90%E4%BE%9B%EF%BC%9A%E3%80%80%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E6%8F%90%E4%BE%9B%EF%BC%9A%E3%80%80%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3/?af=mobi.0319)
 
@@ -180,8 +180,8 @@
 
 ### クリオ メガ割に合わせて大人気アイテムがフルーツマーケットテーマに合わせて限定パッケージとして新しく発売✔️
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zZVsphzWTiA)
+> **かす**: 「で今日はこれを使っていきまーす じゃじゃん クリオのキルカバーザニューファンウェアクッション これクリオのクッションファンデなんだけど これ新しいやつで これキルカバーザニューファンウェアクッションっていう も」
+> [動画を見る](https://www.youtube.com/watch?v=zZVsphzWTiA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%AA%E3%82%AA%20%E3%83%A1%E3%82%AC%E5%89%B2%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%8C%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E9%99%90%E5%AE%9A%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%A8%E3%81%97%E3%81%A6%E6%96%B0%E3%81%97%E3%81%8F%E7%99%BA%E5%A3%B2%E2%9C%94%EF%B8%8F&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%AA%E3%82%AA%20%E3%83%A1%E3%82%AC%E5%89%B2%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%8C%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E9%99%90%E5%AE%9A%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%A8%E3%81%97%E3%81%A6%E6%96%B0%E3%81%97%E3%81%8F%E7%99%BA%E5%A3%B2%E2%9C%94%EF%B8%8F/?af=mobi.0319)
 
@@ -227,8 +227,8 @@
 
 **価格**: 9900円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=iXqo76mV0iI)
+> **かす**: 「かわいい!これね、わかるかな? これね、キラキラのストーンがついておりまして ほんとに今、」
+> [動画を見る](https://www.youtube.com/watch?v=iXqo76mV0iI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%84%EF%BC%8Fjouetie&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%84%EF%BC%8Fjouetie/?af=mobi.0319)
 
@@ -249,8 +249,8 @@
 
 **価格**: 15950円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=iXqo76mV0iI)
+> **かす**: 「かわいい!これね、わかるかな? これね、キラキラのストーンがついておりまして ほんとに今、」
+> [動画を見る](https://www.youtube.com/watch?v=iXqo76mV0iI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E5%85%B1%E3%81%ABporetto%20felun&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E5%85%B1%E3%81%ABporetto%20felun/?af=mobi.0319)
 

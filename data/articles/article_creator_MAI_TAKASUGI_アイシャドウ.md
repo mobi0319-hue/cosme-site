@@ -58,8 +58,8 @@
 
 **価格**: 2050円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-nW-sPXuYjk)
+> **MAI TAKASUGI**: 「それではですね、最後にシェーディングを入れていきたいと思います。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%83%A5%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%A1%E3%83%AA%E3%83%8F%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002N%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mahy1/b0fvdy1ccx/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -240,8 +240,8 @@
 
 **価格**: 792円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「やっていきたいと思います。 アイシャドウブラシ、 まずはこちらのロジローザを使っていきまーす。 こんな色味のアイシャドウセットになってまーす。 めちゃくちゃかわいいでしょー。 そして、捨て色なしですね。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901604454335&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tsuruha/10131559/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -344,8 +344,8 @@
 
 **価格**: 809円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=hlK9BuWplq0)
+> **MAI TAKASUGI**: 「やっていきたいと思います。 アイシャドウブラシ、 まずはこちらのロジローザを使っていきまーす。 こんな色味のアイシャドウセットになってまーす。 めちゃくちゃかわいいでしょー。 そして、捨て色なしですね。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%96%E3%83%A9%E3%82%B7%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%96%E3%83%A9%E3%82%B7%E3%82%BB%E3%83%83%E3%83%88%282%E6%9C%AC%E5%85%A5%E3%82%8A%29%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikisone/rosyrosa10-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

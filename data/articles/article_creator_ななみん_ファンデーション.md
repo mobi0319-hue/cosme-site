@@ -17,8 +17,8 @@
 
 ### ミシャ MISSHA ()
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
+> **ななみん**: 「Tゾーンとここと顎だけって感じ そしたらミシャの これもこの前紹介したやつね これで塗っていくんだけど ピンクっぽい感じですね 21番は 若干ピンクみが入ってる ツヤっぽく仕上がるタイプです 結構カバー力あ」
+> [動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29/?af=mobi.0319)
 
@@ -35,8 +35,8 @@
 
 ### マキアージュ プロモーション:
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Fkd8xu7NwoQ)
+> **ななみん**: 「みなさんこんばんは、ななみです 今日は、なんと マキアージュの話題の商品 2年連続売上ナンバーワンの 大人気の美容液ファンデの こちらの 見たことあると思うんですけど ドラマティックエッセンスリキッドと 同じ美容液シリー」
+> [動画を見る](https://www.youtube.com/watch?v=Fkd8xu7NwoQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%3A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%3A/?af=mobi.0319)
 
@@ -53,8 +53,8 @@
 
 ### バニラコ はQoo10メガ割中にゲットしてね✨
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=_OuZrhHErvU)
+> **ななみん**: 「これを塗っていきます ちょっと最初にさっきバニラコーンを塗ってるので ちょっと潤いがもうちょっとあるように見えちゃうかもしれないんだけど 可愛い 可愛い可愛い でハイライトはこのボディブラウンのハイライトを使い」
+> [動画を見る](https://www.youtube.com/watch?v=_OuZrhHErvU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%81%AFQoo10%E3%83%A1%E3%82%AC%E5%89%B2%E4%B8%AD%E3%81%AB%E3%82%B2%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%AD%E2%9C%A8&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%81%AFQoo10%E3%83%A1%E3%82%AC%E5%89%B2%E4%B8%AD%E3%81%AB%E3%82%B2%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%AD%E2%9C%A8/?af=mobi.0319)
 
@@ -62,8 +62,8 @@
 
 ### Milk Touch ミルクタッチ
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=u77hpbMrjQ0)
+> **ななみん**: 「はいじゃあ 今日はねちょっと話題だった ミルクタッチを使ってみます 私はなんか色的に2かなと思ったので 2を選択してみました なんかちょっとメッシュが珍しいですね 全穴空きみたいな感じで で中はあのイヴサンローラ」
+> [動画を見る](https://www.youtube.com/watch?v=u77hpbMrjQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Milk%20Touch%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Milk%20Touch%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81/?af=mobi.0319)
 

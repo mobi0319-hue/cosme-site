@@ -31,6 +31,21 @@
 > **水越みさと**: 「目尻ライン・まつげの隙間埋め・目頭ラインに取り入れている。にじまず長時間きれいなラインをキープしてくれるのが魅力で、目元のラインを引くのに取り入れている。ナチュラルメイク派にぴったり」
 > [動画を見る](https://www.youtube.com/watch?v=xPgtsEQfQtc)
 
+> **コスメヲタちゃんねるサラ**: 「こんにちはサラです。約1年前にヒロインメイクのヒロインのメイクっていう動画を上げたんですけども 今回ですねついにヒロインメイクさんからお仕事いただきました ありがとうございますということでさらに完成度を上」
+> [動画を見る](https://www.youtube.com/watch?v=C6KajyhC2EM)
+
+> **nanakoななこ**: 「っていう人はぜひ はい使いすぎ ヒロインメイクのスムースリキッドアイライナー02番 これはガチ落ちない これはね本当にもうこれ何回言ってんの?って感じなんですけど 昔東海オンエアの動画に出た時に 水彩絵の具」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+
+> **まつきりな**: 「上もライン描くんだけど 上のラインは 同じヒロインメイクの 2番か ブラウンブラックみたいなやつかな しっかりこう上まぶた 細くラインを全体的に入れる 細ーく入れまーす で目尻も 下げつつ延長 わかるかな ここでちょ」
+> [動画を見る](https://www.youtube.com/watch?v=PkNmTapKQ54)
+
+> **さぁや saaya**: 「それがー! じゃじゃん!こちらでーす! ヒロインメイクのプライムリキッドアイライナー リッチキープなんですけど こちらのアイライナーが、今日もね、使ってるんですけど 本当にめちゃめちゃ良くて もう久しぶりにね、」
+> [動画を見る](https://www.youtube.com/watch?v=3yH3HgbG82U)
+
+> **鹿の間**: 「もうライン引いてもらおうかな ヒロインメイクのプライムリッチライナーの3番 ちょっとはみ出して目尻に使ってもらう感じで 目尻だけはみ出してなんか横に伸ばす感じ この辺から うん 惑星で垂れさせちゃいそう」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
 ---
@@ -65,6 +80,12 @@
 
 > **さぁや**: 「2025年下半期ベスコス・アイライナー部門」
 > [動画を見る](https://www.youtube.com/watch?v=JAZaczkdBLg)
+
+> **MAI TAKASUGI**: 「はい、では次はこちらです。 キャンメイクのイルミネイティングフィニッシュパウダーです。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+
+> **コスメヲタちゃんねるサラ**: 「アイライナーこちら。 キャンメイククリーミータッチライナー03。 不動の大人気アイライナー。 先端が細いので、目尻も描きやすい。 ではマスカラはこちら。」
+> [動画を見る](https://www.youtube.com/watch?v=I6-L9mbYidI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000077168/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -123,9 +144,8 @@
 
 **価格**: 660円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイライナーとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / 鹿の間
+> **鹿の間**: 「リップ終わり そしたらチークはセザンヌのチークブラシ4本使っていきます で、」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042549&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20CEZANNE%0D%E6%8F%8F%E3%81%8F%E3%81%B5%E3%81%9F%E3%81%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%0D30%20%E5%BD%B1%E7%94%A8%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
 
@@ -137,9 +157,8 @@
 
 **価格**: 715円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイライナーとして紹介されています。
-
-**紹介YouTuber**: nanakoななこ / 鹿の間
+> **nanakoななこ**: 「こういうクリームペンシル 特にクリーミータッチライナーは もともと作る量が薄いから パンダにならないの黒じゃないし でもうちょっと盛れないなぁと言ってますね っていう人はぜひ はい使いすぎ ヒロインメイクのスムース」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2006&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901008312606/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -151,9 +170,8 @@
 
 **価格**: 990円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイライナーとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / よしミチ
+> **鹿の間**: 「キャンメイクとしているアイライナーです キャンメイクのラスティングリキッドライナー 05番のグレージュカラーでございます この色 ちょっと蓋悪いのか もう毎回このパヤパヤ出てきてしまうんですけど まあさて大きいライン引くとこんな感じです そう」
+> [動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008313641&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008313641/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

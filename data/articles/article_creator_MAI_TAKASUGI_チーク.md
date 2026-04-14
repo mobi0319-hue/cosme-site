@@ -86,8 +86,8 @@
 
 **価格**: 550円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「そしたら次はこちらですね。セザンヌのカクアイゾンコンシーラー01番なじみベージュのお色です。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042877&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

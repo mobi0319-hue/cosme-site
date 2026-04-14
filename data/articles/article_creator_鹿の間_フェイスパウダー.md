@@ -210,8 +210,8 @@
 
 **価格**: 5500円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「パウダーは じゃじゃん 好き セイドウのエッセンススキンセッティングパウダーの1番です これ衝撃受けました?使った時 すごい 綺麗にツヤ出るよねパウダーなのに ブラシでのせます ありがとうございます でもちょっ」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0053/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -223,8 +223,8 @@
 
 **価格**: 1034円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+> **鹿の間**: 「本日締めのパウダーは キャンメイクのマシュマロフィニッシュパウダーの 1番使っていきます これもねコントロールカラーが 入っているので軽色感がすごいよく見えるんですけど 結構しっかりねマットが作れるので 今回のメイクにもってこ」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/514485/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -236,8 +236,8 @@
 
 **価格**: 880円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+> **鹿の間**: 「忘れてた 忘れてはならないヘアメイクパウダー 絶対にこれは忘れてはいけない これ生え際をね暗くしてくれるんですけど なんか毛が敷き詰まって見えた方が肌も明るく見えますので しっかり敷き詰めておきましょう」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%98%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%81%AA%E3%81%98%E3%81%BF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cd012816040101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -249,8 +249,8 @@
 
 **価格**: 1034円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=tm0LXO2SPPk)
+> **鹿の間**: 「あまりにも可愛すぎる限定パケ こちらキャンメイクのマシュマロフィニッシュパウダーのツイードパッケージ1番でございます 見てください皆さん このパッケージデザインじゃないんですよ ちゃんと布 ちゃんと生地 可愛すぎ? 結構マシュマロフィニッシ」
+> [動画を見る](https://www.youtube.com/watch?v=tm0LXO2SPPk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%EF%BD%9EAbloom%E3%80%9C%201&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%EF%BD%9EAbloom%E3%80%9C%201/?af=mobi.0319)
 
@@ -262,8 +262,8 @@
 
 **価格**: 1034円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「今だけのツイードパンツ キャンメイクのマシュマロフィニッシュパウダー ツイードパッケージの一番でございます 上品で可愛すぎるデザインにうっとりしますね これプリントじゃないですからね くすみを補正しながらトーンアップしてくれるア」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008314709&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008314693/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -275,8 +275,8 @@
 
 **価格**: 3850円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「完成でございます こちらも常連ですね セルヴォークのインディキア パウダーの7番使っていきます いつもこのセットで申し訳ないんですけど 本当にピンクメイクオレンジメイク どちらも合うアイブロウパウダーなので なんならアイ」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20Celvoke%20%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2007&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/stylife/ey4768/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -314,8 +314,8 @@
 
 **価格**: 935円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「今日は明るめのパウダー シークレットビューティーパウダーの2番使ってます で、顎もちょっと横向きに明るいハイライト じゃないわ、パウダー入れます え、よくない? じゃあカラコン入れていこうと思います やばい、」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008309873&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/soukaikenbi/ida-4901008309873-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -327,8 +327,8 @@
 
 **価格**: 660円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=JmFdrjFHe9U)
+> **鹿の間**: 「こちら皆様に届けたい ハート こちらキャンメイクの新作 パウダーチークスのP02番でございます あの私と同じく 皆様めちゃくちゃおすすめです ブルベナツに限らず 結構ね発色は薄めなんですよ なので割とみんな使えると思うけど 中でもブ」
+> [動画を見る](https://www.youtube.com/watch?v=JmFdrjFHe9U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008317762&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008317762/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -340,8 +340,8 @@
 
 **価格**: 1980円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WlXnf-y_CvU)
+> **鹿の間**: 「こちら私もメイク動画でよく使ってますが VDLのパーフェクティング シルキーフィットパウダーでございます パウダー苦手な私がつけたくなる タイプのパウダーでございます こちらねサイズ感はこんな感じで コンパ」
+> [動画を見る](https://www.youtube.com/watch?v=WlXnf-y_CvU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20VDL%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/zjcollabpf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

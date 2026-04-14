@@ -69,8 +69,8 @@
 
 ### ウェイクメイク ウェイクメイク
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
+> **さぁや**: 「こちらー ウェイクメイクのソフトブラーリーアイパレットの 10番です 特にブルベさんにですね おすすめのアイシャドウ パレットで ウェイクメイクのアイパレット 本当にね、」
+> [動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/wakemake_sf_blurring_eyepalette1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -78,8 +78,8 @@
 
 ### エスポア エスポアから新作パレット4色登場！
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
+> **さぁや**: 「すごく可愛くなるだろうなみたいな エスポアから久しぶりにですね 新しいアイパレットが出たんですよ 4色出てます 結構これ色味も多いんですけど なんとアイブロウから下まぶたまで こっからここまで完璧に作り」
+> [動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%20%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%E3%81%8B%E3%82%89%E6%96%B0%E4%BD%9C%E3%83%91%E3%83%AC%E3%83%83%E3%83%884%E8%89%B2%E7%99%BB%E5%A0%B4%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%20%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%E3%81%8B%E3%82%89%E6%96%B0%E4%BD%9C%E3%83%91%E3%83%AC%E3%83%83%E3%83%884%E8%89%B2%E7%99%BB%E5%A0%B4%EF%BC%81/?af=mobi.0319)
 

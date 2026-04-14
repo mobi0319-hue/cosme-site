@@ -89,9 +89,8 @@
 
 **価格**: 748円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: ありちゃん / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「はい、そしたらまず1つ目の商品がこちら セザンヌのUV トーンアップベースホワイトです この商品はね、」
+> [動画を見る](https://www.youtube.com/watch?v=kr0si-XjTa0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20UV%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20%20SPF50%2B/PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ohada-marche/03176/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -103,9 +102,8 @@
 
 **価格**: 2310円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「今ピンクベージュだけこっち側に塗ったんですけど自然なトーンアップ力。 反対側にブルーを塗ります。 こんな感じ。 ブルーの方がトーンアップ力は高いんですけどそれでもね全体に塗っても真っ白になることはないので。」
+> [動画を見る](https://www.youtube.com/watch?v=lmzbAqDxyQo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6%20UV%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%2001%20%E3%82%B0%E3%83%AD%E3%82%A6%2002%20%E3%83%AA%E3%83%83%E3%83%81%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/322112/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -117,9 +115,8 @@
 
 **価格**: 3080円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「こんにちはサラです今回はですね久々のIQ3企画ということで トーンアップコスメ縛りもはや発行する説をやっていきたいと思います 今ねトーンアップコスメも流行りに流行りまくっていると思うんですけど 下地もトーンアップさせてチークも」
+> [動画を見る](https://www.youtube.com/watch?v=fMOy2LKgFZU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4589631363570&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_tn_primer_m2/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -145,9 +142,8 @@
 
 **価格**: 2970円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **鹿の間**: 「それでは早速下地からやっていきます まずはティルティルのマスクフィットトーンアップエッセンスを使います とりあえず顔をねしっかり変えるメイクの時は 土台を真っさらにするので 結構しっかり白くして顔の凹凸が 一旦皆無になるまで 伸ばしていきます で結構ジ」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20TIRTIR%20%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%9F%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/suzuyaebisudo/r-tirtir-tup/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -159,9 +155,8 @@
 
 **価格**: 2310円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: ありちゃん / nanachannel
+> **nanachannel**: 「なんかめちゃくちゃこう 白い感じの肌トーンにはならないので ベースで結構明るくしちゃっても これで一旦落ち着くみたいな感じのカラバル 100倍ぐとくとかは ほんと 時短かな 時短っていうのが頭にあって」
+> [動画を見る](https://www.youtube.com/watch?v=779ft9TER9Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6UV%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/turuya783/c00285/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -173,9 +168,8 @@
 
 **価格**: 2970円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: ありちゃん / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「投票数が多かった商品はこちら キリキューのマスクフィットトーンアップエッセンスでした プチプラのスタジオね、」
+> [動画を見る](https://www.youtube.com/watch?v=uZf3OXzdqaY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%82%A2%E3%83%83%E3%83%97%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%20SPF30/PA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/select-shop-miyabi/tirtir_essence/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -201,9 +195,8 @@
 
 **価格**: 5500円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「もう大事だと思ってますので、今回使うのはこちら。 ソフィーナIPベースケアセラム。 これパッケージ変わる前から香りとテクスチャーがめっちゃ好きで、 過去の動画でも紹介してる美容液です。 すっごい人気なイメージがある。」
+> [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901301423085&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8Aip%20%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%82%A2%20%E3%82%BB%E3%83%A9%E3%83%A0%EF%BC%9C%E5%9C%9F%E5%8F%B0%E7%BE%8E%E5%AE%B9%E6%B6%B2%EF%BC%9E%20%E2%80%BBAmazon.co.jp7/2%E6%99%82%E7%82%B9/?af=mobi.0319)
 
@@ -243,9 +236,8 @@
 
 **価格**: 1870円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: 小田切ヒロ / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「はい、続いてこちら。 ティーフィット ハイドレートバニッシュアートプライマー 94%スキンケア成分配合で乾燥による粉拭きとか化粧崩れを防いでくれます。 こちらなんとスキンケアの最後のクリームとしても使えちゃいます。」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20tfit%20%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%83%88%E3%83%90%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pinnacosme/tfit_0530/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -257,9 +249,8 @@
 
 **価格**: 660円 | **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: 小田切ヒロ / ゆきりぬ
+> **ゆきりぬ**: 「はい、でそしたら セザンヌのパールグロウハイライトの01番を使います 鼻の真ん中くるくるって塗った後 スッとまっすぐ塗って ここにもちゃんと塗ります で、次に目頭の部分に塗っていきます はい、」
+> [動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%91%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%2001%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553041122/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -281,9 +272,11 @@
 
 **2人のYouTuberが紹介**
 
-動画の概要欄でベースメイクの下地として紹介されています。
+> **nanakoななこ**: 「そしたら下地塗っていきます はい、まずはこちら ダルバのトーンアップサンクリーム 3400円 これはね、」
+> [動画を見る](https://www.youtube.com/watch?v=hC0cZKfUrY8)
 
-**紹介YouTuber**: nanakoななこ / ゆきりぬ
+> **ゆきりぬ**: 「まずはですねダルバのウォーターフルトーンアップサンクリーム こちらを使っていきます この季節でもねやっぱり日焼け止めは塗ってます 美肌になるのにマジで日焼け止めは大事 これですねSPF50プラスPA+」
+> [動画を見る](https://www.youtube.com/watch?v=09RJ2YZcWbo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2050ml&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/koreabeautystar/pdrn-pink-toneup-sun-cream-50ml/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

@@ -226,8 +226,8 @@
 
 **価格**: 698円
 
-動画の概要欄でマスカラとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「そしたら次はこちらですね。セザンヌのカクアイゾンコンシーラー01番なじみベージュのお色です。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2000%E3%83%A9%E3%83%86%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2000%E3%83%A9%E3%83%86%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
 

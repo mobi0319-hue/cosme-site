@@ -258,8 +258,8 @@
 
 **価格**: 3600円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「おばみえのおかげで おかげで、おばみえのおかげで 私はこのディオールのファンデーションを選んだんですけども、それにですね、変わる変数を選びました。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/3348900806931/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -271,8 +271,8 @@
 
 **価格**: 2698円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「ほんとに。 では、リップメイクこちらを使っていきます。 オペラのグロウリップティント305、ベイビーピンクのお色です。 あとね、色味はこんな感じ。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88305%20%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/1000057313431212/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -280,8 +280,8 @@
 
 ### オペラ オペラ グロウリップティンどう　311ソフトロゼ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
+> **MAI TAKASUGI**: 「あとバランス見ていきます でリップは今日はこちらです オペラグロウリップティント311 ソフトロゼのお色です かわいいでしょ なんかオレンジともレッドともピンクとも とれるような そしてこのツヤ感 でオペラは共通して 塗」
+> [動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%81%A9%E3%81%86%E3%80%80311%E3%82%BD%E3%83%95%E3%83%88%E3%83%AD%E3%82%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%81%A9%E3%81%86%E3%80%80311%E3%82%BD%E3%83%95%E3%83%88%E3%83%AD%E3%82%BC/?af=mobi.0319)
 
@@ -289,8 +289,8 @@
 
 ### ディオール アディクト リップ グロウ オイル　015 チェリー
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「おばみえのおかげで おかげで、おばみえのおかげで 私はこのディオールのファンデーションを選んだんですけども、それにですね、変わる変数を選びました。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AA%E3%82%A4%E3%83%AB%E3%80%80015%20%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AA%E3%82%A4%E3%83%AB%E3%80%80015%20%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC/?af=mobi.0319)
 
@@ -298,8 +298,8 @@
 
 ### スリー リップピングマスク グレープフルーツ
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
+> **MAI TAKASUGI**: 「これ中もこんな感じで これいいよね ラネージュウォータースリーピングマスク 洗い流さないマスクっていうのですごく 昔から多分人気の商品なので 皆さん知ってると思うんですけど これを買った時に このリップクリームおまけでつい」
+> [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84/?af=mobi.0319)
 

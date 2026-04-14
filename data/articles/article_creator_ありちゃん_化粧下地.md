@@ -128,8 +128,8 @@
 
 **価格**: 4620円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
+> **ありちゃん**: 「あ、これはもう私が欠かせない、このアディクションのシルキーバームプライマーなんだけど、 これは私もいつも最初に塗ってからやってます。 わかります。 はい。 私もちなみにこれめっちゃ好きです。 ねえ、え、面白いんだけど。」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmediva/4971710293449/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

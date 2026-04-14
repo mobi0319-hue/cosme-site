@@ -43,6 +43,21 @@
 > **かじえり**: 「薬局プチプラで人気の高発色リップ。」
 > [動画を見る](https://www.youtube.com/watch?v=7UU0fVUFAYo)
 
+> **nanakoななこ**: 「これやってる間にリップのケアをしまーす 口暇じゃん この今話題になってるViseeのエッセンスリッププランパー 美容液だからお泊まりメイクとかにもいけんだけど これをクリルに厚いに塗」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+
+> **鹿の間**: 「これ口にも使えるので 唇を縁取りましてリップライン入れていきます 下はねかなり厚めに で上唇はですね ちょっと山が広め 私山が結構内側にキュってなってるんですけど 横に分厚い唇をしているので ここの横をね」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
+
+> **ゆうこすモテちゃんねる**: 「みなさんこんにちは、ゆうこすです 今回は リップモンスター新色全部ゲットできましたー 朝8時に起きて走り回ったよー ただいまの時間はですね 自分待ち受けに済んだって話なんだけど えー、」
+> [動画を見る](https://www.youtube.com/watch?v=LY_vGFUy1O4)
+
+> **コスメヲタちゃんねるサラ**: 「自然なツヤが出るんですよね こんな感じ リップはもう好きなのを使ってくださいって感じなんだけど あえて 提案させていただくのがこちらの2種類 もう土定番のリップモンスター これが新色ですね19番 こんな感じ」
+> [動画を見る](https://www.youtube.com/watch?v=6zjJoG9JpfQ)
+
+> **nanachannel**: 「これもロフトで買ったやつだな ビーアイドルのリップ チュルルングロスの02オトマリピーチ オトマリピーチとな どんな色でしょうって返ってる これは私01を気に入って 結構動画でも出してたかなと思うんですけど 新」
+> [動画を見る](https://www.youtube.com/watch?v=d_dkhSbD8_g)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -53,9 +68,8 @@
 
 **価格**: 5500円 | **3人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
-
-**紹介YouTuber**: ありちゃん / 小田切ヒロ / ひよんちゃんねる
+> **ひよんちゃんねる**: 「今日使ってるものはルージュデコルテクリームグロウ03Gのカラーと ヘラのセンシュアルヌードグロスの102番のカラーを使ってます 塗り心地がとにかくこれはいいし発色もめちゃくちゃ綺麗だし」
+> [動画を見る](https://www.youtube.com/watch?v=rf3e5OCx1BI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/4971710379334-25/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -70,6 +84,9 @@
 > **かじえり**: 「色持ちが良い韓国のリップティント。」
 > [動画を見る](https://www.youtube.com/watch?v=_UAzM9xNsvc)
 
+> **ひよんちゃんねる**: 「次 続きましてこちら ロムアンドのザジューシーラスティングティント 23番のピーチピーチミーっていうカラーを選んだんですけど 今までのジューシーラスティングティントのリニューアル 新しくまた出たカラーです しっかり色づいてくれ」
+> [動画を見る](https://www.youtube.com/watch?v=udnbT1w0wuo)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/asiabnc/lip_115/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -80,9 +97,11 @@
 
 **価格**: 1320円 | **3人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **コスメヲタちゃんねるサラ**: 「こちらがロムアンドザジューシーラスティングティント。 20番。あのロムアンドのロングセラーリップティントが最近リニューアルしました。」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「お次紹介する商品は こちら ロムアンドのザジューシーラスティングティントです はい、皆さんリニューアル後の ロムアンドのジューシーラスティングティントは もう試されましたか? ここ最近ね、」
+> [動画を見る](https://www.youtube.com/watch?v=6DWG5LNZTcQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%E3%80%80%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%E3%80%80%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -94,9 +113,11 @@
 
 **価格**: 660円 | **3人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **鹿の間**: 「続いてはこちら セザンヌのベージュトーンアイシャドウの 2番ローズベージュでございます 推しのねプチプラアイシャドウいっぱいあったんですけど このベージュトーンアイシャドウが出てきてか」
+> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
 
-**紹介YouTuber**: 水越みさと / 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「そして次が、こちら。 8月の2日発売。 セザンヌ耐久カールスリムマスカラ。 湿気やにじみに強く、 上向きカールをキープする、 耐久カールマスカラから、 束感仕上げの、 極細ブラシタイプが登場。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553043003/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -177,9 +198,8 @@
 
 **価格**: 1980円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **鹿の間**: 「うんうん 塗ります ラカのマキシグレイヤーティントの619番です ぴゅっと引き締まるような 私濃いめなので なんかぶどうみたいな色してる えまさにぶどうみたいな色で すごいえ普段だったらあのあんまり使わない色だ」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LAKA%20Laka%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%20%EF%BC%83619%E3%80%80%E3%83%9D%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00uc0a9.zqde76e5.g00uc0a9.zqde814f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbariasu-online%2Fb0fn79n8m5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbariasu-online%2Fi%2F10140566%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -191,9 +211,8 @@
 
 **価格**: 4180円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「じゃーん。 あ。 はい。 私それ変えてない。 まだ。 RMKとクリオのリップペンシルです。 私シャネルなんすよ。 え? 意外と。 意外。 ルージュアリュールラック64。」
+> [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%83%87%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%2011/12/13/EX-05%20%E2%80%BB1/9%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%83%87%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%2011/12/13/EX-05%20%E2%80%BB1/9%E7%99%BA%E5%A3%B2/?af=mobi.0319&s=2&v=2)
 
@@ -236,6 +255,9 @@
 > **かじえり**: 「とろけるような質感のリップバーム。」
 > [動画を見る](https://www.youtube.com/watch?v=HghnjT_n9_A)
 
+> **韓国オンニAちゃん (会社員J)**: 「まずはこちらロムアンドのグラスティングメルティングバームです 発売当初から売り切れ続々 もう入手自体が混乱なほどすごく人気だった商品です YouTubeのレビュー動画の再生数が100万30万超え 韓国でもめちゃくち」
+> [動画を見る](https://www.youtube.com/watch?v=JcQoyXdKw70)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/asiabnc/ve_easy_gmb/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -262,6 +284,9 @@
 > **かじえり**: 「発色と保湿が両立したリップグロウとして紹介」
 > [動画を見る](https://www.youtube.com/watch?v=V6nKnMkKkDk)
 
+> **MAI TAKASUGI**: 「おばみえのおかげで おかげで、おばみえのおかげで 私はこのディオールのファンデーションを選んだんですけども、それにですね、変わる変数を選びました。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/3348900806931/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -272,9 +297,8 @@
 
 **価格**: 1430円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「はい、そして次がこちらです。 Visee エッセンスリッププランパーです。 こちらはSP001番。一番定番なカラーですね。 これもね、過去にも紹介しているお気に入り商品です。 塗ってみると、こんな感じです。」
+> [動画を見る](https://www.youtube.com/watch?v=kNU2AcYCLdY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710581911&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikishop/visee2-1-/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -286,9 +310,8 @@
 
 **価格**: 1800円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **鹿の間**: 「新色が登場しました こちらラカのフルーティーグラムティント122番ロージーローズでございます 春らしいピンクカラーなんですけど しっかり発色してくれるので 薄すぎんけん使いやすそう それでは塗ってみます こちらフルーツ」
+> [動画を見る](https://www.youtube.com/watch?v=F5gzXmZ7_N4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LAKA%20LAKA%20%E3%83%95%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bighitshop/laka_fgt/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -300,9 +323,11 @@
 
 **価格**: 2698円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **MAI TAKASUGI**: 「ほんとに。 では、リップメイクこちらを使っていきます。 オペラのグロウリップティント305、ベイビーピンクのお色です。 あとね、色味はこんな感じ。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
-**紹介YouTuber**: MAI TAKASUGI / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「2個あれば全色入れることもできる。 そして次がこちら。 オペラグロウリップティント。 11月27日発売。 色が402シアーガーネットと403グレーピージェムです。 ラメが入っててキラキラ可愛いです。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%AA%E3%83%9A%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88305%20%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/1000057313431212/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -314,9 +339,11 @@
 
 **価格**: 4730円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **ありちゃん**: 「めちゃくちゃ一押しですはいそしたら お次はディオールですディオールで 1番人気だった商品は こちらディオールのリップ マキシマイザーでしたなんかね 表数見てみたところコンシーラーもね すっごく人気だったんですけど」
+> [動画を見る](https://www.youtube.com/watch?v=JCwiFumkvDc)
 
-**紹介YouTuber**: ありちゃん / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「こんな感じ はいそしたらお次リップです リップがこの2つ 1つ目がディオールの アデクトリップマキシマイザー 2つ目がカレフォーのルージュスターバイブラントです はいそしたらまず1つ目 ディオー」
+> [動画を見る](https://www.youtube.com/watch?v=YHCEgcHyMuQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/dior_lip_maximizer_001/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -328,9 +355,8 @@
 
 **価格**: 2200円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
-
-**紹介YouTuber**: 小田切ヒロ / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「新作祭り。 ではいきます。 まず、こちら。 ラネージュグレイズティントリップセラム。 思わず食べたくなるドーナッツの香り広がるドーナッツリップ。 95%スキンケア成分配合。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/divastyle/lip_tinted_serum/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -340,9 +366,11 @@
 
 **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **韓国オンニAちゃん (会社員J)**: 「まず1番目は、ウェイクメイクデュイジェルグロウティントです。 全8種類ある中、3番のチルアップコーラル、7番のフィーグピーリング選んでみました。」
+> [動画を見る](https://www.youtube.com/watch?v=GcCSsbwjruE)
 
-**紹介YouTuber**: 韓国オンニAちゃん (会社員J) / nanakoななこ
+> **nanakoななこ**: 「はいこちらも似た感じでめちゃくちゃかわいい デュイジェルグロウティントっていうやつです これもプルンって感じで もう水分系のティント 一旦これ全部塗りまーす うわーかわいい こっちはなんかジェルっぽくて ちょっとベタつかない感じ」
+> [動画を見る](https://www.youtube.com/watch?v=ZPd0lcbSqCo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%83%87%E3%83%A5%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/koma/wakemake_dewygal/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

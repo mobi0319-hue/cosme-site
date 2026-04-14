@@ -41,9 +41,14 @@
 
 **価格**: 550円 | **3人のYouTuberが紹介**
 
-動画の概要欄でアイブロウとして紹介されています。
+> **鹿の間**: 「続いてはこちら セザンヌのベージュトーンアイシャドウの 2番ローズベージュでございます 推しのねプチプラアイシャドウいっぱいあったんですけど このベージュトーンアイシャドウが出てきてか」
+> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
 
-**紹介YouTuber**: 鹿の間 / MAI TAKASUGI / コスメヲタちゃんねるサラ
+> **MAI TAKASUGI**: 「そしたら次はこちらですね。セザンヌのカクアイゾンコンシーラー01番なじみベージュのお色です。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+
+> **コスメヲタちゃんねるサラ**: 「ぜひこちらも持ち歩いて使ってみてください 次眉毛セザンヌの 細芯アイブロウ03番 使っていきます やっぱりキャンメイクとセザンヌは安くていいよね 初めて買ったコスメって何ですか? キャンメイクの そう買いました え?」
+> [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042105&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce014703950101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -57,6 +62,9 @@
 
 > **さぁや**: 「アイブロウペンシル（6番）グレージュカラー。自然な眉に仕上げてくれるのが魅力で、眉メイクに取り入れている。ナチュラル眉が好きな方におすすめ。アイブロウパウダーとして愛用している」
 > [動画を見る](https://www.youtube.com/watch?v=QjxSsipCTpU)
+
+> **nanakoななこ**: 「そしたら私はグレー系がいいから エスポアのアイブロウ4番のブラウンってやつ これはちょっとグレーっぽい感じのアイブロウパウダーなんですけど これでノーズシャドウを描いていきます ノーズシャドウはアイブ」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%20%E3%82%B6%E3%83%96%E3%83%AD%E3%82%A6%20%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/irecosmetic/10865/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -100,6 +108,9 @@
 
 > **さぁや**: 「2025年下半期ベスコス・眉マスカラ部門」
 > [動画を見る](https://www.youtube.com/watch?v=JAZaczkdBLg)
+
+> **コスメヲタちゃんねるサラ**: 「私は。 次がこちら。 最近大人気のロムアンドハンオールブロウカラ 01番。 色味はこんな感じ。」
+> [動画を見る](https://www.youtube.com/watch?v=0_P0ejI9D-g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%8F%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/a-cueb/jbt34/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

@@ -175,8 +175,8 @@
 
 **価格**: 7700円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
+> **ありちゃん**: 「じゃあ、きんおさんから。 コスデコのゼンウェアグロウの方です。 私は、エクスティケアのV3ファンデーションです。」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710378948&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/4971710378894-10/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -188,8 +188,8 @@
 
 **価格**: 1694円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
+> **ありちゃん**: 「せーの。 タラーン。 はい、 私、 マスカラは、 メイベリンの、 スカイハイ、 01番、 ブラック。 で、 えっと、 アイラインは、 スリーの、 ファントトゥーファンキー、 リキッドアイライナー、 05番の、 色です。」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%20%2001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/soukaikenbi/ida-6902395833307-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -201,8 +201,8 @@
 
 **価格**: 3520円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
+> **ありちゃん**: 「重ね付けのラメで、 使ってるのが、 コスメレコルテの、 ダズリングジェムの、 2番のカラー。 うんうん。」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%83%80%E3%82%BA%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%82%A7%E3%83%A0%20%2002&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/4971710377361-30/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -214,8 +214,8 @@
 
 **価格**: 1969円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
+> **ありちゃん**: 「せーの。 タラーン。 はい、 私、 マスカラは、 メイベリンの、 スカイハイ、 01番、 ブラック。 で、 えっと、 アイラインは、 スリーの、 ファントトゥーファンキー、 リキッドアイライナー、 05番の、 色です。」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%83%AA%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%20007&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/6902395971887/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -227,8 +227,8 @@
 
 **価格**: 14850円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Nj38ma-m3JU)
+> **ありちゃん**: 「ここぞって時に で最後はこちらですね ででんBBラボ 水溶性プラセンタエキス原液です これ私20代の時から使ってて 毛穴をすごい気にしてる子が世代的にも多いんじゃない? めちゃくちゃ気になります プラセンタって本当に毛穴」
+> [動画を見る](https://www.youtube.com/watch?v=Nj38ma-m3JU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E6%B0%B4%E6%BA%B6%E6%80%A7%20%E3%83%97%E3%83%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%82%A8%20%E5%8E%9F%E6%B6%B2%2050ml&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/smilehouse/bb1002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -240,8 +240,8 @@
 
 **価格**: 7810円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=O6VtZ7bQbVg)
+> **ありちゃん**: 「現在使っているポーチなんですけど それがこちら これね、ディオールでコスメをね 大体、確か2万円ぐらいだったと思うんですけど そのぐらいね、買った時に プラス2000円すると このね、ポーチがね、」
+> [動画を見る](https://www.youtube.com/watch?v=O6VtZ7bQbVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%82%B9%20%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%20%E3%83%96%E3%83%BC%E3%82%B1%20%E3%83%9F%E3%83%8B%20%E3%83%9F%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/regalo-c/cd-602/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

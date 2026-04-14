@@ -41,8 +41,8 @@
 
 **価格**: 3698円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wbZNqCvxB_8)
+> **EGA.channel**: 「なかなか肌に浸透しないんですよね これをアヌアのなんだっけなこれ 超低分子スマートカプセルっていう なんかこのカプセル化することで リポソーム技術と類似した技術らしいんですけど すごく小さくすることで 奥に」
+> [動画を見る](https://www.youtube.com/watch?v=wbZNqCvxB_8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8C%E3%82%A2%20%E3%82%A2%E3%83%8C%E3%82%A2%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB0.3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/hiuehfuhwfiuwefe121212/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -54,8 +54,8 @@
 
 **価格**: 2290円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wbZNqCvxB_8)
+> **EGA.channel**: 「なかなか肌に浸透しないんですよね これをアヌアのなんだっけなこれ 超低分子スマートカプセルっていう なんかこのカプセル化することで リポソーム技術と類似した技術らしいんですけど すごく小さくすることで 奥に」
+> [動画を見る](https://www.youtube.com/watch?v=wbZNqCvxB_8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8C%E3%82%A2%20%E3%82%A2%E3%83%8C%E3%82%A2PDRN&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/jtradeshop/anua_pdrn30ml_re/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -72,8 +72,8 @@
 
 ### スリー ハクスリー
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=73wGgJT16Fw)
+> **EGA.channel**: 「けどサメみたいにいい匂いはしない 無臭 次 パクスリー グロアウェイキングクリーム とにかく美白目指してるよこれ ニキビ肌の人とか脂性肌の人とかあんま向いてないかも かなり重い これ ヘディヒール ウォータードロッ」
+> [動画を見る](https://www.youtube.com/watch?v=73wGgJT16Fw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%8F%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%8F%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%BC/?af=mobi.0319)
 
@@ -81,8 +81,8 @@
 
 ### ロート プロモーション：製薬株式会社
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WHcd1Pk4Qqc)
+> **EGA.channel**: 「聞いていきたいなと思います。 こちらがロート製薬のマッスルさんです。 どうもよろしくお願いします。 ちなみに今朝7時じゃないですか。 そうですね。」
+> [動画を見る](https://www.youtube.com/watch?v=WHcd1Pk4Qqc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%83%88%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9A%E8%A3%BD%E8%96%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%83%88%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9A%E8%A3%BD%E8%96%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/?af=mobi.0319)
 
@@ -90,8 +90,8 @@
 
 ### キス ナンバーズインのパックは難しい。。。ビタミンCふりかけって、、なんで黄色なんだろうか。。着色料は入ってないっぽいし、グルタチオンとおうれん根エかなと思っている。。。
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=1FChK2UTdsY)
+> **EGA.channel**: 「基本的に ツボ草から まぁ取ったエキスが シカエキスだとしたら シカエキスから さらに凝縮して もっと 肌の鎮静とか 有効なやつを 凝縮したのが テカってよく言われます この違い なんでテカの方が」
+> [動画を見る](https://www.youtube.com/watch?v=1FChK2UTdsY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%91%E3%83%83%E3%82%AF%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84%E3%80%82%E3%80%82%E3%80%82%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%91%E3%81%A3%E3%81%A6%E3%80%81%E3%80%81%E3%81%AA%E3%82%93%E3%81%A7%E9%BB%84%E8%89%B2%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B%E3%80%82%E3%80%82%E7%9D%80%E8%89%B2%E6%96%99%E3%81%AF%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%81%A3%E3%81%BD%E3%81%84%E3%81%97%E3%80%81%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3%E3%81%A8%E3%81%8A%E3%81%86%E3%82%8C%E3%82%93%E6%A0%B9%E3%82%A8%E3%81%8B%E3%81%AA%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%80%82%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%91%E3%83%83%E3%82%AF%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84%E3%80%82%E3%80%82%E3%80%82%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%91%E3%81%A3%E3%81%A6%E3%80%81%E3%80%81%E3%81%AA%E3%82%93%E3%81%A7%E9%BB%84%E8%89%B2%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B%E3%80%82%E3%80%82%E7%9D%80%E8%89%B2%E6%96%99%E3%81%AF%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%81%A3%E3%81%BD%E3%81%84%E3%81%97%E3%80%81%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3%E3%81%A8%E3%81%8A%E3%81%86%E3%82%8C%E3%82%93%E6%A0%B9%E3%82%A8%E3%81%8B%E3%81%AA%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%80%82%E3%80%82/?af=mobi.0319)
 
@@ -99,8 +99,8 @@
 
 ### アヌア レチノール0.3 ナイアシン
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2NOk8fVoS1I)
+> **EGA.channel**: 「韓国の家に帰ってきました今 じゃあ続きから アヌアのレチノールはい 僕は正直今んとこいつが一番かなと思ってるんですけど レチノールシリーズだと こっちはナイアシンアミドが5% レチノールが0.3%入ってて ナイ」
+> [動画を見る](https://www.youtube.com/watch?v=2NOk8fVoS1I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8C%E3%82%A2%20%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB0.3%20%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%8C%E3%82%A2%20%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB0.3%20%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3/?af=mobi.0319)
 
@@ -117,8 +117,8 @@
 
 ### アヌア PDRN
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gogjmCW6sW8)
+> **EGA.channel**: 「おそらく 僕たちの肌質とか 脂性肌の人とか知って 例えばPDRNとかレチノールとか なんかそういう刺激強い系使ってる時って あんまりさ高濃度のビタミンも入れないし どっちかって言うとちょっと炎症 赤みを抑える系使いたいってい」
+> [動画を見る](https://www.youtube.com/watch?v=gogjmCW6sW8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8C%E3%82%A2%20PDRN&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%8C%E3%82%A2%20PDRN/?af=mobi.0319)
 
@@ -126,8 +126,8 @@
 
 ### ダルバ インテンシブリフティングマスク
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=u2Rof7DftdQ)
+> **EGA.channel**: 「強豪にあたる 今日美女いいじゃん これ タルバー インテンシブリフティングマスク これやばい めっちゃいい やばいびっくりした僕 まず値段がね 10枚入りで 3000円 1枚300円 韓国パックの相場って感じの値段だよね でこれ何がいいって」
+> [動画を見る](https://www.youtube.com/watch?v=u2Rof7DftdQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%AB%E3%83%90%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B7%E3%83%96%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%83%AB%E3%83%90%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B7%E3%83%96%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF/?af=mobi.0319)
 
@@ -144,8 +144,8 @@
 
 ### ロート 製薬のビタミンCについて▼
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WHcd1Pk4Qqc)
+> **EGA.channel**: 「聞いていきたいなと思います。 こちらがロート製薬のマッスルさんです。 どうもよろしくお願いします。 ちなみに今朝7時じゃないですか。 そうですね。」
+> [動画を見る](https://www.youtube.com/watch?v=WHcd1Pk4Qqc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%83%88%20%E8%A3%BD%E8%96%AC%E3%81%AE%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%96%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%83%88%20%E8%A3%BD%E8%96%AC%E3%81%AE%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%96%BC/?af=mobi.0319)
 
@@ -153,8 +153,8 @@
 
 ### アヌア 基本的に僕は寄りだとかはないです。
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zodqchHVTOE)
+> **EGA.channel**: 「今僕はアヌアに向かっています 着きました! 今アヌアってアズノスケさんの動画で アズライン酸がアズライン酸じゃないんじゃねーの?みたいな アズライン酸自体が酸性で 水酸かナ」
+> [動画を見る](https://www.youtube.com/watch?v=zodqchHVTOE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8C%E3%82%A2%20%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AB%E5%83%95%E3%81%AF%E5%AF%84%E3%82%8A%E3%81%A0%E3%81%A8%E3%81%8B%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%8C%E3%82%A2%20%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AB%E5%83%95%E3%81%AF%E5%AF%84%E3%82%8A%E3%81%A0%E3%81%A8%E3%81%8B%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%80%82/?af=mobi.0319)
 
@@ -162,8 +162,8 @@
 
 ### アヌア からの答えだと思って
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zodqchHVTOE)
+> **EGA.channel**: 「今僕はアヌアに向かっています 着きました! 今アヌアってアズノスケさんの動画で アズライン酸がアズライン酸じゃないんじゃねーの?みたいな アズライン酸自体が酸性で 水酸かナ」
+> [動画を見る](https://www.youtube.com/watch?v=zodqchHVTOE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8C%E3%82%A2%20%E3%81%8B%E3%82%89%E3%81%AE%E7%AD%94%E3%81%88%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%8C%E3%82%A2%20%E3%81%8B%E3%82%89%E3%81%AE%E7%AD%94%E3%81%88%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6/?af=mobi.0319)
 
@@ -171,8 +171,8 @@
 
 ### イニスフリー グリーンティーエンザイム
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=b55vV64-WGU)
+> **EGA.channel**: 「次が最後。 イニスフリー。 ビタシーグリーンティーエンザイムブライトセラムです。 あああああああ。 もう尿。 あ、センティー。 あ、ポンピン。 あ、ポンピン。 トゥー。 あ、ポン。」
+> [動画を見る](https://www.youtube.com/watch?v=b55vV64-WGU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B6%E3%82%A4%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B6%E3%82%A4%E3%83%A0/?af=mobi.0319)
 
@@ -180,8 +180,8 @@
 
 ### ロート 製薬だらけになるんだよなぁ〜
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=03UXOXwflME)
+> **EGA.channel**: 「そんな感じです まあ本当にね プチプラはロートだから 正直 他のやつなかなか お勧めできないんだけど プチプラでいくのは ロートセーフです 間違いない で これ使っても 全然治らない人は たくさんいると思う」
+> [動画を見る](https://www.youtube.com/watch?v=03UXOXwflME)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%83%88%20%E8%A3%BD%E8%96%AC%E3%81%A0%E3%82%89%E3%81%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%93%E3%81%A0%E3%82%88%E3%81%AA%E3%81%81%E3%80%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%83%88%20%E8%A3%BD%E8%96%AC%E3%81%A0%E3%82%89%E3%81%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%93%E3%81%A0%E3%82%88%E3%81%AA%E3%81%81%E3%80%9C/?af=mobi.0319)
 
@@ -207,8 +207,8 @@
 
 ### マニョ 僕が一番期待しているのはとVtですね。
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xm6jcj4nl6E)
+> **EGA.channel**: 「でもね、これはマジ使ってみたいよね 次、マニョ この3つ カンテトインシロップ このシリーズっていうのが新しく出たんだけど これ パンテノールが2万ppmと エクトインが5000ppm入ってる で、」
+> [動画を見る](https://www.youtube.com/watch?v=xm6jcj4nl6E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%8B%E3%83%A7%20%E5%83%95%E3%81%8C%E4%B8%80%E7%95%AA%E6%9C%9F%E5%BE%85%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%A8Vt%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%8B%E3%83%A7%20%E5%83%95%E3%81%8C%E4%B8%80%E7%95%AA%E6%9C%9F%E5%BE%85%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%A8Vt%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82/?af=mobi.0319)
 
@@ -216,8 +216,8 @@
 
 ### ティルティル ファンで愛用してる
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0OySHrF1o8Y)
+> **EGA.channel**: 「次 じゃん ティルティル コラーゲンコアグロウマスクってやつ 泡のマスクです マスクっていうか美容液 泡のマスクみたいなの美容液や これねなんかね 韓国でね確か5秒に1個売れてるみたい」
+> [動画を見る](https://www.youtube.com/watch?v=0OySHrF1o8Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%86%E3%82%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%83%AB%20%E3%83%95%E3%82%A1%E3%83%B3%E3%81%A7%E6%84%9B%E7%94%A8%E3%81%97%E3%81%A6%E3%82%8B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%86%E3%82%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%83%AB%20%E3%83%95%E3%82%A1%E3%83%B3%E3%81%A7%E6%84%9B%E7%94%A8%E3%81%97%E3%81%A6%E3%82%8B/?af=mobi.0319)
 
@@ -225,8 +225,8 @@
 
 ### マニョ マニョガラクナイアシンパック
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mtc8f7UUYA8)
+> **EGA.channel**: 「一群です僕の これも拭き取り化粧水できて おそらくこのマニョンのガラクナヤシンの 高保湿版でベタつかないバージョンだと思ってて すごいもう毛心地が何かにも一番いいですね 次 スーパーヒューローのスキンブースター もうこれ」
+> [動画を見る](https://www.youtube.com/watch?v=mtc8f7UUYA8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%8B%E3%83%A7%20%E3%83%9E%E3%83%8B%E3%83%A7%E3%82%AC%E3%83%A9%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%8B%E3%83%A7%20%E3%83%9E%E3%83%8B%E3%83%A7%E3%82%AC%E3%83%A9%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -234,8 +234,8 @@
 
 ### マニョ ガラクナイアシンエッセンス
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mtc8f7UUYA8)
+> **EGA.channel**: 「一群です僕の これも拭き取り化粧水できて おそらくこのマニョンのガラクナヤシンの 高保湿版でベタつかないバージョンだと思ってて すごいもう毛心地が何かにも一番いいですね 次 スーパーヒューローのスキンブースター もうこれ」
+> [動画を見る](https://www.youtube.com/watch?v=mtc8f7UUYA8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%8B%E3%83%A7%20%E3%82%AC%E3%83%A9%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%8B%E3%83%A7%20%E3%82%AC%E3%83%A9%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9/?af=mobi.0319)
 
@@ -252,8 +252,8 @@
 
 ### マニョ ガラクナイアシンマスク
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zr5dO_i0BDM)
+> **EGA.channel**: 「T2が効くなと思ったらこっち使ってみて。 次! マニョガラクトミクリスキントニー。 頭的にキメがとどんってめちゃめちゃ褒められる。 マジでセンキューフォーオールヨガーイズって感じ。 ほんとに、えぐいよこれ。」
+> [動画を見る](https://www.youtube.com/watch?v=zr5dO_i0BDM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%8B%E3%83%A7%20%E3%82%AC%E3%83%A9%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%8B%E3%83%A7%20%E3%82%AC%E3%83%A9%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AF/?af=mobi.0319)
 

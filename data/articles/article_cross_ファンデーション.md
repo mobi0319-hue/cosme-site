@@ -60,9 +60,11 @@ N — 2人が紹介
 
 **価格**: 2970円 | **3人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
+> **鹿の間**: 「本日のファンデーションは バニラコンのカバーリシャスホワイトクッションの 21番使っていきます 私の乾燥肌の上からのせると 結構マットっぽく仕上がるので 今回の照明写真にぴったり かなと思ってこちらを選びました」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
-**紹介YouTuber**: 鹿の間 / えみ姉 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「はい、次がこちら。 バニラコ カバーリシャス アルティメット ホワイトクッションモイスチャー SPF50プラス PA++++ こちら既存のホワイトクッションファンデだと乾燥しちゃうという人に朗報です。」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20BANILA%20CO%20%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/8809759904070/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -74,9 +76,8 @@ N — 2人が紹介
 
 **価格**: 4510円 | **3人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / 小田切ヒロ / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「これでわかるかな そして次がこちら ナーズラディアントクリーミーコンシーラー1242番 こちらはチップが細め こちらもかなり滑らか リオールと質感は似てますね すいません はい ちょっと伸ばす必要があったら ください ケツしびれてきた」
+> [動画を見る](https://www.youtube.com/watch?v=FmK9N_kBjlM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%201242%20VANILLA%20%E3%81%A8NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%201276%20VANILLA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lunadea/10005314/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -88,9 +89,8 @@ N — 2人が紹介
 
 **価格**: 7590円 | **3人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ / 小田切ヒロ
+> **鹿の間**: 「マキアージュのドラマティックエッセンスリキッドで ございまーす 待ってこれめちゃくちゃ久しぶりに使うんですけど うわぁ伸びいいですね 伸びいいけど私これ乾燥した記憶あるんですよね すこーし乾燥した」
+> [動画を見る](https://www.youtube.com/watch?v=UBEKAIFmv80)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0021/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -104,6 +104,9 @@ N — 2人が紹介
 
 > **水越みさと**: 「薄膜フィットで崩れにくく、擦らず塗れるクッションタイプとして取り入れている。肌に溶け込むように自然になじんでくれるのが魅力で、ナチュラルな仕上がりが好きな方におすすめ」
 > [動画を見る](https://www.youtube.com/watch?v=xPgtsEQfQtc)
+
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_cs_cf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -225,6 +228,9 @@ N — 2人が紹介
 > **かじえり**: 「テカリをツヤに変えてくれるBBクリーム。密着度が高く毎日メイクの必需品」
 > [動画を見る](https://www.youtube.com/watch?v=jOlhWhFFJEM)
 
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「はい、そしたらまず1つ目のブランドは マキアージュから発表していきます マキアージュの中で一番人気だった 商品ははいこちらでした マキアージュドラマティックスキンセンサーフェイスネオ いやーこれはね正直予想通り」
+> [動画を見る](https://www.youtube.com/watch?v=zzmQc6lE2b8)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978121631&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%89%E3%83%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%8C%E3%83%BC%E3%83%89%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%93%E3%83%BC%E3%83%93%E3%83%BC/?af=mobi.0319)
 
 ---
@@ -265,9 +271,8 @@ SPF27／PA++](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/nars/
 
 **価格**: 6380円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「こっち側にプチプラやっていきます。 下地のデパコス、NARSライトリフレクティングトーンアップベール SPF27 PA++ こちらはパールが入ってて自分が発光しているかのようなツヤ肌になれちゃう下地。」
+> [動画を見る](https://www.youtube.com/watch?v=0_P0ejI9D-g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%0ASPF27%EF%BC%8FPA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tokitomecosme/194251136172-ra/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -283,9 +288,8 @@ SPF42／PA++ レフィル+ケース
 
 **価格**: 8580円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「私ソウルです。 あ、ソウルね。あら、おっしゃれ。 NARSのね、こういった製品って国だったりとか、映画だったりとか、 女優さんのネーミングをつけられたりするんですよ。 女優さんもあるんですね。 そう。」
+> [動画を見る](https://www.youtube.com/watch?v=ym2YrJf2aYU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ASPF42%EF%BC%8FPA%2B%2B%20%E3%83%AC%E3%83%95%E3%82%A3%E3%83%AB%2B%E3%82%B1%E3%83%BC%E3%82%B9%0A%E2%80%BB2%E6%9C%8814%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0194251143910/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -327,9 +331,8 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **価格**: 7700円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「はい、そして次が、 8月の21日発売。 コスデコゼンウェアグロウです。 大人気ファンデから、 ツヤタイプが出ます。 薄膜で自然にカバー。 美しい仕上がりとツヤ印象が24時間持続する。 リキッドファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710378924&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/4971710378894-10/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -343,9 +346,8 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **価格**: 4620円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「そして8月の21日発売。 マキアージュドラマティックエッセンスクッショングロウ。 マキアージュからもクッションが出ます。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%89%E3%83%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%A6%0A%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%AB%20%E2%80%BB%E3%82%B1%E3%83%BC%E3%82%B9%E5%90%88%E7%AE%97%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeland/296930/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -369,9 +371,11 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
+> **さぁや saaya**: 「下地は新作のNARSのライトリフレティングトーンアップベール。 という下地です。」
+> [動画を見る](https://www.youtube.com/watch?v=-8ANrIWnsfk)
 
-**紹介YouTuber**: さぁや saaya / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「そのブラウザーの色もトーンアップしています。 ミュージックっぽい感じがしますね。 はい、ナチュラルな感じです。 ピンクのメイクのアイシャドウを塗っていきます。」
+> [動画を見る](https://www.youtube.com/watch?v=qyx1ylJGq6s)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0/?af=mobi.0319)
 
@@ -381,9 +385,11 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **価格**: 1155円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
+> **コスメヲタちゃんねるサラ**: 「これ名前がセラムクッションファンデーションなんですけど、本当にこの価格でセラムってつけて、本当に大丈夫ですかって思った。 量感とか美容液級ですかって思ったんですけど、使ってみたら本当にセラム級でした。」
+> [動画を見る](https://www.youtube.com/watch?v=k9sJNxWWl9A)
 
-**紹介YouTuber**: コスメヲタちゃんねるサラ / かずのすけ
+> **かずのすけ**: 「本日は セザヌより新発売しております。手や肌 続くセラムクッションファンデーションに ついて解説していきたいと思います。 ということで皆様お待たせいたしました。」
+> [動画を見る](https://www.youtube.com/watch?v=1O8fJMjdW6c)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
@@ -393,9 +399,11 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「最近ねこれちょこちょこ使ってるんですけど ミシャのグロウクッションファンデーション ルミナスカバーってやつ これねあれかも 直近使ってきたクッションファンデーションの中で 一番分かりやすくツヤ感が しっかりと」
+> [動画を見る](https://www.youtube.com/watch?v=MkHRmo5LMYc)
 
-**紹介YouTuber**: ありちゃん〜毎月の支出の半分をコスメに充てる女〜 / nanachannel
+> **nanachannel**: 「Tゾーンとここと顎だけって感じ そしたらミシャの これもこの前紹介したやつね これで塗っていくんだけど ピンクっぽい感じですね 21番は 若干ピンクみが入ってる ツヤっぽく仕上がるタイプです 結構カバー力あ」
+> [動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29/?af=mobi.0319)
 

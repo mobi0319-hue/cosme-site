@@ -193,8 +193,8 @@
 
 **価格**: 550円
 
-動画の概要欄でアイブロウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=NqRdAKmZyHE)
+> **鹿の間**: 「肝心な眉毛描いていきます 今日はセザームの超細芯アイブロウディープブラウン 使っていきます 眉毛描いていくんですけど 結構あのリッキー先生があの すごく眉毛低めで太いので ちょっとそれを意識して作っていきます やっぱど」
+> [動画を見る](https://www.youtube.com/watch?v=NqRdAKmZyHE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E8%B6%85%E7%B4%B0%E8%8A%AF%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/to517066810101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -219,8 +219,8 @@
 
 **価格**: 550円
 
-動画の概要欄でアイブロウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
+> **鹿の間**: 「私より広めなので消します デザームの超細芯アイブロウのナチュラルブラウン3番使います あの眉毛はですね めちゃくちゃ平行なので 私が結構カーブがかった眉毛なので 昨日の夜眉毛を脱色しまして えりさまの平行眉が作れ」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553040910&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/e532514h/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -232,8 +232,8 @@
 
 **価格**: 550円
 
-動画の概要欄でアイブロウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
+> **鹿の間**: 「色は薄めやけどふわっとしていく 今日はセザンヌの超細芯アイブロウのベリーブラウンを使っていきます さあ描いていくんですが 眉尻から下の線から描いていきます ちょっと垂れさせるよ 下のラインから描いて垂れさせる ちょっとワンホ」
+> [動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042556&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553042556/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -245,8 +245,8 @@
 
 **価格**: 550円
 
-動画の概要欄でアイブロウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
+> **鹿の間**: 「続いてはこちら セザンヌのベージュトーンアイシャドウの 2番ローズベージュでございます 推しのねプチプラアイシャドウいっぱいあったんですけど このベージュトーンアイシャドウが出てきてか」
+> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042105&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce014703950101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

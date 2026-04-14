@@ -63,8 +63,8 @@
 
 **価格**: 1100円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「もうライン引いてもらおうかな ヒロインメイクのプライムリッチライナーの3番 ちょっとはみ出して目尻に使ってもらう感じで 目尻だけはみ出してなんか横に伸ばす感じ この辺から うん 惑星で垂れさせちゃいそう」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -275,8 +275,8 @@
 
 **価格**: 660円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「リップ終わり そしたらチークはセザンヌのチークブラシ4本使っていきます で、」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042549&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20CEZANNE%0D%E6%8F%8F%E3%81%8F%E3%81%B5%E3%81%9F%E3%81%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%0D30%20%E5%BD%B1%E7%94%A8%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
 
@@ -301,8 +301,8 @@
 
 **価格**: 990円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
+> **鹿の間**: 「キャンメイクとしているアイライナーです キャンメイクのラスティングリキッドライナー 05番のグレージュカラーでございます この色 ちょっと蓋悪いのか もう毎回このパヤパヤ出てきてしまうんですけど まあさて大きいライン引くとこんな感じです そう」
+> [動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008313641&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008313641/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -314,8 +314,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
+> **鹿の間**: 「分からないぐらい欠かせない存在です こちらキャンメイククリーミータッチライナーの 2番と15番でございます 1.5ミリの超極細芯のジェルアイライナーなんですが これ超えるジェルライナー出会えない 私がもう一番リピートしたのが こちらの2番」
+> [動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008310589&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%202%20//?af=mobi.0319)
 
@@ -327,8 +327,8 @@
 
 **価格**: 1100円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=vWC57pWCM0w)
+> **鹿の間**: 「で目尻少しはみ出す 目尻はみ出す 締めはヴィセのアンティークパステルライナーの アンティークココアを使って いきます これ色がさすっごいモカムースなんですよね でこれをですねもう細くサッと引きます 細くやや跳ね上げにサーッと引く」
+> [動画を見る](https://www.youtube.com/watch?v=vWC57pWCM0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VISEE%20Visee%20%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20BR381%20%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%B3%E3%82%B3%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fidela/fid3-09p53qv75/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -353,8 +353,8 @@
 
 **価格**: 660円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「さあ涙袋の影は セザンヌの 各二重アイライナー影用ピンクを使っていきます 今回は撮影で ちょっとキュルっとした目元にしたいので 丸めに作ります 真ん中は低めに目尻は高めに っていう丸みって感じ これ自然すぎて涙袋の作」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042549&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hands-net/4939553042549/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -366,8 +366,8 @@
 
 **価格**: 1749円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
+> **鹿の間**: 「ピタッと密着してくれるようなテクスチャーでリピ買いするぐらい大好きなプライマー なんかさ最近気温も下がってきてなんか肌がいつ」
+> [動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20BR-1%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20BR-1%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC/?af=mobi.0319)
 
@@ -379,8 +379,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「上からつや入れます そしたらケイトのブラウンのラインで 垂れ目に引きます 結構垂れ目 そしたら前髪を軽く内に巻いて ふわりとさせます で耳毛はS字かな 耳毛S字 で絶対センター分けした日は ちょっとポンポ」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534410&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -392,8 +392,8 @@
 
 **価格**: 1430円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=x1IU7NARq4E)
+> **鹿の間**: 「統一感が出て可愛くなる でこれケイトのラインのbr1番焦げ ちゃって感じかなさあ一旦ビューラー でまつげ上げます私今マツッパ 取れてるのでしっかりとギュー ピンと上げますで最近ねホットビューラー にはまってまして」
+> [動画を見る](https://www.youtube.com/watch?v=x1IU7NARq4E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167016886&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -405,8 +405,8 @@
 
 **価格**: 660円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
+> **鹿の間**: 「続いてはこちら セザンヌのベージュトーンアイシャドウの 2番ローズベージュでございます 推しのねプチプラアイシャドウいっぱいあったんですけど このベージュトーンアイシャドウが出てきてか」
+> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553040774&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/522022/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -418,8 +418,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
+> **鹿の間**: 「保湿として下地に使います そしたらケイトのスーパーシャープライナー BR1番を使っていきます ライン引いていくんですが 今回垂れさせたいんですが 自分に似合う垂れラインを 探り探り塗っていく さあ今回まつ毛がブラックなので ちょっと」
+> [動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534410&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -431,8 +431,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qCxSYNnRbhI)
+> **鹿の間**: 「つけまが終わったらケイトのスーパーシャープライナーの ブラック使っていきます 今日は跳ね上げたいんですけど だいぶ慎重に描いていきます ちょこちょこつけ足しながら 角度を探っていく で、」
+> [動画を見る](https://www.youtube.com/watch?v=qCxSYNnRbhI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BCEX2.0%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/belletoi/jdrf2ejpaakm2c3vani7kl4kuu/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -444,8 +444,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
+> **鹿の間**: 「ブッシュピンクを混ぜながら広げていきます Viseeのワイドトリックダブルライナーの ニュアンスブラウンベージュ 1番使っていきます でこのライナー影もかけるし コンシーラータイプのこのラインもついているので そっちを使」
+> [動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710560961&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000168672/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -529,8 +529,8 @@
 
 **価格**: 660円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「んー 裏されてる感じ はい そしてセザンヌの描く二重ライナー これはリキッドのご強調するやつなんだけど それで最後にここにちょっとだけ入れて なんかこの影だけだとちょっと変な感じになるけど さっきのペン」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E6%8F%8F%E3%81%8F%E3%81%B5%E3%81%9F%E3%81%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2020%20%E5%BD%B1%E7%94%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E6%8F%8F%E3%81%8F%E3%81%B5%E3%81%9F%E3%81%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2020%20%E5%BD%B1%E7%94%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
 
@@ -566,8 +566,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「そしたらキャンメイクのクリーミータッチライナーのサマン使っていきましょう 一度っていきます ドレスの色が淡いから 顔面のパーツがねちょっと同化してボケやすいので ボケないためにもしっかりとくっきりラインをつ」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%0D%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%0D%5B03%5D%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%0D%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%0D%5B03%5D%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
 
@@ -579,8 +579,8 @@
 
 **価格**: 990円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「でついでにサンマルクでコーヒーも買った そしたらラスティングリキッドライナーの10番使っていきます これもう何回もリピートしてるんですけど ほんとにこれ落ちないんですよね でちょっと今回ドレスに合わせて 色はちょっとグレージュ系の 淡い」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%0D%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%0D%5B10%5D%E3%82%BB%E3%83%94%E3%82%A2%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%0D%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%0D%5B10%5D%E3%82%BB%E3%83%94%E3%82%A2%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
 

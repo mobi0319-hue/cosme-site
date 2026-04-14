@@ -208,8 +208,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「いつも使ってたのとはまた別で クールというカラーを最近購入しました 肉眼で見る限りオレンジが一番鮮やかで クマがしっかり隠れるかなと思って買ってみたんですけど 案の定ですねオレンジ一色だけでも ク」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%82%AF%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lucky-happy/3187/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -221,8 +221,8 @@
 
 **価格**: 1199円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
+> **鹿の間**: 「全部消します 塗りかべ そしたらフィットミーコンシーラーの15番使っていきます 重ねに重ねすぎると 私レベルの乾燥肌だと粉吹いてしまうので リキッド系のカバー力の高いものを最後にのせて 真っさらにする追い」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4935421282673&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/maybelline/4935421282673/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -234,8 +234,8 @@
 
 **価格**: 1309円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
+> **鹿の間**: 「ピタッと密着してくれるようなテクスチャーでリピ買いするぐらい大好きなプライマー なんかさ最近気温も下がってきてなんか肌がいつ」
+> [動画を見る](https://www.youtube.com/watch?v=C0oNyYVeRKM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4935421282666&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC15%20%20%E2%80%BB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC/?af=mobi.0319)
 
@@ -247,8 +247,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=DBw_tKbGQzk)
+> **鹿の間**: 「すげー はいある程度これぐらいでOK でコンシーラーは最近このデカチップ使ってます 巨大チップ やっぱデカいと豪快に使えるんでね はい 時間あるときはコンシーラーオレンジ仕込んでとか ちょっと色をね入れたりするん」
+> [動画を見る](https://www.youtube.com/watch?v=DBw_tKbGQzk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AB%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%A9%E3%82%A4%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RIMMEL%20%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AB%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%A9%E3%82%A4%E3%83%88/?af=mobi.0319)
 
@@ -273,8 +273,8 @@
 
 **価格**: 748円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
+> **鹿の間**: 「えっいいかも いいかもいいかも これねキョメイクのコンシーラーブロウマスカラの一番なんですけど これね眉毛の色を消すためのアイブロウマスカラ アイブロウマスカラみたいな感じなんですけど 眉毛用やけど見た目がさまつげもいけそうやったっけや」
+> [動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008317380&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/biccamera/4901008317380/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -286,8 +286,8 @@
 
 **価格**: 1199円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「さあファンデーション崩れないものといえば メイベリンのフィットミーリキッドの ファンデーションでございます いろんなね、」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC15&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/biccamera/4935421282666/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

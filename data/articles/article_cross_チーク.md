@@ -31,6 +31,12 @@
 > **韓国オンニAちゃん (会社員J)**: 「ハイライトの工程でパウダーと混ぜて使うことで、自然なツヤ感と血色感を同時にプラス。重ねる量で仕上がりを調整できるので、その日の気分やシーンに合わせやすいのが魅力」
 > [動画を見る](https://www.youtube.com/watch?v=1HoEtW7I2oE)
 
+> **鹿の間**: 「これです じゃじゃん じゃじゃん VDLのチークステインブラッシャーの 7番アプリコットヘイズを購入しました うっす ちょっと白い恋人と同じぐらいの さあです 皆さんも予想してるカラーかなと思うんです」
+> [動画を見る](https://www.youtube.com/watch?v=oRDErjC8_Y0)
+
+> **ひよんちゃんねる**: 「これでもこんなに 明るいからさ ニュートラル 買います VDLの ポヨンチークって 知ってます? 知らない この白みチークなんですけど これ大人気になって そうなんだ 韓国すごい白み感が すごい人気出て うんうんうん この」
+> [動画を見る](https://www.youtube.com/watch?v=T5KOzVQm8AY)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/dp/B0CWGQ8JV3?tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00ujvw9.zqde76b2.g00ujvw9.zqde83d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flg-beauty-japan%2Ff001202031p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flg-beauty-japan%2Fi%2F10000112%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
 ---
@@ -71,9 +77,11 @@
 
 **価格**: 550円 | **2人のYouTuberが紹介**
 
-動画の概要欄でチークとして紹介されています。
+> **MAI TAKASUGI**: 「そしたら次はこちらですね。セザンヌのカクアイゾンコンシーラー01番なじみベージュのお色です。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
-**紹介YouTuber**: MAI TAKASUGI / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「ぜひこちらも持ち歩いて使ってみてください 次眉毛セザンヌの 細芯アイブロウ03番 使っていきます やっぱりキャンメイクとセザンヌは安くていいよね 初めて買ったコスメって何ですか? キャンメイクの そう買いました え?」
+> [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042877&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -83,9 +91,8 @@
 
 **価格**: 7150円 | **2人のYouTuberが紹介**
 
-動画の概要欄でチークとして紹介されています。
-
-**紹介YouTuber**: コスメヲタちゃんねるサラ / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「はいそしたら最後に紹介する商品がこちら ディオールのルージュブラッシュです はいこちらの商品はディオールの王道チークルージュブラッシュのリニューアル版です 全16色展開でマットサテンシマーホログラフィックの4質」
+> [動画を見る](https://www.youtube.com/watch?v=WWECfhA2nr4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 
@@ -95,9 +102,11 @@
 
 **2人のYouTuberが紹介**
 
-動画の概要欄でチークとして紹介されています。
+> **コスメヲタちゃんねるサラ**: 「この構成も素晴らしい。 はい、次がこちら。 ケイトスノースキンベースクールラベンダーSPF50 PA++++ これをですね、首に塗るのに最近ハマっています。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
-**紹介YouTuber**: コスメヲタちゃんねるサラ / ひよんちゃんねる
+> **ひよんちゃんねる**: 「伝わってるかな? 次? 続きましてこちら ビュールスキン ルージュブラッシュカラー&グロウ で、」
+> [動画を見る](https://www.youtube.com/watch?v=jhcRqTHDwAY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%26%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%26%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 

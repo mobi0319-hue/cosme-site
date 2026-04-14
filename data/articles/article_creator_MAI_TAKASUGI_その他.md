@@ -49,8 +49,8 @@
 
 **価格**: 1100円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-nW-sPXuYjk)
+> **MAI TAKASUGI**: 「目頭3分の1のお場所に入れていきます。 このブラシはですね、フィリミリの812番のブラシになります。 私ね、ずっとね、フィルミルって言ってたら、フィリミリだよって教えてくださった方がくれて、 失礼いたしました。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901604457688&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901604457015/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -179,8 +179,8 @@
 
 **価格**: 1980円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「いいんですね。 プラスですね、このエクセルのベースとですね、このヒンスのクッションのね、組み合わせをすると、 ここのね、毛穴落ちっていうのがね、気にならないんですね。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4964596781995&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4964596781995/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -192,8 +192,8 @@
 
 **価格**: 1095円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「次ですね、アイシャドウブラシちょっと変えていきます。 ロージーローザーですね、こちらも。 ロージーローザーはね、やっぱりね、プチプラだけど優秀なので、 ブラシ悩んでる方はロージーローザーいいんじゃないかなって思います。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A6%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%82%B7%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E5%B0%82%E7%94%A8%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme21/rosyrosa7688/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -205,8 +205,8 @@
 
 **価格**: 1650円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「いいんですね。 プラスですね、このエクセルのベースとですね、このヒンスのクッションのね、組み合わせをすると、 ここのね、毛穴落ちっていうのがね、気にならないんですね。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4964596783036&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%B5%E3%83%8A%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%8B%E3%83%BC%E3%83%AA%E3%83%83%E3%83%81%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6nrj06589%20sk01%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
 
@@ -218,8 +218,8 @@
 
 **価格**: 693円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「次ですね、アイシャドウブラシちょっと変えていきます。 ロージーローザーですね、こちらも。 ロージーローザーはね、やっぱりね、プチプラだけど優秀なので、 ブラシ悩んでる方はロージーローザーいいんじゃないかなって思います。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901604457022&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901604457022/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -227,8 +227,8 @@
 
 ### ミルクタッチ ミルクタッチ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「すごく好きなんですけども、 今回ですね、こちらのミルクタッチを代用していきたいと思います。 ミルクタッチのバブリーピンクのお色でーす。 こういう風に立ててですね、グッと。で、唇中央に少しボリュームを足していきます。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/renew-beauty/milk01/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -245,8 +245,8 @@
 
 ### キス マジョリカマジョルカ ラッシュエキスパンダー 孔雀ロング BK999王様ディーブラック
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
+> **MAI TAKASUGI**: 「私がいつも使ってるこのマジョリカマジョルカのマスカラだと ちょっとね マイアマスカラには私はちょっと難しかったんですね こちらは割と液も真っ黒で まつげをしっかりと毛をですね 主張してくれるタイプのマス」
+> [動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E5%AD%94%E9%9B%80%E3%83%AD%E3%83%B3%E3%82%B0%20BK999%E7%8E%8B%E6%A7%98%E3%83%87%E3%82%A3%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E5%AD%94%E9%9B%80%E3%83%AD%E3%83%B3%E3%82%B0%20BK999%E7%8E%8B%E6%A7%98%E3%83%87%E3%82%A3%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -281,8 +281,8 @@
 
 ### エレガンス 18.
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
+> **MAI TAKASUGI**: 「面白いなと思います本当に じゃあ最後に エレガンスのパレット 少し入れましょう 皆さんどうですか 同じくらいですよね多分期間としては 喧嘩とかもね 本当に 私が小学生みたいでね なんか旦那さんが大人な人なんで」
+> [動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2018.&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2018./?af=mobi.0319)
 
@@ -308,8 +308,8 @@
 
 ### エレガンス 27.Elégance（）
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
+> **MAI TAKASUGI**: 「面白いなと思います本当に じゃあ最後に エレガンスのパレット 少し入れましょう 皆さんどうですか 同じくらいですよね多分期間としては 喧嘩とかもね 本当に 私が小学生みたいでね なんか旦那さんが大人な人なんで」
+> [動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2027.El%C3%A9gance%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2027.El%C3%A9gance%EF%BC%88%EF%BC%89/?af=mobi.0319)
 
@@ -371,8 +371,8 @@
 
 ### ミルクタッチ 20. milktouch（）
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
+> **MAI TAKASUGI**: 「ブラック10番の色か ミルクタッチアイコニックフィルム マスカラブラックの お色どちらかです どっちもいいんだよね こっちもすごく一本一本繊細に出してくれて ちょっと大人っぽい綺麗な 上品なまつ」
+> [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%2020.%20milktouch%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%2020.%20milktouch%EF%BC%88%EF%BC%89/?af=mobi.0319)
 
@@ -398,8 +398,8 @@
 
 ### エレガンス 32. Elégance（）
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
+> **MAI TAKASUGI**: 「これはねめちゃめちゃ使いやすいなと思いました エレガンスすごく好きなんですけど ちょっとブラシが 太め ミルクタッチに比べたらね 少し太めかなと思うので 使いやすいのは私はミルクタッチかなと でもあの しっかりとすぐ」
+> [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2032.%20El%C3%A9gance%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2032.%20El%C3%A9gance%EF%BC%88%EF%BC%89/?af=mobi.0319)
 

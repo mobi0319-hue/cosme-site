@@ -142,8 +142,8 @@
 
 **価格**: 4730円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=JCwiFumkvDc)
+> **ありちゃん**: 「めちゃくちゃ一押しですはいそしたら お次はディオールですディオールで 1番人気だった商品は こちらディオールのリップ マキシマイザーでしたなんかね 表数見てみたところコンシーラーもね すっごく人気だったんですけど」
+> [動画を見る](https://www.youtube.com/watch?v=JCwiFumkvDc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/dior_lip_maximizer_001/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

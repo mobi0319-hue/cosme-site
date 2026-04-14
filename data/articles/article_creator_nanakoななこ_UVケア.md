@@ -37,8 +37,8 @@
 
 ### TAG インスタ https://www.insram.com/leurcharme_official/
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0_JyzmZnSdM)
+> **nanakoななこ**: 「エンディング はいツイッター、インスタグラム、」
+> [動画を見る](https://www.youtube.com/watch?v=0_JyzmZnSdM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%20https%3A//www.insram.com/leurcharme_official/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%20https%3A//www.insram.com/leurcharme_official//?af=mobi.0319)
 

@@ -118,8 +118,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=MjUXSqs781k)
+> **鹿の間**: 「申し込んでおりますので コスメデコルテのトーンパーフェクティングパレット 1番使っていきます オレンジ使う なので私はね、ちょっと外に出るので なるべく寄れないものを使いたくって いつもね、」
+> [動画を見る](https://www.youtube.com/watch?v=k3rId0sKOLw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -183,8 +183,8 @@
 
 **価格**: 2090円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=fnMkAvpwkms)
+> **鹿の間**: 「発色はこんな感じです 結構ねナチュラルなベージュトーンのカラーで 一番明るいカラーもね 私の大好きな白に近い色味で ラメがね2色入っているんですけど すごく上品なツヤ感の出るラメです で青みのあるピンクだったり ち」
+> [動画を見る](https://www.youtube.com/watch?v=iOAccdArukM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20JUDYDOLL%20%E3%83%A1%E3%83%AA%E3%83%8F%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2001%20%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/15189161/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -226,8 +226,8 @@
 
 **価格**: 4180円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=iFhR0oW44fs)
+> **鹿の間**: 「あんまりねマットの明るいカラーっていうのは アイシャドウパレット入ってないもの多いので もう本当にくせなく とにかく明るいベージュっていうのは 入ってると助かります で 暗いカラーを目尻に再度入れて マジ陰影つけやす 可愛い」
+> [動画を見る](https://www.youtube.com/watch?v=RM5Yqlzb4g4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dasique%20dasique%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2027%20%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sara-style/m-k-dq-001/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -278,8 +278,8 @@
 
 **価格**: 1078円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=vWC57pWCM0w)
+> **鹿の間**: 「本日はキャンメイクのプティパレットアイズのマットタイプM01番を使っていきます 8色入っているアイシャドウパレットなんですけど 中にはね結構黄み強いものも多かったりするので まあこの辺りとか 色っぽい」
+> [動画を見る](https://www.youtube.com/watch?v=vWC57pWCM0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%E3%83%97%E3%83%86%E3%82%A3%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%82%A2%E3%82%A4%E3%82%BA%20%20%5BM01%5D%E3%83%A1%E3%83%BC%E3%83%97%E3%83%AB%E3%83%9F%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%E3%83%97%E3%83%86%E3%82%A3%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%82%A2%E3%82%A4%E3%82%BA%20%20%5BM01%5D%E3%83%A1%E3%83%BC%E3%83%97%E3%83%AB%E3%83%9F%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6/?af=mobi.0319)
 
@@ -291,8 +291,8 @@
 
 **価格**: 4180円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=iOAccdArukM)
+> **鹿の間**: 「こちらデイジークのシャドウパレットの 27番ローズミルクティーでございます 結構使った頻度で言うと 上半期はねこっちのデイジークの ロマンティックブロッサムをすごい使ったんですけど 髪色を変えて」
+> [動画を見る](https://www.youtube.com/watch?v=iOAccdArukM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dasique%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2327%20%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dasique%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2327%20%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC/?af=mobi.0319)
 
@@ -304,8 +304,8 @@
 
 **価格**: 3960円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oRDErjC8_Y0)
+> **鹿の間**: 「ほっ あかわいい さあ本日のトップバッターは エスポアのアイコアパレットのポッシュコーラルでございまーす え?かわいい パッケージはねすごい丈夫でして あ、あ、」
+> [動画を見る](https://www.youtube.com/watch?v=oRDErjC8_Y0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ESPOIR%20espoir%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%82%A2%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%83%9D%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%BC%E3%83%A9%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/espoirglobal/es-es-010/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -317,8 +317,8 @@
 
 **価格**: 3960円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
+> **鹿の間**: 「本日はじゃじゃん 可愛くない クリオのプロアイパレットエアーを使っていくんですが キューバのピーチメイトアップル というカラーを使っていきます ちょっとピーチでもアップルでもないんですけど ちょっと色味がねあのドス」
+> [動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%97%E3%83%AD%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%A8%E3%82%A2%E3%83%BC%209%20%E3%83%94%E3%83%BC%E3%83%81%E3%83%A1%E3%82%A4%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20CLIO%20%E3%83%97%E3%83%AD%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%A8%E3%82%A2%E3%83%BC%209%20%E3%83%94%E3%83%BC%E3%83%81%E3%83%A1%E3%82%A4%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB/?af=mobi.0319)
 
@@ -330,8 +330,8 @@
 
 **価格**: 3740円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=NqRdAKmZyHE)
+> **鹿の間**: 「そしたら今日アイシャドウはクリオの プロアイパレット11番使っていきまーす そしたらまず薄めのスモーキーカラーを使って アイホール全体に伸ばしまーす この時点でもうなんかちょっと雰囲気出てきた そして暗いカラーを使っ」
+> [動画を見る](https://www.youtube.com/watch?v=NqRdAKmZyHE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%97%E3%83%AD%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%8811%20WALKING%20ON%20THE%20COSY%20ALLEY&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/windaruma/b09zb3vfyd/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -343,8 +343,8 @@
 
 **価格**: 550円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
+> **鹿の間**: 「そしたら一旦アイシャドウに移ります 今日はキレイ&コーのアイシャドウパレット03 スモーキーピンク使っていきます アイシャドウはですね あんまラメつけすぎず スモーキーに仕上げていきます ジゼル様といえば結構私的に アイラインがすごい主」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=kirei%26co%20kirei%26co%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sapri-bk/kireiandco-eyeshadow-palette/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -356,8 +356,8 @@
 
 **価格**: 3190円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=DBw_tKbGQzk)
+> **鹿の間**: 「朝バタバタさんにおすすめ アイシャドウはロマンドのベターザンパレット3番使っています 最近ハマっとるよねこれ で今回私がメインで使ったカラーは こちらのバットベージュというカラーです 中でもね一番オレンジみがあって明るいカラーで」
+> [動画を見る](https://www.youtube.com/watch?v=DBw_tKbGQzk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4582356617867&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/neocosme/8809625243111/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -369,8 +369,8 @@
 
 **価格**: 550円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
+> **鹿の間**: 「今日はキレイ&コーのアイシャドウパレット ゼロにキャラメルブラウンを使っていきます さあ給色入りなんですけど 色出してみるとこんな感じです オレンジブラウンで構成されているんですが 結構ね軽く塗るだけ」
+> [動画を見る](https://www.youtube.com/watch?v=pB8PBaSlkTo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=kirei%26co%20kirei%26co.%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/kirei%26co%20kirei%26co.%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
 
@@ -434,8 +434,8 @@
 
 **価格**: 4180円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=TfXphx1tQGc)
+> **鹿の間**: 「ということで今回は ケイカのシャドウパレット4番を使っていきます 青みピンク系だね まぶたの色はね薄めでいこうかな それでは入れていきましょう ほんのりピンクがかった色なので まぶたにね1枚のちょっと透け」
+> [動画を見る](https://www.youtube.com/watch?v=TfXphx1tQGc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dasique%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lucky-happy/2469/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -482,8 +482,8 @@
 
 **価格**: 2950円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「最近前に使ってるのは何よ ポレンコスソフトムードアイパレットの2番でございます ピンクあった? ピンクが使うんだけど もう少し黄みがある色やっぱ選んじゃってるから あーちょっとコーラルより そう 新鮮な」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=FORENCOS%20FORENCOS%20%E3%82%BD%E3%83%95%E3%83%88%20%E3%83%A0%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%8802%20Berry%20Latte&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/FORENCOS%20FORENCOS%20%E3%82%BD%E3%83%95%E3%83%88%20%E3%83%A0%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%8802%20Berry%20Latte/?af=mobi.0319)
 

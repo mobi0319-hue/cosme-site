@@ -64,8 +64,8 @@
 
 **価格**: 655円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2D1lo1Utp9U)
+> **MAI TAKASUGI**: 「次ですね、アイシャドウブラシちょっと変えていきます。 ロージーローザーですね、こちらも。 ロージーローザーはね、やっぱりね、プチプラだけど優秀なので、 ブラシ悩んでる方はロージーローザーいいんじゃないかなって思います。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901604457732&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kirei-mitsuketa/h-b_0010783/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -129,8 +129,8 @@
 
 **価格**: 4924円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
+> **MAI TAKASUGI**: 「おかげで、おばみえのおかげで 私はこのディオールのファンデーションを選んだんですけども、それにですね、変わる変数を選びました。」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%92%E3%83%B3%E3%82%B9%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%92%E3%83%B3%E3%82%B9%20%E3%82%AB%E3%83%90%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%94%E3%83%B3%E3%82%AF%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%2021%E3%83%94%E3%83%A5%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mahy1/b0fpl3lndh/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -138,8 +138,8 @@
 
 ### トーン 8. アバウト　スキンレイヤーフィットファンデーション 23ナチュラル
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
+> **MAI TAKASUGI**: 「ファンデーション今日これ アバウトトーンつけていきます 前回のベースメイク編でもお伝えしたんですけど つけるとすぐ伸ばさないととどまっちゃうんで それぐらい結構しっかりついてくれるタイプの ファ」
+> [動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%208.%20%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%80%80%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2023%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%208.%20%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%80%80%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2023%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB/?af=mobi.0319)
 

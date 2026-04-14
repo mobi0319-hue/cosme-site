@@ -99,8 +99,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GrHyeRho9Ms)
+> **鹿の間**: 「それでは早速下地からやっていきます まずはティルティルのマスクフィットトーンアップエッセンスを使います とりあえず顔をねしっかり変えるメイクの時は 土台を真っさらにするので 結構しっかり白くして顔の凹凸が 一旦皆無になるまで 伸ばしていきます で結構ジ」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20TIRTIR%20%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%9F%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/suzuyaebisudo/r-tirtir-tup/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -190,8 +190,8 @@
 
 **価格**: 3850円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
+> **鹿の間**: 「洗顔と化粧水だけ終わりました ニエキはオバジのアクティブベースクリアミルク使っていきます ちょっとスキンケアしながら話します 乾燥ひどいのでね、しっかりと保湿してくれる乳液を使います あの今日はですね、」
+> [動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4987241144747&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/4987241144747/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -203,8 +203,8 @@
 
 **価格**: 1749円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
+> **鹿の間**: 「下地はメイビリのフィットミー使っていきます これ結構吸いつくような密着度の高い下地なので これからの夏の季節とか崩れにくいのでめっちゃオススメ やっぱプチプラとなるとメイビリが強いな 特に」
+> [動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/maybelline/6902395808503/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -216,8 +216,8 @@
 
 **価格**: 1760円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
+> **鹿の間**: 「メイクで調整します 下地はまずオルビスユーの トリートメントプライマー使っていきます これめっちゃ保湿力高くって こんな感じで ほんのりベージュで白浮きしなくて 使いやすいです 普通にねこれ3000円く」
+> [動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ORBIS%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cd010429180101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -240,8 +240,8 @@
 
 **価格**: 2310円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
+> **鹿の間**: 「すごい悩んだんですけど フィースパグロウUVトワンプベース使っていきます スキンケアしてます 結婚式っていいよね 結婚式ってさー なんでこんな幸せなんだろう もう本当に大人になって結婚式行ったの 3年」
+> [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20%0D%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6%20UV%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%0D01%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20%0D%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6%20UV%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%0D01%20%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 

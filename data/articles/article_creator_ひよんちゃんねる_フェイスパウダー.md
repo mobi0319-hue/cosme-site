@@ -139,8 +139,8 @@
 
 ### SUQQU SUQQUと逆側のパウダー！？
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=cX1-c0TZQmU)
+> **ひよんちゃんねる**: 「こちらです SUQQUとメイクアップフォレバーなんですけど まず最初にSUQQUを紹介したんですけど こちらがSUQQUのソフトマットセッティングパウダーです で、」
+> [動画を見る](https://www.youtube.com/watch?v=cX1-c0TZQmU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%E3%81%A8%E9%80%86%E5%81%B4%E3%81%AE%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%81%EF%BC%9F&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%E3%81%A8%E9%80%86%E5%81%B4%E3%81%AE%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%81%EF%BC%9F/?af=mobi.0319)
 

@@ -22,8 +22,8 @@
 
 **価格**: 1100円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3yH3HgbG82U)
+> **さぁや**: 「それがー! じゃじゃん!こちらでーす! ヒロインメイクのプライムリキッドアイライナー リッチキープなんですけど こちらのアイライナーが、今日もね、使ってるんですけど 本当にめちゃめちゃ良くて もう久しぶりにね、」
+> [動画を見る](https://www.youtube.com/watch?v=3yH3HgbG82U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 

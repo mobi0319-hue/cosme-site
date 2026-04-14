@@ -652,8 +652,8 @@
 
 ### バニラコ バニラコ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
+> **韓国オンニAちゃん (会社員J)**: 「これいいキアのデコボコのカバーバニラコ よりしてくれるカバー力そんなないキアの デコボコのカバーそんなしてくれない こちらがJチャンネルです皆さんのかこに あちゃんです今回はですね久しぶりの ベース」
+> [動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/flytoyou/200062548-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -661,8 +661,8 @@
 
 ### バイユア バイユア
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
+> **韓国オンニAちゃん (会社員J)**: 「ちょっとついちゃうということがあるかも ではバイユアのセラムフィットフルカバー マットクッションですこちらバイアという ブランドオリブヤングでは入っておりませ んがちょっと口コミで有名になってる ブランドですし日」
+> [動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2%20%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/at-beaute/4582619580860m/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -670,8 +670,8 @@
 
 ### ミルクタッチ ミルクタッチ
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
+> **韓国オンニAちゃん (会社員J)**: 「にはこの2車よりもこの2車の方が良かっ たミルクタッチのオールデイスキン フィットミルキーグロークッション02番 のバニラアイボリという金板にしてみまし た楕円型になってまして昔のポリポケッ トって皆さんご存知です」
+> [動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/renew-beauty/milk01/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -795,8 +795,8 @@
 
 **価格**: 3,000ウォン
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xNN3MPh3R68)
+> **韓国オンニAちゃん (会社員J)**: 「にもいろんな選択肢がありました1くの パーソナルトーンコレクティングブラー パクトラベンダーちょっと色付きの パウダーでこちらが植物エフロラ ノーセバムパウダーネイチャー リパブリックサンのサブブランドなんです よ」
+> [動画を見る](https://www.youtube.com/watch?v=xNN3MPh3R68)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20IPKN%26%20%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%BC%E3%83%91%E3%82%AF%E3%83%88%20/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20IPKN%26%20%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%BC%E3%83%91%E3%82%AF%E3%83%88%20//?af=mobi.0319)
 
@@ -846,8 +846,8 @@
 
 ### ソルファス フラグシップストアは本当にすごかった…
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=a1bk1KKDFXk)
+> **韓国オンニAちゃん (会社員J)**: 「ソラスのブランドをイメージした梅の木らしいです ソルファスって 雪、花、」
+> [動画を見る](https://www.youtube.com/watch?v=a1bk1KKDFXk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%20%E3%83%95%E3%83%A9%E3%82%B0%E3%82%B7%E3%83%83%E3%83%97%E3%82%B9%E3%83%88%E3%82%A2%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%99%E3%81%94%E3%81%8B%E3%81%A3%E3%81%9F%E2%80%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BD%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%20%E3%83%95%E3%83%A9%E3%82%B0%E3%82%B7%E3%83%83%E3%83%97%E3%82%B9%E3%83%88%E3%82%A2%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%99%E3%81%94%E3%81%8B%E3%81%A3%E3%81%9F%E2%80%A6/?af=mobi.0319)
 
@@ -855,8 +855,8 @@
 
 ### ソルファス Aちゃんルーティンで使ったの商品は
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=a1bk1KKDFXk)
+> **韓国オンニAちゃん (会社員J)**: 「ソラスのブランドをイメージした梅の木らしいです ソルファスって 雪、花、」
+> [動画を見る](https://www.youtube.com/watch?v=a1bk1KKDFXk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%20A%E3%81%A1%E3%82%83%E3%82%93%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%81%A7%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%AE%E5%95%86%E5%93%81%E3%81%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BD%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%20A%E3%81%A1%E3%82%83%E3%82%93%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%81%A7%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%AE%E5%95%86%E5%93%81%E3%81%AF/?af=mobi.0319)
 
@@ -936,8 +936,8 @@
 
 ### VDL 韓国の超有名コスメブランドさんと共同開発しました！
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E9%9F%93%E5%9B%BD%E3%81%AE%E8%B6%85%E6%9C%89%E5%90%8D%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%95%E3%82%93%E3%81%A8%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E9%9F%93%E5%9B%BD%E3%81%AE%E8%B6%85%E6%9C%89%E5%90%8D%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%95%E3%82%93%E3%81%A8%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81/?af=mobi.0319)
 
@@ -945,8 +945,8 @@
 
 ### VDL 公式instagram: https://www.instagram.com/_japan/
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E5%85%AC%E5%BC%8Finstagram%3A%20https%3A//www.instagram.com/_japan/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E5%85%AC%E5%BC%8Finstagram%3A%20https%3A//www.instagram.com/_japan//?af=mobi.0319)
 
@@ -954,8 +954,8 @@
 
 ### VDL 公式Twitter: https://twitter.com/_japan
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E5%85%AC%E5%BC%8FTwitter%3A%20https%3A//twitter.com/_japan&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E5%85%AC%E5%BC%8FTwitter%3A%20https%3A//twitter.com/_japan/?af=mobi.0319)
 
@@ -963,8 +963,8 @@
 
 ### VDL 公式サイト：https://cosmetics.jp/
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%9Ahttps%3A//cosmetics.jp/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%9Ahttps%3A//cosmetics.jp//?af=mobi.0319)
 
@@ -972,8 +972,8 @@
 
 ### イニスフリー 表参道本店
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=iaosmJKe5EI)
+> **韓国オンニAちゃん (会社員J)**: 「ラフォーレとの交差点にありますから。イニスフリーの表参道店って。 ぜひ足を運んでいただければなと思います。 そこで私何をするかと言いますと、1日店員として皆さんの接客をさせていただきます。」
+> [動画を見る](https://www.youtube.com/watch?v=iaosmJKe5EI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%E8%A1%A8%E5%8F%82%E9%81%93%E6%9C%AC%E5%BA%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%E8%A1%A8%E5%8F%82%E9%81%93%E6%9C%AC%E5%BA%97/?af=mobi.0319)
 
@@ -1017,8 +1017,8 @@
 
 ### NATURE REPUBLIC ❤️‍🔥10月15日 16時  ブースで Aちゃんサイン会
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=KuCTiEno4iA)
+> **韓国オンニAちゃん (会社員J)**: 「もう大きいやつはこれですよね 10月15日の土曜日16時に のコンベンション会場内にある Nature RepublicブースでAちゃん再会です もう皆さんと本当に会いたかった KCONJAPANは私1回目から出させ」
+> [動画を見る](https://www.youtube.com/watch?v=KuCTiEno4iA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NATURE%20REPUBLIC%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A510%E6%9C%8815%E6%97%A5%2016%E6%99%82%20%20%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%20A%E3%81%A1%E3%82%83%E3%82%93%E3%82%B5%E3%82%A4%E3%83%B3%E4%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NATURE%20REPUBLIC%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A510%E6%9C%8815%E6%97%A5%2016%E6%99%82%20%20%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%20A%E3%81%A1%E3%82%83%E3%82%93%E3%82%B5%E3%82%A4%E3%83%B3%E4%BC%9A/?af=mobi.0319)
 

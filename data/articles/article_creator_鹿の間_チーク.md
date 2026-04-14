@@ -36,8 +36,8 @@
 
 **価格**: 2,310円（税込）
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=DORPowRHIks)
+> **鹿の間**: 「これです じゃじゃん じゃじゃん VDLのチークステインブラッシャーの 7番アプリコットヘイズを購入しました うっす ちょっと白い恋人と同じぐらいの さあです 皆さんも予想してるカラーかなと思うんです」
+> [動画を見る](https://www.youtube.com/watch?v=oRDErjC8_Y0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/dp/B0CWGQ8JV3?tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00ujvw9.zqde76b2.g00ujvw9.zqde83d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flg-beauty-japan%2Ff001202031p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flg-beauty-japan%2Fi%2F10000112%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -114,8 +114,8 @@
 
 **価格**: 1590円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=DORPowRHIks)
+> **鹿の間**: 「こんな感じになりました そしてこちらミュードのフラッターブラッシャーの00シースルーベールを使うんですが 照明写真でマットハイライトって すごく大切な役割をするので 絶対に絶対に必須 こういう斜めカットされたブラシがあればベスト」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=mude%20mude%20%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%2000%20%E3%82%B7%E3%83%BC%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%99%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/elimino/2c0d9jptwm7/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -192,8 +192,8 @@
 
 **価格**: 550円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+> **鹿の間**: 「そして今回チークはね セザンヌのチークブラッシュ4番を使っていきまーす でチークはね 結構注意点が多くって あの本当に飛んでしまって 色が映らないっていうのが 照明写真あるあるなんですけど プラスあの結構広め」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -205,8 +205,8 @@
 
 **価格**: 1980円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=k3rId0sKOLw)
+> **鹿の間**: 「それじゃあ続いてこちらの ラカのラブシルクブラッシュの701番 ハリコを使っていきます 一旦拳に色を出して 薄く薄くのせていきます 結構ね、」
+> [動画を見る](https://www.youtube.com/watch?v=k3rId0sKOLw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LAKA%20Laka%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20701%20%E3%83%8F%E3%83%AA%E3%82%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LAKA%20Laka%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20701%20%E3%83%8F%E3%83%AA%E3%82%B3/?af=mobi.0319)
 
@@ -218,8 +218,8 @@
 
 **価格**: 7150円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qvYc6LMRUHk)
+> **鹿の間**: 「いろいろね調べてたんですけど やっぱディオールのこのねルージュ人気だったので これを機に購入してみたんですけども ほんとにかわいすぎて この動画をね紹介するまで絶対使わないって決めてたんですけど 余裕で4回使いました で何」
+> [動画を見る](https://www.youtube.com/watch?v=qvYc6LMRUHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20Dior%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20212%20%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5%20%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/3348901608022/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -231,8 +231,8 @@
 
 **価格**: 396円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+> **鹿の間**: 「自力まつ毛研究頑張ろうと思った 続いてセザンヌのナチュラルチークNの 1番を使っていきます このチークはですねピーチピンクカラーですね サーモンピンクのような オレンジの主張もまあまああるカラーなので 胃腸と相性いいか」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%83%81%E3%83%BC%E3%82%AFN%201&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%83%81%E3%83%BC%E3%82%AFN%201/?af=mobi.0319)
 
@@ -244,8 +244,8 @@
 
 **価格**: 550円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+> **鹿の間**: 「こちら スラムのチークブラッシュ04番ピュアピンクでございます 本当ねこれワンコインとは思えないぐらいの高品質チークで ちょっとねツヤ感が出るのと くすみがね出ないので肌がめっちゃ綺麗になって」
+> [動画を見る](https://www.youtube.com/watch?v=31sAP3eKCN4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553043065&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce014703850101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -257,8 +257,8 @@
 
 **価格**: 700円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
+> **鹿の間**: 「がっつり消します そしたらこちらペリペラのピュアブラッシュドサンシャインチーク06モーニングブラッシュ使っていきます これねチークなんですけどめっちゃ明るくって 色こんな感じ あのチークとしての役割はね正直あんま果たして」
+> [動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PERIPERA%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%83%81%E3%83%BC%E3%82%AF%2006&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rcmd/oy-756067-007/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

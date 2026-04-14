@@ -43,9 +43,14 @@
 
 **3人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
+> **韓国オンニAちゃん (会社員J)**: 「ますとザーセムのパレットが1番硬くて ルナデイジークウェイクメイクの順番で テクスチャーが柔らかくなっていくんです けれども全食のスウォッチを見てみますと こんな感じでございます赤身は気になら ないからグリーンはいらなくてボリ」
+> [動画を見る](https://www.youtube.com/watch?v=S66Ay9gX9NA)
 
-**紹介YouTuber**: 韓国オンニAちゃん (会社員J) / さぁや saaya / コスメヲタちゃんねるサラ
+> **さぁや saaya**: 「こちらー ウェイクメイクのソフトブラーリーアイパレットの 10番です 特にブルベさんにですね おすすめのアイシャドウ パレットで ウェイクメイクのアイパレット 本当にね、」
+> [動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
+
+> **コスメヲタちゃんねるサラ**: 「チラチラと輝いて、 可愛すぎる。 次がこちら、 ウェイクメイク、 ホリデーコレクションが出ます。 可愛い。 キラキラ。 ソフトブラーリングアイパレット、 23番、 ミスティックラベンダーブラーリング。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/wakemake_sf_blurring_eyepalette1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -118,9 +123,8 @@
 
 **価格**: 2420円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「崩れの原因になります。 そして使うのがこちら。 ルナコンシールブレンダーパレット0102。 これ他の動画でも出てくるぐらい、 愛用品なんですけど、 リップスベストコスメ2024。 下半期新作賞。 コンシーラー部門で2位を受賞してます。」
+> [動画を見る](https://www.youtube.com/watch?v=1ts30nc9hMs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNA%20Luna%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20%E3%83%94%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%90%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00q9bv9.zqde7591.g00q9bv9.zqde89c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzagzag%2Fg8801046414156%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzagzag%2Fi%2F10096146%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -132,9 +136,8 @@
 
 **価格**: 2200円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
-
-**紹介YouTuber**: MAI TAKASUGI / よしミチ
+> **よしミチ**: 「アイシャドウもちょっともっとたくさんあるんですけど なんかお気に入りがありすぎて逆にちょっとじゃあ最近の気分を持ってきました ディオールのサンククルールクチュールシリーズの」
+> [動画を見る](https://www.youtube.com/watch?v=sFlnxSdTzTk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%80%90hince%E3%80%91%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20V002%E3%82%A2%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000161872/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -146,9 +149,8 @@
 
 **価格**: 1540円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「では反対側も塗っていきます はい次がこちら リンメルワンダーラストアイシャドウスティック スティックタイプのアイシャドウが出ます カラーは5色展開 1番スターシャインドリーム 3番コッパーウインク 4番ソフトバブルズ 5」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20LONDON%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%80%80%E3%83%A9%E3%82%B9%E3%83%88%E3%80%80%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%80%80%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/16425880/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -160,9 +162,8 @@
 
 **価格**: 4950円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / 小田切ヒロ
+> **鹿の間**: 「申し込んでおりますので コスメデコルテのトーンパーフェクティングパレット 1番使っていきます オレンジ使う なので私はね、ちょっと外に出るので なるべく寄れないものを使いたくって いつもね、」
+> [動画を見る](https://www.youtube.com/watch?v=k3rId0sKOLw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -177,6 +178,9 @@
 > **かじえり**: 「春メイクに使用したアイシャドウパレット」
 > [動画を見る](https://www.youtube.com/watch?v=9w4D4DdO4qQ)
 
+> **コスメヲタちゃんねるサラ**: 「でも可愛いです アイシャドウ はい せーの じゃーん アディクションのザアイシャドウパレット 私が選んだのはもうこの 超イエベ010 これは絶対使ってほしいっていうのがこのルナソンですよ ルナソルの単色? 前から出てる? 超新作」
+> [動画を見る](https://www.youtube.com/watch?v=nBL6g3Q5B8U)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710584431&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319)
 
 ---
@@ -187,9 +191,8 @@
 
 **価格**: 6380円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / nanachannel
+> **nanachannel**: 「続いてがこちらのねこれ rm 系のシンクロマティックアイシャドウパレット ex 08 シェドなサンセットというカラーなんですけども 秋 いきましたねってか柴田色なんですよ超可愛くない塗ってみるとこんな感じこのねぇオレンジと一緒に入っ」
+> [動画を見る](https://www.youtube.com/watch?v=taxcmErjEZg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20EX-12%20%E2%80%BB1/10%E7%99%BA%E5%A3%B2%20%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E3%82%AB%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20EX-12%20%E2%80%BB1/10%E7%99%BA%E5%A3%B2%20%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E3%82%AB%E3%83%A9%E3%83%BC/?af=mobi.0319)
 
@@ -201,9 +204,8 @@
 
 **価格**: 1078円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「ではまず、 こちら。 8月上旬プラザロフト先行発売。 キャンメイクプティパレットアイズ、 マットタイプが、 登場します。 ついにマットきました。 こちらに関しては、別の動画で、 レビューします。 ぜひそちらをお楽しみに。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008317472&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4901008317472/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

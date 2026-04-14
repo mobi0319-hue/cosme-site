@@ -49,8 +49,8 @@
 
 **価格**: 550円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
+> **コスメヲタちゃんねるサラ**: 「ぜひこちらも持ち歩いて使ってみてください 次眉毛セザンヌの 細芯アイブロウ03番 使っていきます やっぱりキャンメイクとセザンヌは安くていいよね 初めて買ったコスメって何ですか? キャンメイクの そう買いました え?」
+> [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042877&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -71,8 +71,8 @@
 
 ### セザンヌ ブレンドカラーチーク
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=6LMPWweRLrc)
+> **コスメヲタちゃんねるサラ**: 「注目の新作を紹介していきます まずこちら セザンヌブレンドカラーチーク めっちゃ可愛い 3色のマットカラーと 1色のパールカラーが一つになったチーク 混ぜ方次第でツヤチークにも マットチークにもなる ピンク系と」
+> [動画を見る](https://www.youtube.com/watch?v=6LMPWweRLrc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
@@ -91,8 +91,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=k9sJNxWWl9A)
+> **コスメヲタちゃんねるサラ**: 「こちら。 それはどこです? キス。 キスだ。 ビーマイリアルチーク03番なんですけど、ちょっとこれ全色持ってきたんで、ぜひ。 ありがとうございます。 触ってください。 クリームすごい。」
+> [動画を見る](https://www.youtube.com/watch?v=k9sJNxWWl9A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%93%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%81%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%93%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%81%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
@@ -102,8 +102,8 @@
 
 **価格**: 990円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=k9sJNxWWl9A)
+> **コスメヲタちゃんねるサラ**: 「じゃあ 寂しい皿がまいります はいお願いします こちらキャンメイクグラデーションチークス 超かわいい 使った使った めっちゃかわいい この価格でこのグラデーションってどうやってるの しかもパケも超かわいくない そうなんです キ」
+> [動画を見る](https://www.youtube.com/watch?v=k9sJNxWWl9A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B9/?af=mobi.0319)
 
@@ -120,8 +120,8 @@
 
 ### キス ミー フェルム / グロウインチーク
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「これもちょっと気になりますね。 3月17日。 キスミーフェルムルージュアクト。 紅製造時の原料由来。 紅花花エキスをはじめ、 8種の潤い成分を配合した、 私服の塗り心地の新ルージュ。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%9F%E3%83%BC%20%E3%83%95%E3%82%A7%E3%83%AB%E3%83%A0%20/%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%9F%E3%83%BC%20%E3%83%95%E3%82%A7%E3%83%AB%E3%83%A0%20/%20%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
@@ -129,8 +129,8 @@
 
 ### メイベリン ニューヨーク /  グローキッサ― チークブラッシュ
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+> **コスメヲタちゃんねるサラ**: 「リキッドグリッター。 そして、 3月22日。 メイベリーニューヨーク。 エスピーステイクリームパクトファンデーション。 新食感。 生チョコ缶。 三角バームがとろけて密着。 体温でじんわりとろけて、 クリーム状に変化。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%20/%20%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%83%E3%82%B5%E2%80%95%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%20/%20%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%83%E3%82%B5%E2%80%95%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
 
@@ -156,8 +156,8 @@
 
 ### イヴ・サンローラン メイクミーブラッシュ リキッド 全6色
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
+> **コスメヲタちゃんねるサラ**: 「そして同じ日に Visee 綿膜フェイクリキッド ついにリキッドタイプが出る ぷっくり膜厚なツヤで色気のあるボリューミーな唇へ テーマはオイルグロウ みずみずしいのにぷっくりボリューミーな唇に仕上がる リキッ」
+> [動画を見る](https://www.youtube.com/watch?v=N4DYocE-UrQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E5%85%A86%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E5%85%A86%E8%89%B2/?af=mobi.0319)
 
@@ -165,8 +165,8 @@
 
 ### NARS NARS/アフター グロー リキッドブラッシュ
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PCLSHYhRYV4)
+> **コスメヲタちゃんねるサラ**: 「チークとしてもリップとしても使えます。 こちらはさっきのNARSのリキッドと比較すると、 ちょっとムラになりやすいかな。 指でトントンするか、ムラが気になる方はスポンジを使って塗ると綺麗に仕上がります。」
+> [動画を見る](https://www.youtube.com/watch?v=PCLSHYhRYV4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
 
@@ -174,8 +174,8 @@
 
 ### トーン シームレス ブラッシュ
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
+> **コスメヲタちゃんねるサラ**: 「12月3日に、 ホリデー限定が出ます。 まず、こちら。 シームレストーンブラッシュの、 SB05ワルツと、 SB06オーケストラです。 パッケージも、 普段のものと違って、 蓋にラメが埋め込まれてます。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
 
@@ -194,8 +194,8 @@
 
 ### MAC グロープレイクッショニーブラッシュ
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
+> **コスメヲタちゃんねるサラ**: 「7月はね、結構デパコスが多いんですよ。 次、MACですね。 7月5日発売。 MAC グロウプレイ テンダートークリップバーム これは6月11日、西武渋谷先行発売。 6月25日、千葉そごう先行発売。」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAC%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAC%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
 
@@ -203,8 +203,8 @@
 
 ### ケイト トランスフォームチーク
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GluE2IE70TA)
+> **コスメヲタちゃんねるサラ**: 「そして次がこちら。 9月21日ケイトから数量限定のものがたくさん出ます。 まずケイトトランスフォームチーク。 地球の地図みたいなチークが出ます。」
+> [動画を見る](https://www.youtube.com/watch?v=GluE2IE70TA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%81%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%81%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
@@ -221,8 +221,8 @@
 
 ### ディオール ディオール/ディオール スキン ルージュ ブラッシュ カラー&グロウ
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
+> **コスメヲタちゃんねるサラ**: 「この構成も素晴らしい。 はい、次がこちら。 ケイトスノースキンベースクールラベンダーSPF50 PA++++ これをですね、首に塗るのに最近ハマっています。」
+> [動画を見る](https://www.youtube.com/watch?v=JWxTUG8pNvk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%26%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%26%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 
@@ -230,8 +230,8 @@
 
 ### KISS クリアルディ ブラッシュ
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=C6KajyhC2EM)
+> **コスメヲタちゃんねるサラ**: 「はい今ファンデを塗り終わった状態です そして次がこちら ブラッシュアップパウダー01クリスタルシマー テカリの素を吸着するテカリミュート成分配合で 長時間テカリにくいサラサラ肌をキープできます ソフトフォーカスパウダーとライト」
+> [動画を見る](https://www.youtube.com/watch?v=C6KajyhC2EM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KISS%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KISS%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
 

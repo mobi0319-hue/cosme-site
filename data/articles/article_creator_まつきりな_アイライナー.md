@@ -21,8 +21,8 @@
 
 **価格**: 1100円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PkNmTapKQ54)
+> **まつきりな**: 「上もライン描くんだけど 上のラインは 同じヒロインメイクの 2番か ブラウンブラックみたいなやつかな しっかりこう上まぶた 細くラインを全体的に入れる 細ーく入れまーす で目尻も 下げつつ延長 わかるかな ここでちょ」
+> [動画を見る](https://www.youtube.com/watch?v=PkNmTapKQ54)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
