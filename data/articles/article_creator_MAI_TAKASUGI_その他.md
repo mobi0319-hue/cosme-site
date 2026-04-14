@@ -166,8 +166,8 @@
 
 **価格**: 4560円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「8アイテムだけでフルメイクする動画でパウダーとして使用。仕上げにサッとのせてベースメイクを長持ちさせるアイテム」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharecafe/6045484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -362,8 +362,8 @@
 
 ### Elegance 19. エレガンス（）
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
+> **MAI TAKASUGI**: 「毎日メイク動画でコスメアイテムとして日常的に使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Elegance%2019.%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Elegance%2019.%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%EF%BC%88%EF%BC%89/?af=mobi.0319)
 

@@ -65,9 +65,8 @@
 
 **価格**: 1980円 | **2人のYouTuberが紹介**
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-
-**紹介YouTuber**: かずのすけ / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「購入品紹介動画でスキンケアアイテムとして紹介されている」
+> [動画を見る](https://www.youtube.com/watch?v=dOlL0Guwv3A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710561395&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sundrug/4971710574852/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -121,9 +120,8 @@
 
 **価格**: 4290円 | **2人のYouTuberが紹介**
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-
-**紹介YouTuber**: ひよんちゃんねる / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「毎日メイク動画のスキンケアパートで使用。朝のルーティンの中でスキンケアアイテムとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=zpeBqQMmaC8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901301449634&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/akakabeshop/4901301449634_4901301449641/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

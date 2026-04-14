@@ -96,8 +96,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=y5u1ywiF_3k)
+> **コスメヲタちゃんねるサラ**: 「SNSでバズってるコスメの実力を検証するレビュー動画で5つの注目アイテムの一つとして紹介」
+> [動画を見る](https://www.youtube.com/watch?v=y5u1ywiF_3k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20TIRTIR%20%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%9F%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/suzuyaebisudo/r-tirtir-tup/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -122,8 +122,8 @@
 
 **価格**: 3350円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=HJESrAryqNM)
+> **コスメヲタちゃんねるサラ**: 「日本のコスメブランド紹介動画で取り上げ。韓国・中国コスメに負けない日本コスメの優秀アイテムとして紹介」
+> [動画を見る](https://www.youtube.com/watch?v=HJESrAryqNM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710614725&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/4971710375817/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -135,8 +135,8 @@
 
 **価格**: 660円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CH73Gd5-8MU)
+> **コスメヲタちゃんねるサラ**: 「「盛り耐性」をテーマにした動画で使用。華やかなメイクが似合いやすいかを検証しながらリップアイテムとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=CH73Gd5-8MU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E5%BD%B1%E8%89%B2%E3%83%AA%E3%83%83%E3%83%97%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC02%E3%80%80%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553043430/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -148,8 +148,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
+> **コスメヲタちゃんねるサラ**: 「秋新作まとめレビュー動画でまず最初に紹介。ファンデーションが密着しやすい水分クリーム下地で、美容液成分配合で乾燥を防ぐ。もちっとした感触からみずみずしくなる不思議な使用感」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KISS%20kiss%20%E3%82%82%E3%81%A1%E3%81%BF%E3%81%9A%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4901433172448/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

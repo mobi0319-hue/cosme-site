@@ -217,9 +217,11 @@
 
 **価格**: 3200円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイシャドウとして紹介されています。
+> **鹿の間**: 「6万円分爆買いしたコスメの中から紹介。今期からバズるのではないかというアイテムで、売り切れる前にゲットすべきと推薦」
+> [動画を見る](https://www.youtube.com/watch?v=alqiCKy2r4o)
 
-**紹介YouTuber**: 鹿の間 / nanachannel
+> **nanachannel**: 「新しい下地を使ったメイク動画で使用。アイシャドウとしてメイクに取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4582356616211&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20WAKEMAKE%20%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%201%20%E5%8F%B7%E3%83%BB2%20%E5%8F%B7%20%E5%AE%9A%E4%BE%A1%EF%BC%9A%20%20%29%20%EF%BC%8F%20%E3%82%BB%E3%83%BC%E3%83%AB%E4%BE%A1%E6%A0%BC%EF%BC%9A/?af=mobi.0319)
 

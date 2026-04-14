@@ -625,8 +625,8 @@ SPステイ ヴィニルインク
 
 **価格**: 4560円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+> **鹿の間**: 「毎日メイク交換コラボ動画で使用。顔タイプが違うYouTuber同士でお互いのメイクを交換して試すパウダーとして登場」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharecafe/6045484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -1002,8 +1002,8 @@ SPステイ ヴィニルインク
 
 **価格**: 880円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=cQtu86xL06A)
+> **鹿の間**: 「26個のお気に入りアイテム紹介動画でコスメ部門として紹介。ミニサイズのビューラーとして愛用」
+> [動画を見る](https://www.youtube.com/watch?v=cQtu86xL06A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20Shiseido%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce016389780101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

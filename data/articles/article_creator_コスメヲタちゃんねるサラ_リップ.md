@@ -67,8 +67,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=74R_yEQp6vI)
+> **コスメヲタちゃんねるサラ**: 「新作コスメレビュー動画でリップの注目アイテムとして紹介されている」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20RIMMEL%20LONDON%E3%80%80%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%82%BF%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/16324678/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -158,8 +158,8 @@
 
 **価格**: 1320円
 
-> **コスメヲタちゃんねるサラ**: 「こちらがロムアンドザジューシーラスティングティント。 20番。あのロムアンドのロングセラーリップティントが最近リニューアルしました。」
-> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+> **コスメヲタちゃんねるサラ**: 「Qoo10メガ割で買うべきコスメ紹介動画で取り上げ。注目の韓国コスメとしてリップティントを紹介」
+> [動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%E3%80%80%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%E3%80%80%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -184,8 +184,8 @@
 
 **価格**: 1800円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+> **コスメヲタちゃんねるサラ**: 「リップの比較検証動画で取り上げられ、使用感をリアルにレビューされている」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LAKA%20LAKA%20%E3%83%95%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bighitshop/laka_fgt/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -410,8 +410,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+> **コスメヲタちゃんねるサラ**: 「リップの比較検証動画で取り上げられ、使用感をリアルにレビューされている」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20WATERISM%20GLOW%20TINT&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TIRTIR%20WATERISM%20GLOW%20TINT/?af=mobi.0319)
 

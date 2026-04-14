@@ -88,6 +88,12 @@
 > **かじえり**: 「ツヤを残しながらサラサラにするりふこちゃん。透明感メイクの仕上げに」
 > [動画を見る](https://www.youtube.com/watch?v=cWsczA3P1M0)
 
+> **MAI TAKASUGI**: 「8アイテムだけでフルメイクする動画でパウダーとして使用。仕上げにサッとのせてベースメイクを長持ちさせるアイテム」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+
+> **鹿の間**: 「毎日メイク交換コラボ動画で使用。顔タイプが違うYouTuber同士でお互いのメイクを交換して試すパウダーとして登場」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharecafe/6045484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -408,9 +414,8 @@
 
 **価格**: 1650円 | **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 水越みさと / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「視聴者投票「1個しか買えないならコレ」プチプラ編で発表。コスメ好き視聴者が選んだexcelの一押しアイシャドウとして紹介」
+> [動画を見る](https://www.youtube.com/watch?v=zzmQc6lE2b8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4964596785276&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4964596785221/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -422,9 +427,8 @@
 
 **価格**: 1200円 | **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 水越みさと / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「毎日メイク動画で使用。スキンフード商品開発コラボの発表とあわせて、メイクルーティンの中で取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=zpeBqQMmaC8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=too%20cool%20for%20school%20too%20cool%20for%20school%E3%80%80%E3%83%95%E3%83%AD%E3%83%83%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%80%8009%E3%80%80%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BC%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hanbist/too_001veiled/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -436,9 +440,11 @@
 
 **価格**: 1210円 | **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
+> **えみ姉**: 「2024年ベストコスメ動画でアイブロウ部門のベスコスに選出。今年1年の中で欠かせなかったアイテムとして厳選」
+> [動画を見る](https://www.youtube.com/watch?v=UiTGvvdPL2k)
 
-**紹介YouTuber**: えみ姉 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「水越みさとちゃんとの殿堂入りコスメ交換メイク。ずっと使ってきた一押しアイブロウとして紹介」
+> [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20rom%26nd%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%8F%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/asiabnc/browcara/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -466,9 +472,8 @@
 
 **価格**: 880円 | **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 鹿の間 / 小田切ヒロ
+> **鹿の間**: 「26個のお気に入りアイテム紹介動画でコスメ部門として紹介。ミニサイズのビューラーとして愛用」
+> [動画を見る](https://www.youtube.com/watch?v=cQtu86xL06A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20Shiseido%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce016389780101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -522,9 +527,8 @@
 
 **価格**: 7700円 | **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: コスメヲタちゃんねるサラ / 小田切ヒロ
+> **コスメヲタちゃんねるサラ**: 「メイク・コスメ紹介動画でコスメアイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=ym2YrJf2aYU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167011973&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167066041/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -600,9 +604,8 @@
 
 **価格**: 1672円 | **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 小田切ヒロ / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「崩れにくさを検証するメイク動画でコスメアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=3OuSCb1etg0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20SP%20%E3%83%95%E3%83%A9%E3%83%83%E3%83%95%20%E3%83%96%E3%83%AD%E3%82%A6%20%E3%83%A0%E3%83%BC%E3%82%B9%2002%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-6902395856214/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -655,6 +658,9 @@
 > **えみ姉**: 「あははは じゃあ次こちらです じゃん クリオのキルカバーメッシュグロウエッセンシャルクッションの 21番Cランジェリーのカラーでーす こんな感じで おー メッシュタイプのクッションが本当に大好きで 毛穴にしっかりとこうアプローチも」
 > [動画を見る](https://www.youtube.com/watch?v=m3TVHz2XDaI)
 
+> **nanachannel**: 「メイク動画でコスメアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=779ft9TER9Y)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%82%AD%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BC%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/morecosme/clio-conceal-essentia-cushion/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -663,9 +669,11 @@
 
 **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
+> **えみ姉**: 「メイク・コスメ紹介動画でコスメアイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=ZAKoe1TZ7x0)
 
-**紹介YouTuber**: えみ姉 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「崩れにくさを検証するメイク動画でコスメアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=I6-L9mbYidI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20BANILA%20CO/%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/8809759904070/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -726,9 +734,11 @@
 
 **2人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
+> **MAI TAKASUGI**: 「毎日メイク動画でコスメアイテムとして日常的に使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
-**紹介YouTuber**: MAI TAKASUGI / nanachannel
+> **nanachannel**: 「メイク動画でコスメアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=zRM7eblLLZI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Elegance%2019.%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Elegance%2019.%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%EF%BC%88%EF%BC%89/?af=mobi.0319)
 
@@ -843,6 +853,9 @@
 > **コスメヲタちゃんねるサラ**: 「サラです。今回はですね、超重大発表! この度、ロム&シアーティンテッドスティックの新色を共同開発させていただきました! ついにロム&さんとコラボ!ありがとうございます! 11月の11日から発売しております。」
 > [動画を見る](https://www.youtube.com/watch?v=lu1TX_Sw3fU)
 
+> **ひよんちゃんねる**: 「YouTuberコラボ動画でコスメアイテムとしてメイクに使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20rom%26nd%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%86%E3%83%83%E3%83%89%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/rom%26nd%20rom%26nd%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%86%E3%83%83%E3%83%89%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
 
 ---
@@ -890,6 +903,9 @@
 ### ディオール スキンフォーエヴァースキンパーフェクトスティック
 
 **2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「お気に入りコスメ紹介動画でコスメアイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 > **ひよんちゃんねる**: 「その時にこのディオールのスティックのファンデーションだったり チークパレットとかも買ったんだよね すごい今も愛用してる なのでディオール気になる方おすすめです で、」
 > [動画を見る](https://www.youtube.com/watch?v=BXtWHGvIhE0)

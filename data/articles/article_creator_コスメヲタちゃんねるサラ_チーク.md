@@ -49,8 +49,8 @@
 
 **価格**: 550円
 
-> **コスメヲタちゃんねるサラ**: 「ぜひこちらも持ち歩いて使ってみてください 次眉毛セザンヌの 細芯アイブロウ03番 使っていきます やっぱりキャンメイクとセザンヌは安くていいよね 初めて買ったコスメって何ですか? キャンメイクの そう買いました え?」
-> [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
+> **コスメヲタちゃんねるサラ**: 「メイク動画でチークアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042877&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -185,8 +185,8 @@
 
 **価格**: 7150円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
+> **コスメヲタちゃんねるサラ**: 「お気に入りコスメ紹介動画でチークアイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 

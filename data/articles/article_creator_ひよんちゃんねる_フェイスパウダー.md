@@ -117,8 +117,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+> **ひよんちゃんねる**: 「永井さんとの2年ぶりのスペシャルコラボ動画で使用。パウダーとしてメイクに取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167518823&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%203D%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20EX-2%20%E9%80%8F%E6%98%8E%E6%84%9F%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E7%B3%BB/?af=mobi.0319)
 

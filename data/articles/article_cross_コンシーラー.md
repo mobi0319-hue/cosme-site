@@ -26,9 +26,8 @@
 
 **価格**: 3850円 | **3人のYouTuberが紹介**
 
-動画の概要欄でコンシーラーとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / nanakoななこ / 小田切ヒロ
+> **nanakoななこ**: 「4万7千人から調査したクリスマス・冬のデートメイク完全版で使用。一番可愛くなるメイクのコンシーラーとして紹介」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4931449433080&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/4931449433080/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -41,6 +40,9 @@
 コレクター](https://item-shopping.c.yimg.jp/i/l/cosmecom_1000199199)
 
 **価格**: 1650円 | **3人のYouTuberが紹介**
+
+> **鹿の間**: 「エスパのジゼル風メイク動画で使用。帽子をかぶって前髪フィックスをつけた日のメイクでコンシーラーとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 > **コスメヲタちゃんねるサラ**: 「次がこちら 最近話題のティーフィットカバーアッププロコンシーラー01使います 3色あるんだけど中間の色味を塗っていきます めちゃくちゃ滑らかでムラなくカバーしてくれる 全体的にテクスチャーとかカバー力とかバランスのいい商品で」
 > [動画を見る](https://www.youtube.com/watch?v=FmK9N_kBjlM)
@@ -126,6 +128,9 @@
 ![VISEE エクストラ スキニー コンシーラー](https://item-shopping.c.yimg.jp/i/l/ohgiri-store_visee5989)
 
 **価格**: 1320円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「酸っぱさ感じる青梅のようなグリーンを主役にしたメイク動画。甘酸っぱい夏の映画のヒロインのようなコンシーラーとして使用」
+> [動画を見る](https://www.youtube.com/watch?v=x1IU7NARq4E)
 
 > **コスメヲタちゃんねるサラ**: 「では次、コンシーラー。 こちら、Viseeエクストラスキニーコンシーラー03番。 これで気になるポイントに狙い撃ちしてカバーしていきます。 リキッドタイプなんだけど、めっちゃカバー力が高くて、 仕上がりも綺麗。」
 > [動画を見る](https://www.youtube.com/watch?v=LYZmDf1j4BM)

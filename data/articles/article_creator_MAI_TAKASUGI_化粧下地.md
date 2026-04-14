@@ -38,8 +38,8 @@
 
 **価格**: 3410円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
+> **MAI TAKASUGI**: 「メイク・コスメ紹介動画で化粧下地アイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978265755&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4909978265755/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

@@ -160,9 +160,8 @@
 
 **価格**: 4950円 | **2人のYouTuberが紹介**
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「現役美容部員に聞いた人気デパコスの隠れた名品紹介動画で取り上げ。百貨店BAが推す知る人ぞ知るアイテム」
+> [動画を見る](https://www.youtube.com/watch?v=dvF0rviBajc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20/%20ADDICTION%0A%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0A002%20Luminous%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20/%20ADDICTION%0D%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0D002%20Luminous%20Pink/?af=mobi.0319)
 
@@ -174,8 +173,11 @@
 
 **価格**: 1760円 | **2人のYouTuberが紹介**
 
-> **コスメヲタちゃんねるサラ**: 「そしてパウダーティーフィットトランスルーセントセットフィニッシングパウダー02スキンベージュ パウダーも何でもOK 私はテカリやすいのでサラッサラになる粉を好んで使います 乾燥肌の方はこちらのキャンメイクシルキールース」
-> [動画を見る](https://www.youtube.com/watch?v=pPAtUiF0F4E)
+> **鹿の間**: 「韓国旅行メイク動画で使用。旅先でもスキンケアを怠らないメイクでパウダーとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=dQOwcFIMCkI)
+
+> **コスメヲタちゃんねるサラ**: 「「盛り耐性」テーマの動画でパウダーとして使用。華やかメイクの仕上げに取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=CH73Gd5-8MU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%82%BB%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000178126/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -187,9 +189,11 @@
 
 **価格**: 1540円 | **2人のYouTuberが紹介**
 
-動画の概要欄でフェイスパウダーとして紹介されています。
+> **鹿の間**: 「浴衣メイク動画でシェーディング・ハイライトとして使用。お祭りデートのために「保証のかすほど可愛い」メイクの一部」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
-**紹介YouTuber**: 鹿の間 / ひよんちゃんねる
+> **ひよんちゃんねる**: 「永井さんとの2年ぶりのスペシャルコラボ動画で使用。パウダーとしてメイクに取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167518823&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%203D%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20EX-2%20%E9%80%8F%E6%98%8E%E6%84%9F%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E7%B3%BB/?af=mobi.0319)
 

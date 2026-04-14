@@ -182,8 +182,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
+> **鹿の間**: 「エスパのジゼル風メイク動画で使用。帽子をかぶって前髪フィックスをつけた日のメイクでコンシーラーとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%0A%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/tfit%20tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%0D%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC/?af=mobi.0319)
 
@@ -299,8 +299,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=x1IU7NARq4E)
+> **鹿の間**: 「酸っぱさ感じる青梅のようなグリーンを主役にしたメイク動画。甘酸っぱい夏の映画のヒロインのようなコンシーラーとして使用」
+> [動画を見る](https://www.youtube.com/watch?v=x1IU7NARq4E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VISEE%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%20%E3%82%B9%E3%82%AD%E3%83%8B%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000184478/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

@@ -142,6 +142,9 @@
 > **ひよんちゃんねる**: 「3 ハンドファンキーリキッドアイライナー 05番 ブラックブラウンっていう感じなんだけど 濃い焦げ茶っていう感じですね 目頭の上 に塗る 塗ると一気にクッとならない 全体で塗っちゃうと ピュア感だったり 透明感から 遠」
 > [動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
 
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「韓国YouTuberとのコラボでアットコスメ東京を爆買い。8万6千円分の購入品の一つとしてマスカラを紹介」
+> [動画を見る](https://www.youtube.com/watch?v=FQjAUPSRUmU)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ETUDE%20ETUDE%EF%BD%9C%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fan-m/697757/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---

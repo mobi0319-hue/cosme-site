@@ -84,6 +84,9 @@
 > **かじえり**: 「色持ちが良い韓国のリップティント。」
 > [動画を見る](https://www.youtube.com/watch?v=_UAzM9xNsvc)
 
+> **鹿の間**: 「人中短縮メイクのテクニック動画で使用。シェーディング・ハイライト・チーク・細いブラシの4工程でリップとして仕上げ」
+> [動画を見る](https://www.youtube.com/watch?v=AFH_aVGYpIw)
+
 > **ひよんちゃんねる**: 「次 続きましてこちら ロムアンドのザジューシーラスティングティント 23番のピーチピーチミーっていうカラーを選んだんですけど 今までのジューシーラスティングティントのリニューアル 新しくまた出たカラーです しっかり色づいてくれ」
 > [動画を見る](https://www.youtube.com/watch?v=udnbT1w0wuo)
 
@@ -97,8 +100,8 @@
 
 **価格**: 1320円 | **3人のYouTuberが紹介**
 
-> **コスメヲタちゃんねるサラ**: 「こちらがロムアンドザジューシーラスティングティント。 20番。あのロムアンドのロングセラーリップティントが最近リニューアルしました。」
-> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+> **コスメヲタちゃんねるサラ**: 「Qoo10メガ割で買うべきコスメ紹介動画で取り上げ。注目の韓国コスメとしてリップティントを紹介」
+> [動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)
 
 > **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「お次紹介する商品は こちら ロムアンドのザジューシーラスティングティントです はい、皆さんリニューアル後の ロムアンドのジューシーラスティングティントは もう試されましたか? ここ最近ね、」
 > [動画を見る](https://www.youtube.com/watch?v=6DWG5LNZTcQ)
@@ -184,9 +187,11 @@
 
 **価格**: 1540円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **コスメヲタちゃんねるサラ**: 「新作コスメレビュー動画でリップの注目アイテムとして紹介されている」
+> [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
-**紹介YouTuber**: コスメヲタちゃんねるサラ / nanachannel
+> **nanachannel**: 「メイク動画でリップアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=dwP0UOCWLao)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20RIMMEL%20LONDON%E3%80%80%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%82%BF%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/16324678/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -313,6 +318,9 @@
 > **鹿の間**: 「新色が登場しました こちらラカのフルーティーグラムティント122番ロージーローズでございます 春らしいピンクカラーなんですけど しっかり発色してくれるので 薄すぎんけん使いやすそう それでは塗ってみます こちらフルーツ」
 > [動画を見る](https://www.youtube.com/watch?v=F5gzXmZ7_N4)
 
+> **コスメヲタちゃんねるサラ**: 「リップの比較検証動画で取り上げられ、使用感をリアルにレビューされている」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LAKA%20LAKA%20%E3%83%95%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bighitshop/laka_fgt/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -380,9 +388,11 @@
 
 **価格**: 1650円 | **2人のYouTuberが紹介**
 
-動画の概要欄でリップとして紹介されています。
+> **コスメヲタちゃんねるサラ**: 「リップの比較検証動画で取り上げられ、使用感をリアルにレビューされている」
+> [動画を見る](https://www.youtube.com/watch?v=yoKTO6DHZNA)
 
-**紹介YouTuber**: コスメヲタちゃんねるサラ / 鹿の間
+> **鹿の間**: 「新作コスメレビュー動画でリップの注目アイテムとして紹介されている」
+> [動画を見る](https://www.youtube.com/watch?v=qK9KehXlPew)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20WATERISM%20GLOW%20TINT&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TIRTIR%20WATERISM%20GLOW%20TINT/?af=mobi.0319)
 

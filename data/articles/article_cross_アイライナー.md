@@ -160,6 +160,9 @@
 > **nanakoななこ**: 「こういうクリームペンシル 特にクリーミータッチライナーは もともと作る量が薄いから パンダにならないの黒じゃないし でもうちょっと盛れないなぁと言ってますね っていう人はぜひ はい使いすぎ ヒロインメイクのスムース」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
+> **鹿の間**: 「韓国旅行のメイク動画で使用。旅先でもスキンケアを怠らず、無印ケースにコスメを入れて持参。アイライナーとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=dQOwcFIMCkI)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2006&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901008312606/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -173,6 +176,9 @@
 > **鹿の間**: 「キャンメイクとしているアイライナーです キャンメイクのラスティングリキッドライナー 05番のグレージュカラーでございます この色 ちょっと蓋悪いのか もう毎回このパヤパヤ出てきてしまうんですけど まあさて大きいライン引くとこんな感じです そう」
 > [動画を見る](https://www.youtube.com/watch?v=FD7RAPSRV4o)
 
+> **よしミチ**: 「2024年ベストコスメ動画で紹介。美意識が大きく変わった1年の中で選ばれたアイライナーとして取り上げ」
+> [動画を見る](https://www.youtube.com/watch?v=sFlnxSdTzTk)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008313641&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008313641/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
@@ -183,9 +189,8 @@
 
 **価格**: 1540円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイライナーとして紹介されています。
-
-**紹介YouTuber**: 小田切ヒロ / ひよんちゃんねる
+> **ひよんちゃんねる**: 「YouTuberコラボ動画でアイライナーアイテムとしてメイクに使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
 

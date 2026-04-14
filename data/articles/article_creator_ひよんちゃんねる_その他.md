@@ -697,8 +697,8 @@ bottoms : H&M card
 
 ### rom&nd rom&nd シアーティンテッドスティック
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+> **ひよんちゃんねる**: 「YouTuberコラボ動画でコスメアイテムとしてメイクに使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20rom%26nd%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%86%E3%83%83%E3%83%89%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/rom%26nd%20rom%26nd%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%86%E3%83%83%E3%83%89%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
 

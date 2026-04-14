@@ -288,8 +288,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=dQOwcFIMCkI)
+> **鹿の間**: 「韓国旅行のメイク動画で使用。旅先でもスキンケアを怠らず、無印ケースにコスメを入れて持参。アイライナーとして取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=dQOwcFIMCkI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2006&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901008312606/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

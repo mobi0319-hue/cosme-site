@@ -35,9 +35,8 @@
 
 **価格**: 3960円 | **2人のYouTuberが紹介**
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-
-**紹介YouTuber**: 鹿の間 / nanachannel
+> **nanachannel**: 「メイク動画でUVケアアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=Qf5aUfDQEqs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20LA%20ROCHE-POSAY%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%2B%20%E5%86%86&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20LA%20ROCHE-POSAY%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%2B%20%E5%86%86/?af=mobi.0319&s=2&v=2)
 

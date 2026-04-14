@@ -46,9 +46,8 @@ N — 2人が紹介
 
 **価格**: 638円 | **3人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: MAI TAKASUGI / 水越みさと / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「YouTuberコラボ動画でファンデーションアイテムとしてメイクに使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=FQjAUPSRUmU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%91%E3%83%95%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%91%E3%83%952P&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00r4d89.zqde7523.g00r4d89.zqde8f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcd013638420101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F0101marui%2Fi%2F12490440%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -62,6 +61,9 @@ N — 2人が紹介
 
 > **鹿の間**: 「本日のファンデーションは バニラコンのカバーリシャスホワイトクッションの 21番使っていきます 私の乾燥肌の上からのせると 結構マットっぽく仕上がるので 今回の照明写真にぴったり かなと思ってこちらを選びました」
 > [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+
+> **えみ姉**: 「ベストコスメ発表動画でファンデーションアイテムとして紹介。1年間使った中から厳選されている」
+> [動画を見る](https://www.youtube.com/watch?v=UiTGvvdPL2k)
 
 > **コスメヲタちゃんねるサラ**: 「はい、次がこちら。 バニラコ カバーリシャス アルティメット ホワイトクッションモイスチャー SPF50プラス PA++++ こちら既存のホワイトクッションファンデだと乾燥しちゃうという人に朗報です。」
 > [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
@@ -91,6 +93,9 @@ N — 2人が紹介
 
 > **鹿の間**: 「マキアージュのドラマティックエッセンスリキッドで ございまーす 待ってこれめちゃくちゃ久しぶりに使うんですけど うわぁ伸びいいですね 伸びいいけど私これ乾燥した記憶あるんですよね すこーし乾燥した」
 > [動画を見る](https://www.youtube.com/watch?v=UBEKAIFmv80)
+
+> **コスメヲタちゃんねるサラ**: 「2024年マイベストコスメ動画で紹介。サラタカコンビでお互いのベスコスを発表する中でファンデーションとして選出」
+> [動画を見る](https://www.youtube.com/watch?v=nBL6g3Q5B8U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0021/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -211,9 +216,8 @@ N — 2人が紹介
 
 **価格**: 13750円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「リニューアルしたトムフォードアイカラークォード全色レビュー動画。3月6日リニューアルの粉質・ツヤ・発色・質感をリアルにレビュー」
+> [動画を見る](https://www.youtube.com/watch?v=pd8O33w3UAo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20TOM%20FORD%20BEAUTY%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC%E3%80%80%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%E3%80%80%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%80%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%203.5N%20%E3%83%8C%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC%20SPF50&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tomfordbeauty/fd_arhf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -241,9 +245,8 @@ N — 2人が紹介
 
 **価格**: 8030円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「人気サラサラ系パウダー合計9種を徹底比較する動画で紹介。どれを買うべきか比較検証されている」
+> [動画を見る](https://www.youtube.com/watch?v=cz8cjBzsBEA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%20%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%E3%80%80%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E2%80%BB2025%E5%B9%B42%E6%9C%881%E6%97%A5%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%20%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%E3%80%80%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E2%80%BB2025%E5%B9%B42%E6%9C%881%E6%97%A5%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -255,9 +258,8 @@ N — 2人が紹介
 
 **価格**: 8250円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / ありちゃん
+> **ありちゃん**: 「ひよんちゃんとのコラボ動画で使用。パウダーアイテムとしてメイクの中で取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%20%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%E3%80%80%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%20No.00%20%E3%82%AA%E3%83%91%E3%83%AB%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20No.01%20%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%95%E3%82%A9%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bousai-outdoor/b0dgdgsrsb/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -315,9 +317,8 @@ SPF42／PA++ レフィル+ケース
 
 **価格**: 6600円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / ありちゃん〜毎月の支出の半分をコスメに充てる女〜
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「現役美容部員に聞いた人気デパコスの隠れた名品紹介動画。百貨店で現役BAに「実はコレが良い」と教えてもらったアイテム」
+> [動画を見る](https://www.youtube.com/watch?v=dvF0rviBajc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20220%20Linen%20SPF35%E3%83%BBPA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/strawberrynet-beauty/347417/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -359,9 +360,11 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **価格**: 7040円 | **2人のYouTuberが紹介**
 
-動画の概要欄でファンデーションとして紹介されています。
+> **えみ姉**: 「2024年ベストコスメ動画でパウダー部門のベスコスとして紹介。今年1年いくら課金したか分からないくらいコスメを試した中で厳選」
+> [動画を見る](https://www.youtube.com/watch?v=UiTGvvdPL2k)
 
-**紹介YouTuber**: えみ姉 / コスメヲタちゃんねるサラ
+> **コスメヲタちゃんねるサラ**: 「プチプラとデパコスの似ているコスメで半分ずつメイクする比較動画。デパコス側のパウダーとして使用しどれくらい違いが出るか検証」
+> [動画を見る](https://www.youtube.com/watch?v=0_P0ejI9D-g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%A1%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/14645/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

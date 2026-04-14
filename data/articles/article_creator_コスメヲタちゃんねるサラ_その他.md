@@ -247,8 +247,8 @@
 
 **価格**: 1200円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zpeBqQMmaC8)
+> **コスメヲタちゃんねるサラ**: 「毎日メイク動画で使用。スキンフード商品開発コラボの発表とあわせて、メイクルーティンの中で取り入れている」
+> [動画を見る](https://www.youtube.com/watch?v=zpeBqQMmaC8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=too%20cool%20for%20school%20too%20cool%20for%20school%E3%80%80%E3%83%95%E3%83%AD%E3%83%83%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%80%8009%E3%80%80%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BC%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hanbist/too_001veiled/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -260,8 +260,8 @@
 
 **価格**: 1210円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
+> **コスメヲタちゃんねるサラ**: 「水越みさとちゃんとの殿堂入りコスメ交換メイク。ずっと使ってきた一押しアイブロウとして紹介」
+> [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20rom%26nd%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%8F%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/asiabnc/browcara/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -325,8 +325,8 @@
 
 **価格**: 7700円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ym2YrJf2aYU)
+> **コスメヲタちゃんねるサラ**: 「メイク・コスメ紹介動画でコスメアイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=ym2YrJf2aYU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167011973&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167066041/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -430,8 +430,8 @@
 
 ### BANILA CO BANILA CO/カバーリシャス アルティメット ホワイト クッション
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=I6-L9mbYidI)
+> **コスメヲタちゃんねるサラ**: 「崩れにくさを検証するメイク動画でコスメアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=I6-L9mbYidI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20BANILA%20CO/%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/8809759904070/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -1478,8 +1478,8 @@
 
 ### ディオール スキンフォーエヴァースキンパーフェクトスティック
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
+> **コスメヲタちゃんねるサラ**: 「お気に入りコスメ紹介動画でコスメアイテムとして取り上げられている」
+> [動画を見る](https://www.youtube.com/watch?v=0VeG0dmRZI8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
 

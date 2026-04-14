@@ -20,8 +20,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=dwP0UOCWLao)
+> **ななみん**: 「メイク動画でリップアイテムとして使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=dwP0UOCWLao)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20RIMMEL%20LONDON%E3%80%80%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%82%BF%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/16324678/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

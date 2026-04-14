@@ -33,8 +33,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+> **ひよんちゃんねる**: 「YouTuberコラボ動画でアイライナーアイテムとしてメイクに使用されている」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
 

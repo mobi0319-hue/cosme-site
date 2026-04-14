@@ -405,8 +405,8 @@
 
 **価格**: 1199円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=AFH_aVGYpIw)
+> **鹿の間**: 「人中短縮メイクのテクニック動画で使用。シェーディング・ハイライト・チーク・細いブラシの4工程でリップとして仕上げ」
+> [動画を見る](https://www.youtube.com/watch?v=AFH_aVGYpIw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/asiabnc/lip_115/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -692,8 +692,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=qK9KehXlPew)
+> **鹿の間**: 「新作コスメレビュー動画でリップの注目アイテムとして紹介されている」
+> [動画を見る](https://www.youtube.com/watch?v=qK9KehXlPew)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20WATERISM%20GLOW%20TINT&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TIRTIR%20WATERISM%20GLOW%20TINT/?af=mobi.0319)
 
