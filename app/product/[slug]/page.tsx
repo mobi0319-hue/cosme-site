@@ -60,7 +60,8 @@ export default async function ProductPage({
   // mentioned_byはdata.ts側でcontext有りのみにフィルタ済み
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
   const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
-  const topContexts = product.mentioned_by.slice(0, 5)
+  // 表示用: 意味のあるコメント（>10文字）のみ引用として表示
+  const topContexts = product.mentioned_by.filter(m => m.context.trim().length > 10).slice(0, 5)
 
   // パンくず構造化データ（Googleリッチスニペット用）
   const breadcrumbData = {

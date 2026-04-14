@@ -188,8 +188,8 @@ export default async function VideoPage({
                   </div>
                 </div>
 
-                {/* 動画内コメント */}
-                {mention?.context && (
+                {/* 動画内コメント（意味のある長さのみ表示） */}
+                {mention?.context && mention.context.trim().length > 10 && (
                   <blockquote className="text-xs text-gray-500 bg-gray-50 rounded px-3 py-2 border-l-2 border-pink-200 mb-3">
                     {mention.context}
                   </blockquote>
