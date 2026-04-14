@@ -13,8 +13,9 @@ export async function generateStaticParams() {
   }))
 }
 
-// 未生成ページはアクセス時に生成してキャッシュ
+// 未生成ページはアクセス時に動的生成（日本語スラッグのcache-tagヘッダー問題を回避）
 export const dynamicParams = true
+export const dynamic = 'force-dynamic'
 
 export async function generateMetadata({
   params,
