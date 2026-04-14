@@ -311,9 +311,9 @@
     "youtube_name": "ゆなちゃんねる",
     "url": "https://www.youtube.com/channel/UCsTM1roCxoot1-03EO5zQxg",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/JQ0j8wIPw57-SKEMfh1-VRIwWHi_O4rnaI1WTBimV_U8Z7OrIv0jiBFuG3dJPhgGWbKCnTlJ=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": false
   },
   {
     "name": "miku / 未来",
