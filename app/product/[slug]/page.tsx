@@ -25,9 +25,8 @@ export async function generateMetadata({
   const { slug } = await params
   const product = getProductBySlug(decodeURIComponent(slug))
   if (!product) return {}
-  const meaningful = getMeaningfulMentions(product.mentioned_by)
-  const youtuberCount = new Set(meaningful.map(m => m.channel)).size
-  const videoCount = new Set(meaningful.map(m => m.video_url)).size
+  const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
+  const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
   const now = new Date()
   const yearMonth = `${now.getFullYear()}年${now.getMonth() + 1}月`
   return {
@@ -59,11 +58,15 @@ export default async function ProductPage({
   if (!product) notFound()
 
   const relatedProducts = getRelatedProducts(product)
-  // 表示用: 意味のあるmentionのみ使用（概要欄だけの紹介は含めない）
+  // カウント: 全mention（概要欄含む）
+  const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
+  const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
+  // 引用表示: 意味のあるcontextのみ
   const meaningful = getMeaningfulMentions(product.mentioned_by)
-  const youtuberCount = new Set(meaningful.map(m => m.channel)).size
-  const videoCount = new Set(meaningful.map(m => m.video_url)).size
   const topContexts = meaningful.slice(0, 5)
+  // 概要欄のみのYouTuber名（引用はないが紹介はしている）
+  const meaningfulChannels = new Set(meaningful.map(m => m.channel))
+  const descOnlyChannels = [...new Set(product.mentioned_by.map(m => m.channel))].filter(ch => !meaningfulChannels.has(ch))
 
   // パンくず構造化データ（Googleリッチスニペット用）
   const breadcrumbData = {
@@ -204,6 +207,27 @@ export default async function ProductPage({
               )
             })}
           </div>
+          {/* 概要欄で紹介しているYouTuber（動画内コメントはないが紹介はしている） */}
+          {descOnlyChannels.length > 0 && (
+            <div className="mt-4 pt-3 border-t border-gray-100">
+              <p className="text-xs text-gray-400 mb-2">概要欄で紹介しているYouTuber</p>
+              <div className="flex flex-wrap gap-2">
+                {descOnlyChannels.map((ch) => {
+                  const info = getChannelDisplayInfo(ch)
+                  return (
+                    <span key={ch} className="inline-flex items-center gap-1.5 bg-gray-50 rounded-full px-3 py-1">
+                      {info.iconUrl ? (
+                        <img src={info.iconUrl} alt={info.displayName} className="w-5 h-5 rounded-full object-cover" loading="lazy" />
+                      ) : (
+                        <span className="w-5 h-5 bg-pink-100 rounded-full flex items-center justify-center text-[10px] font-bold text-pink-500">{info.displayName.charAt(0)}</span>
+                      )}
+                      <span className="text-xs text-gray-600">{info.displayName}</span>
+                    </span>
+                  )
+                })}
+              </div>
+            </div>
+          )}
         </div>
       )}
 
