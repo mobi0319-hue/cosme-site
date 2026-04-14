@@ -58,7 +58,19 @@ function isGarbageName(name: string): boolean {
   // 文末表現で終わる = 文章
   if (/(?:ます|ました|です|ません|だろう|ないです|だとか|ございます)$/.test(name.replace(/[。！？]+$/, ''))) return true
   // 感想文の書き出し
-  if (/^(?:一番|基本的に|やっぱり|個人的に|正直|ちなみに)/.test(name)) return true
+  if (/^(?:一番|基本的に|やっぱり|個人的に|正直|ちなみに|もう何回も)/.test(name)) return true
+  // @メンション
+  if (/@\w/.test(name)) return true
+  // 【】で囲まれた動画タイトル
+  if (/^【【/.test(name)) return true
+  // 🍑等の絵文字で始まる宣伝文
+  if (/^[\u{1F300}-\u{1FAFF}]/u.test(name)) return true
+  // ◾️◼️▪️等の記号で始まる
+  if (/^[◾◼▪▫●○■□★☆♪♫✨🫶📷📸🍽💙]/u.test(name)) return true
+  // コラボセット、新作〜発売記念
+  if (/発売記念$/.test(name)) return true
+  // ブランド名だけで商品名がない（例: "CHANEL"のみ）
+  if (name.trim().length <= 10 && !/[\u3040-\u309F\u30A0-\u30FF]/.test(name) && !/\d/.test(name)) return true
   return false
 }
 
@@ -161,7 +173,7 @@ export function getProducts(): Product[] {
   // products.jsonはpublish済みのみ収録されている
   _productsCache = products
     .filter(p => isCosmeCategory(p.category))
-    .filter(p => p.brand !== '不明' && !p.product_name.includes('不明'))
+    .filter(p => p.brand && p.brand.trim() !== '' && p.brand !== '-' && p.brand !== '不明' && !p.product_name.includes('不明'))
     .filter(p => !isGarbageName(p.product_name))
     .map(p => ({
       ...p,
