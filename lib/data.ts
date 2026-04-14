@@ -25,6 +25,28 @@ function isCosmeCategory(category: string): boolean {
   return !NON_COSME_KEYWORDS.some(kw => category.includes(kw))
 }
 
+// 商品名がゴミデータ（SNSリンク、セール情報、非商品テキスト等）かどうかを判定
+const GARBAGE_NAME_KEYWORDS = [
+  // SNS・宣伝
+  'TAG', 'Twitter', 'Instagram', 'Insram', 'フォロー', 'チャンネル登録',
+  'LINE公式', 'TikTok', 'お仕事の依頼', 'お問い合わせ', 'プロフィール',
+  // URL
+  'https://', 'http://', '.com/', '.jp/',
+  // 価格・セール情報（商品名ではない）
+  'メガ割', '販売価格', '通常価格', 'クーポン', '期間限定',
+  // ハッシュタグ
+  '#ダイエット', '#筋トレ', '#宅トレ',
+  // 非商品テキスト
+  '前回の', '前々回の', 'おすすめ動画', '動画はこちら',
+  // 人物紹介
+  'フィットネスインストラクター', 'をモットーに',
+]
+function isGarbageName(name: string): boolean {
+  if (!name || name.trim().length <= 2) return true
+  if (name.length > 100) return true
+  return GARBAGE_NAME_KEYWORDS.some(kw => name.includes(kw))
+}
+
 // ======== カテゴリ正規化 ========
 
 // 表示用カテゴリの正規順（この順番でフィルターボタンに並ぶ）
@@ -120,11 +142,12 @@ export function getProducts(): Product[] {
 
   const raw = fs.readFileSync(path.join(DATA_DIR, 'products.json'), 'utf-8')
   const products: Product[] = JSON.parse(raw)
-  // コスメ以外のカテゴリを除外し、ブランド・商品名が不明なものも除外する
+  // コスメ以外・ゴミデータ・不明商品を除外する
   // products.jsonはpublish済みのみ収録されている
   _productsCache = products
     .filter(p => isCosmeCategory(p.category))
     .filter(p => p.brand !== '不明' && !p.product_name.includes('不明'))
+    .filter(p => !isGarbageName(p.product_name))
     .map(p => ({
       ...p,
       category: normalizeCategory(p.category),
