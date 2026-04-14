@@ -212,9 +212,9 @@
     "youtube_name": "しばなんといっしょ!",
     "url": "https://www.youtube.com/channel/UCAne8GG-iUcTzUkpQG4N7jw",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_nEOd4h0Py_Tmv6NvNiQAr5jcjcbC0X50UGphS5ZvPcPQ=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": false
   },
   {
     "name": "ひよんちゃんねる",
