@@ -128,11 +128,11 @@ export function getProducts(): Product[] {
     .map(p => ({
       ...p,
       category: normalizeCategory(p.category),
-      // コメントがある紹介のみカウント（空・短すぎる紹介は除外）
-      mentioned_by: p.mentioned_by.filter((m: MentionedBy) => m.context && m.context.trim().length > 10),
+      // contextが空でない紹介のみカウント（「概要欄で紹介」等の短いcontextも有効）
+      mentioned_by: p.mentioned_by.filter((m: MentionedBy) => m.context && m.context.trim().length > 0),
       mention_count: new Set(
         p.mentioned_by
-          .filter((m: MentionedBy) => m.context && m.context.trim().length > 10)
+          .filter((m: MentionedBy) => m.context && m.context.trim().length > 0)
           .map((m: MentionedBy) => m.channel)
       ).size,
     }))
