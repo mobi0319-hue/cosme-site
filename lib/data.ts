@@ -40,11 +40,26 @@ const GARBAGE_NAME_KEYWORDS = [
   '前回の', '前々回の', 'おすすめ動画', '動画はこちら',
   // 人物紹介
   'フィットネスインストラクター', 'をモットーに',
+  // 宣伝・PR
+  '公式サイト', 'プロモーション', '提供：', '提供:', 'PR案件', 'プレゼント企画',
+  // 非コスメ
+  'AGA', 'デオドラント', '入浴剤', 'シャワーヘッド', '加湿器',
+  // 感嘆
+  'www', 'ｗｗ',
 ]
 function isGarbageName(name: string): boolean {
   if (!name || name.trim().length <= 2) return true
   if (name.length > 100) return true
-  return GARBAGE_NAME_KEYWORDS.some(kw => name.includes(kw))
+  if (GARBAGE_NAME_KEYWORDS.some(kw => name.includes(kw))) return true
+  // 句読点・感嘆符・引用符がある = 文章であって商品名ではない
+  if (/[。？！…\u201C\u201D\u300C\u300D]/.test(name)) return true
+  // 助詞で始まる = 文の途中から切れた断片
+  if (/^[のはがをにでと]/.test(name)) return true
+  // 文末表現で終わる = 文章
+  if (/(?:ます|ました|です|ません|だろう|ないです|だとか|ございます)$/.test(name.replace(/[。！？]+$/, ''))) return true
+  // 感想文の書き出し
+  if (/^(?:一番|基本的に|やっぱり|個人的に|正直|ちなみに)/.test(name)) return true
+  return false
 }
 
 // ======== カテゴリ正規化 ========
