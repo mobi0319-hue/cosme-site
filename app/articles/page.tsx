@@ -26,6 +26,10 @@ export default function ArticlesPage() {
   const articleItems = articles.map((article) => {
     const vidMatch = article.videoUrl?.match(/[?&]v=([^&]+)/)
     const channelInfo = getChannelDisplayInfo(article.channel)
+    // 記事タイプを判定
+    const articleType = article.slug.startsWith('article_cross_') ? 'cross' as const
+      : article.slug.startsWith('article_creator_') ? 'creator' as const
+      : 'video' as const
     return {
       slug: article.slug,
       title: article.title,
@@ -35,8 +39,13 @@ export default function ArticlesPage() {
       displayName: channelInfo.displayName,
       iconUrl: channelInfo.iconUrl,
       videoId: vidMatch ? vidMatch[1] : null,
+      articleType,
     }
   })
+
+  // クロスレビュー → クリエイター → 動画の順にソート
+  const typeOrder = { cross: 0, creator: 1, video: 2 }
+  articleItems.sort((a, b) => typeOrder[a.articleType] - typeOrder[b.articleType] || b.date.localeCompare(a.date))
 
   return (
     <div className="max-w-2xl mx-auto">
