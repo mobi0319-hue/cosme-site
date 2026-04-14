@@ -178,13 +178,14 @@ export function getProducts(): Product[] {
     .map(p => ({
       ...p,
       category: normalizeCategory(p.category),
-      // mentioned_by: contextがある紹介を全て保持（動画カウント・クリエイターページ用）
+      // mentioned_by: contextがある紹介を全て保持
       mentioned_by: p.mentioned_by.filter((m: MentionedBy) => m.context && m.context.trim().length > 0),
-      // mention_count: 動画内で実際に言及された紹介のみカウント（ランキング・品質指標用）
-      // 「概要欄で紹介」等の短いcontextは動画数には含めるが、mention_countには含めない
+      // mention_count: 概要欄含む全mentionのユニークチャンネル数
+      // 概要欄に商品リンクを載せること自体がYouTuberの紹介行為
+      // 引用表示はgetMeaningfulMentions(>10文字)で制御するため、ここでは全件カウント
       mention_count: new Set(
         p.mentioned_by
-          .filter((m: MentionedBy) => m.context && m.context.trim().length > 10)
+          .filter((m: MentionedBy) => m.context && m.context.trim().length > 0)
           .map((m: MentionedBy) => m.channel)
       ).size,
     }))
