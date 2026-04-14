@@ -248,18 +248,18 @@
     "youtube_name": "とうあ",
     "url": "https://www.youtube.com/channel/UC9Wl5AzCQzp2esQ7uVoQz0g",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_npSULKOYT7z_D_lb69nCJHlpMN8sa84po8kJ4lPqd5WQ=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": false
   },
   {
     "name": "よしミチ",
     "youtube_name": "よしミチch",
     "url": "https://www.youtube.com/channel/UCiJkV6aSJpX9xEJUu00tVlw",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "icon_url": "https://yt3.ggpht.com/ytc/AIdro_k8HlizXUheKj7ENw5IS440tr2zd1pIYOw9TYIOG1_f5es=s240-c-k-c0x00ffffff-no-rj",
-    "display": true
+    "display": false
   },
   {
     "name": "ゆりいちちゃんねる",
