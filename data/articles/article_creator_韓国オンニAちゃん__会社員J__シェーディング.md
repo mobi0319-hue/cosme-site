@@ -1,0 +1,43 @@
+<!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-14 -->
+# 韓国オンニAちゃん (会社員J)おすすめシェーディング4選【2026年04月版】
+
+人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したシェーディングアイテムをまとめました。
+
+---
+
+### CANMAKE（キャンメイク） ノーズシャドウメーカー（748円）
+
+> **韓国オンニAちゃん (会社員J)**: 「ノーズシャドウ専用商品として取り入れている。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている」
+> （[動画を見る](https://www.youtube.com/watch?v=rYBTpTyyIjg)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4901008314754&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/0101marui/cd011665090101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### rom&nd（ロムアンド） シェーディング（マイパレット内）（1499円）
+
+> **韓国オンニAちゃん (会社員J)**: 「マイパレットに入れていたが飛行機で割れた。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている」
+> （[動画を見る](https://www.youtube.com/watch?v=UfMO2A8JjKc)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E3%83%9E%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E5%86%85%EF%BC%89&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/ludia/rom-f-05/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### デイジーク シェーディング デイジーク Vカットブレンディングシェーディング 01ウォームブレンディング（2180円）
+
+> **韓国オンニAちゃん (会社員J)**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=S66Ay9gX9NA)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20V%E3%82%AB%E3%83%83%E3%83%88%E3%83%96%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%2001%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/flytoyou/1049468443/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### TAG TAG デュアルマルチシェーディング モノクール /（5,000ウォン）
+
+> **韓国オンニAちゃん (会社員J)**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=xNN3MPh3R68)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20TAG%20%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%BC%E3%83%AB%20/&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20TAG%20%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%BC%E3%83%AB%20//?af=mobi.0319)
+
+---

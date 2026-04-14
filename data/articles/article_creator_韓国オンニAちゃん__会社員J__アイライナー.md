@@ -1,0 +1,34 @@
+<!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-14 -->
+# 韓国オンニAちゃん (会社員J)おすすめアイライナー3選【2026年04月版】
+
+人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したアイライナーアイテムをまとめました。
+
+---
+
+### CANMAKE（キャンメイク） クリーミータッチライナー（715円）
+
+> **韓国オンニAちゃん (会社員J)**: 「抜け感のあるメイクをしたいときに、目尻だけにサッと引いて使うのがお気に入り。ナチュラルなのに目元の印象がしっかり変わるので、さりげない目力アップを狙いたい方におすすめ」
+> （[動画を見る](https://www.youtube.com/watch?v=1HoEtW7I2oE)）
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B07B456KKP?tag=yuaffiliate01-22) | [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00u3on9.zqde7b9c.g00u3on9.zqde8011/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokyo-giftgarage%2F10000403%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokyo-giftgarage%2Fi%2F10000403%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
+
+---
+
+### Visée（ヴィセ） メルティシャープ ジェルライナー（1100円）
+
+> **韓国オンニAちゃん (会社員J)**: 「BR321番。上まぶたのアイライン用に取り入れている。にじまず長時間きれいなラインをキープしてくれるのが魅力で、目元のラインを引くのに取り入れている。ナチュラルメイク派にぴったり」
+> （[動画を見る](https://www.youtube.com/watch?v=UkI51aEFZ_I)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4971710490756&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/yayoi-cosme/49075/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### TWINKLE POP TWINKLE POP アイドローイング ジェルペンシルライナー アッシュブラウン/（3,000ウォン）
+
+> **韓国オンニAちゃん (会社員J)**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=xNN3MPh3R68)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=TWINKLE%20POP%20TWINKLE%20POP%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/TWINKLE%20POP%20TWINKLE%20POP%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3//?af=mobi.0319)
+
+---

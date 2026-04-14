@@ -1,0 +1,133 @@
+<!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-14 -->
+# かじえりおすすめリップ14選【2026年04月版】
+
+人気美容YouTuber **かじえり** さんが動画で紹介したリップアイテムをまとめました。
+
+---
+
+### KATE（ケイト） リップモンスター スフレマット 07 焦がしパンの運命（1650円）
+
+> **かじえり**: 「LOOK3のメイクで使用。朱赤/オレンジ系のリップ。唇にすっとなじんで自然に発色してくれるのが魅力で、リップメイクに取り入れている。ナチュラルメイク派にもぴったり」
+> （[動画を見る](https://www.youtube.com/watch?v=_g_7HULlK00)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4973167521540&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/daikisone/kate10-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### KATE（ケイト） リップモンスター（1540円）
+
+> **かじえり**: 「好印象メイクのリップ。オレンジみのある自然な発色で色持ちが良い。」
+> （[動画を見る](https://www.youtube.com/watch?v=bnx8H8WLVc0)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### rom&nd（ロムアンド） rom&nd ザ ジューシーラスティングティント22 ドトリボム（1320円）
+
+> **かじえり**: 「最近購入した韓国コスメ。色持ちが良いリップティント。」
+> （[動画を見る](https://www.youtube.com/watch?v=4DxZlqsHMug)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20rom%26nd%20%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%8822%20%E3%83%89%E3%83%88%E3%83%AA%E3%83%9C%E3%83%A0&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/rom%26nd%20rom%26nd%20%E3%82%B6%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%8822%20%E3%83%89%E3%83%88%E3%83%AA%E3%83%9C%E3%83%A0/?af=mobi.0319&s=2&v=2)
+
+---
+
+### Dior（ディオール） アディクト リップ マキシマイザー（4730円）
+
+> **かじえり**: 「2023年春新作・16年ぶりリニューアル。ヌーディーブラウン系のプランプリップ。ピリピリ感が抑えられ使いやすくなった。」
+> （[動画を見る](https://www.youtube.com/watch?v=R4qwj8-jgog)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/hillslife/dior_lip_maximizer_001/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### 資生堂 テクノサテンジェルリップスティック 405番（4900円）
+
+> **かじえり**: 「深みブラウン赤リップ。顔色を明るく見せながら密着。」
+> （[動画を見る](https://www.youtube.com/watch?v=5vcsPiawuJs)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E8%B3%87%E7%94%9F%E5%A0%82%20%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B5%E3%83%86%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20405%E7%95%AA&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E8%B3%87%E7%94%9F%E5%A0%82%20%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B5%E3%83%86%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20405%E7%95%AA/?af=mobi.0319)
+
+---
+
+### KATE リップ モンスター（1500円以下）
+
+> **かじえり**: 「薬局プチプラで人気の高発色リップ。」
+> （[動画を見る](https://www.youtube.com/watch?v=7UU0fVUFAYo)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### rom&nd グラスティングメルティングバーム（800円）
+
+> **かじえり**: 「とろけるような質感のリップバーム。」
+> （[動画を見る](https://www.youtube.com/watch?v=HghnjT_n9_A)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/asiabnc/ve_easy_gmb/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### Dior ルージュ ディオール バック ステージ リップ パレット（700円）
+
+> **かじえり**: 「クリスマスコレクションのリップパレット。複数の色を組み合わせてオリジナルの色を作れる。」
+> （[動画を見る](https://www.youtube.com/watch?v=YVRVdAvSDTc)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/dongxin/33/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### rom&nd ジューシーラスティングティント（1199円）
+
+> **かじえり**: 「色持ちが良い韓国のリップティント。」
+> （[動画を見る](https://www.youtube.com/watch?v=_UAzM9xNsvc)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=rom%26nd%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/asiabnc/lip_115/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### シャネル シャネル ルージュ ココ グロス（6420円）
+
+> **かじえり**: 「大人っぽい上品なリップグロスとして使用」
+> （[動画を見る](https://www.youtube.com/watch?v=6tvLmAHIVzU)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB%20%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%82%B3%E3%82%B3%20%E3%82%B0%E3%83%AD%E3%82%B9&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/mizuwaonline/10106/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ジルスチュアート ジルスチュアート リップブロッサム（3300円）
+
+> **かじえり**: 「春らしいピンク系リップとして紹介」
+> （[動画を見る](https://www.youtube.com/watch?v=9w4D4DdO4qQ)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%B5%E3%83%A0&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/blanc-lapin/jillc0000264/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ケイト ケイト リップモンスター スフレマット 04番（1650円）
+
+> **かじえり**: 「オレンジブラウンのチップタイプ。色持ちより色が好みで使用するリップ」
+> （[動画を見る](https://www.youtube.com/watch?v=MFCY2gLWfto)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4973167533826&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9E%E3%83%83%E3%83%88%2004%E7%95%AA/?af=mobi.0319)
+
+---
+
+### NARS NARS パワーマットリップスティック 101番（3980円）
+
+> **かじえり**: 「固いテクスチャーで唇へのフィット感が強いマットリップ。ブラウン系の発色」
+> （[動画を見る](https://www.youtube.com/watch?v=MFCY2gLWfto)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20101%E7%95%AA&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20101%E7%95%AA/?af=mobi.0319)
+
+---
+
+### ディオール ディオール アディクト リップ グロウ（3600円）
+
+> **かじえり**: 「発色と保湿が両立したリップグロウとして紹介」
+> （[動画を見る](https://www.youtube.com/watch?v=V6nKnMkKkDk)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/cosme-venus/3348900806931/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---

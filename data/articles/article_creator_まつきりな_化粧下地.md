@@ -1,0 +1,52 @@
+<!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-14 -->
+# まつきりなおすすめ化粧下地5選【2026年04月版】
+
+人気美容YouTuber **まつきりな** さんが動画で紹介した化粧下地アイテムをまとめました。
+
+---
+
+### TOM FORD TOM FORD BEAUTY｜エモーションプルーフ アイプライマー｜（5390円）
+
+> **まつきりな**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=wPfglrPrESs)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20TOM%20FORD%20BEAUTY%EF%BD%9C%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95%20%E3%82%A2%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%EF%BD%9C&tag=yuaffiliate01-22) | [楽天で見る](https://item.rakuten.co.jp/tomfordbeauty/eye_epep/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ヒロインメイク ヒロインメイク｜カールキープマスカラベースUP｜01 クリアブラック｜（1100円）
+
+> **まつきりな**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=wPfglrPrESs)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4901433077545&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%EF%BD%9C%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%97%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%99%E3%83%BC%E3%82%B9UP%EF%BD%9C01%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%EF%BD%9C/?af=mobi.0319)
+
+---
+
+### ヒロインメイク ヒロインメイク｜カールキープマスカラベースWP｜01 クリアブラック｜（1100円）
+
+> **まつきりな**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=Z4c1zcXIve0)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4901433077545&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%EF%BD%9C%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%97%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%99%E3%83%BC%E3%82%B9WP%EF%BD%9C01%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%EF%BD%9C/?af=mobi.0319)
+
+---
+
+### プリマヴィスタ プリマヴィスタ｜スキンプロテクトベース＜皮脂くずれ防止＞｜メロン｜（3080円）
+
+> **まつきりな**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=71KJLUFICV0)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4901301437631&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AA%E3%83%9E%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%EF%BD%9C%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%EF%BC%9C%E7%9A%AE%E8%84%82%E3%81%8F%E3%81%9A%E3%82%8C%E9%98%B2%E6%AD%A2%EF%BC%9E%EF%BD%9C%E3%83%A1%E3%83%AD%E3%83%B3%EF%BD%9C/?af=mobi.0319)
+
+---
+
+### プリマヴィスタ プリマヴィスタ/スキンプロテクトベース＜皮脂くずれ防止＞/メロン/（3080円）
+
+> **まつきりな**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=SWgMhoihuJg)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4901301437631&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AA%E3%83%9E%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF/%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%EF%BC%9C%E7%9A%AE%E8%84%82%E3%81%8F%E3%81%9A%E3%82%8C%E9%98%B2%E6%AD%A2%EF%BC%9E/%E3%83%A1%E3%83%AD%E3%83%B3//?af=mobi.0319)
+
+---

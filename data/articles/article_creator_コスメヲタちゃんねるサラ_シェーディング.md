@@ -1,0 +1,70 @@
+<!-- GENRE: cosme -->
+<!-- LAST_UPDATED: 2026-04-14 -->
+# コスメヲタちゃんねるサラおすすめシェーディング7選【2026年04月版】
+
+人気美容YouTuber **コスメヲタちゃんねるサラ** さんが動画で紹介したシェーディングアイテムをまとめました。
+
+---
+
+### CEZANNE（セザンヌ） ブレンドカラーシェーディング（781円）
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=CikaTjUCipc)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00r4d89.zqde7523.g00r4d89.zqde8f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcf021188300101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F0101marui%2Fi%2F13012733%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
+
+---
+
+### トーン ブレンドカラーシェーディング [01]  ウォーム 税込（781円）
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=zusbFLv-vwY)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4939553530305&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%5B01%5D%20%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%20%E7%A8%8E%E8%BE%BC/?af=mobi.0319)
+
+---
+
+### トーン ブレンドカラーシェーディング [02]  クール 税込（781円）
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=zusbFLv-vwY)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=4939553530312&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%5B02%5D%20%20%E3%82%AF%E3%83%BC%E3%83%AB%20%E7%A8%8E%E8%BE%BC/?af=mobi.0319)
+
+---
+
+### セザンヌ セザンヌ / ブレンドカラーシェーディング
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=6zjJoG9JpfQ)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### セザンヌ セザンヌ / シェーディングペンシル
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=gdIOE22vvGE)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20/%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319)
+
+---
+
+### tfit TFIT / アイドルコントゥアシェーディング
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=YVKZhrFXE_c)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20TFIT%20/%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/tfit%20TFIT%20/%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### エスポア エスポア/ビーグロースティックシェーディング
+
+> **コスメヲタちゃんねるサラ**: 概要欄で紹介
+> （[動画を見る](https://www.youtube.com/watch?v=bhKjOeyka00)）
+
+[Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%20%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2/%E3%83%93%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%20%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2/%E3%83%93%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
