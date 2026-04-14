@@ -150,6 +150,13 @@ export function getChannels(): Channel[] {
   return _channelsCache!
 }
 
+// ======== mention集計ヘルパー ========
+
+// 意味のあるcontext（>10文字）のmentionのみ。ランキング・表示カウント・引用に使う
+export function getMeaningfulMentions(mentions: MentionedBy[]): MentionedBy[] {
+  return mentions.filter(m => m.context && m.context.trim().length > 10)
+}
+
 // ======== スラッグ生成 ========
 
 // 商品スラッグ: brand + product_name をURLセーフな文字列に変換

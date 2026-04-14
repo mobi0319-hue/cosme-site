@@ -1,5 +1,5 @@
 // 商品詳細ページ（CV改善版）
-import { getProducts, getProductBySlug, getRelatedProducts, slugifyProduct, extractVideoId, getChannelDisplayInfo } from '@/lib/data'
+import { getProducts, getProductBySlug, getRelatedProducts, slugifyProduct, extractVideoId, getChannelDisplayInfo, getMeaningfulMentions } from '@/lib/data'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 
@@ -24,8 +24,9 @@ export async function generateMetadata({
   const { slug } = await params
   const product = getProductBySlug(decodeURIComponent(slug))
   if (!product) return {}
-  const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
-  const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
+  const meaningful = getMeaningfulMentions(product.mentioned_by)
+  const youtuberCount = new Set(meaningful.map(m => m.channel)).size
+  const videoCount = new Set(meaningful.map(m => m.video_url)).size
   const now = new Date()
   const yearMonth = `${now.getFullYear()}年${now.getMonth() + 1}月`
   return {
@@ -57,11 +58,11 @@ export default async function ProductPage({
   if (!product) notFound()
 
   const relatedProducts = getRelatedProducts(product)
-  // mentioned_byはdata.ts側でcontext有りのみにフィルタ済み
-  const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
-  const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
-  // 表示用: 意味のあるコメント（>10文字）のみ引用として表示
-  const topContexts = product.mentioned_by.filter(m => m.context.trim().length > 10).slice(0, 5)
+  // 表示用: 意味のあるmentionのみ使用（概要欄だけの紹介は含めない）
+  const meaningful = getMeaningfulMentions(product.mentioned_by)
+  const youtuberCount = new Set(meaningful.map(m => m.channel)).size
+  const videoCount = new Set(meaningful.map(m => m.video_url)).size
+  const topContexts = meaningful.slice(0, 5)
 
   // パンくず構造化データ（Googleリッチスニペット用）
   const breadcrumbData = {

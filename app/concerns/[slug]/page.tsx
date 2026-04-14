@@ -1,6 +1,6 @@
 // 悩み別詳細ページ
 import { CONCERNS, getConcernBySlug, getProductsForConcern } from '@/lib/concerns'
-import { slugifyProduct } from '@/lib/data'
+import { slugifyProduct, getMeaningfulMentions } from '@/lib/data'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 
@@ -52,7 +52,7 @@ export default async function ConcernPage({
 
   const products = getProductsForConcern(concern)
   const totalYoutubers = new Set(
-    products.flatMap(p => p.mentioned_by.map(m => m.channel))
+    products.flatMap(p => getMeaningfulMentions(p.mentioned_by).map(m => m.channel))
   ).size
 
   return (
@@ -137,7 +137,7 @@ export default async function ConcernPage({
                       {product.mention_count}人が紹介
                     </span>
                     <span className="text-xs text-gray-400">
-                      {new Set(product.mentioned_by.map(m => m.video_url)).size}本の動画
+                      {new Set(getMeaningfulMentions(product.mentioned_by).map(m => m.video_url)).size}本の動画
                     </span>
                   </div>
                 </div>

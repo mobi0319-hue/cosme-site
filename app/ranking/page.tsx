@@ -1,6 +1,6 @@
 // カテゴリ別ランキングページ（SEO集客用）
 // 「2026年 スキンケア おすすめ YouTuber」等のロングテール検索に対応
-import { getProductsSorted, getCategories, slugifyProduct } from '@/lib/data'
+import { getProductsSorted, getCategories, slugifyProduct, getMeaningfulMentions } from '@/lib/data'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -109,7 +109,7 @@ export default function RankingPage() {
         <div className="space-y-3">
           {overallTop30.map((product, i) => {
             const slug = slugifyProduct(product)
-            const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
+            const youtuberCount = new Set(getMeaningfulMentions(product.mentioned_by).map(m => m.channel)).size
             return (
               <div key={slug}
                 className="bg-white rounded-xl border border-gray-100 p-4 hover:border-pink-200 hover:shadow-sm transition-all">
@@ -187,7 +187,7 @@ export default function RankingPage() {
           <div className="space-y-3">
             {ranking.products.map((product, i) => {
               const slug = slugifyProduct(product)
-              const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
+              const youtuberCount = new Set(getMeaningfulMentions(product.mentioned_by).map(m => m.channel)).size
               return (
                 <div key={slug}
                   className="bg-white rounded-xl border border-gray-100 p-4 hover:border-pink-200 hover:shadow-sm transition-all">
