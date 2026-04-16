@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-16 -->
-# MAI TAKASUGIおすすめアイライナー11選【2026年04月版】
+# MAI TAKASUGIおすすめアイライナー13選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したアイライナーアイテムをまとめました。
 
@@ -17,6 +17,8 @@
 9. **dejavu（デジャヴュ）** アイライナー デジャヴュ 密着アイライナー クリームペンシル
 10. **KATE（ケイト）** アイライナー 【KATE】 スーパーシャープライナーEX4.
 11. **キャンメイク** クリーミータッチライナー
+12. **KATE** スーパーシャープライナー ブラウン
+13. **KATE** アイライナー KATE  スーパーシャープライナー EX4.
 
 ---
 
@@ -160,5 +162,27 @@
 > [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000077168/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### KATE スーパーシャープライナー ブラウン
+
+![KATE スーパーシャープライナー ブラウン](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item_post04/4973167534410_m_p.jpg?_ex=500x500)
+
+**価格**: 1320円
+
+動画の概要欄でアイライナーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534410&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### KATE アイライナー KATE  スーパーシャープライナー EX4.0 ブラック
+
+> **MAI TAKASUGI**: 「かなと思ってこちらをチョイスいたしまし た。次はアイライナーですね。キャミクの クリーミータチライナー02番の色です。 このアイライナーはとにかく描きやすい。 なんで時短です。」
+> [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20KATE%20%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20EX4.0%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20KATE%20%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20EX4.0%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
 ---

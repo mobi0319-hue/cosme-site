@@ -7,7 +7,7 @@
 
 ## 一覧
 
-1. **KATE** リップ モンスター — 8人が紹介
+1. **KATE** リップ モンスター — 9人が紹介
 2. **デコルテ** ルージュ　クリームグロウ — 3人が紹介
 3. **rom&nd** ジューシーラスティングティント — 3人が紹介
 4. **ロムアンド** ロムアンド　ザ ジューシーラスティングティント — 3人が紹介
@@ -38,7 +38,7 @@
 
 ![KATE リップ モンスター](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/829/405829.jpg?_ex=500x500)
 
-**価格**: 1500円以下 | **8人のYouTuberが紹介**
+**価格**: 1500円以下 | **9人のYouTuberが紹介**
 
 > **かじえり**: 「薬局プチプラで人気の高発色リップ。」
 > [動画を見る](https://www.youtube.com/watch?v=7UU0fVUFAYo)
@@ -60,6 +60,9 @@
 
 > **nanachannel**: 「b idol チュルルングロス 02 オトマリピーチを使用。01番を気に入ってリピートし、動画でも繰り返し紹介しているお気に入りリップ。」
 > [動画を見る](https://www.youtube.com/watch?v=d_dkhSbD8_g)
+
+> **MAI TAKASUGI**: 「チーク結構入れるとお任せるのと、あと リップをちょっとあの同じようにパキッと させるとやってる感が出るかなって。 ちょっと前の方にも入れたりします。 もう1回入れとこうかな。 急いでとホを出す。 あ、やばい。私エディング動かしてないね 。」
+> [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

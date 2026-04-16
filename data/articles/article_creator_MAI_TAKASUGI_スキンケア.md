@@ -30,8 +30,8 @@
 
 **価格**: 1430円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-nW-sPXuYjk)
+> **MAI TAKASUGI**: 「。今日はフィックスするのに メイクキープミスト EXプ仕上げ用ローションです。使い方を ね、様々かなと思います。」
+> [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710576306&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4971710576306/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

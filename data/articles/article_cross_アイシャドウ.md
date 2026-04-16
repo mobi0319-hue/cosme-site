@@ -7,8 +7,8 @@
 
 ## 一覧
 
-1. **PERFECT DIARY** PERFECTDIARY エクスプローラ 12色動物アイシャ — 3人が紹介
-2. **ウェイクメイク** ウェイクメイク — 3人が紹介
+1. **ウェイクメイク** ウェイクメイク — 4人が紹介
+2. **PERFECT DIARY** PERFECTDIARY エクスプローラ 12色動物アイシャ — 3人が紹介
 3. **LUNASOL（ルナソル）** アイカラーレーションN 17 Neo Depth — 2人が紹介
 4. **KATE（ケイト）** ポッピングシルエットシャドウ — 2人が紹介
 5. **コスメデコルテ (DECORTÉ)** アイグロウジェム — 2人が紹介
@@ -25,6 +25,26 @@
 
 ---
 
+### ウェイクメイク ウェイクメイク
+
+**4人のYouTuberが紹介**
+
+> **韓国オンニAちゃん (会社員J)**: 「ザーセム・ルナ・デイジーク・ウェイクメイクのパレットを比較。」
+> [動画を見る](https://www.youtube.com/watch?v=S66Ay9gX9NA)
+
+> **さぁや saaya**: 「ウェイクメイクのソフトブラーリーアイパレット 10番を紹介。特にブルベの方におすすめのアイシャドウパレットとして高評価。」
+> [動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
+
+> **コスメヲタちゃんねるサラ**: 「チラチラと輝いて、 可愛すぎる。 次がこちら、 ウェイクメイク、 ホリデーコレクションが出ます。 可愛い。 キラキラ。 ソフトブラーリングアイパレット、 23番、 ミスティックラベンダーブラーリング。」
+> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
+
+> **MAI TAKASUGI**: 「で、プラスでメイクのソフト シアマルチパレット10ジョイフルピンク の色です。1番こっちの色ですね。今日は 使ってみました。前の方にも明るい茶色 今日は入れてみたくて、こちらもプラスし てみました。」
+> [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/wakemake_sf_blurring_eyepalette1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### PERFECT DIARY PERFECTDIARY エクスプローラ 12色動物アイシャドウパレット ローズピンク
 
 ![PERFECT DIARY PERFECTDIARY エクスプローラ 12色動物アイシャドウパレット ローズピンク](https://thumbnail.image.rakuten.co.jp/@0_mall/netclickstore-r/cabinet/r_1736008486/4950536858562.jpg?_ex=500x500)
@@ -36,23 +56,6 @@
 **紹介YouTuber**: 鹿の間 / MAI TAKASUGI / 水越みさと
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4950536858562&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000186602/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
-### ウェイクメイク ウェイクメイク
-
-**3人のYouTuberが紹介**
-
-> **韓国オンニAちゃん (会社員J)**: 「ザーセム・ルナ・デイジーク・ウェイクメイクのパレットを比較。」
-> [動画を見る](https://www.youtube.com/watch?v=S66Ay9gX9NA)
-
-> **さぁや saaya**: 「ウェイクメイクのソフトブラーリーアイパレット 10番を紹介。特にブルベの方におすすめのアイシャドウパレットとして高評価。」
-> [動画を見る](https://www.youtube.com/watch?v=-OYyKQvookg)
-
-> **コスメヲタちゃんねるサラ**: 「チラチラと輝いて、 可愛すぎる。 次がこちら、 ウェイクメイク、 ホリデーコレクションが出ます。 可愛い。 キラキラ。 ソフトブラーリングアイパレット、 23番、 ミスティックラベンダーブラーリング。」
-> [動画を見る](https://www.youtube.com/watch?v=PUdq4f6vpnw)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/wakemake_sf_blurring_eyepalette1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-16 -->
-# まつきりなおすすめリップ6選【2026年04月版】
+# まつきりなおすすめリップ8選【2026年04月版】
 
 人気美容YouTuber **まつきりな** さんが動画で紹介したリップアイテムをまとめました。
 
@@ -12,6 +12,8 @@
 4. **CLARINS** CLARINS/コンフォート リップオイル インテンス/03
 5. **SUQQU** シアー マット リップスティック 12 流月
 6. **アディクション** チーク👉 チークティント002
+7. **ETUDE** ＜Lip Stick＞ETUDE ムードグロウリップ バッド
+8. **Dior** ＜Lip Gloss＞Dior ディオール アディクト リッ
 
 ---
 
@@ -82,5 +84,27 @@
 > [動画を見る](https://www.youtube.com/watch?v=rKwVpyUdcHM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%81%E3%83%BC%E3%82%AF%F0%9F%91%89%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88002&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%81%E3%83%BC%E3%82%AF%F0%9F%91%89%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88002/?af=mobi.0319)
+
+---
+
+### ETUDE ＜Lip Stick＞ETUDE ムードグロウリップ バッドブラッシュ
+
+**価格**: 1350円
+
+> **まつきりな**: 「こんな色味のエチュードのムードグロウリップ バットブラッシュって色味を使いまーす かわいい大人っぽいピンクの色です この色は少しくす」
+> [動画を見る](https://www.youtube.com/watch?v=msO8JEMd1XI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ETUDE%20%EF%BC%9CLip%20Stick%EF%BC%9EETUDE%20%E3%83%A0%E3%83%BC%E3%83%89%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%90%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ETUDE%20%EF%BC%9CLip%20Stick%EF%BC%9EETUDE%20%E3%83%A0%E3%83%BC%E3%83%89%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%90%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
+
+---
+
+### Dior ＜Lip Gloss＞Dior ディオール アディクト リップ グロウ オイル
+
+**価格**: 4180円
+
+> **まつきりな**: 「買ったのこないだ買って ディオールのアリクトリップグロウオイルの012番 もうちょいってなるこんな感じで分厚いこのスティックで乗せると こんな感じで分厚いこのスティックで乗せると こんな感じで分厚いこのスティックで乗せる」
+> [動画を見る](https://www.youtube.com/watch?v=msO8JEMd1XI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%EF%BC%9CLip%20Gloss%EF%BC%9EDior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AA%E3%82%A4%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%EF%BC%9CLip%20Gloss%EF%BC%9EDior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AA%E3%82%A4%E3%83%AB/?af=mobi.0319)
 
 ---

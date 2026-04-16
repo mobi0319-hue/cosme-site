@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-16 -->
-# 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ10選
+# 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ11選
 
 複数の美容系YouTuberが**独立して紹介**したアイライナーアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -18,7 +18,8 @@
 30  — 2人が紹介
 8. **CANMAKE** クリーミータッチライナー 06 — 2人が紹介
 9. **CANMAKE** CANMAKE ラスティングリキッドライナー 05 グレージ — 2人が紹介
-10. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 2人が紹介
+10. **KATE** スーパーシャープライナー ブラウン — 2人が紹介
+11. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 2人が紹介
 
 ---
 
@@ -180,6 +181,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=sFlnxSdTzTk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008313641&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4901008313641/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### KATE スーパーシャープライナー ブラウン
+
+![KATE スーパーシャープライナー ブラウン](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item_post04/4973167534410_m_p.jpg?_ex=500x500)
+
+**価格**: 1320円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「上からつや入れます そしたらケイトのブラウンのラインで 垂れ目に引きます 結構垂れ目 そしたら前髪を軽く内に巻いて ふわりとさせます」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534410&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

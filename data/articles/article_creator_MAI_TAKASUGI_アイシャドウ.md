@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-16 -->
-# MAI TAKASUGIおすすめアイシャドウ30選【2026年04月版】
+# MAI TAKASUGIおすすめアイシャドウ32選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -36,6 +36,8 @@
 28. **CEZANNE（セザンヌ）** アイシャドウ 【セザンヌ】 ビタートーンアイシャドウ01
 29. **ヒンス** アイシャドウ 【ヒンス】 ニューデップスアイシャドウ v00
 30. **BOBBI BROWN（ボビイ ブラウン）** アイシャドウ【BOBBI BROWN】 アイシャドウ 14 
+31. **ウェイクメイク** ウェイクメイク
+32. **エクセル** アイシャドウ サナ エクセル スキニーリッチシャドウN SK
 
 ---
 
@@ -426,5 +428,23 @@
 [動画を見る](https://www.youtube.com/watch?v=wZcRjQJavgA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BOBBI%20BROWN%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%80%90BOBBI%20BROWN%E3%80%91%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%2014%20%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%88TOAST%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bobbibrown/24845/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### ウェイクメイク ウェイクメイク
+
+> **MAI TAKASUGI**: 「で、プラスでメイクのソフト シアマルチパレット10ジョイフルピンク の色です。1番こっちの色ですね。今日は 使ってみました。前の方にも明るい茶色 今日は入れてみたくて、こちらもプラスし てみました。」
+> [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/wakemake_sf_blurring_eyepalette1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### エクセル アイシャドウ サナ エクセル スキニーリッチシャドウN SK01 トゥルーブラウン
+
+> **MAI TAKASUGI**: 「こと 取っときましょう。 アイシャドウも少し重ねようかな。シャド も少し 3色。 ちょっと仕上げにね、もうちょっと色を 入れます。 色多めの、えっと、この白以外の色を 1対1ぐらいですね。」
+> [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%82%B5%E3%83%8A%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%8B%E3%83%BC%E3%83%AA%E3%83%83%E3%83%81%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6N%20SK01%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%82%B5%E3%83%8A%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%8B%E3%83%BC%E3%83%AA%E3%83%83%E3%83%81%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6N%20SK01%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-16 -->
-# まつきりなおすすめスキンケア4選【2026年04月版】
+# まつきりなおすすめスキンケア5選【2026年04月版】
 
 人気美容YouTuber **まつきりな** さんが動画で紹介したスキンケアアイテムをまとめました。
 
@@ -10,6 +10,7 @@
 2. **コスメデコルテ** コスメデコルテ/ リポソーム アドバンスト リペアセラム 7
 3. **シャネル** ハンドクリーム
 4. **shu uemura** クレンジング
+5. **バニラコ** バニラコクレンジング
 
 ---
 
@@ -56,5 +57,14 @@
 > [動画を見る](https://www.youtube.com/watch?v=3zplZbUnNcM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### バニラコ バニラコクレンジング
+
+動画の概要欄でスキンケアアイテムとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=2pwqXK261MY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0/?af=mobi.0319)
 
 ---

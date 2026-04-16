@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-16 -->
-# miku / 未来おすすめスキンケア5選【2026年04月版】
+# miku / 未来おすすめスキンケア6選【2026年04月版】
 
 人気美容YouTuber **miku / 未来** さんが動画で紹介したスキンケアアイテムをまとめました。
 
@@ -11,6 +11,7 @@
 3. **デコルテ** ルージュデコルテ　クリームグロウ（21G timeless 
 4. **ビオデルマ** ビオデルマ　クレンジング水
 5. **コスメデコルテ** コスメデコルテ　リポソーム美容液
+6. **ラネージュ** 💧　クリームスキンローション
 
 ---
 
@@ -76,5 +77,14 @@
 [動画を見る](https://www.youtube.com/watch?v=EDpF6Ndfu_s)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%E3%80%80%E3%83%AA%E3%83%9D%E3%82%BD%E3%83%BC%E3%83%A0%E7%BE%8E%E5%AE%B9%E6%B6%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lifeplaza01/4971710569964/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ラネージュ 💧　クリームスキンローション
+
+動画の概要欄でスキンケアアイテムとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=0t-UueI7SXQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%F0%9F%92%A7%E3%80%80%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%F0%9F%92%A7%E3%80%80%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
 ---
