@@ -28,8 +28,9 @@ export async function generateMetadata({
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
   const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
   const hasMeaningfulContent = getMeaningfulMentions(product.mentioned_by).length > 0
-  // 薄いページ（1人以下の紹介 AND 意味あるコメントなし）はnoindexでGoogle除外
-  const isThin = product.mention_count <= 1 && !hasMeaningfulContent
+  // 薄いページはnoindexでGoogle除外
+  // 条件: (1人以下 AND 意味あるコメントなし) OR (意味あるコメントが1つもない = 全部「概要欄で紹介」)
+  const isThin = !hasMeaningfulContent
   const now = new Date()
   const yearMonth = `${now.getFullYear()}年${now.getMonth() + 1}月`
   return {
