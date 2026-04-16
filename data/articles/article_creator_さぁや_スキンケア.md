@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
-# さぁやおすすめスキンケア22選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-16 -->
+# さぁやおすすめスキンケア21選【2026年04月版】
 
 人気美容YouTuber **さぁや** さんが動画で紹介したスキンケアアイテムをまとめました。
 
@@ -25,9 +25,8 @@
 17. **ORBIS** ザ クレンジングオイル
 18. **LAGOM（ラゴム）** レディートックス ジェルトゥウォータークレンザー
 19. **NUMBERS IN（ナンバーズイン）** 9番 NMN PDRN トリートメントトナー
-20. **dejavu** デジャヴュ クリームペンシル→https://www.-ne
-21. **デジャヴュ** クリームペンシル ダークブラウン \1,320
-22. **デジャヴュ** クリームペンシル 限定色ダークラベンダー \1,320全国バ
+20. **デジャヴュ** クリームペンシル ダークブラウン \1,320
+21. **デジャヴュ** クリームペンシル 限定色ダークラベンダー \1,320全国バ
 
 ---
 
@@ -275,15 +274,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=zMbRa6zPg0g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NUMBERS%20IN%209%E7%95%AA%20NMN%20PDRN%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/numbuzin/10000079/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
-### dejavu デジャヴュ クリームペンシル→https://www.-net.jp/items/eyeliner/lasting04/
-
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wTVlII4BV-I)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dejavu%20%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%E3%83%A5%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E2%86%92https%3A//www.-net.jp/items/eyeliner/lasting04/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dejavu%20%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%E3%83%A5%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E2%86%92https%3A//www.-net.jp/items/eyeliner/lasting04//?af=mobi.0319)
 
 ---
 

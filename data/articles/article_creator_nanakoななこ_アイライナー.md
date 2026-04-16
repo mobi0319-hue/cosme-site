@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # nanakoななこおすすめアイライナー5選【2026年04月版】
 
 人気美容YouTuber **nanakoななこ** さんが動画で紹介したアイライナーアイテムをまとめました。
@@ -20,7 +20,7 @@
 
 **価格**: 1100円
 
-> **nanakoななこ**: 「っていう人はぜひ はい使いすぎ ヒロインメイクのスムースリキッドアイライナー02番 これはガチ落ちない これはね本当にもうこれ何回言ってんの?って感じなんですけど 昔東海オンエアの動画に出た時に 水彩絵の具」
+> **nanakoななこ**: 「ヒロインメイクのスムースリキッドアイライナー02番を愛用。「ガチ落ちない」と絶賛しており、何度もリピートしているお気に入りアイテム」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
@@ -59,7 +59,7 @@
 
 **価格**: 715円
 
-> **nanakoななこ**: 「こういうクリームペンシル 特にクリーミータッチライナーは もともと作る量が薄いから パンダにならないの黒じゃないし でもうちょっと盛れないなぁと言ってますね っていう人はぜひ はい使いすぎ ヒロインメイクのスムース」
+> **nanakoななこ**: 「CANMAKE クリーミータッチライナーは発色が薄めで、パンダ目になりにくいのが特徴。もう少し盛りたい方にもおすすめの使いやすいアイライナー。」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2006&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901008312606/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)

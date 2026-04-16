@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 鹿の間おすすめ化粧下地17選【2026年04月版】
 
 人気美容YouTuber **鹿の間** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -47,8 +47,8 @@
 
 **価格**: 2310円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=87t1g9WINRM)
+> **鹿の間**: 「fwee スパグロウ UVトーンアップベースを使用。話題の下地で2種類展開があり、肌状態や季節で使い分けている愛用品と紹介。」
+> [動画を見る](https://www.youtube.com/watch?v=87t1g9WINRM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6%20UV%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%2001%20%E3%82%B0%E3%83%AD%E3%82%A6%2002%20%E3%83%AA%E3%83%83%E3%83%81%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/322112/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -73,8 +73,8 @@
 
 **価格**: 3080円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=D7qJ3rHk58g)
+> **鹿の間**: 「VDL トーンステインカラーコレクティングプライマー3番ペールブルを使用。とんでもない下地と出会ったと絶賛するほどの仕上がりの良さ。」
+> [動画を見る](https://www.youtube.com/watch?v=D7qJ3rHk58g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4589631363570&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_tn_primer_m2/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -99,7 +99,7 @@
 
 **価格**: 2970円
 
-> **鹿の間**: 「それでは早速下地からやっていきます まずはティルティルのマスクフィットトーンアップエッセンスを使います とりあえず顔をねしっかり変えるメイクの時は 土台を真っさらにするので 結構しっかり白くして顔の凹凸が 一旦皆無になるまで 伸ばしていきます で結構ジ」
+> **鹿の間**: 「TIRTIR マスクフィットトーンアップエッセンスを下地に使用。顔の凹凸をなくすほどしっかり白く塗り込み、ベースを整えるテクニックを紹介。」
 > [動画を見る](https://www.youtube.com/watch?v=7ao2mAssnp8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TIRTIR%20TIRTIR%20%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%9F%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/suzuyaebisudo/r-tirtir-tup/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
@@ -112,8 +112,8 @@
 
 **価格**: 3630円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GrHyeRho9Ms)
+> **鹿の間**: 「ウキサコントロールベースのイエローイエローはグリーンよりもより控えめに 赤みだったり肌のねトーンムラを 均一にしてくれるカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=PfF2WGEDH0Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=IPSA%20IPSA%20%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A4%E3%82%B9e%20%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikishop/ipsaspf3-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -164,8 +164,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xxCSQFHLshQ)
+> **鹿の間**: 「ちょこちょこのせているんですけど こちら、ピースのセカンドスキンメッシュマットクッション でございまーす はい、これはですね、」
+> [動画を見る](https://www.youtube.com/watch?v=xxCSQFHLshQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%2021&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000174117/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -177,8 +177,8 @@
 
 **価格**: 847円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xxCSQFHLshQ)
+> **鹿の間**: 「おすすめ さあ続いてはセザンヌのフェイスアイパレットの 1番これセザンヌの新作で結構売り切れてたんで 見つけたので2色買いしたんです」
+> [動画を見る](https://www.youtube.com/watch?v=xxCSQFHLshQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530251&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cf021188240101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -203,7 +203,7 @@
 
 **価格**: 1749円
 
-> **鹿の間**: 「下地はメイビリのフィットミー使っていきます これ結構吸いつくような密着度の高い下地なので これからの夏の季節とか崩れにくいのでめっちゃオススメ やっぱプチプラとなるとメイビリが強いな 特に」
+> **鹿の間**: 「下地はメイビリのフィットミー使っていきます これ結構吸いつくような密着度の高い下地なので これからの夏の季節とか崩れにくいのでめっちゃオススメ やっぱプチプラとなる」
 > [動画を見る](https://www.youtube.com/watch?v=5Glffedi0mM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/maybelline/6902395808503/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -216,7 +216,7 @@
 
 **価格**: 1760円
 
-> **鹿の間**: 「メイクで調整します 下地はまずオルビスユーの トリートメントプライマー使っていきます これめっちゃ保湿力高くって こんな感じで ほんのりベージュで白浮きしなくて 使いやすいです 普通にねこれ3000円く」
+> **鹿の間**: 「メイクで調整します 下地はまずオルビスユーの トリートメントプライマー使っていきます これめっちゃ保湿力高くって こんな感じで ほんのりベージュで白浮きしなくて 使いやすいです」
 > [動画を見る](https://www.youtube.com/watch?v=qT_IXScucN4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ORBIS%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%20%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cd010429180101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -240,7 +240,7 @@
 
 **価格**: 2310円
 
-> **鹿の間**: 「すごい悩んだんですけど フィースパグロウUVトワンプベース使っていきます スキンケアしてます 結婚式っていいよね 結婚式ってさー なんでこんな幸せなんだろう もう本当に大人になって結婚式行ったの 3年」
+> **鹿の間**: 「すごい悩んだんですけど フィースパグロウUVトワンプベース使っていきます スキンケアしてます」
 > [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20%0D%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6%20UV%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%0D01%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20fwee%20%0D%E3%82%B9%E3%83%91%E3%82%B0%E3%83%AD%E3%82%A6%20UV%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%20%0D01%20%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)

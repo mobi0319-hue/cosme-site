@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
-# 韓国オンニAちゃん (会社員J)おすすめスキンケア12選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-16 -->
+# 韓国オンニAちゃん (会社員J)おすすめスキンケア8選【2026年04月版】
 
 人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したスキンケアアイテムをまとめました。
 
@@ -11,13 +11,9 @@
 3. **numbuzin（ナンバーズイン）** ナンバーズイン 1番 マスクパック
 4. **numbuzin (ナンバーズイン)** numbuzin コスメ
 5. **Biodance (バイオダンス)** Biodance スキンケア
-6. **ME+CHAI** ①  バクチオールスフレボディクリーム：https://ww
-7. **ME+CHAI** ②  バクチオールスフレボディクリーム ダブルセット：htt
-8. **ME+CHAI** ③  EGFブースターセラム：https://www.qoo
-9. **ME+CHAI** ④  EGFブースターセラム ダブルセット：https://
-10. **ME+CHAI** ① バクチオールスフレボディクリームをご購入いただいた先着5
-11. **ME+CHAI** ② EGFバブルエッセンスをご購入いただいた先着500名様に
-12. **ME+CHAI** [生活用品?] ME+CHAI バクチオールスフレボディクリ
+6. **ME+CHAI** ① バクチオールスフレボディクリームをご購入いただいた先着5
+7. **ME+CHAI** ② EGFバブルエッセンスをご購入いただいた先着500名様に
+8. **ME+CHAI** [生活用品?] ME+CHAI バクチオールスフレボディクリ
 
 ---
 
@@ -86,45 +82,9 @@
 
 ---
 
-### ME+CHAI ①  バクチオールスフレボディクリーム：https://www.qoo10.jp/g/1097906039
-
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20%E2%91%A0%20%20%E3%83%90%E3%82%AF%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097906039&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20%E2%91%A0%20%20%E3%83%90%E3%82%AF%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097906039/?af=mobi.0319)
-
----
-
-### ME+CHAI ②  バクチオールスフレボディクリーム ダブルセット：https://www.qoo10.jp/g/1097907038
-
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20%E2%91%A1%20%20%E3%83%90%E3%82%AF%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%80%E3%83%96%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097907038&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20%E2%91%A1%20%20%E3%83%90%E3%82%AF%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%80%E3%83%96%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097907038/?af=mobi.0319)
-
----
-
-### ME+CHAI ③  EGFブースターセラム：https://www.qoo10.jp/g/1097901789
-
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20%E2%91%A2%20%20EGF%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%A9%E3%83%A0%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097901789&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20%E2%91%A2%20%20EGF%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%A9%E3%83%A0%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097901789/?af=mobi.0319)
-
----
-
-### ME+CHAI ④  EGFブースターセラム ダブルセット：https://www.qoo10.jp/g/1097905659
-
-> **韓国オンニAちゃん (会社員J)**: 「したことがあります今回の新作ミチイの EGFブースターセラム皆さんお顔には 化粧水使ったことありますよね美容液乳液 をもちろんクリームを使ったことあると 思いますその他にも色々使ったと思うん ですけれども首から下体に使っ」
-> [動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20%E2%91%A3%20%20EGF%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%80%E3%83%96%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097905659&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20%E2%91%A3%20%20EGF%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%80%E3%83%96%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%EF%BC%9Ahttps%3A//www.qoo10.jp/g/1097905659/?af=mobi.0319)
-
----
-
 ### ME+CHAI ① バクチオールスフレボディクリームをご購入いただいた先着500名様に シカサルブクリーム ミニサイズをプレゼント
 
-> **韓国オンニAちゃん (会社員J)**: 「セラーでございますシカサルブクリームの ミニアチュアを定いたしますでは皆さん これからもみちゃをよろしくお願いし ますで [音楽] [拍手] [音楽]」
+> **韓国オンニAちゃん (会社員J)**: 「セラーシカサルブクリームの ミニアチュアを定いたしますではこれからもみちゃをよろしくお願いし ます」
 > [動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20%E2%91%A0%20%E3%83%90%E3%82%AF%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%92%E3%81%94%E8%B3%BC%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E5%85%88%E7%9D%80500%E5%90%8D%E6%A7%98%E3%81%AB%20%E3%82%B7%E3%82%AB%E3%82%B5%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%9F%E3%83%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20%E2%91%A0%20%E3%83%90%E3%82%AF%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%95%E3%83%AC%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%92%E3%81%94%E8%B3%BC%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E5%85%88%E7%9D%80500%E5%90%8D%E6%A7%98%E3%81%AB%20%E3%82%B7%E3%82%AB%E3%82%B5%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%9F%E3%83%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88/?af=mobi.0319)
@@ -133,7 +93,7 @@
 
 ### ME+CHAI ② EGFバブルエッセンスをご購入いただいた先着500名様に シカサルブクリーム ミニサイズをプレゼント
 
-> **韓国オンニAちゃん (会社員J)**: 「セラーでございますシカサルブクリームの ミニアチュアを定いたしますでは皆さん これからもみちゃをよろしくお願いし ますで [音楽] [拍手] [音楽]」
+> **韓国オンニAちゃん (会社員J)**: 「セラーシカサルブクリームの ミニアチュアを定いたしますではこれからもみちゃをよろしくお願いし ます」
 > [動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20%E2%91%A1%20EGF%E3%83%90%E3%83%96%E3%83%AB%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%92%E3%81%94%E8%B3%BC%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E5%85%88%E7%9D%80500%E5%90%8D%E6%A7%98%E3%81%AB%20%E3%82%B7%E3%82%AB%E3%82%B5%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%9F%E3%83%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20%E2%91%A1%20EGF%E3%83%90%E3%83%96%E3%83%AB%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%92%E3%81%94%E8%B3%BC%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E5%85%88%E7%9D%80500%E5%90%8D%E6%A7%98%E3%81%AB%20%E3%82%B7%E3%82%AB%E3%82%B5%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%9F%E3%83%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88/?af=mobi.0319)

@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめスキンケア15選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したスキンケアアイテムをまとめました。
@@ -43,8 +43,8 @@
 
 **価格**: 4470円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「オバミエメイクしてますので撮っていこうと思いますこちらがビオデルマですサンシブヨH2OD こちらでまずメイクを撮っていきます はいメイクが落ちました 5分かかっちゃった落とすのに すっごいね厚塗りをしてたのでこれからです」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%93%E3%82%AA%E3%83%87%E3%83%AB%E3%83%9E%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%83%93%E3%82%AA%E3%83%87%E3%83%AB%E3%83%9E%E3%80%80%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%93%E3%82%AAH2O&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmetch/2300000002324/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -56,8 +56,8 @@
 
 **価格**: 1785円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「乳液の間に美容液入れまーす ワンバイコーセーのメラノショットPです この最近朝晩使ってまーす」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%20%E7%BE%8E%E5%AE%B9%E6%B6%B2%20%E3%83%AF%E3%83%B3%E3%83%90%E3%82%A4%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%20%E3%83%A1%E3%83%A9%E3%83%8E%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88P&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/luckybravo/kose7x1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -69,8 +69,8 @@
 
 **価格**: 4400円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「化粧水です エリクシールのブライトニングローションしっとりタイプCA を使っていきまーす 今日はねなんかコットンでメイク落としていったんで化粧水もコットンでつけていきまーす」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4549099782297&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yayoi-cosme/22978/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -186,8 +186,8 @@
 
 **価格**: 4290円
 
-動画の概要欄でスキンケアアイテムとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
+> **MAI TAKASUGI**: 「よいしょよいしょ これぐらい濡れたら 乳液 乳液ってかエマルジョン? なんかヘアエマルジョン ヘアミルク もうあんまりない でも次買いたいアイテムあったらいいんです それを使ってみたいのをまた使い始めたら やります」
+> [動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%20WT%20II%EF%BC%88%E3%81%97%E3%81%A3%E3%81%A8%E3%82%8A%EF%BC%89%20%E3%80%88%E5%8C%BB%E8%96%AC%E9%83%A8%E5%A4%96%E5%93%81%E3%80%89%E4%B9%B3%E6%B6%B2%20130mL&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%20WT%20II%EF%BC%88%E3%81%97%E3%81%A3%E3%81%A8%E3%82%8A%EF%BC%89%20%E3%80%88%E5%8C%BB%E8%96%AC%E9%83%A8%E5%A4%96%E5%93%81%E3%80%89%E4%B9%B3%E6%B6%B2%20130mL/?af=mobi.0319)
 

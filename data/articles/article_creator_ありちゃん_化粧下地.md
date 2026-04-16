@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # ありちゃんおすすめ化粧下地9選【2026年04月版】
 
 人気美容YouTuber **ありちゃん** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -89,8 +89,8 @@
 
 **価格**: 1430円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=e6BMuKc97TM)
+> **ありちゃん**: 「これはねカバー力すごい高いです ボンジョイオのこのトーンアップベースは化粧スタジオとは思えないくらい クエストってかなりお肌が綺麗に見えるタイプのスタジオ かつね商品名がトーンアップベースって書いてある」
+> [動画を見る](https://www.youtube.com/watch?v=e6BMuKc97TM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4570042582001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lancome/a01668-lac/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -102,8 +102,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=e6BMuKc97TM)
+> **ありちゃん**: 「マスクフィット トーンアップエッセンスを使用。カバー力が非常に高く、お肌が綺麗に見えるトーンアップ効果が魅力のベースアイテム。」
+> [動画を見る](https://www.youtube.com/watch?v=e6BMuKc97TM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%82%A2%E3%83%83%E3%83%97%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%20SPF30/PA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/select-shop-miyabi/tirtir_essence/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -115,8 +115,8 @@
 
 **価格**: 7480円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=e6BMuKc97TM)
+> **ありちゃん**: 「ボンジョイオのこのトーンアップベースは化粧スタジオとは思えないくらい クエストってかなりお肌が綺麗に見えるタイプのスタジオ かつね商品名がトーンアップベースって書いてある」
+> [動画を見る](https://www.youtube.com/watch?v=e6BMuKc97TM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%82%B9%E3%83%8E%E3%83%BC%20UV%20%E3%83%99%E3%83%BC%E3%82%B9%20SPF50/PA%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/dirgb0000237/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

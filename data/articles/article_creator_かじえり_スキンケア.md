@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # かじえりおすすめスキンケア12選【2026年04月版】
 
 人気美容YouTuber **かじえり** さんが動画で紹介したスキンケアアイテムをまとめました。
@@ -53,7 +53,7 @@
 
 **価格**: 16500円
 
-> **かじえり**: 「肌が元気になると評価。100mlの大容量を免税店で購入した愛用美容液」
+> **かじえり**: 「肌が元気になると評価。100mlの大容量を免税店で購入した」
 > [動画を見る](https://www.youtube.com/watch?v=1lfYVvlPdbY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E8%B3%87%E7%94%9F%E5%A0%82%20%E8%B3%87%E7%94%9F%E5%A0%82%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%B3%20%E3%83%91%E3%83%AF%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kirei-clover/140192/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -66,7 +66,7 @@
 
 **価格**: 3960円
 
-> **かじえり**: 「顔体用高保湿ローション。ヘパリン類似物質HD配合で赤ちゃんにも使えるほど低刺激」
+> **かじえり**: 「顔体用高保湿ローション。ヘパリン類似物質HD配合で赤ちゃんにも使える」
 > [動画を見る](https://www.youtube.com/watch?v=1lfYVvlPdbY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710539967&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kyorindo/4971710539936-2/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -79,7 +79,7 @@
 
 **価格**: 1980円
 
-> **かじえり**: 「保湿とツヤを与えるミストとして愛用中と紹介。乾燥しやすい季節に効果的」
+> **かじえり**: 「保湿とツヤを与えるミストとして愛用中と紹介。」
 > [動画を見る](https://www.youtube.com/watch?v=3kZC_zTdSso)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901872975105&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%84%E3%83%A4%E7%8E%89%E3%83%9F%E3%82%B9%E3%83%88/?af=mobi.0319)

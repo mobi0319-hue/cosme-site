@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 小田切ヒロおすすめ化粧下地63選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -156,8 +156,8 @@
 
 **価格**: 9900円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZDJIg2WvUnU)
+> **小田切ヒロ**: 「紫外線防御力としてはSPF50プラスにPA++++というですしっかりとお肌を守ってくれるんですけれども なんと美白そしてシワ改善までもしてくれるというですこのアルビオン最高峰のこのデイクリームが最強なんです」
+> [動画を見る](https://www.youtube.com/watch?v=ZDJIg2WvUnU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4979006116892&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SK-II%20SK-II%20%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%97%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%20CC%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%E3%80%80%E2%80%BB4%E6%9C%885%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -182,8 +182,8 @@
 
 **価格**: 3080円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=jMKt2RVw_4g)
+> **小田切ヒロ**: 「その中でもこのVDLの 私の大好きなトーンステインカラーコレクティングプライマーけれども イエローが出たんですよ そう今期の下地のカラーのトレンドはイエローになります」
+> [動画を見る](https://www.youtube.com/watch?v=jMKt2RVw_4g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4589631363570&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%EF%BC%B6%EF%BC%A4%EF%BC%AC%E3%80%80%EF%BC%B6%EF%BC%A4%EF%BC%AC%E3%80%80%E3%83%88%E3%83%BC%E3%83%B3%E3%80%80%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%E3%80%80%E3%82%AB%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%80%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BCSPF20%20/%20PA%2B%2B%E3%80%80%EF%BC%90%EF%BC%94%E3%80%80%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%80%80%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC/?af=mobi.0319)
 
@@ -312,8 +312,8 @@
 
 **価格**: 7370円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+> **小田切ヒロ**: 「トーンアップ下地部門です ボビーブラウンインテンシブセラムラディアンスプライマーロージー」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B7%E3%83%96%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF24%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bobbibrown/117861/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -377,8 +377,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=aOfsAHI4bFc)
+> **小田切ヒロ**: 「なるほどそこからこちらルナソルのねこちらクラリティスキンプライマーの01 セレンピンクというカラーを使います」
+> [動画を見る](https://www.youtube.com/watch?v=aOfsAHI4bFc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20LUNASOL%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%2001%20Serene%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lunasol/r4973167019726/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -390,8 +390,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
+> **小田切ヒロ**: 「ルナソルのクラリティススキンプライマーを使っていきます 01番のセレンピンク そう肌のトーンからクールトーンクールトーンクールトーンで攻めてしまいますと スタイリッシュすぎてしまいます」
+> [動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20LUNASOL%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF13%20/%20PA%2B%2001%20Serene%20Pink%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNASOL%20LUNASOL%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF13%20/%20PA%2B%2001%20Serene%20Pink%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -767,8 +767,8 @@
 
 **価格**: 10890円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=_4DoWfXeh0M)
+> **小田切ヒロ**: 「これ2025年を代表するクッションファンデーション え、」
+> [動画を見る](https://www.youtube.com/watch?v=ShMFbV832hU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%A4%E3%83%89%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%20/%20PA%2B%2B%2B%202N%E3%80%80%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rareu/20250227006/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

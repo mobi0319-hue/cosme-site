@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 水越みさとおすすめアイライナー6選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したアイライナーアイテムをまとめました。
@@ -75,8 +75,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
+> **水越みさと**: 「使ってもすごく映えます はいお次こちら エクセルのメロウシェードリキッドライナーです すでにショート動画の方では紹介したんですが 実は発売がね10月なんです」
+> [動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=EXCEL%20excel%20%E3%83%A1%E3%83%AD%E3%82%A6%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89%E3%80%80%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E2%80%BB10/22%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/EXCEL%20excel%20%E3%83%A1%E3%83%AD%E3%82%A6%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89%E3%80%80%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E2%80%BB10/22%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 

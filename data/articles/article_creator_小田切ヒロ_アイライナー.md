@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 小田切ヒロおすすめアイライナー18選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイライナーアイテムをまとめました。
@@ -150,8 +150,8 @@
 
 **価格**: 1419円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=QMLatxP5fHY)
+> **小田切ヒロ**: 「アイライナーブラシをですねコンシーラーにとっていただいたら この眉尻のところにスッと1本入れていくんですそしてミーガンの場合はですね眉下にですね明るいハイライターが入っております なのでこの部分です」
+> [動画を見る](https://www.youtube.com/watch?v=ShMFbV832hU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4936968663840&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20RBK-1%20%E6%BC%86%E9%BB%92%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -176,8 +176,8 @@
 
 **価格**: 3850円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
+> **小田切ヒロ**: 「ルナソルのクラリティススキンプライマーを使っていきます 01番のセレンピンク そう肌のトーンからクールトーンクールトーンクールトーンで攻めてしまいますと スタイリッシュすぎてしまいます」
+> [動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167017036&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hewuakaneshop/4973167017036/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -202,8 +202,8 @@
 
 **価格**: 4840円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CSxQHHk3cRU)
+> **小田切ヒロ**: 「そして次はこちら一番濃いから締め色を使って こちらのアイライナーとして目を閉じていただいて3分の1締めていきます で正面をご覧いただいて目を開けたらこれを平行に横にスッと出していきます 逆側も目を閉じていただいたら 正面にスーッと綺麗な流れ 好きですす」
+> [動画を見る](https://www.youtube.com/watch?v=_a5fRZU8HIY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6%20%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95%20096%20%E3%82%B5%E3%83%86%E3%83%B3%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ciflab/cd0001/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -241,8 +241,8 @@
 
 **価格**: 1419円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wkSc1rVIxCw)
+> **小田切ヒロ**: 「これ? うん、これです。 かわいい。 ピンクライナー。 なんかピンク系入れると、新鮮からまたフレッシュなね、赤の毛の世界が待ってる気がする。 気がして、気がして。 温かみが出てる。 温かみ。 そう。」
+> [動画を見る](https://www.youtube.com/watch?v=wkSc1rVIxCw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20R%20%E3%83%94%E3%83%BC%E3%83%81%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20R%20%E3%83%94%E3%83%BC%E3%83%81%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
 

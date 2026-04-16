@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめ化粧下地10選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -77,7 +77,7 @@
 
 **価格**: 3410円
 
-> **MAI TAKASUGI**: 「1アイテム目は じゃーん エリクシールデイケアレボリューショントーンアップBEプラスCAです 日中用乳液になってます こちらがですねすごく便利なことに 化粧水を塗った後すぐこちらで大丈夫だよっていう」
+> **MAI TAKASUGI**: 「1アイテム目は エリクシールデイケアレボリューショントーンアップBEプラスCAです 日中用乳液になってます こちらがですねすごく便利なことに 化粧水を塗った後す」
 > [動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978265755&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/19593/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
@@ -103,8 +103,8 @@
 
 **価格**: 8052円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=bMpnGoiVbWE)
+> **MAI TAKASUGI**: 「私も思ってさせてもらってます 次にベースなんですけども マーズのライトリフティングトーンアップベールでーす すっごーい 少しだけ柔らかいテクスチャーなんですロージーローザのね、」
+> [動画を見る](https://www.youtube.com/watch?v=bMpnGoiVbWE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20%E3%83%99%E3%83%BC%E3%82%B9%20%E3%80%90NARS%E3%80%91%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%80%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/amitysun/80001986/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -134,7 +134,7 @@
 
 ### トーン 5番　白玉グルタチオンCアップベース
 
-> **MAI TAKASUGI**: 「ナンバーズインは美容液とトーンアコーディエースを以前ちょっといただきまして 初めてナンバーズインを使ってみたんですね この美容液がめちゃめちゃ良くって 塗った翌日、」
+> **MAI TAKASUGI**: 「ナンバーズインは美容液とトーンアコーディエースを以前ちょっといただきまして 初めてナンバーズインを使ってみたんですこの美容液がめちゃめちゃ良くって 塗った翌日、」
 > [動画を見る](https://www.youtube.com/watch?v=Q4CpgI3nR6I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%205%E7%95%AA%E3%80%80%E7%99%BD%E7%8E%89%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3C%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%205%E7%95%AA%E3%80%80%E7%99%BD%E7%8E%89%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3C%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9/?af=mobi.0319)

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
-# 水越みさとおすすめその他51選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-16 -->
+# 水越みさとおすすめその他50選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -57,7 +57,6 @@
 49. **SOFINA** SOFINA iP
 ポア クリアリング ジェル ウォッシュ
 50. **JILL STUART** JILL STUART　モノトーンツイードジャケット　ブラッ
-51. **TAG** Instagram＊https://www.instagra
 
 ---
 
@@ -132,8 +131,8 @@
 
 **価格**: 9900円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「コスメデコルテのリポソーム スキンケアキットを紹介。メイクアップだけでなくスキンケアも優秀で、特におすすめと評価。」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AD%E3%83%83%E3%83%88%20%E8%88%9C%E8%8F%AF%2011/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/2263/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -145,8 +144,8 @@
 
 **価格**: 5940円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「感じなんですけどこちら ファーストエクスペリエンスキットです 資生堂の中でもす」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%20%E3%82%AD%E3%83%83%E3%83%88%2011/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/partytime-tokyo/2509sd034cfr/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -158,8 +157,8 @@
 
 **価格**: 12100円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「とっておいてまた今度使おうと思います そしたら次ですマック行きたいと思います マックねめっちゃホリデー出るんですよ なのでちょっと厳選してっていう感じなんです」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAC%20MAC%20%E3%82%AA%E3%83%96%20%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%20%E3%83%96%E3%83%A9%E3%82%B7%20%E3%82%AD%E3%83%83%E3%83%88%2011/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cinderellabeaute/2509mc033cfr/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -171,8 +170,8 @@
 
 **価格**: 10340円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「はいそれでは次クレドポーボーテいきます クレドポーボーテのおふりで 2つちょっと選んだんですけど コスメというよりは 芸術品みたいな感じ こちらボンブルクルールクアドリの 504番です」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4514254224427&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/syosin/4514254224427/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -184,8 +183,8 @@
 
 **価格**: 9350円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「はいそれでは次クレドポーボーテいきます クレドポーボーテのおふりで 2つちょっと選んだんですけど コスメというよりは 芸術品みたいな感じ こちらボンブルクルールクアドリの 504番です」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4514254224458&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kind-s-care/4514254224458/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -197,8 +196,8 @@
 
 **価格**: 8800円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「ジルスチュアート リボンファッションショーコレクションのコフレを紹介。毎年お得で人気が高く、可愛いデザインが魅力。」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%83%AA%E3%83%9C%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2010/31%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/1340/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -210,8 +209,8 @@
 
 **価格**: 19800円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+> **水越みさと**: 「楽しめるかなと思いました こんな感じの仕上がりです 次はエスティローダ もう毎年エスティローダのホリデーは もう盛り沢山すぎる 一気に色々試したいなら もうこれだなって思うんです」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=EST%C3%89E%20LAUDER%20%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%20%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC%20%E3%83%A1%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%202025%2010/17%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/auc-ginzaparis/1-0260877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -223,8 +222,8 @@
 
 **価格**: 6600円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Ez4dA8AAoBI)
+> **水越みさと**: 「はい続いてはジルスチュアトの ドレスドブルームアイズ 2番と3番です 真ん中の部分にジルスチュアトのJのマークがあったんです」
+> [動画を見る](https://www.youtube.com/watch?v=Ez4dA8AAoBI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%83%89%E3%83%AC%E3%82%B9%E3%83%89%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%A2%E3%82%A4%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharestore2025/202512281533/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -236,8 +235,8 @@
 
 **価格**: 4950円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=MovC8L0uZzI)
+> **水越みさと**: 「使ってよかったし、今も使ってるのがこちら エストのナーチャリングクレンジングセラムです こっちはもう空です こっちももう半分ぐらいない このクレンジングオイルタイプなんです」
+> [動画を見る](https://www.youtube.com/watch?v=MovC8L0uZzI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ReFa%20%E3%82%A8%E3%82%B9%E3%83%88%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A4%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%82%A7%E3%83%AB%20%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/est-official/e0015/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -249,8 +248,8 @@
 
 **価格**: 2420円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=MovC8L0uZzI)
+> **水越みさと**: 「プリマヴィスタのプレメイクアップ ジェルウォッシュを使用。ジェル洗顔タイプで、エスト好きにもおすすめ。角栓や毛穴のケアにも効果的と評価されている。」
+> [動画を見る](https://www.youtube.com/watch?v=MovC8L0uZzI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901301441348&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yayoi-cosme/ka441348/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -262,8 +261,8 @@
 
 **価格**: 10010円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=RBOGLsFqZRM)
+> **水越みさと**: 「この後動画出てくるものもあるんですけど アイシャドウがディオールのピンクリビエラ リップはマックです」
+> [動画を見る](https://www.youtube.com/watch?v=RBOGLsFqZRM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6%20%E3%82%B5%E3%83%B3%E3%82%AF%20%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%AB654/974%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E5%93%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6%20%E3%82%B5%E3%83%B3%E3%82%AF%20%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%AB654/974%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E5%93%81/?af=mobi.0319)
 
@@ -275,8 +274,8 @@
 
 **価格**: 4620円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VJieBiVSHtU)
+> **水越みさと**: 「ETVOS ミネラルクラッシィシャドー シフォンアンサンブルを使用。非常に可愛いと絶賛された限定商品で、限定ショップで購入したお気に入りアイテム。」
+> [動画を見る](https://www.youtube.com/watch?v=VJieBiVSHtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4580682133310&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000213932%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10171071%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -288,8 +287,8 @@
 
 **価格**: 7700円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
+> **水越みさと**: 「そこがねすごく嬉しいとこでもありますよはい続いてはルナソル 可愛いのがめちゃくちゃあるんですけど まずこちら アイカラーレーションN EX12とEX13 これがですね11月発売になります」
+> [動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167554937&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeparfaite/lunasol-eye_shadow01/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -301,8 +300,8 @@
 
 **価格**: 3520円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
+> **水越みさと**: 「そこがねすごく嬉しいとこでもありますよはい続いてはルナソル 可愛いのがめちゃくちゃあるんですけど まずこちら アイカラーレーションN EX12とEX13 これがですね11月発売になります」
+> [動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%20%E3%83%A2%E3%83%8E%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/6452/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -314,8 +313,8 @@
 
 **価格**: 6820円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
+> **水越みさと**: 「そこがねすごく嬉しいとこでもありますよはい続いてはルナソル 可愛いのがめちゃくちゃあるんですけど まずこちら アイカラーレーションN EX12とEX13 これがですね11月発売になります」
+> [動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20EX11%20Lilac%20Dream%20%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bjcosmetic/cs732/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -327,8 +326,8 @@
 
 **価格**: 1760円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
+> **水越みさと**: 「はい続いてはエクセルのドレープドシマーグロウDS04 スノーグロウという限定色が出ます なんか見覚えあるなと思ったんです」
+> [動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4964596781186&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%83%89%E3%83%AC%E3%83%BC%E3%83%97%E3%83%89%20%E3%82%B7%E3%83%9E%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6%20DS04%20%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6%20%E9%99%90%E5%AE%9A/?af=mobi.0319)
 
@@ -340,8 +339,8 @@
 
 **価格**: 6490円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
+> **水越みさと**: 「はい続いてはイヴサンローランのラブシャインキャンディグレーズ 限定色がホリデー出てますし パッケージもゴールドに輝いていて かなりダグジュラムです リッチです」
+> [動画を見る](https://www.youtube.com/watch?v=ZMJAg-2vas4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YSL%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BA%20%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cinderellabeaute/2512ys054rug/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -353,8 +352,8 @@
 
 **価格**: 9350円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
+> **水越みさと**: 「ファンデーションはイブサンローラン オールアワーズリキッドグロウ です LC2番 ハイライトを結構しっかり使って ツヤ肌には仕上げるんです」
+> [動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2069%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hewuakaneshop/3614274403169/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -366,8 +365,8 @@
 
 **価格**: 528円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
+> **水越みさと**: 「はい続いてはこちら ロージーローザーの ブラシを買ってみたんです アイシャドウ用の2本セット 特にこの小さい方 これがすごく使いやすそうで これに惹かれて買ってみました こっちもいいんです」
+> [動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901604457237&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-4901604457237/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -379,8 +378,8 @@
 
 **価格**: 506円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
+> **水越みさと**: 「はい続いてはこちら ロージーローザーの ブラシを買ってみたんです アイシャドウ用の2本セット 特にこの小さい方 これがすごく使いやすそうで これに惹かれて買ってみました こっちもいいんです」
+> [動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8N%20%E3%82%A6%E3%82%A7%E3%83%83%E3%82%B8%E5%9E%8B%E3%82%BF%E3%82%A4%E3%83%97%2030P&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cb004766390101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -392,8 +391,8 @@
 
 **価格**: 990円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
+> **水越みさと**: 「こっちだけ塗ってあるんですけど こちら側と比べるとトーンアップしているのと 若干ね色ムラが整っているのが 伝わるかなと思います こっちが塗ってない方で、」
+> [動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971825016582&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/84667/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -444,8 +443,8 @@
 
 **価格**: 8360円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
+> **水越みさと**: 「はい、それでは1つ目のアイテムがこちら イブサンローラのオールアワーズリキッドグロウが登場します もともとこちらのオールアワーズリキッドっていう リキッドファンデーション ちょっとマットに仕上がる、」
+> [動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YSL%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E2%80%BB8%E6%9C%8822%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yslbeauty/ww-51439ysl/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -457,8 +456,8 @@
 
 **価格**: 3850円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
+> **水越みさと**: 「ちょっとたくさん登場すると思いますが まずエレガンスからも 単色アイシャドウが出ます で今パッと見て 気になった色をピックアップしてきたんです」
+> [動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%97%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%BA%20%E2%80%BB8%E6%9C%8817%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%97%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%BA%20%E2%80%BB8%E6%9C%8817%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -470,8 +469,8 @@
 
 **価格**: 10980円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
+> **水越みさと**: 「この超可愛いアイシャドウ イブサンローラのクチュールミニクラッチの730番 何色かまた発売になったんですけど最近 そのうちのこの730番が 見た目から好きと思って 紹介していきたいと思います 装置はこんな感じです」
+> [動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YSL%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%8B%20%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%20730%20%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA%20%E3%82%B5%E3%83%95%E3%82%A1%E3%83%AA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yslbeauty/ww-51079ysl/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -483,8 +482,8 @@
 
 **価格**: 3520円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
+> **水越みさと**: 「今使いたいやつがありまして それがこちら ジルスチュアートのバウンシングマルチカラーです めっちゃ可愛いこのパケ ポットタイプになっているんですけど 蓋がねお姫様みたいな装飾が されているんです」
+> [動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%83%AB%E3%83%81%E3%82%AB%E3%83%A9%E3%83%BC%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeland/297843/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -496,8 +495,8 @@
 
 **価格**: 9350円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
+> **水越みさと**: 「はい、それでは1つ目のアイテムがこちら イブサンローラのオールアワーズリキッドグロウが登場します もともとこちらのオールアワーズリキッドっていう リキッドファンデーション ちょっとマットに仕上がる、」
+> [動画を見る](https://www.youtube.com/watch?v=txclTV5FjpU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YSL%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2069%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%A9%E3%82%B9%E3%83%88%20%E2%80%BB8%E6%9C%8822%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20YSL%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2069%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%A9%E3%82%B9%E3%83%88%20%E2%80%BB8%E6%9C%8822%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -509,8 +508,8 @@
 
 **価格**: 4560円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=DentIpVG1ic)
+> **水越みさと**: 「NARS ライトリフレクティングセッティングパウダーを紹介。NARSベースメイクアイテム徹底解説企画の中で取り上げられた注目パウダー。」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharecafe/6045484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -522,8 +521,8 @@
 
 **価格**: 4040円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BIAzbtGmz1w)
+> **水越みさと**: 「コスメデコルテ トーンパーフェクティングパレット 01を紹介。NARSやアディクションと並ぶデパコスコンシーラーとして選出。」
+> [動画を見る](https://www.youtube.com/watch?v=cneUJg7QycY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -574,8 +573,8 @@
 
 **価格**: 5060円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VMb0i1LwyFc)
+> **水越みさと**: 「ジバンシーのプリズムリーブルースキンケアリングコレクターに なんとピンクとラベンダーが1月に登場しました ブルーとか すっごくもうSNSでもバズってて人気だったんですけど 透明感カラーじゃないです」
+> [動画を見る](https://www.youtube.com/watch?v=VMb0i1LwyFc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%20%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF/%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E3%82%AB%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/stylife/ne7098/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -652,8 +651,8 @@
 
 **価格**: 1540円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
+> **水越みさと**: 「はい、それでは早速スタート それではまずこちら ケイトのポッピングシルエットシャドウの 限定色が登場します 元々のカラーも大好きで なので限定色すっごい楽しみにしていましたが まずこちらがEX1 似てるんです」
+> [動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -665,8 +664,8 @@
 
 **価格**: 8800円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
+> **水越みさと**: 「きっと目にしたはずですが ジルスチュアートのギルティパフェタイムコレクションです ジルスチュアートのホリデーは 毎年お得感がすんごいことになってるんですけど 今回もやばいです」
+> [動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710588170&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%AE%E3%83%AB%E3%83%86%E3%82%A3%E3%83%91%E3%83%95%E3%82%A7%E3%82%BF%E3%82%A4%E3%83%A0%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E2%80%BB11/1%E7%99%BA%E5%A3%B2%E3%83%BB%E5%BA%97%E9%A0%AD%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD/?af=mobi.0319)
 
@@ -710,14 +709,5 @@
 [動画を見る](https://www.youtube.com/watch?v=RzMeOsssVNY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%E3%80%80%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%E3%83%84%E3%82%A4%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%E3%80%80%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%80%80S&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%E3%80%80%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%E3%83%84%E3%82%A4%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%E3%80%80%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%80%80S/?af=mobi.0319)
-
----
-
-### TAG Instagram＊https://www.instagram.com/mitan.m/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=N_VcOaM9nD8)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Instagram%EF%BC%8Ahttps%3A//www.instagram.com/mitan.m/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Instagram%EF%BC%8Ahttps%3A//www.instagram.com/mitan.m//?af=mobi.0319)
 
 ---

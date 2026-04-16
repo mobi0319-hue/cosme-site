@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 【2026年04月版】YouTuberが複数紹介したアイブロウおすすめ6選
 
 複数の美容系YouTuberが**独立して紹介**したアイブロウアイテムだけを厳選しました。
@@ -41,13 +41,10 @@
 
 **価格**: 550円 | **3人のYouTuberが紹介**
 
-> **鹿の間**: 「続いてはこちら セザンヌのベージュトーンアイシャドウの 2番ローズベージュでございます 推しのねプチプラアイシャドウいっぱいあったんですけど このベージュトーンアイシャドウが出てきてか」
-> [動画を見る](https://www.youtube.com/watch?v=0CGc1rZxbWI)
-
 > **MAI TAKASUGI**: 「そしたら次はこちらですね。セザンヌのカクアイゾンコンシーラー01番なじみベージュのお色です。」
 > [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
-> **コスメヲタちゃんねるサラ**: 「ぜひこちらも持ち歩いて使ってみてください 次眉毛セザンヌの 細芯アイブロウ03番 使っていきます やっぱりキャンメイクとセザンヌは安くていいよね 初めて買ったコスメって何ですか? キャンメイクの そう買いました え?」
+> **コスメヲタちゃんねるサラ**: 「セザンヌの細芯アイブロウ03番を使用。キャンメイクとセザンヌはプチプラで品質が良いと評価。」
 > [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042105&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce014703950101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -63,7 +60,7 @@
 > **さぁや**: 「アイブロウペンシル（6番）グレージュカラー。自然な眉に仕上げてくれるのが魅力で、眉メイクに取り入れている。ナチュラル眉が好きな方におすすめ。アイブロウパウダーとして愛用している」
 > [動画を見る](https://www.youtube.com/watch?v=QjxSsipCTpU)
 
-> **nanakoななこ**: 「そしたら私はグレー系がいいから エスポアのアイブロウ4番のブラウンってやつ これはちょっとグレーっぽい感じのアイブロウパウダーなんですけど これでノーズシャドウを描いていきます ノーズシャドウはアイブ」
+> **nanakoななこ**: 「エスポアのアイブロウ4番（ブラウン）を使用。グレーっぽい色味のパウダーで、ノーズシャドウを描くのに活用している」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%20%E3%82%B6%E3%83%96%E3%83%AD%E3%82%A6%20%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/irecosmetic/10865/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
@@ -92,9 +89,8 @@
 
 **価格**: 990円 | **2人のYouTuberが紹介**
 
-動画の概要欄でアイブロウとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / えみ姉
+> **水越みさと**: 「デジャヴュ シアーカラーブロウを使用。液に透け感があり、やりすぎ感のないナチュラルな仕上がりが魅力の眉マスカラとしておすすめ。」
+> [動画を見る](https://www.youtube.com/watch?v=my6GkmCGuHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dejavu%20%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B4%E3%83%A5%20%E3%82%B7%E3%82%A2%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%96%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00pivy9.zqde7445.g00pivy9.zqde87b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplazastyle%2Fp03ebw0036%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplazastyle%2Fi%2F10039732%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 

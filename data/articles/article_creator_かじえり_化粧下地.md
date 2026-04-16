@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # かじえりおすすめ化粧下地44選【2026年04月版】
 
 人気美容YouTuber **かじえり** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -319,8 +319,8 @@
 
 **価格**: 3890円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=zrPEb3GTG4o)
+> **かじえり**: 「はい、ではまずこちら! 10月25日発売のエナモルライトフィットモイスチャーベースです! こちらは商品名の通り、軽さと密着力に特化したアイテムになっています! それだけじゃなくて、」
+> [動画を見る](https://www.youtube.com/watch?v=zrPEb3GTG4o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Enamor%20Enamor%20%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/enamor-official/item-02-item01/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -475,7 +475,7 @@
 
 **価格**: 2077円
 
-> **かじえり**: 「ツヤと張り感のある仕上がりで毛穴をふっくらカバーするミネラル下地」
+> **かじえり**: 「ツヤと張り感のある仕上がりで毛穴をふっくらカバーす」
 > [動画を見る](https://www.youtube.com/watch?v=A4ixN0WKjcw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%20%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B9%20%E3%82%AF%E3%83%AA%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/amaxshop/x20251204b085y23d1d/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -540,7 +540,7 @@
 
 **価格**: 1760円
 
-> **かじえり**: 「ファンデ前にシェーディングとハイライトを入れるデュオスティック」
+> **かじえり**: 「ファンデ前にシェーディングとハイライトを入れる」
 > [動画を見る](https://www.youtube.com/watch?v=dmW7FB51QZE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%83%97%E3%83%AC%E3%82%A4101%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%83%A5%E3%82%AA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/etudehouse/103004040/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -553,7 +553,7 @@
 
 **価格**: 4200円
 
-> **かじえり**: 「SPF40PA++++入りで美容液成分含む化粧下地。イエロー系でくすみと色ムラを補正」
+> **かじえり**: 「SPF40PA++++入りで美容液成分含む化粧下地。」
 > [動画を見る](https://www.youtube.com/watch?v=jOlhWhFFJEM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%2003%E7%95%AA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%2003%E7%95%AA/?af=mobi.0319)

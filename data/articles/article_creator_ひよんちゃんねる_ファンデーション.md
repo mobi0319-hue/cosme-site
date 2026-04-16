@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # ひよんちゃんねるおすすめファンデーション6選【2026年04月版】
 
 人気美容YouTuber **ひよんちゃんねる** さんが動画で紹介したファンデーションアイテムをまとめました。
@@ -69,8 +69,8 @@
 
 ### MAYBELLINE MAYBELLINE N.Y｜SPステイ ルミマット リキッドファンデーション / SPステイ コンシーラー
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=T5KOzVQm8AY)
+> **ひよんちゃんねる**: 「肌にしてくれるファンデーションになるんだけど そのコンシーラーが出た私まだこれ使ったことがないんだけど コンシーラーってやっぱさ 年々必要なブルーになってこない? うん 細かく調整できます」
+> [動画を見る](https://www.youtube.com/watch?v=T5KOzVQm8AY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20N.Y%EF%BD%9CSP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20/%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20N.Y%EF%BD%9CSP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20/%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC/?af=mobi.0319)
 

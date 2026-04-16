@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめフェイスパウダー13選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したフェイスパウダーアイテムをまとめました。
@@ -54,8 +54,8 @@
 
 **価格**: 6160円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「NARS ライトリフレクティング セッティングパウダー プレストNを使用。パウダーで仕上げることで口角がキュッと上がったような印象に。」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88NRJ06589&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00trif9.zqde70bb.g00trif9.zqde8117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmimori%2F0607845058946%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmimori%2Fi%2F10004139%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -67,8 +67,8 @@
 
 **価格**: 1198円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「まずは、 こういうペンシルと、 アイブロウパウダーとですね、 あと、 アイブロウマスカラ、 いつも使用するようには、 しています。 まず、 ちょっと眉毛を、 整えますね。」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167208366&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/garella/kate-8366-5904/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

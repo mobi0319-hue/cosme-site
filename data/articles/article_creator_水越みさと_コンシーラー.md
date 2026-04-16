@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 水越みさとおすすめコンシーラー15選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したコンシーラーアイテムをまとめました。
@@ -70,8 +70,8 @@
 
 **価格**: 1760円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=SxGruybNBUs)
+> **水越みさと**: 「私的にはその代表が このですね、エクセルのフェイスパウダーだったんですけれども 毎年冬限定で発売していたパウダーが なんと、! 今回アップデートして定番化しました! いや、」
+> [動画を見る](https://www.youtube.com/watch?v=SxGruybNBUs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=excel%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%20%E3%82%A8%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E2%80%BB8%E6%9C%8819%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikisone/excel4--1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -83,8 +83,8 @@
 
 **価格**: 660円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
+> **水越みさと**: 「はい、次がこちら セザンヌです 各アイゾンコンシーラー なんかニューって書いてある 2番っていうカラーが出てたんです この涙袋コンシーラー 私多分涙袋コンシーラー界の中で一番好きなんです」
+> [動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530138&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553530138/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -96,8 +96,8 @@
 
 **価格**: 1210円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VMb0i1LwyFc)
+> **水越みさと**: 「Visee カラーデュオ トリックコンシーラーを使用。前作の2色コンシーラーが大バズりし、今回カラー展開が大幅に増えてリニューアル登場。」
+> [動画を見る](https://www.youtube.com/watch?v=VMb0i1LwyFc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710592955&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%B4%E3%82%A3%E3%82%BB%20%E3%83%B4%E3%82%A3%E3%82%BB%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%87%E3%83%A5%E3%82%AA%20%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E2%80%BB1/16%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -109,8 +109,8 @@
 
 **価格**: 5720円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BIAzbtGmz1w)
+> **水越みさと**: 「こんにちは、水越みさとです はい、本日はです完全版コンシーラー比較やっていきたいと思いまーす はい、今回なんとです肌質や年齢、お悩みの異なる12人の方にご協力いただいて みんなで14種類のコンシーラーを比較しました 以前、」
+> [動画を見る](https://www.youtube.com/watch?v=cneUJg7QycY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%88%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/dirho0000025/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -122,8 +122,8 @@
 
 **価格**: 3850円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BIAzbtGmz1w)
+> **水越みさと**: 「ピックアップするとこちら ナーズとコスメデコルテと アディクションのコンシーラーになりました やっぱねデパコスなのかなと ちょっと私は思ってしまったんです」
+> [動画を見る](https://www.youtube.com/watch?v=cneUJg7QycY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710541595&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/amitysun/80001100/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -174,8 +174,8 @@
 
 **価格**: 3300円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BIAzbtGmz1w)
+> **水越みさと**: 「はいそれではデイジークのコンシーラーを使っていきます これはベタつかないさらっと高密着系コンシーラーです」
+> [動画を見る](https://www.youtube.com/watch?v=cneUJg7QycY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%AF%20%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/flytoyou/1028302143/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -187,8 +187,8 @@
 
 **価格**: 1320円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BIAzbtGmz1w)
+> **水越みさと**: 「はい、それでは次が脂性度のスポッツカバーファンデーション いきまーす こってりハイカバーコンシーラーかなと思います」
+> [動画を見る](https://www.youtube.com/watch?v=cneUJg7QycY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901872338504&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sundrug/4901872338566/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

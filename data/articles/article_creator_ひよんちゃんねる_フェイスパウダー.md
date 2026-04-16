@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # ひよんちゃんねるおすすめフェイスパウダー11選【2026年04月版】
 
 人気美容YouTuber **ひよんちゃんねる** さんが動画で紹介したフェイスパウダーアイテムをまとめました。
@@ -39,8 +39,8 @@
 
 **価格**: 6600円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
+> **ひよんちゃんねる**: 「パウダーです コーラBAのオアシスライトパウダーです 新しく発売されて 最初に使った時から え、」
+> [動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=POLA%20B.A%20%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%207.3g%20%E3%82%B1%E3%83%BC%E3%82%B9%20%E5%88%A5%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kaola/pola-1389-1390/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -52,8 +52,8 @@
 
 **価格**: 2090円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
+> **ひよんちゃんねる**: 「イスウスのコントゥアパウダー03番 イルミネイターっていうカラーなんだけど これもねもうずーっと使ってて シェーディングもやっぱ濃くなりす」
+> [動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ETUDE%20ETUDE%EF%BD%9C%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000171248/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -91,8 +91,8 @@
 
 **価格**: 962円
 
-動画の概要欄でフェイスパウダーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=s5rSh4PMz9s)
+> **ひよんちゃんねる**: 「これがナウフーズの塩化カリウム パウダーです これは227gで 962円だったんだけど 塩化カリウムっていうのは むくみをしっかり取りたい っていうときにおすすめらしい なので私は使い方を変えて 飲んであげるのがす」
+> [動画を見る](https://www.youtube.com/watch?v=s5rSh4PMz9s)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NOW%20Foods%20%E5%A1%A9%E5%8C%96%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20227g&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/280syuu/oka-now-01450x3_laam_b00028m02q/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -117,7 +117,7 @@
 
 **価格**: 1540円
 
-> **ひよんちゃんねる**: 「永井さんとの2年ぶりのスペシャルコラボ動画で使用。パウダーとしてメイクに取り入れている」
+> **ひよんちゃんねる**: 「永井さんとの2年ぶりのスペシャルコラボ動画で使用。」
 > [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167518823&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%203D%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20EX-2%20%E9%80%8F%E6%98%8E%E6%84%9F%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E7%B3%BB/?af=mobi.0319)
@@ -139,7 +139,7 @@
 
 ### SUQQU SUQQUと逆側のパウダー！？
 
-> **ひよんちゃんねる**: 「こちらです SUQQUとメイクアップフォレバーなんですけど まず最初にSUQQUを紹介したんですけど こちらがSUQQUのソフトマットセッティングパウダーです で、」
+> **ひよんちゃんねる**: 「SUQQUとメイクアップフォレバーなんですけど まず最初にSUQQUを紹介したんですけど こちらがSUQQUのソフトマットセッティングパウダーです で、」
 > [動画を見る](https://www.youtube.com/watch?v=cX1-c0TZQmU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%E3%81%A8%E9%80%86%E5%81%B4%E3%81%AE%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%81%EF%BC%9F&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%E3%81%A8%E9%80%86%E5%81%B4%E3%81%AE%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%EF%BC%81%EF%BC%9F/?af=mobi.0319)

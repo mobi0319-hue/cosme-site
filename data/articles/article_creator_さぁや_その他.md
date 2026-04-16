@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
-# さぁやおすすめその他26選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-16 -->
+# さぁやおすすめその他23選【2026年04月版】
 
 人気美容YouTuber **さぁや** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -22,16 +22,13 @@
 14. **TAG** ＠clicka.jp
 15. **ヒロインメイク** 提供：
 16. **TAG** 【Insram】
-17. **TAG** 公式Insram：https://www.insram.co
-18. **トーン** ここで一気にウォームトーンに寄せるのだ
-19. **TAG** ▼スティーブンノルInsram公式アカウントはこちら！
-20. **マック** 弟と爆食したぞー！！！
-21. **マック** みんなはで何が好き？？
-22. **トーン** ＃ネイチャーリパブリック＃アップ＃ビタミンC
-23. **TAG** 下記URLからTwitter、Insramにて開催中です！
-24. **dejavu** この動画はとのタイアップ動画です。
-25. **TAG** Instagram : @kawakitayusuke
-26. **TAG** Instagram : @andbe_official
+17. **トーン** ここで一気にウォームトーンに寄せるのだ
+18. **TAG** ▼スティーブンノルInsram公式アカウントはこちら！
+19. **マック** 弟と爆食したぞー！！！
+20. **マック** みんなはで何が好き？？
+21. **トーン** ＃ネイチャーリパブリック＃アップ＃ビタミンC
+22. **TAG** 下記URLからTwitter、Insramにて開催中です！
+23. **dejavu** この動画はとのタイアップ動画です。
 
 ---
 
@@ -207,7 +204,7 @@
 
 ### ヒロインメイク 提供：
 
-> **さぁや**: 「それがー! じゃじゃん!こちらでーす! ヒロインメイクのプライムリキッドアイライナー リッチキープなんですけど こちらのアイライナーが、今日もね、使ってるんですけど 本当にめちゃめちゃ良くて もう久しぶりにね、」
+> **さぁや**: 「!ヒロインメイクのプライムリキッドアイライナー リッチキープなんですけど こちらのアイライナーが、今日もね、使ってるんですけど めちゃめちゃ良くて もう久しぶりにね、」
 > [動画を見る](https://www.youtube.com/watch?v=3yH3HgbG82U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E6%8F%90%E4%BE%9B%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E6%8F%90%E4%BE%9B%EF%BC%9A/?af=mobi.0319)
@@ -220,15 +217,6 @@
 [動画を見る](https://www.youtube.com/watch?v=fRnlddyWqAI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%80%90Insram%E3%80%91&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%80%90Insram%E3%80%91/?af=mobi.0319)
-
----
-
-### TAG 公式Insram：https://www.insram.com/masugu_unilever/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=I-HhC204Iq0)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E5%85%AC%E5%BC%8FInsram%EF%BC%9Ahttps%3A//www.insram.com/masugu_unilever/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E5%85%AC%E5%BC%8FInsram%EF%BC%9Ahttps%3A//www.insram.com/masugu_unilever//?af=mobi.0319)
 
 ---
 
@@ -270,7 +258,7 @@
 
 ### トーン ＃ネイチャーリパブリック＃アップ＃ビタミンC
 
-> **さぁや**: 「かなりもちっとしたような 肌のこのくすんだ感じから トーンがね明るくなるような感じがして 特にくすみが気になる方におすすめです その後にこちらのミニサイズの ビタペアCジェルクリーム塗っていきます こちらはジェルの質感」
+> **さぁや**: 「かなりもちっとしたような 肌のこのくすんだ感じから トーンがね明るくなるような感じがして 特にくすみが気になる方におすすめです その後にこちらのミニサイズの ビタペアCジェルクリーム塗っていきます」
 > [動画を見る](https://www.youtube.com/watch?v=W4o1RFJt6b4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%EF%BC%83%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%EF%BC%83%E3%82%A2%E3%83%83%E3%83%97%EF%BC%83%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%EF%BC%83%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%EF%BC%83%E3%82%A2%E3%83%83%E3%83%97%EF%BC%83%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3C/?af=mobi.0319)
@@ -292,23 +280,5 @@
 [動画を見る](https://www.youtube.com/watch?v=wTVlII4BV-I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dejavu%20%E3%81%93%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%AF%E3%81%A8%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%A2%E3%83%83%E3%83%97%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dejavu%20%E3%81%93%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%AF%E3%81%A8%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%A2%E3%83%83%E3%83%97%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%E3%80%82/?af=mobi.0319)
-
----
-
-### TAG Instagram : @kawakitayusuke
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Y9TkpiE8GDU)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Instagram%20%3A%20%40kawakitayusuke&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Instagram%20%3A%20%40kawakitayusuke/?af=mobi.0319)
-
----
-
-### TAG Instagram : @andbe_official
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Y9TkpiE8GDU)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Instagram%20%3A%20%40andbe_official&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Instagram%20%3A%20%40andbe_official/?af=mobi.0319)
 
 ---

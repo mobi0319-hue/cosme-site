@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 小田切ヒロおすすめその他73選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したその他アイテムをまとめました。
@@ -127,8 +127,8 @@
 
 **価格**: 7700円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=m3EccUxqxCs)
+> **小田切ヒロ**: 「ルナソル アイカラーレーションN 06番をアイシャドウパレット部門で選出。カラーの重なりが毎回素晴らしいと絶賛。」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167011973&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167066041/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -153,8 +153,8 @@
 
 **価格**: 11000円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xhnCBYOWaC8)
+> **小田切ヒロ**: 「これで顔のリフトアップ そして頭皮ケアをしております ボディケアとしてこちらエカトのローラーでこうやって刺激を与えながら こちらコロコロ刺していただいております これは全身用ローラーになります」
+> [動画を見る](https://www.youtube.com/watch?v=xhnCBYOWaC8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%83%9C%E3%83%87%E3%82%A3%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B4&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeticroyal/3666057201172/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -296,8 +296,8 @@
 
 **価格**: 5940円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=nPtYc6zAVUQ)
+> **小田切ヒロ**: 「2つあります 1つ目 デコルテルージュデコルテクリームグロウ25G モーヴベージュそう私こちら実はもうすでにリピートしております」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%AA%E3%83%B3%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20120%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%8B%E3%83%83%E3%82%AF%20%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/dwj202509080013/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -335,8 +335,8 @@
 
 **価格**: 4180円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2aPtSRuHmHM)
+> **小田切ヒロ**: 「フォアレス下地部門です アディクションシルキーバームスティック毛穴補正はお任せあれ今年のお肌悩みNo.1は毛穴だったんじゃないでしょうか 年から年中毛穴が気になるという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cochume1234/dwj2025042006413212/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -348,8 +348,8 @@
 
 **価格**: 7810円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2aPtSRuHmHM)
+> **小田切ヒロ**: 「リップグロス部門です DIOR ADDICT LIP GLOW BUTTER 101もうアクセサリー感覚でモテるリップグロスです これは時代を象徴す」
+> [動画を見る](https://www.youtube.com/watch?v=E1WW_6Y3Las)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%8C%E3%83%BC%E3%83%89%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2001%20%E3%83%95%E3%82%A7%E3%82%A2%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/5249/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -361,8 +361,8 @@
 
 **価格**: 3960円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2aPtSRuHmHM)
+> **小田切ヒロ**: 「2つ目 NARSライトディフレクティングセラムクッションファンデーション今年一番ご紹介させていただいている クッションファンデーションだと思います」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4535683233019&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rareu/20250317014/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -374,8 +374,8 @@
 
 **価格**: 5060円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2aPtSRuHmHM)
+> **小田切ヒロ**: 「ちょうどカーキがセッティングされているものに 締め色のブラックにハイライトカラーが付いてますので これ一つでカーキアイメイクを演出することができます まずはこちらゴールドカーキ こちらをのせていきます こちらのカラーは実はです指でとっていただきます」
+> [動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20BOBBI%20BROWN%20%E3%83%97%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%B9%20%E3%83%96%E3%83%AD%E3%83%BC%20%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%2012%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Bobbi%20Brown%20BOBBI%20BROWN%20%E3%83%97%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%B9%20%E3%83%96%E3%83%AD%E3%83%BC%20%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%2012%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -439,8 +439,8 @@
 
 **価格**: 3740円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=rW6LxZLUlUM)
+> **小田切ヒロ**: 「11位がラネージュのウォータースリーピングマスクN なるほど 私あれ好きよ やっぱりスリーピングマスク大好きです」
+> [動画を見る](https://www.youtube.com/watch?v=rW6LxZLUlUM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20LANEIGE%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20N%2070ml&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20LANEIGE%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20N%2070ml/?af=mobi.0319)
 
@@ -478,8 +478,8 @@
 
 **価格**: 7810円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+> **小田切ヒロ**: 「リオールリオールスキンフォーエバー グロウルミナイザー05ブルーストロボとブルーというのはです透明感を最小キーに引き出しながらも 透け感やなんとなく新しさを感じるカラー その中にですなんとこちらはただのブルーではないんです」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2005%20%E3%83%96%E3%83%AB%E3%83%BC%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/3348901748032/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -595,8 +595,8 @@
 
 **価格**: 4180円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=E1WW_6Y3Las)
+> **小田切ヒロ**: 「アイブロウマスカラ部門です クリニークジャストブロージングクリアスカルプティングジェル 01クリアリキッドクリアアイブロウなんですけれども そうクリアタイプ使ってます」
+> [動画を見る](https://www.youtube.com/watch?v=E1WW_6Y3Las)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLINIQUE%20CLINIQUE%20%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%88%20%E3%83%96%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%82%AF%E3%83%AA%E3%82%A2%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%82%A7%E3%83%AB%20%E3%82%AF%E3%83%AA%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/clinique/138062/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -608,8 +608,8 @@
 
 **価格**: 2970円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=BzeV8kCP6LY)
+> **小田切ヒロ**: 「サッと一吐け人生に光と そこで宿すのがあなた NARSのこちらハイライターのエロスというカラーです そう名の通りそうなんですよ あなたこれを何でつけるかと言いますと ブレンディングブラシを使っていきます」
+> [動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0607845018308/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -660,8 +660,8 @@
 
 **価格**: 5940円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WF5_LxH4Pgc)
+> **小田切ヒロ**: 「このお口周りも清潔感を保ちたいときはマットなんですけれども 今日はちょっと湿度を高めてね色っぽくしたいのでジューシー 人中周りもジューシー ジューンって湿度になってるの分かる? あー多分 確かに 内側から出てる感じがします」
+> [動画を見る](https://www.youtube.com/watch?v=aOfsAHI4bFc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%E3%83%BB%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%BB%E3%83%9E%E3%83%83%E3%83%88%20N03%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/GIVENCHY%20GIVENCHY%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%B8%E3%83%90%E3%83%B3%E3%82%B7%E3%82%A4%E3%83%BB%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%BB%E3%83%9E%E3%83%83%E3%83%88%20N03%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC/?af=mobi.0319)
 
@@ -868,8 +868,8 @@
 
 **価格**: 12980円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
+> **小田切ヒロ**: 「カーキメイクですそう今年の秋はカーキカラーがトレンドになります 今年のカーキはクールですそのクールなカーキメイクのご紹介を今からしていきます」
+> [動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20TOM%20FORD%20BEAUTY%20%E3%82%A2%E3%82%A4%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%89%2047%20%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeland/284740/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -881,8 +881,8 @@
 
 **価格**: 1694円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xy5DpJDILDU)
+> **小田切ヒロ**: 「マスカラ部門です メイベリーニューヨークスカイハイ07 夕雲グレージュ私の大好きなマスカラの新色そうグレージュなんですよ まさに夕雲です」
+> [動画を見る](https://www.youtube.com/watch?v=xy5DpJDILDU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20NEW%20YORK%20%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%2007%20%E3%82%86%E3%81%86%E3%81%90%E3%82%82%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20NEW%20YORK%20%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%2007%20%E3%82%86%E3%81%86%E3%81%90%E3%82%82%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
 
@@ -894,8 +894,8 @@
 
 **価格**: 770円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xy5DpJDILDU)
+> **小田切ヒロ**: 「ラメ部分です キャンメイクラメマニア02ピンクプードルあなたこれ 触って そうびっくりす」
+> [動画を見る](https://www.youtube.com/watch?v=xy5DpJDILDU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008317557&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4901008317557_mail/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -985,8 +985,8 @@
 
 **価格**: 5940円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wkSc1rVIxCw)
+> **小田切ヒロ**: 「こっち? フォーエバーグロウマキシマイザー 使ってます? あ、」
+> [動画を見る](https://www.youtube.com/watch?v=wkSc1rVIxCw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
 

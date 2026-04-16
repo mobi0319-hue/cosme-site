@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめその他34選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したその他アイテムをまとめました。
@@ -75,8 +75,8 @@
 
 **価格**: 7980円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「ファンデーションは こちらのディオールのフォアエバーフルイドスキングロウ0.5Nニュートラルのお色でーす こちらのファンデーションもですツヤが出やすいタイプのファンデーションになっています」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A60.5N%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/3429/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -88,8 +88,8 @@
 
 **価格**: 11595円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「アナソルのカラーレーションN17番、ネオデプスの色でーす。 先にですね、アイシャドウをやってあげたほうが、 眉のバランスが取りやすいかなっていうところで、 眉毛がですね、必要以上に濃く描かなくて済むっていうところなんですね。」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3N17%20%E3%83%8D%E3%82%AA%E3%83%87%E3%83%97%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ihp-shop/ihp10g4m1x6kp/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -166,7 +166,7 @@
 
 **価格**: 4560円
 
-> **MAI TAKASUGI**: 「8アイテムだけでフルメイクする動画でパウダーとして使用。仕上げにサッとのせてベースメイクを長持ちさせるアイテム」
+> **MAI TAKASUGI**: 「8アイテムだけでフルメイクする動画でパウダーとして使用。」
 > [動画を見る](https://www.youtube.com/watch?v=eTIGDbJk4HU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharecafe/6045484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -245,7 +245,7 @@
 
 ### キス マジョリカマジョルカ ラッシュエキスパンダー 孔雀ロング BK999王様ディーブラック
 
-> **MAI TAKASUGI**: 「私がいつも使ってるこのマジョリカマジョルカのマスカラだと ちょっとね マイアマスカラには私はちょっと難しかったんですね こちらは割と液も真っ黒で まつげをしっかりと毛をですね 主張してくれるタイプのマス」
+> **MAI TAKASUGI**: 「私がいつも使ってるこのマジョリカマジョルカのマスカラだと ちょっとマイアマスカラには私はちょっと難しかったんですこちらは割と液も真っ黒で まつげをしっかりと毛をです」
 > [動画を見る](https://www.youtube.com/watch?v=4hbIPePwJmw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E5%AD%94%E9%9B%80%E3%83%AD%E3%83%B3%E3%82%B0%20BK999%E7%8E%8B%E6%A7%98%E3%83%87%E3%82%A3%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E5%AD%94%E9%9B%80%E3%83%AD%E3%83%B3%E3%82%B0%20BK999%E7%8E%8B%E6%A7%98%E3%83%87%E3%82%A3%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
@@ -281,7 +281,7 @@
 
 ### エレガンス 18.
 
-> **MAI TAKASUGI**: 「面白いなと思います本当に じゃあ最後に エレガンスのパレット 少し入れましょう 皆さんどうですか 同じくらいですよね多分期間としては 喧嘩とかもね 本当に 私が小学生みたいでね なんか旦那さんが大人な人なんで」
+> **MAI TAKASUGI**: 「面白いなと思いますじゃあ最後に エレガンスのパレット 少し入れましょう どうですか 同じくらいです」
 > [動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2018.&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2018./?af=mobi.0319)
@@ -308,7 +308,7 @@
 
 ### エレガンス 27.Elégance（）
 
-> **MAI TAKASUGI**: 「面白いなと思います本当に じゃあ最後に エレガンスのパレット 少し入れましょう 皆さんどうですか 同じくらいですよね多分期間としては 喧嘩とかもね 本当に 私が小学生みたいでね なんか旦那さんが大人な人なんで」
+> **MAI TAKASUGI**: 「エレガンスのパレットを仕上げに使用。最後の仕上げとして少し入れる」
 > [動画を見る](https://www.youtube.com/watch?v=e6zpnneTH1U)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2027.El%C3%A9gance%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2027.El%C3%A9gance%EF%BC%88%EF%BC%89/?af=mobi.0319)
@@ -335,8 +335,8 @@
 
 ### TAG メイク前と後のビフォーアフターでInsramから活動を始め、ついにYouTubeデビュー🫶
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
+> **MAI TAKASUGI**: 「今日初めてで緊張してるんですけど いつもInstagramのリールやYouTubeショート、TikTokなど アップさせてもらってるんですけど 今日は毎日メイクしていこうと思います よろしくお願いします じゃあ早速やっていきまーす はい、」
+> [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%83%A1%E3%82%A4%E3%82%AF%E5%89%8D%E3%81%A8%E5%BE%8C%E3%81%AE%E3%83%93%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%81%A7Insram%E3%81%8B%E3%82%89%E6%B4%BB%E5%8B%95%E3%82%92%E5%A7%8B%E3%82%81%E3%80%81%E3%81%A4%E3%81%84%E3%81%ABYouTube%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%F0%9F%AB%B6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%83%A1%E3%82%A4%E3%82%AF%E5%89%8D%E3%81%A8%E5%BE%8C%E3%81%AE%E3%83%93%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%81%A7Insram%E3%81%8B%E3%82%89%E6%B4%BB%E5%8B%95%E3%82%92%E5%A7%8B%E3%82%81%E3%80%81%E3%81%A4%E3%81%84%E3%81%ABYouTube%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%F0%9F%AB%B6/?af=mobi.0319)
 
@@ -371,7 +371,7 @@
 
 ### ミルクタッチ 20. milktouch（）
 
-> **MAI TAKASUGI**: 「ブラック10番の色か ミルクタッチアイコニックフィルム マスカラブラックの お色どちらかです どっちもいいんだよね こっちもすごく一本一本繊細に出してくれて ちょっと大人っぽい綺麗な 上品なまつ」
+> **MAI TAKASUGI**: 「ミルクタッチのアイコニックフィルムマスカラ ブラックを紹介。10番の色味で、優秀なマスカラとして評価。」
 > [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%2020.%20milktouch%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%2020.%20milktouch%EF%BC%88%EF%BC%89/?af=mobi.0319)
@@ -398,7 +398,7 @@
 
 ### エレガンス 32. Elégance（）
 
-> **MAI TAKASUGI**: 「これはねめちゃめちゃ使いやすいなと思いました エレガンスすごく好きなんですけど ちょっとブラシが 太め ミルクタッチに比べたらね 少し太めかなと思うので 使いやすいのは私はミルクタッチかなと でもあの しっかりとすぐ」
+> **MAI TAKASUGI**: 「これはねめちゃめちゃ使いやすいなと思いました エレガンスすごく好きなんですけど ちょっとブラシが 太め ミルクタッチに比べたら少し太めかなと思うので 使いやすいのは私はミルクタッチかなと でもしっかりとす」
 > [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2032.%20El%C3%A9gance%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2032.%20El%C3%A9gance%EF%BC%88%EF%BC%89/?af=mobi.0319)

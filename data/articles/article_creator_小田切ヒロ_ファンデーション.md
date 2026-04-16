@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 小田切ヒロおすすめファンデーション51選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したファンデーションアイテムをまとめました。
@@ -92,8 +92,8 @@
 
 **価格**: 4510円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Zkdp2VkqN8o)
+> **小田切ヒロ**: 「NARSのコンシーラーを涙袋メイクに使用。大人の涙袋メイクに必須のアイテムとして、涙袋のラインを描くテクニックを紹介。」
+> [動画を見る](https://www.youtube.com/watch?v=_a5fRZU8HIY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%201242%20VANILLA%20%E3%81%A8NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%201276%20VANILLA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lunadea/10005314/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -157,8 +157,8 @@
 
 **価格**: 858円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「そしてこちら セザンヌの皮脂テカリ防止下地50ナチュラルベージュのお色になるんですけれども これまたです皮脂がいっぱい出てしまうという方 お顔がテカリやす」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530602&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20CEZANNE%20%E7%9A%AE%E8%84%82%E3%83%86%E3%82%AB%E3%83%AA%E9%98%B2%E6%AD%A2%E4%B8%8B%E5%9C%B050%20SPF50%20/%20PA%2B%2B%2B%2B%20UV%E8%80%90%E6%B0%B4%E6%80%A7%E2%98%85%E2%98%85%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%E2%80%BB3%E6%9C%884%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -170,8 +170,8 @@
 
 **価格**: 7700円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「まずはTフィットのこちらの下地 アイスブラアートプライマーと言いまして お色は水色になります このようにさーっと伸ばしていただきますと クーリング効果のあるブラ下地になります」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%20/%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%20/%20%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/partytime-tokyo/2512gy065mub/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -183,8 +183,8 @@
 
 **価格**: 2090円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「そしてこちらレブロンからも登場しております シャカシャカタイプになりますよ そしてこのブルーのカラーがですしっかりブルーになります」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4951445268547&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/revlon/10000479/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -196,8 +196,8 @@
 
 **価格**: 9900円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「そしてこちら クラランスからダブルセーラー部の リキッドファンデーションが登場いたしました こちら美容液とファンデーションが セパレートになっております」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A86%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%886%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLARINS%20CLARINS%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A86%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%886%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -209,8 +209,8 @@
 
 **価格**: 7480円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「セザンヌの皮脂テカリ防止下地50ナチュラルベージュのお色になるんですけれども これまたです皮脂がいっぱい出てしまうという方 お顔がテカリやすいという方 そういった方にはとてもおすすめの下地になります」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A815%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%8820%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A815%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%8820%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -222,8 +222,8 @@
 
 **価格**: 7700円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「SPF22にPA++++配合されております これは下地効果としては ピンクの温かなぬくもり 血色感をプラスしながら 全体的にらとトーンアップをしてくれる下地なんです」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20DECORT%C3%89%20%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%BC%E3%83%B3%20%E3%82%A6%E3%82%A7%E3%82%A2%20%E3%82%B9%E3%83%86%E3%82%A4%20SPF25%20/%20PA%2B%2B%20%E5%85%A818%E8%89%B2%E3%80%80%E2%80%BB2%E6%9C%8816%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/zenwear/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -235,8 +235,8 @@
 
 **価格**: 1760円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「私さらに大ファンになりました そしてこちら ケイトから エアリーチェンジ リキッドファンデーションが登場しました もうこれまた最新技術が搭載されておりますので ちょっと出していただきます」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167038727&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
 
@@ -248,8 +248,8 @@
 
 **価格**: 5280円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「とってもおすすめそしてこちらRMKのスキンティント モイストベールオールインワンタイプのファンデーションになるんですけれども これ素晴らしいのがです」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%20%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%20SPF15%20/%20PA%2B%2B%20%E5%85%A82%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%886%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%20%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%20SPF15%20/%20PA%2B%2B%20%E5%85%A82%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%886%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -261,8 +261,8 @@
 
 **価格**: 10120円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+> **小田切ヒロ**: 「メッシュコンパクトになっております グロウな質感で美しい潤いと艶感を引き出すことができるんです すごいみずみずしいでしょ そうこのみずみずしい質感の中に このメッシュコンパクトになっております」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20LUNASOL%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%95%E3%83%AD%E3%82%A6%20%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20SPF17%20/%20PA%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC%E2%80%BB3%E6%9C%886%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/elimino/1a0gkfdxk88/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -274,8 +274,8 @@
 
 **価格**: 8580円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=rW6LxZLUlUM)
+> **小田切ヒロ**: 「ファンデーションナンバーワンです NARSのクッションファンデーション ピンポーン これはなった ライトリフレクティング効果といいまして ライトを受けるたびにその拡散効果によって アラを飛ばす」
+> [動画を見る](https://www.youtube.com/watch?v=rW6LxZLUlUM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF42%20/%20PA%2B%2B%20%E5%85%A88%E8%89%B2%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0194251143910/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -352,8 +352,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「石器製から敏感肌用の化粧下地 SPF50プラスにPA++++ 日焼け止め効果がありながら 敏感肌でも使いやすい下地が登場しました これ使いやすいんですよ 敏感肌の方でも全顔に使っていただける こちらアイボリーカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20LUNASOL%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF13%20/%20PA%2B%20%E5%85%A81%E7%A8%AE%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNASOL%20LUNASOL%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF13%20/%20PA%2B%20%E5%85%A81%E7%A8%AE%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -365,8 +365,8 @@
 
 **価格**: 5500円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「そしてすっごいカラコチなスキンケアクリームティントというのが 登場いたしました クリームにお色がついているというものになります スキンケアの延長としてお使いいただくアイテムなんです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%A4%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A81%E8%89%B2%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/6492/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -378,8 +378,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「私が一番いいなと思ったのがこちら フォードライ ポアレスキーパーのフォードライポアレスキーパーって キシム系結構あるんです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%83%9D%E3%82%A2%E3%83%AC%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%20FOR%20%E3%83%89%E3%83%A9%E3%82%A4%20%20%E2%80%BB7/19%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%83%9D%E3%82%A2%E3%83%AC%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%20FOR%20%E3%83%89%E3%83%A9%E3%82%A4%20%20%E2%80%BB7/19%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -391,8 +391,8 @@
 
 **価格**: 5500円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「SPFが35、PA++++なんとブライトニング効果がありますので お顔の印象を明るくしながら色補正をしてくれるというアイテムになります 資生堂ならではの独自成分4MSKが配合されております」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%20%E3%83%99%E3%83%BC%E3%82%B9%20SPF35%20/%20PA%2B%2B%2B%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/winno/4514254697344/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -404,8 +404,8 @@
 
 **価格**: 2992円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「1日中ファンデーションベースメイクをしっかりされるという方 そういった方にはおすすめそして今回ケイトからですよ 3タイプあるんですけれども 肌質、」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20%E6%96%B0%E8%89%B22%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-6902395856238/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -417,8 +417,8 @@
 
 **価格**: 18480円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「そしてディオールからプレステージの 新しいタイプが登場いたしました パワーアップバージョン何が素晴らしいか ただの美容液ファンデーションじゃないんです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%AB%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20%E3%82%BF%E3%83%B3%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A85%E8%89%B2%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%AB%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20%E3%82%BF%E3%83%B3%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A85%E8%89%B2%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -430,8 +430,8 @@
 
 **価格**: 8250円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「そしてすっごいカラコチなスキンケアクリームティントというのが 登場いたしました クリームにお色がついているというものになります スキンケアの延長としてお使いいただくアイテムなんです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%20SPF38%20/%20PA%2B%2B%2010%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%20SPF38%20/%20PA%2B%2B%2010%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -443,8 +443,8 @@
 
 **価格**: 6600円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「次はこちらRMKけれども リキッドファンデーション パワーアップして登場いたしました このリキッドファンデーション素晴らしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AC%E3%83%83%E3%82%B8%20%E3%83%97%E3%83%A9%E3%82%B9%20SPF22%20/%20PA%2B%2B%E3%81%BB%E3%81%8B%20%E5%85%A89%E8%89%B2%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmelink/0996072028/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -456,8 +456,8 @@
 
 **価格**: 5500円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「その中でもこちら SUQQUのリキッドコンシーラーが新色法としてリニューアルいたしました これなんといっても透明性の高いジェルにオイルを溶かし込んだ 顔料を混ぜた」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%82%A3%20%E3%82%AB%E3%83%90%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%85%A810%E8%89%B2%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%82%A3%20%E3%82%AB%E3%83%90%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%85%A810%E8%89%B2%20%20%E2%80%BB9/5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
@@ -508,8 +508,8 @@
 
 **価格**: 6050円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「そこであなた今回見て 私このNARSのライトリフレクティングシリーズからです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2003960%20HEAVENLY&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmediva/0194251146041/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -534,8 +534,8 @@
 
 **価格**: 781円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「本日の内容は2025年秋の新作ベースメイクのご紹介です もう今年の秋もウッキウキになりますでしょう もういろんなアイテムがとにかくいっぱい出ます これだけありますのでどれを選んでいいかわからないです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%2001%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%B3%20/%2002%20%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%20%20%E2%80%BB8/1%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/16066378/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -547,8 +547,8 @@
 
 **価格**: 2750円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
+> **小田切ヒロ**: 「いい感じに皮脂吸着 いい感じの滑らかなフローレスな肌に仕上がってくれるという 素晴らしいパウダーそしてこちらジバンシーの ビマット仕上がりになってくれるという 素晴らしいプレストパウダーです」
+> [動画を見る](https://www.youtube.com/watch?v=0atZBQaR0oQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4573623430562&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/stylife/px3894/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -599,8 +599,8 @@
 
 **価格**: 3993円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=xy5DpJDILDU)
+> **小田切ヒロ**: 「クッションファンデーション部分です ヘラリフレクションスキングロウクッションファンデーションもうヘラといえばラクジュアリー そして上質でありながら清潔感をまといながらもちゃんとカバーをしてくれるんです」
+> [動画を見る](https://www.youtube.com/watch?v=xy5DpJDILDU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20NEW%20YORK%20%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%91%E3%82%AF%E3%83%88%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF13%20/%20PA%2B%2B%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20NEW%20YORK%20%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%91%E3%82%AF%E3%83%88%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF13%20/%20PA%2B%2B%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
 

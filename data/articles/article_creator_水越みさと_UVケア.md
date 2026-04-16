@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 水越みさとおすすめUVケア16選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したUVケアアイテムをまとめました。
@@ -122,8 +122,8 @@
 
 **価格**: 2970円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
+> **水越みさと**: 「これもねめっちゃ気になってたんです キスのクッションパンチというファンデーションです キスからクッションが出たんですが ちょっとパケもね可愛くないです」
+> [動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433051460&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KISS%20kiss%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%B3%E3%83%81%2002%20%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%AB%20SPF50%2B%20PA%2B%2B%2B%2B/?af=mobi.0319)
 

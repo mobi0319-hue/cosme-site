@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
-# 韓国オンニAちゃん (会社員J)おすすめその他92選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-16 -->
+# 韓国オンニAちゃん (会社員J)おすすめその他76選【2026年04月版】
 
 人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -17,89 +17,73 @@
 9. **alternative stereo（オルタナティブステレオ）** （alternative stereo製品）
 10. **Biodance（バイオダンス）** （Biodance製品）
 11. **プラダ** プラダビューティー（コスメライン全般）
-12. **Ameli** Ameli コスメ
-13. **CANMAKE (キャンメイク)** キャンメイク コスメ
-14. **M·A·C (マック)** M·A·C コスメ
-15. **hersteller (ハーステラー)** hersteller コスメ
-16. **NARS（ナーズ）** NARS コスメ
-17. **DEAR DAHLIA (ディアダリア)** DEAR DAHLIA コスメ
-18. **YNM (ワイエヌエム)** YNM コスメ
-19. **GESGEP (ジェスジェップ)** GESGEP コスメ
-20. **ABOUT TONE (アバウトトーン)** ABOUT TONE コスメ
-21. **too cool for school (トゥークールフォースクール)** too cool for school コスメ
-22. **EITHER& (イーザーアンド)** EITHER& コスメ
-23. **BeginS by JUNGSAEMMOOL (ビギンスバイジョンセンムル)** BeginS コスメ
-24. **wakemake (ウェイクメイク)** wakemake コスメ
-25. **deepinor (ディーピノール)** deepinor コスメ
-26. **DOLCE&GABBANA (ドルチェ&ガッバーナ)** DOLCE&GABBANA コスメ
-27. **talk to Her (トークトゥハー)** talk to Her コスメ
-28. **Mamonde (マモンド)** Mamonde コスメ
-29. **peripera (ペリペラ)** peripera コスメ
-30. **VIDIVICI (ビディビーチ)** VIDIVICI コスメ
-31. **Charlotte Tilbury (シャーロット ティルブリー)** Charlotte Tilbury コスメ
-32. **BYNIQ (バイニーク)** BYNIQ コスメ
-33. **espoir (エスポア)** espoir コスメ
-34. **alternative stereo (オルタナティブステレオ)** alternative stereo コスメ
-35. **Fillimilli (フィリミリ)** Fillimilli ツール
-36. **Visee (ヴィゼ)** ヴィゼ コスメ
-37. **shu uemura (シュウウエムラ)** シュウウエムラ コスメ
-38. **Scena** ピールオフジェル
-39. **Scena** ベースジェル
-40. **ME+CHAI** Qoo10 公式ショップ▶https://www.qoo10
-41. **TAG** ▷Insramやってます😊
-42. **Scena** 公式ページ： https://-nail.com/
-43. **TAG** 公式Insram：https://www.insram.co
-44. **Scena** ECサイト：https://joyart.biz/c/all
-45. **ME+CHAI** 5/10 16:00～17:00 in  ブース
-46. **ME+CHAI** 5/11 13:00～14:00 in  ブース
-47. **ME+CHAI** 5/12 16:00～17:00 in  ブース
-48. **ME+CHAI** 5/11 15:00～16:00 in  ブース
-49. **ME+CHAI** 5/12 14:00～15:00 in  ブース
-50. **TAG** 5/12 12:30～12:50 in NORI SE
-51. **ミチャイ** #KCON2024 #KCONJAPAN #
-52. **バニラコ** バニラコ
-53. **バイユア** バイユア
-54. **ミルクタッチ** ミルクタッチ
-55. **ME+CHAI** ▼Qoo10 公式ショップ▼
-56. **TAG** 📣Insramやってます😊
-57. **ME+CHAI** 🔔新作日本発売🔔
-58. **ME+CHAI** 💙新作日本発売記念特典💙
-59. **ミチャイ** 🛒 Qoo10公式ショップ：https://www.qoo1
-60. **ミチャイ** #韓国コスメ #ボディケア #
-61. **ミチャイ** #メイキング # #カレンダー
-62. **TAG** Insram https://www.insram.com/
-63. **スリー** adidas アディカラー ニット
+12. **CANMAKE (キャンメイク)** キャンメイク コスメ
+13. **M·A·C (マック)** M·A·C コスメ
+14. **hersteller (ハーステラー)** hersteller コスメ
+15. **NARS（ナーズ）** NARS コスメ
+16. **DEAR DAHLIA (ディアダリア)** DEAR DAHLIA コスメ
+17. **YNM (ワイエヌエム)** YNM コスメ
+18. **GESGEP (ジェスジェップ)** GESGEP コスメ
+19. **EITHER& (イーザーアンド)** EITHER& コスメ
+20. **BeginS by JUNGSAEMMOOL (ビギンスバイジョンセンムル)** BeginS コスメ
+21. **wakemake (ウェイクメイク)** wakemake コスメ
+22. **deepinor (ディーピノール)** deepinor コスメ
+23. **DOLCE&GABBANA (ドルチェ&ガッバーナ)** DOLCE&GABBANA コスメ
+24. **talk to Her (トークトゥハー)** talk to Her コスメ
+25. **Mamonde (マモンド)** Mamonde コスメ
+26. **VIDIVICI (ビディビーチ)** VIDIVICI コスメ
+27. **Charlotte Tilbury (シャーロット ティルブリー)** Charlotte Tilbury コスメ
+28. **BYNIQ (バイニーク)** BYNIQ コスメ
+29. **espoir (エスポア)** espoir コスメ
+30. **Fillimilli (フィリミリ)** Fillimilli ツール
+31. **Visee (ヴィゼ)** ヴィゼ コスメ
+32. **shu uemura (シュウウエムラ)** シュウウエムラ コスメ
+33. **Scena** ピールオフジェル
+34. **Scena** ベースジェル
+35. **TAG** ▷Insramやってます😊
+36. **ME+CHAI** 5/10 16:00～17:00 in  ブース
+37. **ME+CHAI** 5/11 13:00～14:00 in  ブース
+38. **ME+CHAI** 5/12 16:00～17:00 in  ブース
+39. **ME+CHAI** 5/11 15:00～16:00 in  ブース
+40. **ME+CHAI** 5/12 14:00～15:00 in  ブース
+41. **TAG** 5/12 12:30～12:50 in NORI SE
+42. **ミチャイ** #KCON2024 #KCONJAPAN #
+43. **バニラコ** バニラコ
+44. **バイユア** バイユア
+45. **ミルクタッチ** ミルクタッチ
+46. **ME+CHAI** ▼Qoo10 公式ショップ▼
+47. **TAG** 📣Insramやってます😊
+48. **ME+CHAI** 🔔新作日本発売🔔
+49. **ME+CHAI** 💙新作日本発売記念特典💙
+50. **ミチャイ** #韓国コスメ #ボディケア #
+51. **ミチャイ** #メイキング # #カレンダー
+52. **スリー** adidas アディカラー ニット
 スリーストライプス スカ
-64. **スリー** adidas アディカラー スリーストライプス
+53. **スリー** adidas アディカラー スリーストライプス
 トラックトッ
-65. **CHOCHO'S LAB** CHOCHO'S LAB カバーキャプチャークッション ライ
-66. **TAG** TAG ベルベットカバークッション /
-67. **トーン** IPKN& パーソナルトーン コレクティングブラーパクト /
-68. **TAG** TAG スリムブロウペンシル アッシュブラウン /
-69. **TWINKLE POP** TWINKLE POP スパークリング アイスティック ラベ
-70. **A'pieu** A'pieu ザピュアキャンディーカラーバームノープロプラム
-71. **TAG** ▷Insramもやってます😊
-72. **ソルファス** フラグシップストアは本当にすごかった…
-73. **ソルファス** Aちゃんルーティンで使ったの商品は
-74. **ETUDE** 提供：
-75. **ミチャイ** 🔔この動画は自社ブランド「」の広告がふくまれております。
-76. **ミチャイ** 「」がついに日本発売されます！
-77. **ミチャイ** 🔔発売記念セット①
-78. **ミチャイ** 🔔発売記念セット②
-79. **ミチャイ** 🛒公式Qoo10サイト: https://www.qoo10
-80. **ソルファス** #韓国旅行 #韓国デパコス #
-81. **ETUDE** #innisfree #Hera #sulwhasoo # 
-82. **VDL** 韓国の超有名コスメブランドさんと共同開発しました！
-83. **VDL** 公式instagram: https://www.insta
-84. **VDL** 公式Twitter: https://twitter.com
-85. **VDL** 公式サイト：https://cosmetics.jp/
-86. **イニスフリー** 表参道本店
-87. **innisfree** 表参道本店で 1日店員をさせていただくことになりました💚
-88. **NATURE REPUBLIC** #日本留学 #韓国人 #韓国 # #バイト
-89. **NATURE REPUBLIC** のご協力で新大久保にあるSKINGARDENでバイトして来ま
-90. **NATURE REPUBLIC** Qoo10特別企画の生配信
-91. **NATURE REPUBLIC** ❤️‍🔥10月15日 16時  ブースで Aちゃんサイン会
-92. **TAG** Insram：https://www.insram.com/
+54. **CHOCHO'S LAB** CHOCHO'S LAB カバーキャプチャークッション ライ
+55. **TAG** TAG ベルベットカバークッション /
+56. **トーン** IPKN& パーソナルトーン コレクティングブラーパクト /
+57. **TAG** TAG スリムブロウペンシル アッシュブラウン /
+58. **TWINKLE POP** TWINKLE POP スパークリング アイスティック ラベ
+59. **A'pieu** A'pieu ザピュアキャンディーカラーバームノープロプラム
+60. **TAG** ▷Insramもやってます😊
+61. **ソルファス** フラグシップストアは本当にすごかった…
+62. **ソルファス** Aちゃんルーティンで使ったの商品は
+63. **ETUDE** 提供：
+64. **ミチャイ** 🔔この動画は自社ブランド「」の広告がふくまれております。
+65. **ミチャイ** 「」がついに日本発売されます！
+66. **ミチャイ** 🔔発売記念セット①
+67. **ミチャイ** 🔔発売記念セット②
+68. **ソルファス** #韓国旅行 #韓国デパコス #
+69. **ETUDE** #innisfree #Hera #sulwhasoo # 
+70. **VDL** 韓国の超有名コスメブランドさんと共同開発しました！
+71. **イニスフリー** 表参道本店
+72. **innisfree** 表参道本店で 1日店員をさせていただくことになりました💚
+73. **NATURE REPUBLIC** #日本留学 #韓国人 #韓国 # #バイト
+74. **NATURE REPUBLIC** のご協力で新大久保にあるSKINGARDENでバイトして来ま
+75. **NATURE REPUBLIC** Qoo10特別企画の生配信
+76. **NATURE REPUBLIC** ❤️‍🔥10月15日 16時  ブースで Aちゃんサイン会
 
 ---
 
@@ -246,17 +230,6 @@
 
 ---
 
-### Ameli Ameli コスメ
-
-![Ameli Ameli コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/oroshi-ee/cabinet/06556111/imgrc0073359717.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「眼鏡をかけたオフィスメイクの動画で実際に使われていたアイテム。ナチュラルで上品な印象に仕上がるので、オフィスやきちんと感を出したい日のメイクに取り入れるのがおすすめ」
-> [動画を見る](https://www.youtube.com/watch?v=1HoEtW7I2oE)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Ameli%20Ameli%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/oroshi-ee/limanatural-cameliaoil/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### CANMAKE (キャンメイク) キャンメイク コスメ
 
 > **韓国オンニAちゃん (会社員J)**: 「眼鏡をかけたオフィスメイクの動画で実際に使われていたアイテム。ナチュラルで上品な印象に仕上がるので、オフィスやきちんと感を出したい日のメイクに取り入れるのがおすすめ」
@@ -325,28 +298,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GESGEP%20%28%E3%82%B8%E3%82%A7%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%83%E3%83%97%29%20GESGEP%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/GESGEP%20%28%E3%82%B8%E3%82%A7%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%83%E3%83%97%29%20GESGEP%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319&s=2&v=2)
-
----
-
-### ABOUT TONE (アバウトトーン) ABOUT TONE コスメ
-
-![ABOUT TONE (アバウトトーン) ABOUT TONE コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/japanbbia/cabinet/item/at/0106848185.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ABOUT%20TONE%20%28%E3%82%A2%E3%83%90%E3%82%A6%E3%83%88%E3%83%88%E3%83%BC%E3%83%B3%29%20ABOUT%20TONE%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/japanbbia/abt_skinlayer_fd/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
-### too cool for school (トゥークールフォースクール) too cool for school コスメ
-
-![too cool for school (トゥークールフォースクール) too cool for school コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/hanbist/cabinet/toocool/tcfs_swaylip_0.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=too%20cool%20for%20school%20%28%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%29%20too%20cool%20for%20school%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hanbist/too_001sway/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -423,17 +374,6 @@
 
 ---
 
-### peripera (ペリペラ) peripera コスメ
-
-![peripera (ペリペラ) peripera コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/turuya783/cabinet/ws/2024/cos240201/c00080_1.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=peripera%20%28%E3%83%9A%E3%83%AA%E3%83%9A%E3%83%A9%29%20peripera%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/turuya783/c00080/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### VIDIVICI (ビディビーチ) VIDIVICI コスメ
 
 ![VIDIVICI (ビディビーチ) VIDIVICI コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/joyance-m/cabinet/10295971/vdcb.jpg?_ex=500x500)
@@ -448,6 +388,8 @@
 ### Charlotte Tilbury (シャーロット ティルブリー) Charlotte Tilbury コスメ
 
 ![Charlotte Tilbury (シャーロット ティルブリー) Charlotte Tilbury コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/laurette/cabinet/06102289/imgrc0075593003.jpg?_ex=500x500)
+
+**価格**: 36800円
 
 > **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
 > [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
@@ -473,17 +415,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=espoir%20%28%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%29%20espoir%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/espoir_highlighter_a/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
-### alternative stereo (オルタナティブステレオ) alternative stereo コスメ
-
-![alternative stereo (オルタナティブステレオ) alternative stereo コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/alternativestereo/al-lsg/al-lsg-lpgw.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=alternative%20stereo%20%28%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA%29%20alternative%20stereo%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/virginbeautyshop/al-lsg/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -542,48 +473,12 @@
 
 ---
 
-### ME+CHAI Qoo10 公式ショップ▶https://www.qoo10.jp/shop/mechai
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2iKB8dYmSas)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ME%2BCHAI%20Qoo10%20%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E2%96%B6https%3A//www.qoo10.jp/shop/mechai&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ME%2BCHAI%20Qoo10%20%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E2%96%B6https%3A//www.qoo10.jp/shop/mechai/?af=mobi.0319)
-
----
-
 ### TAG ▷Insramやってます😊
 
 動画の概要欄で紹介されています。
 [動画を見る](https://www.youtube.com/watch?v=2iKB8dYmSas)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E2%96%B7Insram%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%F0%9F%98%8A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E2%96%B7Insram%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%F0%9F%98%8A/?af=mobi.0319)
-
----
-
-### Scena 公式ページ： https://-nail.com/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3UZJRqMbTB0)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Scena%20%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8%EF%BC%9A%20https%3A//-nail.com/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Scena%20%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8%EF%BC%9A%20https%3A//-nail.com//?af=mobi.0319)
-
----
-
-### TAG 公式Insram：https://www.insram.com/scena_nail.official/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3UZJRqMbTB0)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E5%85%AC%E5%BC%8FInsram%EF%BC%9Ahttps%3A//www.insram.com/scena_nail.official/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E5%85%AC%E5%BC%8FInsram%EF%BC%9Ahttps%3A//www.insram.com/scena_nail.official//?af=mobi.0319)
-
----
-
-### Scena ECサイト：https://joyart.biz/c/allbrand/b-/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3UZJRqMbTB0)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Scena%20EC%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%9Ahttps%3A//joyart.biz/c/allbrand/b-/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Scena%20EC%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%9Ahttps%3A//joyart.biz/c/allbrand/b-//?af=mobi.0319)
 
 ---
 
@@ -652,7 +547,7 @@
 
 ### バニラコ バニラコ
 
-> **韓国オンニAちゃん (会社員J)**: 「これいいキアのデコボコのカバーバニラコ よりしてくれるカバー力そんなないキアの デコボコのカバーそんなしてくれない こちらがJチャンネルです皆さんのかこに あちゃんです今回はですね久しぶりの ベース」
+> **韓国オンニAちゃん (会社員J)**: 「これいいキアのデコボコのカバーバニラコ よりしてくれるカバー力そんなないキアの デコボコのカバーそんなしてくれない こちらがJチャンネルですのかこに あちゃんです今回はです」
 > [動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3%20%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/flytoyou/200062548-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -661,7 +556,7 @@
 
 ### バイユア バイユア
 
-> **韓国オンニAちゃん (会社員J)**: 「ちょっとついちゃうということがあるかも ではバイユアのセラムフィットフルカバー マットクッションですこちらバイアという ブランドオリブヤングでは入っておりませ んがちょっと口コミで有名になってる ブランドですし日」
+> **韓国オンニAちゃん (会社員J)**: 「ちょっとついちゃうということがあるかも ではバイユアのセラムフィットフルカバー マットクッションですこちらバイアという ブランドオリブヤングでは入っておりませ んがちょっと口コミで有名になってる ブランドです」
 > [動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2%20%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/at-beaute/4582619580860m/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -670,7 +565,7 @@
 
 ### ミルクタッチ ミルクタッチ
 
-> **韓国オンニAちゃん (会社員J)**: 「にはこの2車よりもこの2車の方が良かっ たミルクタッチのオールデイスキン フィットミルキーグロークッション02番 のバニラアイボリという金板にしてみまし た楕円型になってまして昔のポリポケッ トって皆さんご存知です」
+> **韓国オンニAちゃん (会社員J)**: 「ミルクタッチのオールデイスキンフィット ミルキーグロウクッション 02番バニラアイボリーを使用。楕円型のコンパクトが特徴的なクッションファンデーション。」
 > [動画を見る](https://www.youtube.com/watch?v=j3hDP46TUQ0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%20%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/renew-beauty/milk01/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -713,15 +608,6 @@
 
 ---
 
-### ミチャイ 🛒 Qoo10公式ショップ：https://www.qoo10.jp/shop/mechai
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=koVSF9_Eles)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%81%E3%83%A3%E3%82%A4%20%F0%9F%9B%92%20Qoo10%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%EF%BC%9Ahttps%3A//www.qoo10.jp/shop/mechai&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%81%E3%83%A3%E3%82%A4%20%F0%9F%9B%92%20Qoo10%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%EF%BC%9Ahttps%3A//www.qoo10.jp/shop/mechai/?af=mobi.0319)
-
----
-
 ### ミチャイ #韓国コスメ #ボディケア #
 
 動画の概要欄で紹介されています。
@@ -737,15 +623,6 @@
 [動画を見る](https://www.youtube.com/watch?v=KqD-RPPvP8I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%81%E3%83%A3%E3%82%A4%20%23%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%20%23%20%23%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%81%E3%83%A3%E3%82%A4%20%23%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%20%23%20%23%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC/?af=mobi.0319)
-
----
-
-### TAG Insram https://www.insram.com/opsisphoto/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=M1cQmLgN5II)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Insram%20https%3A//www.insram.com/opsisphoto/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Insram%20https%3A//www.insram.com/opsisphoto//?af=mobi.0319)
 
 ---
 
@@ -795,7 +672,7 @@
 
 **価格**: 3,000ウォン
 
-> **韓国オンニAちゃん (会社員J)**: 「にもいろんな選択肢がありました1くの パーソナルトーンコレクティングブラー パクトラベンダーちょっと色付きの パウダーでこちらが植物エフロラ ノーセバムパウダーネイチャー リパブリックサンのサブブランドなんです よ」
+> **韓国オンニAちゃん (会社員J)**: 「にもいろんな選択肢がありました1くの パーソナルトーンコレクティングブラー パクトラベンダーちょっと色付きの パウダーでこちらが植物エフロラ ノーセバムパウダーネイチャー リパブリックサンのサブブランドなんです」
 > [動画を見る](https://www.youtube.com/watch?v=xNN3MPh3R68)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20IPKN%26%20%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%BC%E3%83%91%E3%82%AF%E3%83%88%20/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20IPKN%26%20%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%BC%E3%83%91%E3%82%AF%E3%83%88%20//?af=mobi.0319)
@@ -907,15 +784,6 @@
 
 ---
 
-### ミチャイ 🛒公式Qoo10サイト: https://www.qoo10.jp/shop/mechai
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=of2jqvPY1y0)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%81%E3%83%A3%E3%82%A4%20%F0%9F%9B%92%E5%85%AC%E5%BC%8FQoo10%E3%82%B5%E3%82%A4%E3%83%88%3A%20https%3A//www.qoo10.jp/shop/mechai&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%81%E3%83%A3%E3%82%A4%20%F0%9F%9B%92%E5%85%AC%E5%BC%8FQoo10%E3%82%B5%E3%82%A4%E3%83%88%3A%20https%3A//www.qoo10.jp/shop/mechai/?af=mobi.0319)
-
----
-
 ### ソルファス #韓国旅行 #韓国デパコス #
 
 動画の概要欄で紹介されています。
@@ -943,36 +811,9 @@
 
 ---
 
-### VDL 公式instagram: https://www.instagram.com/_japan/
-
-> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
-> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E5%85%AC%E5%BC%8Finstagram%3A%20https%3A//www.instagram.com/_japan/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E5%85%AC%E5%BC%8Finstagram%3A%20https%3A//www.instagram.com/_japan//?af=mobi.0319)
-
----
-
-### VDL 公式Twitter: https://twitter.com/_japan
-
-> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
-> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E5%85%AC%E5%BC%8FTwitter%3A%20https%3A//twitter.com/_japan&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E5%85%AC%E5%BC%8FTwitter%3A%20https%3A//twitter.com/_japan/?af=mobi.0319)
-
----
-
-### VDL 公式サイト：https://cosmetics.jp/
-
-> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
-> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%9Ahttps%3A//cosmetics.jp/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%9Ahttps%3A//cosmetics.jp//?af=mobi.0319)
-
----
-
 ### イニスフリー 表参道本店
 
-> **韓国オンニAちゃん (会社員J)**: 「ラフォーレとの交差点にありますから。イニスフリーの表参道店って。 ぜひ足を運んでいただければなと思います。 そこで私何をするかと言いますと、1日店員として皆さんの接客をさせていただきます。」
+> **韓国オンニAちゃん (会社員J)**: 「ラフォーレとの交差点にありますから。イニスフリーの表参道店って。 ぜひ足を運んでいただければなと思います。 そこで私何をするかと言いますと、1日店員としての接客をさせていただきます。」
 > [動画を見る](https://www.youtube.com/watch?v=iaosmJKe5EI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%E8%A1%A8%E5%8F%82%E9%81%93%E6%9C%AC%E5%BA%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%20%E8%A1%A8%E5%8F%82%E9%81%93%E6%9C%AC%E5%BA%97/?af=mobi.0319)
@@ -1017,18 +858,9 @@
 
 ### NATURE REPUBLIC ❤️‍🔥10月15日 16時  ブースで Aちゃんサイン会
 
-> **韓国オンニAちゃん (会社員J)**: 「もう大きいやつはこれですよね 10月15日の土曜日16時に のコンベンション会場内にある Nature RepublicブースでAちゃん再会です もう皆さんと本当に会いたかった KCONJAPANは私1回目から出させ」
+> **韓国オンニAちゃん (会社員J)**: 「もう大きいやつはよ10月15日の土曜日16時に のコンベンション会場内にある Nature RepublicブースでAちゃん再会です」
 > [動画を見る](https://www.youtube.com/watch?v=KuCTiEno4iA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NATURE%20REPUBLIC%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A510%E6%9C%8815%E6%97%A5%2016%E6%99%82%20%20%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%20A%E3%81%A1%E3%82%83%E3%82%93%E3%82%B5%E3%82%A4%E3%83%B3%E4%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NATURE%20REPUBLIC%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A510%E6%9C%8815%E6%97%A5%2016%E6%99%82%20%20%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%20A%E3%81%A1%E3%82%83%E3%82%93%E3%82%B5%E3%82%A4%E3%83%B3%E4%BC%9A/?af=mobi.0319)
-
----
-
-### TAG Insram：https://www.insram.com/vabeauty.jp/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=wakeqPPEPpw)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Insram%EF%BC%9Ahttps%3A//www.insram.com/vabeauty.jp/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Insram%EF%BC%9Ahttps%3A//www.insram.com/vabeauty.jp//?af=mobi.0319)
 
 ---

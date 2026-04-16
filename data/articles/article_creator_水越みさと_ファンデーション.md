@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 水越みさとおすすめファンデーション45選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したファンデーションアイテムをまとめました。
@@ -172,8 +172,8 @@ BP
 
 **価格**: 8360円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
+> **水越みさと**: 「イヴ・サンローラン オールアワーズリキッドグロウのLC2番を使用。」
+> [動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yslbeauty/ww-51439ysl/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -198,8 +198,8 @@ BP
 
 **価格**: 638円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=my6GkmCGuHk)
+> **水越みさと**: 「コーナーにやってきました こんなのあるんだ ロージーローザーのミニサイズパフですって え、どう使うんだろう コンシーラーとかクリームチークなじませたりとかに 使えるみたいです すごい あ、すごい うん、」
+> [動画を見る](https://www.youtube.com/watch?v=my6GkmCGuHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%91%E3%83%95%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%91%E3%83%952P&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00r4d89.zqde7523.g00r4d89.zqde8f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcd013638420101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F0101marui%2Fi%2F12490440%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -211,8 +211,8 @@ BP
 
 **価格**: 13750円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=N2TnmHAQSQQ)
+> **水越みさと**: 「TOM FORD BEAUTY ハイドレーティング ファンデーション（3.5N）を使用。海外リゾート旅行にも持参し、猛暑の環境でも使えるファンデーションとして紹介。」
+> [動画を見る](https://www.youtube.com/watch?v=N2TnmHAQSQQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20TOM%20FORD%20BEAUTY%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC%E3%80%80%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%E3%80%80%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%80%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%203.5N%20%E3%83%8C%E3%83%BC%E3%83%89%20%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC%20SPF50&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tomfordbeauty/fd_arhf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -434,8 +434,8 @@ SPF27／PA++](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/nars/
 
 **価格**: 6380円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「NARS ライトリフレクティング トーンアップヴェール（SPF27/PA++）を紹介。NARSベースメイクアイテム徹底解説企画で取り上げられた注目の下地。」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%0ASPF27%EF%BC%8FPA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tokitomecosme/194251136172-ra/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -451,8 +451,8 @@ SPF42／PA++ レフィル+ケース
 
 **価格**: 8580円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「NARS ライトリフレクティング セラムクッションファンデーション（SPF42/PA++）を紹介。2月14日発売の新作としてNARSベースメイク解説で紹介。」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ASPF42%EF%BC%8FPA%2B%2B%20%E3%83%AC%E3%83%95%E3%82%A3%E3%83%AB%2B%E3%82%B1%E3%83%BC%E3%82%B9%0A%E2%80%BB2%E6%9C%8814%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0194251143910/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -466,8 +466,8 @@ SPF50／PA+++ レフィル+ケース 5880 MONT BLANC](https://thumbnail.image.ra
 
 **価格**: 7370円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「こんにちは水越美里です はい本日はですNARSのベースメイクアイテム徹底解説やっていきたいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ASPF50%EF%BC%8FPA%2B%2B%2B%20%E3%83%AC%E3%83%95%E3%82%A3%E3%83%AB%2B%E3%82%B1%E3%83%BC%E3%82%B9%205880%20MONT%20BLANC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/nrshl0000022/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -481,8 +481,8 @@ SPF50+／PA+++ レフィル+ケース 00508 HALLA](https://thumbnail.image.rakut
 
 **価格**: 7370円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「こんにちは水越美里です はい本日はですNARSのベースメイクアイテム徹底解説やっていきたいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ASPF50%2B%EF%BC%8FPA%2B%2B%2B%20%E3%83%AC%E3%83%95%E3%82%A3%E3%83%AB%2B%E3%82%B1%E3%83%BC%E3%82%B9%2000508%20&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/nrshg0000013/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -496,8 +496,8 @@ SPF50+／PA+++ レフィル+ケース 00508 HALLA](https://thumbnail.image.rakut
 
 **価格**: 7150円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「こんにちは水越美里です はい本日はですNARSのベースメイクアイテム徹底解説やっていきたいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A04337%20KAILASH&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0D04337%20KAILASH/?af=mobi.0319)
 
@@ -511,8 +511,8 @@ MONT BLANC](https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/m
 
 **価格**: 7150円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「こんにちは水越美里です はい本日はですNARSのベースメイクアイテム徹底解説やっていきたいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%80%80%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0AMONT%20BLANC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%80%80%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0DMONT%20BLANC/?af=mobi.0319)
 
@@ -526,8 +526,8 @@ MONT BLANC](https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/m
 
 **価格**: 6050円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「こんにちは水越美里です はい本日はですNARSのベースメイクアイテム徹底解説やっていきたいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A00303%20MONT%20BLANC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0D00303%20MONT%20BLANC/?af=mobi.0319)
 
@@ -539,8 +539,8 @@ MONT BLANC](https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/m
 
 **価格**: 4510円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「NARS ラディアントクリーミーコンシーラー 1242 VANILLA / ソフトマットコンプリートコンシーラー 1276 VANILLAを紹介。NARSベースメイク徹底解説で取り上げ。」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%201242%20VANILLA%20%E3%81%A8NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%201276%20VANILLA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lunadea/10005314/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -552,8 +552,8 @@ MONT BLANC](https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/m
 
 **価格**: 5500円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
+> **水越みさと**: 「NARS ライトリフレクティング メーキャップセッティングミストを紹介。NARSベースメイクアイテム徹底解説企画でピックアップされた仕上げミスト。」
+> [動画を見る](https://www.youtube.com/watch?v=YOr0Vq3f0Hc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%A1%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9F%E3%82%B9%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/nrscl0000003/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -580,8 +580,8 @@ MONT BLANC](https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/m
 
 **価格**: 5500円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「はい、まずはこちらのファンデ アルビオンのグレイズデューファンデーション020 新作アイテムこちらを使ってレビューしていきます まず先にお伝えしてしまうと、」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA%E3%83%B3%20%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA%E3%83%B3%E3%80%80%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%E3%83%87%E3%83%A5%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A020%20%E3%83%94%E3%83%B3%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikisone/albion5138/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -595,8 +595,8 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 **価格**: 7700円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「コスメデコルテ ゼン ウェア グロウ Nを紹介。シュウエムラのケアツヤセラムファンデーションとともに今期の新作ファンデーションとして比較。」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710378924&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/4971710378894-10/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -610,8 +610,8 @@ N-032 サンド](https://item-shopping.c.yimg.jp/i/l/zozo_85074861)
 
 **価格**: 8580円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「はいそれでは今日はボビーブラウンのウェイトレススキンファンデーションを使っていきます ここまでツヤファンデが出てきたんですけど このボビーブラウンはです質感セミマットなファンデーションになっています」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%93%E3%82%A4%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%83%9C%E3%83%93%E3%82%A4%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0AN-032%20%E3%82%B5%E3%83%B3%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9C%E3%83%93%E3%82%A4%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%83%9C%E3%83%93%E3%82%A4%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0DN-032%20%E3%82%B5%E3%83%B3%E3%83%89/?af=mobi.0319)
 
@@ -623,8 +623,8 @@ N-032 サンド](https://item-shopping.c.yimg.jp/i/l/zozo_85074861)
 
 **価格**: 6600円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「まず、一応ね、条件的には今回下地、いつものごとくですがRMKのメイクアップベースを使用しています この下地が一番カバー力もナチュラルめで、他にあまり何も干渉しないので、わかりやすいので採用しました で、」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167535424&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167535448/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -638,8 +638,8 @@ N-032 サンド](https://item-shopping.c.yimg.jp/i/l/zozo_85074861)
 
 **価格**: 4620円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「マキアージュ ドラマティックエッセンスクッション グロウ（ライトオークル）を使用。ツヤ仕上がりが特徴の注目クッションファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%89%E3%83%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%A6%0A%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%AB%20%E2%80%BB%E3%82%B1%E3%83%BC%E3%82%B9%E5%90%88%E7%AE%97%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeland/296930/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -653,8 +653,8 @@ BP](https://thumbnail.image.rakuten.co.jp/@0_mall/0101marui/cabinet/ce017/335/87
 
 **価格**: 2310円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「使っていただけるのかなとも思います はいそれでは今日は オルビスユーのカラースキンケアマスクファンデーション使っていきます こちらのファンデーションは まぁオルビスの新作なんですけど 毛穴カバーにす」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ABP&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0DBP/?af=mobi.0319)
 
@@ -668,8 +668,8 @@ Linen/](https://thumbnail.image.rakuten.co.jp/@0_mall/brandshiseido/cabinet/prd/
 
 **価格**: 6600円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+> **水越みさと**: 「はい次こちら 資生堂のシンクロスキンラディアントリフティングファンデーションです これはです簡単にまとめると ザ万人受けファンデーションかなと思っています 分類分けするならツヤなんですが 強す」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ALinen/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0DLinen//?af=mobi.0319)
 

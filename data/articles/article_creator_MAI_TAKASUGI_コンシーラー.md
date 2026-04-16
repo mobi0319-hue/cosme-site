@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめコンシーラー11選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したコンシーラーアイテムをまとめました。
@@ -104,8 +104,8 @@
 
 **価格**: 748円
 
-動画の概要欄でコンシーラーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=PmGfVDAbNIM)
+> **MAI TAKASUGI**: 「フリーズしてしまった へぇー キャンメイクってすごいわ セザンヌの時までも思ったけど プチプラ強し これねす」
+> [動画を見る](https://www.youtube.com/watch?v=PmGfVDAbNIM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sundrug/4939553042723/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # ひよんちゃんねるおすすめハイライター4選【2026年04月版】
 
 人気美容YouTuber **ひよんちゃんねる** さんが動画で紹介したハイライターアイテムをまとめました。
@@ -19,8 +19,8 @@
 
 **価格**: 2420円
 
-動画の概要欄でハイライトとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
+> **ひよんちゃんねる**: 「じゃあ続きましてこちら ゴムアンドのハンオールブロウカラー 私が持ってるカラーは 08番のムーングレーっていうカラーなんだけど これは発色の良さだった」
+> [動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4573198754865&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lucky-happy/3910/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

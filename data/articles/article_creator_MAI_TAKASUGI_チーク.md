@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめチーク6選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したチークアイテムをまとめました。
@@ -73,8 +73,8 @@
 
 **価格**: 550円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
+> **MAI TAKASUGI**: 「じゃんじゃらじゃんじゃらチーク仕上げとこ出しておくかな これ買ってよかったすごい使えるもん 何かチーク塗った上からでもいいし 結構何でも合う気がす」
+> [動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042877&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

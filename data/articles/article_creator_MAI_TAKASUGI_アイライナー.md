@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめアイライナー11選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したアイライナーアイテムをまとめました。
@@ -104,8 +104,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「アイラインは、 いきまーす。 こちらが、 キャンメイクの、 02番の、 お色でーす。 塗り出し式になってて、 色味としては、 この、 こげ茶のような、 色味ですね。」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008310596&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000077168/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

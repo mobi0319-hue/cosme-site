@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
-# ひよんちゃんねるおすすめその他87選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-16 -->
+# ひよんちゃんねるおすすめその他81選【2026年04月版】
 
 人気美容YouTuber **ひよんちゃんねる** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -61,45 +61,32 @@
 53. **ETUDE** ｜エチュード
 54. **エレガンス** Elégance｜
 55. **TAG** ♡Insram @cchan_fee4
-56. **TAG** →https://www.insram.com/cchan_
-57. **CHANEL** #購入品紹介  # #ハイブランド
-58. **トーン** タッチアイズ
-59. **YSL** ｜ラディアント タッチ グロウパクト
-60. **KATE** ｜ルイシンノイチゲキリムーバー
-61. **Obagi** 提供：BAN /  medicube / IOPE /  R
-62. **CHANEL** tops : GRL
-bottoms : Bibiy.
-ou
-63. **トーン** ホワイト！大人モテなワントーンコーデ
-64. **トーン** 大人モテなワントーンコーデの完成♡
-65. **トーン** 💳LOOK02コーデ詳細：ホワイト！大人モテなワンコーデ
-66. **CHANEL** tops :オンマのお下がり
-one piece : Lon
-67. **CHANEL** tops : ALLISON BROWN  bottoms 
-68. **CHANEL** tops : GRL 
-bottoms : GU 
-bag 
-69. **CHANEL** tops :H&M 
-
-bottoms : H&M card
-70. **スリー** リブブラトップ/アメリカンブ
-71. **スリー** ジャージーバルーンワンピース/ノーブ
-72. **スリー** INDUSTRIA GRブ
-73. **スリー** フロントリボンセーター by rokh
-74. **アディクション** シルキーバームスティック
-75. **MAC** PHEE｜マカフィー
-76. **スリー** ミニスパンコール ハーフブプルオーバー
-77. **マック** M•A•C（）
-78. **KATE** ケイト（）
-79. **Dior** ディオールスキン フォーエヴァー スキン パーフェクト ステ
-80. **YSL** Beauty ラブシャイン キャンディ グロウ バーム
-81. **hince** hince大人気すぎた…！
-82. **CANMAKE** CANMAKE｜ラメマニア
-83. **REVLON** REVLON｜スキンシマーシャドウ
-84. **hince** hince｜ロウグロウデューイーボール
-85. **EXCEL** excel｜スキニーリッチシャドウ
-86. **tfit** tfit｜アイシーフィットカバークッションEX
-87. **to/one** to/one｜ペタル フロート ポアレス スムーザー
+56. **CHANEL** #購入品紹介  # #ハイブランド
+57. **トーン** タッチアイズ
+58. **YSL** ｜ラディアント タッチ グロウパクト
+59. **KATE** ｜ルイシンノイチゲキリムーバー
+60. **Obagi** 提供：BAN /  medicube / IOPE /  R
+61. **トーン** ホワイト！大人モテなワントーンコーデ
+62. **トーン** 大人モテなワントーンコーデの完成♡
+63. **トーン** 💳LOOK02コーデ詳細：ホワイト！大人モテなワンコーデ
+64. **スリー** リブブラトップ/アメリカンブ
+65. **スリー** ジャージーバルーンワンピース/ノーブ
+66. **スリー** INDUSTRIA GRブ
+67. **スリー** フロントリボンセーター by rokh
+68. **アディクション** シルキーバームスティック
+69. **MAC** PHEE｜マカフィー
+70. **スリー** ミニスパンコール ハーフブプルオーバー
+71. **マック** M•A•C（）
+72. **KATE** ケイト（）
+73. **Dior** ディオールスキン フォーエヴァー スキン パーフェクト ステ
+74. **YSL** Beauty ラブシャイン キャンディ グロウ バーム
+75. **hince** hince大人気すぎた…！
+76. **CANMAKE** CANMAKE｜ラメマニア
+77. **REVLON** REVLON｜スキンシマーシャドウ
+78. **hince** hince｜ロウグロウデューイーボール
+79. **EXCEL** excel｜スキニーリッチシャドウ
+80. **tfit** tfit｜アイシーフィットカバークッションEX
+81. **to/one** to/one｜ペタル フロート ポアレス スムーザー
 
 ---
 
@@ -109,8 +96,8 @@ bottoms : H&M card
 
 **価格**: 4180円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
+> **ひよんちゃんねる**: 「次! はい、続きましてこちら アディクションのシルキエバームスティックです」
+> [動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%EF%BD%9C%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%205g&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/amitysun/80002326/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -122,8 +109,8 @@ bottoms : H&M card
 
 **価格**: 2200円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
+> **ひよんちゃんねる**: 「ハイライト もうこれも大好き RMKのグロウスティックGD スティックタイプのハイライトなんです」
+> [動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167259290&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%EF%BD%9C%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20GD%203.4g/?af=mobi.0319&s=2&v=2)
 
@@ -135,8 +122,8 @@ bottoms : H&M card
 
 **価格**: 6600円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
+> **ひよんちゃんねる**: 「次! アイシャドウ こちら! スナイデルのアイデザイナーN 私03番の色です 人生コスメに入れた アイテムたちがこの2025年の上半期に出会ったアイテムが多すぎて 優秀なものがさ今季多す」
+> [動画を見る](https://www.youtube.com/watch?v=1r_xXOyKkMU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SNIDEL%20BEAUTY%20%E3%82%A2%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%20n%2003%20Tuxedo%20Brown&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SNIDEL%20BEAUTY%EF%BD%9C%E3%82%A2%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%20n%2003%20Tuxedo%20Brown/?af=mobi.0319&s=2&v=2)
 
@@ -213,8 +200,8 @@ bottoms : H&M card
 
 **価格**: 4180円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
+> **ひよんちゃんねる**: 「はい、続きましてこちら こちらがトーンのペタルフロートフローレスタッチ 01番 コンシーラーフェイスカラー もうこれもさ 神アイテムです」
+> [動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4570106735626&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/toonecosmetics/4573623430555/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -226,8 +213,8 @@ bottoms : H&M card
 
 **価格**: 3630円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
+> **ひよんちゃんねる**: 「フィリミネのアイブラッシュプロコレクションです これは私もともと大好きな フィリミネの5本セットのアイシャドウブラシなんだけど ちょっとリニューアルしたのが 形が変わったんです」
+> [動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=FilliMilli%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%A9%E3%82%B7%20%E3%83%97%E3%83%AD%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%205%E6%9C%AC%E5%85%A5%E3%82%8A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000173079/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -278,8 +265,8 @@ bottoms : H&M card
 
 **価格**: 7810円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=UdKdyJKXUdY)
+> **ひよんちゃんねる**: 「パウダーです こちら ディオールスキンの フォーエバーヌードラディアントフィルター これは1色しかない新作のパウダーになるんです」
+> [動画を見る](https://www.youtube.com/watch?v=UdKdyJKXUdY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%EF%BD%9C%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%8C%E3%83%BC%E3%83%89%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%20%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2000%20%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%BB%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%EF%BD%9C%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%8C%E3%83%BC%E3%83%89%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%20%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2000%20%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%BB%E3%83%B3%E3%83%88/?af=mobi.0319)
 
@@ -291,8 +278,8 @@ bottoms : H&M card
 
 **価格**: 7700円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=UdKdyJKXUdY)
+> **ひよんちゃんねる**: 「やっぱ推しだなと思っていて テクスチャー的には ロージーカラーになっているんですけど 見え広げるとこのみずみずしさが すごいんだよすっごく軽い 比較してみると全然違うのが分かると思う やりす」
+> [動画を見る](https://www.youtube.com/watch?v=UdKdyJKXUdY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%EF%BD%9C%E3%82%B7%E3%82%B0%E3%83%8B%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%A2%E3%82%A4%E3%82%BA%2015%20%E5%87%9B%E8%A6%97%20-RINNOZOKI&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bousai-outdoor/b0fq5vv1zt/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -473,8 +460,8 @@ bottoms : H&M card
 
 **価格**: 808円
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=s5rSh4PMz9s)
+> **ひよんちゃんねる**: 「アイテムです ナウフーズのソリューションズ キシリホワイト 歯磨きジェル リフレッシュミントのフレーバーです 歯磨きっていろいろあると思うんだけど これもさ話してると もうキリがなさす」
+> [動画を見る](https://www.youtube.com/watch?v=s5rSh4PMz9s)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NOW%20Foods%20%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%20XyliWhite%20%E6%AD%AF%E7%A3%A8%E3%81%8D%E3%82%B8%E3%82%A7%E3%83%AB%20%E3%83%95%E3%83%83%E5%8C%96%E7%89%A9%E7%84%A1%E6%B7%BB%E5%8A%A0%20%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%B3%E3%83%88%20181g&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NOW%20Foods%EF%BD%9C%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%20XyliWhite%20%E6%AD%AF%E7%A3%A8%E3%81%8D%E3%82%B8%E3%82%A7%E3%83%AB%20%E3%83%95%E3%83%83%E5%8C%96%E7%89%A9%E7%84%A1%E6%B7%BB%E5%8A%A0%20%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%B3%E3%83%88%20181g/?af=mobi.0319)
 
@@ -525,7 +512,7 @@ bottoms : H&M card
 
 **価格**: 6050円
 
-> **ひよんちゃんねる**: 「もっと 自然に カバーすることができるかもしれません トーンアップベース トップカラーで ここ全体を 全部塗ると 先ほども 言ったように 顔が平面になります だから、」
+> **ひよんちゃんねる**: 「トーンアップベースとして使用。全体に塗ると顔が平面になるため、部分的に使うことで自然なカバーができると解説」
 > [動画を見る](https://www.youtube.com/watch?v=dNG-RE3b2Uo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20lauramercier%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9%20%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20FAIR%20ROSE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0194250052237/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -551,7 +538,7 @@ bottoms : H&M card
 
 **価格**: 7810円
 
-> **ひよんちゃんねる**: 「こちらがHDスキンプレストパウダーです でカラーは全部で5色あるんですけど 私がおすすめなのはこの02番の ラベンダーのカラーになってます でSUQQUと真逆って言ったんですけど」
+> **ひよんちゃんねる**: 「こちらがHDスキンプレストパウダーです でカラーは全部で5色あるんですけど 私がおすすめなのはこの02番の ラベンダーのカラーになってます でSUQQUと真逆って言ったんです」
 > [動画を見る](https://www.youtube.com/watch?v=cX1-c0TZQmU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2003%20%E3%83%94%E3%83%B3%E3%82%AF%20%E3%83%98%E3%82%A4%E3%83%AD%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmeparfaite/cd-pressed_powder01/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -564,7 +551,7 @@ bottoms : H&M card
 
 **価格**: 3960円
 
-> **ひよんちゃんねる**: 「キャンメイクのプティパレットアイズ04番のカラーです キャンメイクを紹介させていただくのは 結構お久しぶりっていう感じになるんですけど この前グラムブリティークの撮影をさせていただいた時に これに出会ったんで」
+> **ひよんちゃんねる**: 「キャンメイクのプティパレットアイズ04番のカラーです キャンメイクを紹介させていただくのは 結構お久しぶりっていう感じになるんです」
 > [動画を見る](https://www.youtube.com/watch?v=udnbT1w0wuo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Estee%20Lauder%20%E3%83%94%E3%83%A5%E3%82%A2%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%90%E3%83%BC%E3%83%A0%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Estee%20Lauder%20%E3%83%94%E3%83%A5%E3%82%A2%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%90%E3%83%BC%E3%83%A0%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
@@ -577,7 +564,7 @@ bottoms : H&M card
 
 **価格**: 5940円
 
-> **ひよんちゃんねる**: 「外に出れるようになります 次 続きましてこちら リオールスキンの フォーエバーグロウマキシマイザーパーリー ハイライトとして使っているんですけど トーンのハイライト より自然 リオールのは華やか 可愛く盛りたい 特別感のあ」
+> **ひよんちゃんねる**: 「ディオールスキン フォーエヴァーグロウマキシマイザー パーリーをハイライトとして愛用。メイクの仕上げに使用。」
 > [動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%91%E3%83%BC%E3%83%AA%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hewuakaneshop/20240305002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -590,8 +577,8 @@ bottoms : H&M card
 
 **価格**: 2970円
 
-> **ひよんちゃんねる**: 「もっと 自然に カバーすることができるかもしれません トーンアップベース トップカラーで ここ全体を 全部塗ると 先ほども 言ったように 顔が平面になります だから、」
-> [動画を見る](https://www.youtube.com/watch?v=dNG-RE3b2Uo)
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=dNG-RE3b2Uo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4570042582865&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/4570042582483/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -677,7 +664,7 @@ bottoms : H&M card
 
 ### エレガンス 27.Elégance（）
 
-> **ひよんちゃんねる**: 「マジで最高っていう感じ 次 続きましてこちら エレガンスアイブロウスリム GR45 GY15番 これもカオリーヌ先生におすすめしてますよ プラスアリちゃんもすごい描きやすいよ っていう話をしてて 絶対欲しいなって思っ」
+> **ひよんちゃんねる**: 「エレガンスのアイブロウスリム GR45・GY15番を紹介。カオリーヌ先生やありちゃんも描きやすいと推薦する実力派アイテム。」
 > [動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2027.El%C3%A9gance%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2027.El%C3%A9gance%EF%BC%88%EF%BC%89/?af=mobi.0319)
@@ -688,7 +675,7 @@ bottoms : H&M card
 
 **価格**: 1650円
 
-> **ひよんちゃんねる**: 「これはマジョリカマジョリカの ラッシュエキスパンダー ローリーカールと 一緒によく使ってるこのピンセット持ってきました お 束缶にするタイプなんですね なんか正直束も好きだし このフタフタも好きなんですけ」
+> **ひよんちゃんねる**: 「マジョリカマジョルカのラッシュエキスパンダー ローリーカールを愛用。ピンセットと組み合わせて束感のあるまつげに仕上げるのがお気に入り。」
 > [動画を見る](https://www.youtube.com/watch?v=WleI9MfRmpA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%E3%80%80%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AA%E3%82%AB%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%AB%E3%80%80%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB/?af=mobi.0319)
@@ -706,7 +693,7 @@ bottoms : H&M card
 
 ### ディオール スキンフォーエヴァースキンパーフェクトスティック
 
-> **ひよんちゃんねる**: 「その時にこのディオールのスティックのファンデーションだったり チークパレットとかも買ったんだよね すごい今も愛用してる なのでディオール気になる方おすすめです で、」
+> **ひよんちゃんねる**: 「ディオールのスティックファンデーションやチークパレットを購入し愛用。ディオールが気になる方におすすめと紹介。」
 > [動画を見る](https://www.youtube.com/watch?v=BXtWHGvIhE0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
@@ -715,7 +702,7 @@ bottoms : H&M card
 
 ### コスメデコルテ DECORTÉ () [4/16発売]
 
-> **ひよんちゃんねる**: 「っていう時に おすすめですね 次 続きましてこちら コスメデコルテのルースパウダー 00番 リニューアルした方の パウダーになります もともとこのルースパウダー大好きで 粉っぽさが全くなく 肌にピタッと密着してくれて でもテカ」
+> **ひよんちゃんねる**: 「コスメデコルテのルースパウダー 00番（リニューアル版）をおすすめとして紹介。新しくなったパウダーとして愛用。」
 > [動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20DECORT%C3%89%20%28%29%20%5B4/16%E7%99%BA%E5%A3%B2%5D&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20DECORT%C3%89%20%28%29%20%5B4/16%E7%99%BA%E5%A3%B2%5D/?af=mobi.0319)
@@ -724,7 +711,7 @@ bottoms : H&M card
 
 ### ティルティル TIRITR｜
 
-> **ひよんちゃんねる**: 「めっちゃおすすめで リピ買い確定のクッションです これがティルティルのマスクフィットレッドクッションです これはね私ミニサイズを持ってるんですけど 私の中での隠れ定番品っていう感じで紹介します ちょっとこれは明るくて19Cのペタ」
+> **ひよんちゃんねる**: 「めっちゃおすすめで リピ買い確定のクッションです これがティルティルのマスクフィットレッドクッションです これはね私ミニサイズを持ってるんですけど 私の中での隠れ定番品っていう感じで紹介します」
 > [動画を見る](https://www.youtube.com/watch?v=-NJFLpkV2cI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%86%E3%82%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%83%AB%20TIRITR%EF%BD%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%86%E3%82%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%83%AB%20TIRITR%EF%BD%9C/?af=mobi.0319)
@@ -760,7 +747,7 @@ bottoms : H&M card
 
 ### エレガンス Elégance｜
 
-> **ひよんちゃんねる**: 「私は本当にわかるアイテムです 次? 続きましてこちら エレガンスのアイブロウスリムの GY15番のカラーを愛してます これはもう永井さんとさ カオリーヌ先生と一緒にさ ドコスメ東京で爆買いしたじゃないですか その時に買ったも」
+> **ひよんちゃんねる**: 「私はわかるアイテムです 次? 続きましてこちら エレガンスのアイブロウスリムの GY15番のカラーを愛してます これはもう永井さんとさ カオリーヌ先生と一緒にさ ドコスメ東京で爆買いしたじゃないです」
 > [動画を見る](https://www.youtube.com/watch?v=-NJFLpkV2cI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20El%C3%A9gance%EF%BD%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20El%C3%A9gance%EF%BD%9C/?af=mobi.0319)
@@ -776,15 +763,6 @@ bottoms : H&M card
 
 ---
 
-### TAG →https://www.insram.com/cchan_fee4/
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=-NJFLpkV2cI)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E2%86%92https%3A//www.insram.com/cchan_fee4/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E2%86%92https%3A//www.insram.com/cchan_fee4//?af=mobi.0319)
-
----
-
 ### CHANEL #購入品紹介  # #ハイブランド
 
 動画の概要欄で紹介されています。
@@ -796,7 +774,7 @@ bottoms : H&M card
 
 ### トーン タッチアイズ
 
-> **ひよんちゃんねる**: 「さらにここにラメを のせていってみてます チックのトーンタッチアイズ12番です これはもうね本当に宝箱みたいな めちゃくちゃ綺麗なラメなんだけど 結構キラキラ輝いてるんだけど 大人でも許容範囲な 派手さっていうところ」
+> **ひよんちゃんねる**: 「さらにここにラメを のせていってみてます チックのトーンタッチアイズ12番です」
 > [動画を見る](https://www.youtube.com/watch?v=773iNoTgspE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%BF%E3%83%83%E3%83%81%E3%82%A2%E3%82%A4%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%BF%E3%83%83%E3%83%81%E3%82%A2%E3%82%A4%E3%82%BA/?af=mobi.0319)
@@ -830,26 +808,9 @@ bottoms : H&M card
 
 ---
 
-### CHANEL tops : GRL
-bottoms : Bibiy.
-outer : PRIMAVELY
-bag : 
-shoes : 
-earrings : GRAFF
-necklace : BANYAN
-ring : REPOSSI , Tiffany & Co.
-headband : 9unq
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gG6UzvLRH1I)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CHANEL%20tops%20%3A%20GRL%0Dbottoms%20%3A%20Bibiy.%0Douter%20%3A%20PRIMAVELY%0Dbag%20%3A%20%0Dshoes%20%3A%20%0Dearrings%20%3A%20GRAFF%0Dnecklace%20%3A%20BANYAN%0Dring%20%3A%20REPOSSI%20%2C%20Tiffany%20%26%20Co.%0Dheadband%20%3A%209unq&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CHANEL%20tops%20%3A%20GRL%0Dbottoms%20%3A%20Bibiy.%0Douter%20%3A%20PRIMAVELY%0Dbag%20%3A%20%0Dshoes%20%3A%20%0Dearrings%20%3A%20GRAFF%0Dnecklace%20%3A%20BANYAN%0Dring%20%3A%20REPOSSI%20%2C%20Tiffany%20%26%20Co.%0Dheadband%20%3A%209unq/?af=mobi.0319)
-
----
-
 ### トーン ホワイト！大人モテなワントーンコーデ
 
-> **ひよんちゃんねる**: 「可愛らしいふんわりした ホワイトワントーンコーデをしていきたいと思います まずトップスはこちら ざっくりニットになります めちゃくちゃ可愛くない? ざっくり編みのニットがすごい可愛くて ちょっとショート」
+> **ひよんちゃんねる**: 「可愛らしいふんわりした ホワイトワントーンコーデをしていきたいと思います まずトップスはこちら ざっくりニットになります めちゃくちゃ可愛くない? ざっくり編みのニットがす」
 > [動画を見る](https://www.youtube.com/watch?v=gG6UzvLRH1I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%EF%BC%81%E5%A4%A7%E4%BA%BA%E3%83%A2%E3%83%86%E3%81%AA%E3%83%AF%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%EF%BC%81%E5%A4%A7%E4%BA%BA%E3%83%A2%E3%83%86%E3%81%AA%E3%83%AF%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87/?af=mobi.0319)
@@ -858,7 +819,7 @@ headband : 9unq
 
 ### トーン 大人モテなワントーンコーデの完成♡
 
-> **ひよんちゃんねる**: 「可愛らしいふんわりした ホワイトワントーンコーデをしていきたいと思います まずトップスはこちら ざっくりニットになります めちゃくちゃ可愛くない? ざっくり編みのニットがすごい可愛くて ちょっとショート」
+> **ひよんちゃんねる**: 「可愛らしいふんわりした ホワイトワントーンコーデをしていきたいと思います まずトップスはこちら ざっくりニットになります めちゃくちゃ可愛くない? ざっくり編みのニットがす」
 > [動画を見る](https://www.youtube.com/watch?v=gG6UzvLRH1I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E5%A4%A7%E4%BA%BA%E3%83%A2%E3%83%86%E3%81%AA%E3%83%AF%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87%E3%81%AE%E5%AE%8C%E6%88%90%E2%99%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E5%A4%A7%E4%BA%BA%E3%83%A2%E3%83%86%E3%81%AA%E3%83%AF%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87%E3%81%AE%E5%AE%8C%E6%88%90%E2%99%A1/?af=mobi.0319)
@@ -867,71 +828,10 @@ headband : 9unq
 
 ### トーン 💳LOOK02コーデ詳細：ホワイト！大人モテなワンコーデ
 
-> **ひよんちゃんねる**: 「可愛らしいふんわりした ホワイトワントーンコーデをしていきたいと思います まずトップスはこちら ざっくりニットになります めちゃくちゃ可愛くない? ざっくり編みのニットがすごい可愛くて ちょっとショート」
+> **ひよんちゃんねる**: 「可愛らしいふんわりした ホワイトワントーンコーデをしていきたいと思います まずトップスはこちら ざっくりニットになります めちゃくちゃ可愛くない? ざっくり編みのニットがす」
 > [動画を見る](https://www.youtube.com/watch?v=gG6UzvLRH1I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%F0%9F%92%B3LOOK02%E3%82%B3%E3%83%BC%E3%83%87%E8%A9%B3%E7%B4%B0%EF%BC%9A%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%EF%BC%81%E5%A4%A7%E4%BA%BA%E3%83%A2%E3%83%86%E3%81%AA%E3%83%AF%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%F0%9F%92%B3LOOK02%E3%82%B3%E3%83%BC%E3%83%87%E8%A9%B3%E7%B4%B0%EF%BC%9A%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%EF%BC%81%E5%A4%A7%E4%BA%BA%E3%83%A2%E3%83%86%E3%81%AA%E3%83%AF%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87/?af=mobi.0319)
-
----
-
-### CHANEL tops :オンマのお下がり
-one piece : London Flat
-outer : PRADA
-bag : 
-shoes : Valentino
-earrings : TASAKI
-ring : REPOSSI , Tiffany & Co.
-hair accessory : UNITED ARROWS
-tights : UNIQLO
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gG6UzvLRH1I)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CHANEL%20tops%20%3A%E3%82%AA%E3%83%B3%E3%83%9E%E3%81%AE%E3%81%8A%E4%B8%8B%E3%81%8C%E3%82%8A%0Done%20piece%20%3A%20London%20Flat%0Douter%20%3A%20PRADA%0Dbag%20%3A%20%0Dshoes%20%3A%20Valentino%0Dearrings%20%3A%20TASAKI%0Dring%20%3A%20REPOSSI%20%2C%20Tiffany%20%26%20Co.%0Dhair%20accessory%20%3A%20UNITED%20ARROWS%0Dtights%20%3A%20UNIQLO&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CHANEL%20tops%20%3A%E3%82%AA%E3%83%B3%E3%83%9E%E3%81%AE%E3%81%8A%E4%B8%8B%E3%81%8C%E3%82%8A%0Done%20piece%20%3A%20London%20Flat%0Douter%20%3A%20PRADA%0Dbag%20%3A%20%0Dshoes%20%3A%20Valentino%0Dearrings%20%3A%20TASAKI%0Dring%20%3A%20REPOSSI%20%2C%20Tiffany%20%26%20Co.%0Dhair%20accessory%20%3A%20UNITED%20ARROWS%0Dtights%20%3A%20UNIQLO/?af=mobi.0319)
-
----
-
-### CHANEL tops : ALLISON BROWN  bottoms : GU 
-bag : nugu 
-shoes : LE TALON
- earrings : BEAMS 
-necklace : EQL 
-ring :  
-headband : Jennifer Ouellette
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=J82O8hcyT3Y)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CHANEL%20tops%20%3A%20ALLISON%20BROWN%20%20bottoms%20%3A%20GU%20%0Dbag%20%3A%20nugu%20%0Dshoes%20%3A%20LE%20TALON%0D%20earrings%20%3A%20BEAMS%20%0Dnecklace%20%3A%20EQL%20%0Dring%20%3A%20%20%0Dheadband%20%3A%20Jennifer%20Ouellette&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CHANEL%20tops%20%3A%20ALLISON%20BROWN%20%20bottoms%20%3A%20GU%20%0Dbag%20%3A%20nugu%20%0Dshoes%20%3A%20LE%20TALON%0D%20earrings%20%3A%20BEAMS%20%0Dnecklace%20%3A%20EQL%20%0Dring%20%3A%20%20%0Dheadband%20%3A%20Jennifer%20Ouellette/?af=mobi.0319)
-
----
-
-### CHANEL tops : GRL 
-bottoms : GU 
-bag :  
-shoes :MAISON MAVERICK PRESENTS 
-earrings : BEAMS 
-necklace : styling ring : ,結婚指輪 bracelet : HERMES cap : Madhappy
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=J82O8hcyT3Y)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CHANEL%20tops%20%3A%20GRL%20%0Dbottoms%20%3A%20GU%20%0Dbag%20%3A%20%20%0Dshoes%20%3AMAISON%20MAVERICK%20PRESENTS%20%0Dearrings%20%3A%20BEAMS%20%0Dnecklace%20%3A%20styling%20ring%20%3A%20%2C%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA%20bracelet%20%3A%20HERMES%20cap%20%3A%20Madhappy&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CHANEL%20tops%20%3A%20GRL%20%0Dbottoms%20%3A%20GU%20%0Dbag%20%3A%20%20%0Dshoes%20%3AMAISON%20MAVERICK%20PRESENTS%20%0Dearrings%20%3A%20BEAMS%20%0Dnecklace%20%3A%20styling%20ring%20%3A%20%2C%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA%20bracelet%20%3A%20HERMES%20cap%20%3A%20Madhappy/?af=mobi.0319)
-
----
-
-### CHANEL tops :H&M 
-
-bottoms : H&M cardigan MUSINSA 
-
-bag : ,ZARA 
-shoes : NEW BALANCE 
-earrings : Tiffany ring : ,結婚指輪
-
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=J82O8hcyT3Y)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CHANEL%20tops%20%3AH%26M%20%0D%0Dbottoms%20%3A%20H%26M%20cardigan%20MUSINSA%20%0D%0Dbag%20%3A%20%2CZARA%20%0Dshoes%20%3A%20NEW%20BALANCE%20%0Dearrings%20%3A%20Tiffany%20ring%20%3A%20%2C%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CHANEL%20tops%20%3AH%26M%20%0D%0Dbottoms%20%3A%20H%26M%20cardigan%20MUSINSA%20%0D%0Dbag%20%3A%20%2CZARA%20%0Dshoes%20%3A%20NEW%20BALANCE%20%0Dearrings%20%3A%20Tiffany%20ring%20%3A%20%2C%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA/?af=mobi.0319)
 
 ---
 
@@ -964,7 +864,7 @@ earrings : Tiffany ring : ,結婚指輪
 
 ### スリー フロントリボンセーター by rokh
 
-> **ひよんちゃんねる**: 「こういうノースリーブとかキャミのワンピースにちょっと羽織ったり 中入りしてワンピースとか着たりも可愛いし こっちはインナー系が揃っちゃいます GUのさインナーもめちゃくちゃ優秀で」
+> **ひよんちゃんねる**: 「こういうノースリーブとかキャミのワンピースにちょっと羽織ったり 中入りしてワンピースとか着たりも可愛いし こっちはインナー系が揃っちゃいます」
 > [動画を見る](https://www.youtube.com/watch?v=wJfCWBJ1wro)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%AA%E3%83%9C%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%20by%20rokh&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%AA%E3%83%9C%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%20by%20rokh/?af=mobi.0319)
@@ -973,7 +873,7 @@ earrings : Tiffany ring : ,結婚指輪
 
 ### アディクション シルキーバームスティック
 
-> **ひよんちゃんねる**: 「ブライトニングプラス ビエです 私はアディクションのシルキーバームスティックです これはなぜ 下地を選ぶ上で 昔はとにかくトーンアップだったり それしか考えてなかった ちょっとわかるかも 30代になってエイジン」
+> **ひよんちゃんねる**: 「ブライトニングプラス ビエです 私はアディクションのシルキーバームスティックです」
 > [動画を見る](https://www.youtube.com/watch?v=WleI9MfRmpA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
@@ -1009,8 +909,8 @@ earrings : Tiffany ring : ,結婚指輪
 
 ### KATE ケイト（）
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
+> **ひよんちゃんねる**: 「アイシャドウ ケイトのポッピングシルエットシャドウ EX1番 このカラーが好きっていうよりも このシリーズが大好きなんで EX1番を今日は持ってきたんです」
+> [動画を見る](https://www.youtube.com/watch?v=gyLVkjOtruw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%82%B1%E3%82%A4%E3%83%88%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20%E3%82%B1%E3%82%A4%E3%83%88%EF%BC%88%EF%BC%89/?af=mobi.0319)
 
@@ -1018,8 +918,8 @@ earrings : Tiffany ring : ,結婚指輪
 
 ### Dior ディオールスキン フォーエヴァー スキン パーフェクト スティック
 
-動画の概要欄で紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+> **ひよんちゃんねる**: 「キヨンちゃんが一緒に購入した 新作のディオールのスティックファンデーション いこうよー やったー 結構きちんとした ちょっとサラッとした 崩れにくい肌に仕掛けますので 凛としたちょっと大人感っていうのが出てくる で、」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
 
@@ -1027,7 +927,7 @@ earrings : Tiffany ring : ,結婚指輪
 
 ### YSL Beauty ラブシャイン キャンディ グロウ バーム
 
-> **ひよんちゃんねる**: 「あと 小花 そしたら 最後 リップ サンローランの ラブシャインキャンディ グローバーム 44B ローズカラー になっております クリア感のある 発色になるので ベタっとつかながら これも透明感に すごくぴったりな リップだ」
+> **ひよんちゃんねる**: 「小花 最後 リップ サンローランの ラブシャインキャンディ グローバーム 44B ローズカラー になっております クリア感のある 発色になるので ベタっとつかながら これも透明感に す」
 > [動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20Beauty%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20Beauty%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)

@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # nanakoななこおすすめリップ9選【2026年04月版】
 
 人気美容YouTuber **nanakoななこ** さんが動画で紹介したリップアイテムをまとめました。
@@ -37,7 +37,7 @@
 
 **価格**: 1500円以下
 
-> **nanakoななこ**: 「これやってる間にリップのケアをしまーす 口暇じゃん この今話題になってるViseeのエッセンスリッププランパー 美容液だからお泊まりメイクとかにもいけんだけど これをクリルに厚いに塗」
+> **nanakoななこ**: 「これやってる間にリップのケアをしまーす 口暇この今話題になってる」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -50,7 +50,7 @@
 
 **価格**: 1430円
 
-> **nanakoななこ**: 「口暇じゃん この今話題になってるViseeのエッセンスリッププランパー 美容液だからお泊まりメイクとかにもいけんだけど これをクリルに厚いに塗りまーす メイク前に塗るときはこの下地というか 私はケアとして使うので」
+> **nanakoななこ**: 「口暇この今話題になってるViseeのエッセンスリッププランパー 美容液だからお泊まりメイクとかにもいけんだけど これをクリルに厚いに塗りまーす」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VISEE%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%E3%80%80%20SP001&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000162790/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -59,7 +59,7 @@
 
 ### WAKEMAKE WAKEMAKE デュイジェルグロウティント
 
-> **nanakoななこ**: 「はいこちらも似た感じでめちゃくちゃかわいい デュイジェルグロウティントっていうやつです これもプルンって感じで もう水分系のティント 一旦これ全部塗りまーす うわーかわいい こっちはなんかジェルっぽくて ちょっとベタつかない感じ」
+> **nanakoななこ**: 「WAKEMAKEデュイジェルグロウティントを紹介。プルンとした水分系のティントで、ツヤのある仕上がりが魅力。」
 > [動画を見る](https://www.youtube.com/watch?v=ZPd0lcbSqCo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%83%87%E3%83%A5%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/koma/wakemake_dewygal/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -79,7 +79,7 @@
 
 **価格**: 1100円
 
-> **nanakoななこ**: 「になれる アピュのジューシーパンティートの BE01番 はじめはオレンジなんですけど 色が変わって ちょっと青みピンクが出てきて めちゃくちゃ粘膜色になるので しかもめっちゃうるうるになるし うるおうから 唇のフ」
+> **nanakoななこ**: 「になれる アピュのジューシーパンティートの BE01番 はじめはオレンジなんです」
 > [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%94%E3%83%A5%E3%83%BC%20%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%91%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%20BE01&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/morecosme/apieu-juicy-pang-tint-n/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -88,7 +88,7 @@
 
 ### ジルスチュアート ＜＞リップブーケセラム 伊勢丹新宿 POP UP イベント
 
-> **nanakoななこ**: 「見た目も使い心地もめちゃくちゃ大好きな ジルスチュアートとのコラボ動画です 本当に見た目も可愛くて もう可愛いだけじゃない 使い心地の良さとか機能面とか品質の良さ っていうのもすごい大好きだし 尊敬してる プレゼント」
+> **nanakoななこ**: 「見た目も使い心地もめちゃくちゃ大好きな ジルスチュアートとのコラボ動画です 見た目も可愛くて もう可愛いだけじゃない 使い心地の良さとか機能面とか品質の良さ っていうのもす」
 > [動画を見る](https://www.youtube.com/watch?v=SQFq8pX3mOI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%EF%BC%9C%EF%BC%9E%E3%83%AA%E3%83%83%E3%83%97%E3%83%96%E3%83%BC%E3%82%B1%E3%82%BB%E3%83%A9%E3%83%A0%20%E4%BC%8A%E5%8B%A2%E4%B8%B9%E6%96%B0%E5%AE%BF%20POP%20UP%20%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%EF%BC%9C%EF%BC%9E%E3%83%AA%E3%83%83%E3%83%97%E3%83%96%E3%83%BC%E3%82%B1%E3%82%BB%E3%83%A9%E3%83%A0%20%E4%BC%8A%E5%8B%A2%E4%B8%B9%E6%96%B0%E5%AE%BF%20POP%20UP%20%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/?af=mobi.0319)

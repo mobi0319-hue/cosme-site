@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 鹿の間おすすめシェーディング9選【2026年04月版】
 
 人気美容YouTuber **鹿の間** さんが動画で紹介したシェーディングアイテムをまとめました。
@@ -126,8 +126,8 @@
 
 **価格**: 2508円
 
-動画の概要欄でシェーディングとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=XQ92dco4hrI)
+> **鹿の間**: 「トゥークルフォースクールの ベールドコントゥアのフォグアッシュ」
+> [動画を見る](https://www.youtube.com/watch?v=XQ92dco4hrI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=too%20cool%20for%20school%20too%20cool%20for%20school%20/%20%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%20%2302%20%E3%83%95%E3%82%A9%E3%82%B0%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/too%20cool%20for%20school%20too%20cool%20for%20school%20/%20%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%20%2302%20%E3%83%95%E3%82%A9%E3%82%B0%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
 

@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # まつきりなおすすめアイライナー6選【2026年04月版】
 
 人気美容YouTuber **まつきりな** さんが動画で紹介したアイライナーアイテムをまとめました。
@@ -21,7 +21,7 @@
 
 **価格**: 1100円
 
-> **まつきりな**: 「上もライン描くんだけど 上のラインは 同じヒロインメイクの 2番か ブラウンブラックみたいなやつかな しっかりこう上まぶた 細くラインを全体的に入れる 細ーく入れまーす で目尻も 下げつつ延長 わかるかな ここでちょ」
+> **まつきりな**: 「ヒロインメイクの2番（ブラウンブラック）を使用。上まぶた全体に細くラインを入れて、目尻を下げつつ延長するスタイルで取り入れている」
 > [動画を見る](https://www.youtube.com/watch?v=PkNmTapKQ54)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
@@ -86,8 +86,8 @@
 
 **価格**: 715円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=nGYTc1VFFco)
+> **まつきりな**: 「すごいこのパレット 捨て色なし はい次 キャンメイククリーミータッチライナーの あずきライナー 私これ一番可愛いって思った色なんだけど まあねこれ 一回食い出したらもう戻らんでって ちゃんとキャンメイクも書いてたんで箱に 塗ると さす」
+> [動画を見る](https://www.youtube.com/watch?v=nGYTc1VFFco)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/07%20%E3%82%A2%E3%82%BA%E3%82%AD%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/522019/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

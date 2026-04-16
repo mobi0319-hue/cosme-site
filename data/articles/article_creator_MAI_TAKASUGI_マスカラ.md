@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめマスカラ16選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したマスカラアイテムをまとめました。
@@ -70,8 +70,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でマスカラとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「まつ毛を、 上げてないのに、 しっかりと、 マスカラを、 つけていったので、 目に影が、 入っちゃって、 ちょっと目の印象が、 暗くなったりとか、 目のね、 縦幅が、 出ていないような、 状態、」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978247065&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/matsuya-cosme/22386-2/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -83,8 +83,8 @@
 
 **価格**: 698円
 
-動画の概要欄でマスカラとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
+> **MAI TAKASUGI**: 「なじませます。 どこからあったかのように。 セザンヌの、 書く、 アイゾンコンシーラー、 01なじみベージュの、 色味でーす。」
+> [動画を見る](https://www.youtube.com/watch?v=3kQMTxNNR-0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2000%E3%83%A9%E3%83%86%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce014704020101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -135,8 +135,8 @@
 
 **価格**: 561円
 
-動画の概要欄でマスカラとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZVZwAJClI_Y)
+> **MAI TAKASUGI**: 「アイシャドウもベタ塗り どしっと大胆にグラデなし マスカラは塗ればよし なんとなく塗っちゃってる アイライナーは黒で太めにがっつり 下のインラインも同じ濃さで囲み目 はい、」
+> [動画を見る](https://www.youtube.com/watch?v=ZVZwAJClI_Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000176072/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

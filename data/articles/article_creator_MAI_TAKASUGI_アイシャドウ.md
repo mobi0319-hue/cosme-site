@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # MAI TAKASUGIおすすめアイシャドウ30選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したアイシャドウアイテムをまとめました。
@@ -292,8 +292,8 @@
 
 **価格**: 8910円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZVZwAJClI_Y)
+> **MAI TAKASUGI**: 「次に不景見えアイブロウは角度強めでベタっと塗った眉 アイシャドウもベタ塗り どしっと大胆にグラデなし マスカラは塗ればよし なんとなく塗っちゃってる アイライナーは黒で太めにがっつり 下のインラインも同じ濃さで囲み目 はい、」
+> [動画を見る](https://www.youtube.com/watch?v=ZVZwAJClI_Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3N%EF%BC%91%EF%BC%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rareu/20251212002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -305,8 +305,8 @@
 
 **価格**: 2050円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=ZVZwAJClI_Y)
+> **MAI TAKASUGI**: 「シェーディング使っていきますジェディドールのですメリハリマスターパレット02Nウォームトーンのお色味です」
+> [動画を見る](https://www.youtube.com/watch?v=ZVZwAJClI_Y)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%83%A5%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%A1%E3%83%AA%E3%83%8F%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2302N%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B8%E3%83%A5%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%A1%E3%83%AA%E3%83%8F%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2302N%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%B3/?af=mobi.0319)
 
@@ -383,8 +383,8 @@
 
 **価格**: 1625円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
+> **MAI TAKASUGI**: 「言ってた 嬉しいって え、私も嬉しいと思って アイシャドウです なんかそういう喜びの声が届くんです」
+> [動画を見る](https://www.youtube.com/watch?v=tGhbUttFK1w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%80%90KATE%E3%80%91%20%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%80%80BE01&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%80%90KATE%E3%80%91%20%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%80%80BE01/?af=mobi.0319)
 

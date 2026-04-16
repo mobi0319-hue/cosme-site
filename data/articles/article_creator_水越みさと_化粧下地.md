@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 水越みさとおすすめ化粧下地48選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -417,8 +417,8 @@
 
 **価格**: 4290円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VJieBiVSHtU)
+> **水越みさと**: 「あとこれもすごい良かった SUQQUのモノルックアイズL03番 SUQQUも単色のアイシャドウが出ていて これもね絞れないぐらい 好きな色がたくさんあるんです」
+> [動画を見る](https://www.youtube.com/watch?v=VJieBiVSHtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%83%A2%E3%83%8E%20%E3%83%AB%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%82%BA%20L-03%20%E7%85%8C%E9%8F%A1%20-KIRAKAGAMI&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pureco/prc-s-8709503211/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -430,8 +430,8 @@
 
 **価格**: 11000円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VJieBiVSHtU)
+> **水越みさと**: 「簡単に出せます はい次こちら コスメデコルテのオイルクレンジング美容液です これは発売したのが 今年なんですけどちょっと前なので その時にすごく話題になっていたと思います」
+> [動画を見る](https://www.youtube.com/watch?v=VJieBiVSHtU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710379631&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/4971710379631/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -456,8 +456,8 @@
 
 **価格**: 6380円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
+> **水越みさと**: 「トムフォードのアイプライマーで アイシャドウの持ちを良くする プラスくすみを飛ばします 特に念入りに今回はくすみ飛ばします そしたらとても大事な 結構主役アイテムです」
+> [動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20TOM%20FORD%20BEAUTY%20%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95%20%E3%82%A2%E3%82%A4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tomfordbeauty/eye_epep/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -482,8 +482,8 @@
 
 **価格**: 990円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
+> **水越みさと**: 「はい、それでは早速スタート それでは一つ目こちら キャンメイクに多分 いつだか発売されていたっぽい 下地を見つけたので買ってきました チェックが漏れてましたね こんなのあったとは。」
+> [動画を見る](https://www.youtube.com/watch?v=l5-0Rh2Lnl0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008316666&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/cf021772810101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -586,8 +586,8 @@
 
 **価格**: 660円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=eUrq79PP-oQ)
+> **水越みさと**: 「セザンヌ シームレスカバーパウダーを紹介。新登場のフェイスパウダーで、しっかりカバーしてくれる仕上がりが特徴。」
+> [動画を見る](https://www.youtube.com/watch?v=IPCSuvsB4J8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E5%BD%B1%E8%89%B2%E3%83%AA%E3%83%83%E3%83%97%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC02%E3%80%80%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553043430/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -642,8 +642,8 @@
 
 **価格**: 3300円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=RI_BO5FKPmo)
+> **水越みさと**: 「そして一番こちら側 サンシェルターマルチプロテクショントーアンプCCの10番 全部人気アイテムです まず分かりやす」
+> [動画を見る](https://www.youtube.com/watch?v=RI_BO5FKPmo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971711482997&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/arianakosume/decorte-003/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -657,8 +657,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=RI_BO5FKPmo)
+> **水越みさと**: 「一番紫外線カット効果が高く かつトーンアップ効果も高く かつカバー力が高いです 1本でも肌が綺麗に見えるくらいのカバー力があります」
+> [動画を見る](https://www.youtube.com/watch?v=RI_BO5FKPmo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%0A00/01/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/miryoku/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -670,8 +670,8 @@
 
 **価格**: 3850円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=RI_BO5FKPmo)
+> **水越みさと**: 「水越美里です はい、本日はですね、こちらにある通り コスメデコルテ縛り大量レビューやっていきたいと思いまーす はい、」
+> [動画を見る](https://www.youtube.com/watch?v=RI_BO5FKPmo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710376555&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/minaribeauty/decorte-lips/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 

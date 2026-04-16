@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # ひよんちゃんねるおすすめ化粧下地7選【2026年04月版】
 
 人気美容YouTuber **ひよんちゃんねる** さんが動画で紹介した化粧下地アイテムをまとめました。
@@ -48,8 +48,8 @@
 
 **価格**: 11000円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
+> **ひよんちゃんねる**: 「このアイテムに関してはもともとシルキーバームプライマーという ジャー式のアイテムが大好きだったんだけど それのスティックバージョンっていう感じで スティックにしてくれた」
+> [動画を見る](https://www.youtube.com/watch?v=Hw_CIszURGY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167536582&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sunfinishop/80002062/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
@@ -61,8 +61,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=UdKdyJKXUdY)
+> **ひよんちゃんねる**: 「ルダソルのクラリティスキンプライマー01番 SPF13 PA++++入っているメイクアップベースになるんですけど デコレートもそうなんです」
+> [動画を見る](https://www.youtube.com/watch?v=UdKdyJKXUdY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20LUNASOL%EF%BD%9C%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF13%20PA%2B%2001%20Serene%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lunasol/r4973167019726/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 

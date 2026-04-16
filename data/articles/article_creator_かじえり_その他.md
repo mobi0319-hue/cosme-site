@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # かじえりおすすめその他29選【2026年04月版】
 
 人気美容YouTuber **かじえり** さんが動画で紹介したその他アイテムをまとめました。
@@ -239,7 +239,7 @@
 
 **価格**: 3824円
 
-> **かじえり**: 「SPF50+PA++++入りのお直し用パウダー。ドラッグストアで買えるミネラルコスメ」
+> **かじえり**: 「SPF50+PA++++入りのお直し用パウダー。」
 > [動画を見る](https://www.youtube.com/watch?v=3kZC_zTdSso)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%20%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/homeystore/20240602201959_19/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
@@ -317,7 +317,7 @@
 
 **価格**: 7980円
 
-> **かじえり**: 「ゴールドパールとシルバーパールが配合された白浮きしないハイライト」
+> **かじえり**: 「ゴールドパールとシルバーパールが配合された白浮きしない」
 > [動画を見る](https://www.youtube.com/watch?v=P8Tajpg5LuQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%93%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%83%9C%E3%83%93%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9C%E3%83%93%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%83%9C%E3%83%93%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
@@ -343,8 +343,8 @@
 
 **価格**: 4560円
 
-> **かじえり**: 「ツヤを残しながらサラサラにするりふこちゃん。透明感メイクの仕上げに」
-> [動画を見る](https://www.youtube.com/watch?v=cWsczA3P1M0)
+> **かじえり**: 「ルースパウダー（りふこちゃん）として仕上げに使用」
+> [動画を見る](https://www.youtube.com/watch?v=rrfhgCWTeSs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/osharecafe/6045484/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -369,7 +369,7 @@
 
 **価格**: 4070円
 
-> **かじえり**: 「韓国メイクアップアーティストも愛用。リアルな毛が描けるアイブロウペンシル」
+> **かじえり**: 「韓国メイクアップアーティストも愛用。リアルな毛が描ける」
 > [動画を見る](https://www.youtube.com/watch?v=cWsczA3P1M0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4935421013871&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/albumec/4935421013871/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)

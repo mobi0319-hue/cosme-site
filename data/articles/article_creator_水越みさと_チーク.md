@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-14 -->
+<!-- LAST_UPDATED: 2026-04-16 -->
 # 水越みさとおすすめチーク10選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したチークアイテムをまとめました。
@@ -79,8 +79,8 @@
 
 **価格**: 1650円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=Ez4dA8AAoBI)
+> **水越みさと**: 「とっても便利だと思います はい続いてがこちら ケイトのリップモンスター 新色が出ました 3色出てます 18、19、20という感じの3色が出ています 同じく上から18、19、」
+> [動画を見る](https://www.youtube.com/watch?v=Ez4dA8AAoBI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167042533&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20PK-1%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%94%E3%83%BC%E3%83%81/PK-2%20%E3%83%94%E3%83%B3%E3%82%AF%E3%83%A0%E3%83%BC%E3%82%B9%20%E2%80%BB1/24%E7%99%BA%E5%A3%B2/?af=mobi.0319&s=2&v=2)
 
@@ -92,8 +92,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
+> **水越みさと**: 「色使いというか そんな風に思ってます 自分では リップはマックのクールテディでマットに仕上げます あとここはピンク色でちょっと淡い感じです ネーミングのチーク 頬に使ったもので少しは唇をぼんやりしていきます」
+> [動画を見る](https://www.youtube.com/watch?v=gIEVMAIYcYw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAC%20MAC%20%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%A4%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%88%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pureco/prc-s-8653081715/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -131,8 +131,8 @@
 
 **価格**: 8360円
 
-動画の概要欄でチークとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
+> **水越みさと**: 「はい次がこちら イブサンローランのメイクミーブラッシュリキッド イブサンローランから新作で出てるリキッドチークです発表会行って1色だけギフトでいただいて ちょっとおいで買おうかなと思ってるんです」
+> [動画を見る](https://www.youtube.com/watch?v=cS6vl8g0wM4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YSL%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20No.&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20YSL%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20No./?af=mobi.0319)
 
