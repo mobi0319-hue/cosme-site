@@ -66,9 +66,14 @@ export default async function ProductPage({
   // カウント: 全mention（概要欄含む）
   const youtuberCount = new Set(product.mentioned_by.map(m => m.channel)).size
   const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
-  // 引用表示: 意味のあるcontextのみ
+  // 引用表示: 意味のあるcontextのみ、同一チャンネルは最長1件に絞る
   const meaningful = getMeaningfulMentions(product.mentioned_by)
-  const topContexts = meaningful.slice(0, 5)
+  const seenChannels = new Set<string>()
+  const topContexts = meaningful.filter(m => {
+    if (seenChannels.has(m.channel)) return false
+    seenChannels.add(m.channel)
+    return true
+  }).slice(0, 5)
   // 概要欄のみのYouTuber名（引用はないが紹介はしている）
   const meaningfulChannels = new Set(meaningful.map(m => m.channel))
   const descOnlyChannels = [...new Set(product.mentioned_by.map(m => m.channel))].filter(ch => !meaningfulChannels.has(ch))
