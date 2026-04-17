@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 【2026年04月版】YouTuberが複数紹介したUVケアおすすめ6選
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 【2026年04月版】YouTuberが複数紹介したUVケアおすすめ7選
 
 複数の美容系YouTuberが**独立して紹介**したUVケアアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -13,6 +13,7 @@
 4. **コスメデコルテ** UVコンフォート エアリートランスペアレント — 2人が紹介
 5. **NARS** NARSライトリフレクティング　トーンアップヴェール SPF — 2人が紹介
 6. **トーン** デーケアレボリューション アップ SP+ aa SPF50+ — 2人が紹介
+7. **Dior** DIOR ディオール フォーエヴァー フルイド スキン グロ — 2人が紹介
 
 ---
 
@@ -99,5 +100,18 @@
 > [動画を見る](https://www.youtube.com/watch?v=7P_IkVs3J5E)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978195939&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%20SP%2B%20aa%20SPF50%2B%20/%20PA%2B%2B%2B%2B/?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオール フォーエヴァー フルイド スキン グロウ SPF50 / PA+++ 全11色
+
+![Dior DIOR ディオール フォーエヴァー フルイド スキン グロウ SPF50 / PA+++ 全11色](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmelink/cabinet/cp20241211/c0902-2_cp.jpg?_ex=500x500)
+
+**価格**: 8030円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「10ブランドあります その中でまずはディオールからディオール先生 クエスチョンディオール クエスチョンディオール ディオールいい製品ばかりなので そうなんですよそうですよじゃあいきます」
+> [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%A6%20SPF50%20/%20PA%2B%2B%2B%20%E5%85%A811%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmelink/c0902/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---

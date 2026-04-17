@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ27選
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ28選
 
 複数の美容系YouTuberが**独立して紹介**したファンデーションアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -33,10 +33,11 @@ N — 2人が紹介
 22. **マキアージュ** マキアージュ ドラマティックエッセンスクッション グロウ
 ラ — 2人が紹介
 23. **SHISEIDO** SHISEIDO メーキャップ エッセンス スキングロウ フ — 2人が紹介
-24. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
-25. **ミシャ** MISSHA () — 2人が紹介
-26. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
-27. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
+24. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
+25. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
+26. **ミシャ** MISSHA () — 2人が紹介
+27. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
+28. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
 
 ---
 
@@ -405,6 +406,22 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 > [動画を見る](https://www.youtube.com/watch?v=0_P0ejI9D-g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%A1%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/14645/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### KATE KATE ケイト エアリーチェンジリキッド SPF30 / PA+++ 全4色
+
+![KATE KATE ケイト エアリーチェンジリキッド SPF30 / PA+++ 全4色](https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/09201782/12491858/4973167038727_3.jpg?_ex=500x500)
+
+**価格**: 1760円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「私さらに大ファンになりました そしてこちら ケイトから エアリーチェンジ リキッドファンデーションが登場しました もうこれまた最新技術が搭載されておりますので ちょっと出していただきます」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+
+> **HIRO BEAUTY CHANNEL**: 「そしてこちら ケイトエアリーチェンジリキッドという ファンデーションなんですけれども サラッと質感のファンデーションになります リキッドの中でもです若干テクスチャーは固めになります」
+> [動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167038727&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
 
 ---
 

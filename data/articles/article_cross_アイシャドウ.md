@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ15選
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ16選
 
 複数の美容系YouTuberが**独立して紹介**したアイシャドウアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -21,7 +21,8 @@
 12. **RMK** RMK シンクロマティックアイシャドウパレット EX-12  — 2人が紹介
 13. **キャンメイク** キャンメイク プティパレットアイズM — 2人が紹介
 14. **WAKEMAKE** WAKEMAKE （ウェイクメイク） ソフトカラーリングリッ — 2人が紹介
-15. **CLIO** # #クリオ #メガ割 #キルカバーザニュークッション #プ — 2人が紹介
+15. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ — 2人が紹介
+16. **CLIO** # #クリオ #メガ割 #キルカバーザニュークッション #プ — 2人が紹介
 
 ---
 
@@ -233,6 +234,20 @@
 > [動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4582356616211&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20WAKEMAKE%20%EF%BC%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%EF%BC%89%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%201%20%E5%8F%B7%E3%83%BB2%20%E5%8F%B7%20%E5%AE%9A%E4%BE%A1%EF%BC%9A%20%20%29%20%EF%BC%8F%20%E3%82%BB%E3%83%BC%E3%83%AB%E4%BE%A1%E6%A0%BC%EF%BC%9A/?af=mobi.0319)
+
+---
+
+### WAKEMAKE ソフトブラーリングアイパレット 26 ミュートローズブラーリング
+
+![WAKEMAKE ソフトブラーリングアイパレット 26 ミュートローズブラーリング](https://item-shopping.c.yimg.jp/i/l/zozo_96866607)
+
+**価格**: 2970円 | **2人のYouTuberが紹介**
+
+動画の概要欄でアイシャドウとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2026%20%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2026%20%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/?af=mobi.0319)
 
 ---
 

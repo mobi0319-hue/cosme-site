@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめUVケア22選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめUVケア25選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したUVケアアイテムをまとめました。
 
@@ -28,6 +28,9 @@
 20. **ELIXIR** ELIXIR デーケアレボリューション ＋ ba  SPF5
 21. **SHISEIDO** SHISEIDO フューチャーソリューションLX ユニバーサ
 22. **SHISEIDO** SHISEIDO パーフェクト サン プロテクター スティッ
+23. **shu uemura** shu uemura アンリミテッド ブロック:ブースター 
+24. **トーン** DECORTÉ ＵＶ コンフォート　トーンアップＣＣ SPF
+25. **トーン** 乾燥しやすい方、毛穴や赤みが気になる方、アップしたい方、シワ
 
 ---
 
@@ -128,8 +131,8 @@
 
 **価格**: 8030円
 
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=g8vHFPryJx8)
+> **小田切ヒロ**: 「10ブランドあります その中でまずはディオールからディオール先生 クエスチョンディオール クエスチョンディオール ディオールいい製品ばかりなので そうなんですよそうですよじゃあいきます」
+> [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%A6%20SPF50%20/%20PA%2B%2B%2B%20%E5%85%A811%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmelink/c0902/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -314,5 +317,36 @@
 [動画を見る](https://www.youtube.com/watch?v=ZdtCY9eA2fk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%20%E3%82%B5%E3%83%B3%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20SPF50%2B%20/%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/20617/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### shu uemura shu uemura アンリミテッド ブロック:ブースター アドバンスト SPF50+ / PA+++ エナジー フラッシュ
+
+**価格**: 5830円
+
+動画の概要欄でUVケア・日焼け止めとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=oLorA9EqAlc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%3A%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%88%20SPF50%2B%20/%20PA%2B%2B%2B%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%20%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%3A%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%88%20SPF50%2B%20/%20PA%2B%2B%2B%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%20%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
+
+---
+
+### トーン DECORTÉ ＵＶ コンフォート　トーンアップＣＣ SPF50+ / PA++++ 02 beige
+
+**価格**: 4950円
+
+動画の概要欄でUVケア・日焼け止めとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%EF%BC%B5%EF%BC%B6%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%80%80%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%EF%BC%A3%EF%BC%A3%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2002%20beige&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%EF%BC%B5%EF%BC%B6%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%80%80%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%EF%BC%A3%EF%BC%A3%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2002%20beige/?af=mobi.0319)
+
+---
+
+### トーン 乾燥しやすい方、毛穴や赤みが気になる方、アップしたい方、シワ改善や美白も同時に狙いたい方。
+
+> **小田切ヒロ**: 「うるおいが夜まで続いてくれるんですそして若干のトーンアップがありますけれども 私のような褐色肌でも浮かないトーンアップになりますので うるおってるっていう見た目の印象 そして肌自体もですしっかりうるおいを保持してくれますので やはり乾燥す」
+> [動画を見る](https://www.youtube.com/watch?v=ZDJIg2WvUnU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E4%B9%BE%E7%87%A5%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E6%96%B9%E3%80%81%E6%AF%9B%E7%A9%B4%E3%82%84%E8%B5%A4%E3%81%BF%E3%81%8C%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E3%80%81%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E3%81%84%E6%96%B9%E3%80%81%E3%82%B7%E3%83%AF%E6%94%B9%E5%96%84%E3%82%84%E7%BE%8E%E7%99%BD%E3%82%82%E5%90%8C%E6%99%82%E3%81%AB%E7%8B%99%E3%81%84%E3%81%9F%E3%81%84%E6%96%B9%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E4%B9%BE%E7%87%A5%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E6%96%B9%E3%80%81%E6%AF%9B%E7%A9%B4%E3%82%84%E8%B5%A4%E3%81%BF%E3%81%8C%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E3%80%81%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E3%81%84%E6%96%B9%E3%80%81%E3%82%B7%E3%83%AF%E6%94%B9%E5%96%84%E3%82%84%E7%BE%8E%E7%99%BD%E3%82%82%E5%90%8C%E6%99%82%E3%81%AB%E7%8B%99%E3%81%84%E3%81%9F%E3%81%84%E6%96%B9%E3%80%82/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめコンシーラー8選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめコンシーラー10選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したコンシーラーアイテムをまとめました。
 
@@ -14,6 +14,8 @@
 6. **Bobbi Brown** BOBBI BROWN スキン コンシーラー スティック 全
 7. **NARS** NARS ソフトマットコンプリートコンシーラー BISCUI
 8. **SHISEIDO** SHISEIDO シンクロスキン ラディアントリフティング 
+9. **PRADA Beauty** PRADA BEAUTY ブラーリング マイクロコレクティン
+10. **PRADA Beauty** PRADA BEAUTY ブラーリング マイクロコレクティン
 
 ---
 
@@ -118,5 +120,27 @@
 [動画を見る](https://www.youtube.com/watch?v=hjT_0cejaLs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20203%20Light&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20203%20Light/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY ブラーリング マイクロコレクティング コンシーラー LN
+
+**価格**: 6270円
+
+> **小田切ヒロ**: 「そこで使っていくのはこちら プラダビューティーのコンシーラー このコンシーラーで このそういうフィンガーブラシにとっていきます これを入れた瞬間突然に 筋の通った人に見えるんです そう 凛とするの それは欲しい 欲しいでしょ 筋通ってないんで結構 通す」
+> [動画を見る](https://www.youtube.com/watch?v=2aPtSRuHmHM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20LN&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20LN/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY ブラーリング マイクロコレクティング コンシーラー 全4色
+
+**価格**: 6270円
+
+> **小田切ヒロ**: 「そしてこちら ブラザビューティーのコンシーラーリキッドコンシーラーやっぱり使えるんですよ そうファンデーションだけでも仕上げることは できるんですがやっぱり細かな パーツちょっと仕上げたいときだったりとか やっぱり1本持っているとす」
+> [動画を見る](https://www.youtube.com/watch?v=g8vHFPryJx8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
 
 ---

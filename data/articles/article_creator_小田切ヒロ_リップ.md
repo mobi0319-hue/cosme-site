@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめリップ54選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめリップ58選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したリップアイテムをまとめました。
 
@@ -60,6 +60,10 @@
 52. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
 53. **NARS** NARS エクスプリシット リップスティック 820 BAR
 54. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
+55. **MAC** #小田切ヒロ #メイク #毎日メイク #デイリーメイク #ヌ
+56. **キス** Betty cosmetic ディアモーメントリップ 01 
+57. **PRADA Beauty** PRADA BEAUTY プラダ リフレクション リキッド 
+58. **YSL** YVES SAINT LAURENT YSL ラブシャイン 
 
 ---
 
@@ -95,8 +99,8 @@
 
 **価格**: 1500円以下
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WUpGwrScGh4)
+> **小田切ヒロ**: 「陰影で盛れるっていうのも提案してくれましたよね。 私はリップモンスターと迷って、 ちょっとこっちのクリスタルポットの方を選んでみたんですけど、 特に1番かな。」
+> [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/405829/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -762,5 +766,47 @@
 > [動画を見る](https://www.youtube.com/watch?v=ShMFbV832hU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20M%E3%83%BBA%E3%83%BBC%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%AB%20%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%AF%20%E3%82%B5%E3%83%86%E3%83%B3%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20837%20%E3%83%94%E3%83%BC%E3%83%81%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/0773602741946/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### MAC #小田切ヒロ #メイク #毎日メイク #デイリーメイク #ヌーディーメイク #リップ #新作リップ #新作コスメ #
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=1enuZ1SxNws)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAC%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E6%AF%8E%E6%97%A5%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%8C%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%AA%E3%83%83%E3%83%97%20%23%E6%96%B0%E4%BD%9C%E3%83%AA%E3%83%83%E3%83%97%20%23%E6%96%B0%E4%BD%9C%E3%82%B3%E3%82%B9%E3%83%A1%20%23&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAC%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E6%AF%8E%E6%97%A5%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%8C%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%AA%E3%83%83%E3%83%97%20%23%E6%96%B0%E4%BD%9C%E3%83%AA%E3%83%83%E3%83%97%20%23%E6%96%B0%E4%BD%9C%E3%82%B3%E3%82%B9%E3%83%A1%20%23/?af=mobi.0319)
+
+---
+
+### キス Betty cosmetic ディアモーメントリップ 01 ザ ファーストタイム キス
+
+**価格**: 1738円
+
+> **小田切ヒロ**: 「発色してくれます そして名前が これネーミングがですファーストタイム ファーストタイムキスというカラーなんですそう 初めてのキスをした時の色みたいな そんな感じで作られてるカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20Betty%20cosmetic%20%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%2001%20%E3%82%B6%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0%20%E3%82%AD%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20Betty%20cosmetic%20%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%2001%20%E3%82%B6%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0%20%E3%82%AD%E3%82%B9/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY プラダ リフレクション リキッド バーム グロス O281 FIREMOTION　※3/13発売
+
+**価格**: 5940円
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=NxwsgTazG9A)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%97%E3%83%A9%E3%83%80%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%90%E3%83%BC%E3%83%A0%20%E3%82%B0%E3%83%AD%E3%82%B9%20O281%20FIREMOTION%E3%80%80%E2%80%BB3/13%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%97%E3%83%A9%E3%83%80%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%90%E3%83%BC%E3%83%A0%20%E3%82%B0%E3%83%AD%E3%82%B9%20O281%20FIREMOTION%E3%80%80%E2%80%BB3/13%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### YSL YVES SAINT LAURENT YSL ラブシャイン グロスプランパー No.2 ラッキー ムーンストーン
+
+**価格**: 4950円
+
+> **小田切ヒロ**: 「3番は これこれも結構最近出たラブシャイングロスプランパー2番なんですけど プランパーって痛いと思ってませんか 思っております 唐辛子のピリピリ感が唐辛子得意分野のお店 唐辛子慣れはしてるんです」
+> [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%20No.2%20%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%20No.2%20%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3/?af=mobi.0319)
 
 ---

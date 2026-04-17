@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
+<!-- LAST_UPDATED: 2026-04-18 -->
 # 【2026年04月版】YouTuberが複数紹介したスキンケアおすすめ14選
 
 複数の美容系YouTuberが**独立して紹介**したスキンケアアイテムだけを厳選しました。
@@ -9,18 +9,18 @@
 
 1. **KOSE** ONE BY KOSE セラムヴェール ディープリペア — 3人が紹介
 2. **Laneige** LANEIGEクリームスキン ローション — 3人が紹介
-3. **KOSE** KOSE メイクキープミストEX — 2人が紹介
-4. **KOSE** ONE BY KOSE ポアクリアオイル（KOSE） — 2人が紹介
-5. **Torriden（トリデン）** Torriden セルメイジング コラーゲン ファーミング  — 2人が紹介
-6. **FAS（ファス）** FAS ザ ブラック デイリー シートマスク — 2人が紹介
-7. **POLA（ポーラ）** リンクルショット メディカル セラム デュオ＜医薬部外品＞ — 2人が紹介
-8. **SOFINA** SOFINA iP｜水光ピーリング泡セラム 120g — 2人が紹介
-9. **オルビス** オルビスユー エッセンスローション　（税込） — 2人が紹介
-10. **コスメデコルテ** コスメデコルテ/ リポソーム アドバンスト リペアセラム 7 — 2人が紹介
-11. **d'Alba** ホワイトトリュフ ファーストスプレーセラム — 2人が紹介
-12. **オバジ** C デイセラムBB  ライト — 2人が紹介
-13. **オバジ** C デイセラムUV — 2人が紹介
-14. **shu uemura** クレンジング — 2人が紹介
+3. **shu uemura** クレンジング — 3人が紹介
+4. **KOSE** KOSE メイクキープミストEX — 2人が紹介
+5. **KOSE** ONE BY KOSE ポアクリアオイル（KOSE） — 2人が紹介
+6. **Torriden（トリデン）** Torriden セルメイジング コラーゲン ファーミング  — 2人が紹介
+7. **FAS（ファス）** FAS ザ ブラック デイリー シートマスク — 2人が紹介
+8. **POLA（ポーラ）** リンクルショット メディカル セラム デュオ＜医薬部外品＞ — 2人が紹介
+9. **SOFINA** SOFINA iP｜水光ピーリング泡セラム 120g — 2人が紹介
+10. **オルビス** オルビスユー エッセンスローション　（税込） — 2人が紹介
+11. **コスメデコルテ** コスメデコルテ/ リポソーム アドバンスト リペアセラム 7 — 2人が紹介
+12. **d'Alba** ホワイトトリュフ ファーストスプレーセラム — 2人が紹介
+13. **オバジ** C デイセラムBB  ライト — 2人が紹介
+14. **オバジ** C デイセラムUV — 2人が紹介
 
 ---
 
@@ -47,6 +47,23 @@
 > [動画を見る](https://www.youtube.com/watch?v=RM5Yqlzb4g4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/0000000009201/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### shu uemura クレンジング
+
+**価格**: 6270円 | **3人のYouTuberが紹介**
+
+> **まつきりな【まつきの日常】**: 「shu uemuraのクレンジングオイルをおすす」
+> [動画を見る](https://www.youtube.com/watch?v=3zplZbUnNcM)
+
+> **鹿の間**: 「使い切りクレンジング5つの中からお気に入りとして紹介。」
+> [動画を見る](https://www.youtube.com/watch?v=4aubYe-Jhg0)
+
+> **HIRO BEAUTY CHANNEL**: 「それではスタート まずはクレンジングです 今回私のお気に入りはこちら シュウエムラのブライトクレンジングオイルオイルクレンジングといえばシュウエムラ有名ですよけどねこのクレンジングオイル今までのものと全然違うんです」
+> [動画を見る](https://www.youtube.com/watch?v=4jb3qqBmrzE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0/?af=mobi.0319)
 
 ---
 
@@ -202,19 +219,5 @@
 > [動画を見る](https://www.youtube.com/watch?v=AtcZy2yOYIk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%90%E3%82%B8%20C%20%E3%83%87%E3%82%A4%E3%82%BB%E3%83%A9%E3%83%A0UV&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%90%E3%82%B8%20C%20%E3%83%87%E3%82%A4%E3%82%BB%E3%83%A9%E3%83%A0UV/?af=mobi.0319)
-
----
-
-### shu uemura クレンジング
-
-**価格**: 6270円 | **2人のYouTuberが紹介**
-
-> **まつきりな【まつきの日常】**: 「shu uemuraのクレンジングオイルをおすす」
-> [動画を見る](https://www.youtube.com/watch?v=3zplZbUnNcM)
-
-> **鹿の間**: 「使い切りクレンジング5つの中からお気に入りとして紹介。」
-> [動画を見る](https://www.youtube.com/watch?v=4aubYe-Jhg0)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0/?af=mobi.0319)
 
 ---

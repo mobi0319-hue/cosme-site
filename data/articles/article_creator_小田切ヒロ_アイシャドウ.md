@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめアイシャドウ27選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめアイシャドウ28選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -33,6 +33,7 @@
 25. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
 26. **dejavu** dejavu シアーカラーブロウ シアーベージュ 全3色　※
 27. **CEZANNE** CEZANNE 極細アイブロウマスカラ C5 マイルドベージ
+28. **WAKEMAKE** wakemake ハローキティ ソフトブラーリングアイパレッ
 
 ---
 
@@ -384,5 +385,16 @@
 [動画を見る](https://www.youtube.com/watch?v=t9mESrqJGJo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E6%A5%B5%E7%B4%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20C5%20%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%89%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%E2%80%BB8/26%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cheeringcharm/20250925075112_186/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### WAKEMAKE wakemake ハローキティ ソフトブラーリングアイパレット 29 ソイピンクブラーリング
+
+**価格**: 3135円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20wakemake%20%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2029%20%E3%82%BD%E3%82%A4%E3%83%94%E3%83%B3%E3%82%AF%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20wakemake%20%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2029%20%E3%82%BD%E3%82%A4%E3%83%94%E3%83%B3%E3%82%AF%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/?af=mobi.0319)
 
 ---

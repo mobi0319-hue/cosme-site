@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめスキンケア37選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめスキンケア40選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したスキンケアアイテムをまとめました。
 
@@ -43,6 +43,9 @@
 35. **CLINIQUE** CLINIQUE モイスチャー サージ ボディ ハイドレータ
 36. **LUNASOL** LUNASOL グロウデイセラムUV SPF50+ / PA
 37. **GIVENCHY** GIVENCHY スカルプチュラル セラム
+38. **shu uemura** クレンジング
+39. **オバジ** みんなも大好きなオバジCセラムシリーズがリニューアルしたの♡
+40. **トーン** 潤い・美白・シワ改善・アップ・美容液発想・顔＆ボディ兼用 ま
 
 ---
 
@@ -524,5 +527,34 @@
 > [動画を見る](https://www.youtube.com/watch?v=I7a95IrT2ZU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%82%BB%E3%83%A9%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/stylife/ne7097/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### shu uemura クレンジング
+
+**価格**: 6270円
+
+> **小田切ヒロ**: 「それではスタート まずはクレンジングです 今回私のお気に入りはこちら シュウエムラのブライトクレンジングオイルオイルクレンジングといえばシュウエムラ有名ですよけどねこのクレンジングオイル今までのものと全然違うんです」
+> [動画を見る](https://www.youtube.com/watch?v=4jb3qqBmrzE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### オバジ みんなも大好きなオバジCセラムシリーズがリニューアルしたの♡
+
+> **小田切ヒロ**: 「なじませた状態でここからですこちらオバジXのフレームリフトローションを使っていきます 顔印象キュッと引き上げていきます」
+> [動画を見る](https://www.youtube.com/watch?v=HKNMNgtFIBQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%90%E3%82%B8%20%E3%81%BF%E3%82%93%E3%81%AA%E3%82%82%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%AA%E3%83%90%E3%82%B8C%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%8C%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%9F%E3%81%AE%E2%99%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%90%E3%82%B8%20%E3%81%BF%E3%82%93%E3%81%AA%E3%82%82%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%AA%E3%83%90%E3%82%B8C%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%8C%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%9F%E3%81%AE%E2%99%A1/?af=mobi.0319)
+
+---
+
+### トーン 潤い・美白・シワ改善・アップ・美容液発想・顔＆ボディ兼用 まで、本当に進化が止まらないわよ〜🤍
+
+> **小田切ヒロ**: 「もう私これ大好きなんですよ アルビオン最高峰の美白&シワ改善クリームになります 紫外線防御力としてはSPF50プラスにPA++++というですしっかりとお肌を守ってくれるんですけれども なんと美白そしてシワ改善までもしてくれるというです」
+> [動画を見る](https://www.youtube.com/watch?v=ZDJIg2WvUnU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E6%BD%A4%E3%81%84%E3%83%BB%E7%BE%8E%E7%99%BD%E3%83%BB%E3%82%B7%E3%83%AF%E6%94%B9%E5%96%84%E3%83%BB%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E7%BE%8E%E5%AE%B9%E6%B6%B2%E7%99%BA%E6%83%B3%E3%83%BB%E9%A1%94%EF%BC%86%E3%83%9C%E3%83%87%E3%82%A3%E5%85%BC%E7%94%A8%20%E3%81%BE%E3%81%A7%E3%80%81%E6%9C%AC%E5%BD%93%E3%81%AB%E9%80%B2%E5%8C%96%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E3%82%8F%E3%82%88%E3%80%9C%F0%9F%A4%8D&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E6%BD%A4%E3%81%84%E3%83%BB%E7%BE%8E%E7%99%BD%E3%83%BB%E3%82%B7%E3%83%AF%E6%94%B9%E5%96%84%E3%83%BB%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E7%BE%8E%E5%AE%B9%E6%B6%B2%E7%99%BA%E6%83%B3%E3%83%BB%E9%A1%94%EF%BC%86%E3%83%9C%E3%83%87%E3%82%A3%E5%85%BC%E7%94%A8%20%E3%81%BE%E3%81%A7%E3%80%81%E6%9C%AC%E5%BD%93%E3%81%AB%E9%80%B2%E5%8C%96%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E3%82%8F%E3%82%88%E3%80%9C%F0%9F%A4%8D/?af=mobi.0319)
 
 ---

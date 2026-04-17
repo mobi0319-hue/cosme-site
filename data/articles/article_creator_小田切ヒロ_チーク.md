@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめチーク21選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめチーク25選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したチークアイテムをまとめました。
 
@@ -10,23 +10,27 @@
 2. **Fujiko（フジコ）** どこでもチーク 02 沼らせピンク
 3. **VDL** チークステイン ブラッシャー
 4. **PERIPERA** シロッピートックチーク
-5. **Dior** DIOR ディオールスキン ルージュ ブラッシュ 449 ダ
-6. **Dior** DIOR ディオールスキン フォーエヴァー ブラッシュ ソフ
-7. **KATE** バウンシーチークシャドウ BE-1
-8. **JILL STUART** JILL STUART パステルペタル ブラッシュ 07 s
-9. **Dior** ディオールスキン フォーエヴァー ブラッシュ ソフト フィル
-10. **NARS** NARS ブラッシュ N 907 MAD LOVE  ※20
-11. **ADDICTION** ADDICTION ザ リキッドブラッシュ フォギー 004
-12. **RMK** RMK ピュア コンプレクション ブラッシュ 11 ネイキッ
-13. **NARS** NARS ブラッシュ　Ｎ 925 CHERISH
-14. **NARS** NARS アフターグロー　リキッドブラッシュ ORGASM
-15. **NARS** NARS ブラッシュ N IMPASSIONED
-16. **NARS** NARS アフターグロー リキッドブラッシュ 02799 O
-17. **RMK** ピュア コンプレクション ブラッシュ 15 デューン ウェー
-18. **NARS** ブラッシュ Ｎ CHERISH
-19. **NARS** NARS ブラッシュ Ｎ 950 THRILL
-20. **ADDICTION** ザ リキッドブラッシュ フォギー 004 アット バルコニー
-21. **dasique** dasique ソフトブラーチーク 07 ヌードベージュ
+5. **CEZANNE** CEZANNE チークブラッシュ
+6. **CEZANNE** ブレンドカラーチーク
+7. **Dior** DIOR ディオールスキン ルージュ ブラッシュ 449 ダ
+8. **Dior** DIOR ディオールスキン フォーエヴァー ブラッシュ ソフ
+9. **KATE** バウンシーチークシャドウ BE-1
+10. **JILL STUART** JILL STUART パステルペタル ブラッシュ 07 s
+11. **Dior** ディオールスキン フォーエヴァー ブラッシュ ソフト フィル
+12. **NARS** NARS ブラッシュ N 907 MAD LOVE  ※20
+13. **ADDICTION** ADDICTION ザ リキッドブラッシュ フォギー 004
+14. **RMK** RMK ピュア コンプレクション ブラッシュ 11 ネイキッ
+15. **NARS** NARS ブラッシュ　Ｎ 925 CHERISH
+16. **NARS** NARS アフターグロー　リキッドブラッシュ ORGASM
+17. **NARS** NARS ブラッシュ N IMPASSIONED
+18. **NARS** NARS アフターグロー リキッドブラッシュ 02799 O
+19. **RMK** ピュア コンプレクション ブラッシュ 15 デューン ウェー
+20. **NARS** ブラッシュ Ｎ CHERISH
+21. **NARS** NARS ブラッシュ Ｎ 950 THRILL
+22. **ADDICTION** ザ リキッドブラッシュ フォギー 004 アット バルコニー
+23. **dasique** dasique ソフトブラーチーク 07 ヌードベージュ
+24. **ジルスチュアート** の「クチュール ミックスブラッシュ コンパクト」を主役に、
+25. **ADDICTION** ADDICTION アディクション　ザ ブラッシュ 006M
 
 ---
 
@@ -79,6 +83,32 @@
 [動画を見る](https://www.youtube.com/watch?v=Zkdp2VkqN8o)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PERIPERA%20%E3%82%B7%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%88%E3%83%83%E3%82%AF%E3%83%81%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cliojapan/10000893/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### CEZANNE CEZANNE チークブラッシュ
+
+![CEZANNE CEZANNE チークブラッシュ](https://thumbnail.image.rakuten.co.jp/@0_mall/0101marui/cabinet/ce014/703/854939553043065_1.jpg?_ex=500x500)
+
+**価格**: 550円
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CEZANNE ブレンドカラーチーク
+
+![CEZANNE ブレンドカラーチーク](https://thumbnail.image.rakuten.co.jp/@0_mall/hands-net/cabinet/07/01/4939553530107-1.jpg?_ex=500x500)
+
+**価格**: 781円
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Hnb4HdnM0-4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530107&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hands-net/4939553530107/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -300,5 +330,25 @@
 [動画を見る](https://www.youtube.com/watch?v=RfsvlnOqkG0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dasique%20dasique%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%2007%20%E3%83%8C%E3%83%BC%E3%83%89%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dasique%20dasique%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%81%E3%83%BC%E3%82%AF%2007%20%E3%83%8C%E3%83%BC%E3%83%89%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
+
+---
+
+### ジルスチュアート の「クチュール ミックスブラッシュ コンパクト」を主役に、
+
+> **小田切ヒロ**: 「それがこちらジルスチュアートクチュールミックスブラシコンパクト03見て4色にね構成されているんだけれども こちら側の2色がです」
+> [動画を見る](https://www.youtube.com/watch?v=4tnWnan2FJY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%81%AE%E3%80%8C%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%80%8D%E3%82%92%E4%B8%BB%E5%BD%B9%E3%81%AB%E3%80%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%81%AE%E3%80%8C%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%80%8D%E3%82%92%E4%B8%BB%E5%BD%B9%E3%81%AB%E3%80%81/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION アディクション　ザ ブラッシュ 006M Naked Veil
+
+**価格**: 3300円
+
+> **小田切ヒロ**: 「そうなんだ。 いい。 いい。 いい。 続きまして、アディクションです。 はい。 せーの。 。 おー。 おー。 素晴らけました。 はい。 これ何? これ、アディクションのブラー&ロックプライマーで、新作なんですよ。 新作なんだ。」
+> [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%B6%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20006M%20Naked%20Veil&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%B6%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20006M%20Naked%20Veil/?af=mobi.0319)
 
 ---

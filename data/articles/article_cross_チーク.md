@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 【2026年04月版】YouTuberが複数紹介したチークおすすめ6選
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 【2026年04月版】YouTuberが複数紹介したチークおすすめ9選
 
 複数の美容系YouTuberが**独立して紹介**したチークアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -10,9 +10,12 @@
 1. **VDL** チークステイン ブラッシャー — 6人が紹介
 2. **CANMAKE（キャンメイク）** クリームチーク — 2人が紹介
 3. **PERIPERA** シロッピートックチーク — 2人が紹介
-4. **セザンヌ** セザンヌ チークブラッシュ01 フォギーローズ — 2人が紹介
-5. **ディオール** スキンルージュブラッシュカラーグロウ — 2人が紹介
-6. **ディオール** ディオール/ディオール スキン ルージュ ブラッシュ カラー — 2人が紹介
+4. **CEZANNE** CEZANNE チークブラッシュ — 2人が紹介
+5. **セザンヌ** セザンヌ チークブラッシュ01 フォギーローズ — 2人が紹介
+6. **CEZANNE** ブレンドカラーチーク — 2人が紹介
+7. **Dior** ディオールスキン フォーエヴァー ブラッシュ ソフト フィル — 2人が紹介
+8. **ディオール** スキンルージュブラッシュカラーグロウ — 2人が紹介
+9. **ディオール** ディオール/ディオール スキン ルージュ ブラッシュ カラー — 2人が紹介
 
 ---
 
@@ -71,6 +74,19 @@
 
 ---
 
+### CEZANNE CEZANNE チークブラッシュ
+
+![CEZANNE CEZANNE チークブラッシュ](https://thumbnail.image.rakuten.co.jp/@0_mall/0101marui/cabinet/ce014/703/854939553043065_1.jpg?_ex=500x500)
+
+**価格**: 550円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「そして今回チークはセザンヌのチークブラッシュ4番を使っていきまーす でチークは結構注意点が多くって 飛んでしまって 色が映らないっていうのが 照明写真あるあるなんです」
+> [動画を見る](https://www.youtube.com/watch?v=oTJzn6WWr_A)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### セザンヌ セザンヌ チークブラッシュ01 フォギーローズ
 
 ![セザンヌ セザンヌ チークブラッシュ01 フォギーローズ](https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/21/4939553042877.jpg?_ex=500x500)
@@ -84,6 +100,33 @@
 > [動画を見る](https://www.youtube.com/watch?v=mSgx6ai4MxM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042877&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24-cosmetics/4939553042877/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CEZANNE ブレンドカラーチーク
+
+![CEZANNE ブレンドカラーチーク](https://thumbnail.image.rakuten.co.jp/@0_mall/hands-net/cabinet/07/01/4939553530107-1.jpg?_ex=500x500)
+
+**価格**: 781円 | **2人のYouTuberが紹介**
+
+動画の概要欄でチークとして紹介されています。
+
+**紹介YouTuber**: コスメヲタちゃんねるサラ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530107&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hands-net/4939553530107/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### Dior ディオールスキン フォーエヴァー ブラッシュ ソフト フィルター 02 ピオニー
+
+![Dior ディオールスキン フォーエヴァー ブラッシュ ソフト フィルター 02 ピオニー](https://thumbnail.image.rakuten.co.jp/@0_mall/cuore/cabinet/202507/cd-33489017626_1.jpg?_ex=500x500)
+
+**価格**: 5940円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「リオール リオールスキンフォーエバーブラッシュ ソフトフィルター02ピオニーこのリキッドチークも優秀です マットでふわっとフォギーな肌質 それを作るのにです」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%BD%E3%83%95%E3%83%88%20%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2002%20%E3%83%94%E3%82%AA%E3%83%8B%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/5252/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

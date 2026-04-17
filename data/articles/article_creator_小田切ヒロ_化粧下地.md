@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめ化粧下地63選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめ化粧下地96選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介した化粧下地アイテムをまとめました。
 
@@ -69,6 +69,39 @@
 61. **THREE** THREE アドバンスドエシリアルスムースオペレーター ルー
 62. **CEZANNE** CEZANNE パールグロウハイライト 01 シャンパンベー
 63. **too cool for school** too cool for school アートクラスバイロダ
+64. **hince** hince ポアーショットブラープライマー
+65. **LUNASOL** LUNASOL ルナソル　グロウデイセラムUV　リミテッドキ
+66. **KATE** KATE ケイト ジュレリーププライマー SPF50+ / 
+67. **CANMAKE** CANMAKE マーメイドスキンジェルUV  SPF50+ 
+68. **NARS** NARS ライトリフレクティング ルミナイジングスティック 
+69. **トーン** GIVENCHY プリズム・リーブル・デュアルトーン・ハイラ
+70. **Dior** DIOR ディオール フォーエヴァー グロウ マキシマイザー
+71. **ADDICTION** ADDICTION アディクション ザ グロウ スティック 
+72. **ADDICTION** ADDICTION アディクション コントゥアスティック
+73. **ESPOIR** espoir シルクスキンレイヤークッション SPF42 /
+74. **KATE** KATE KATE ケイト ジュレリープカラーパウダー PK
+75. **MAJOLICA MAJORCA** MAJOLICA MAJORCA マジョスコープシャドウ 全
+76. **JILL STUART** JILL STUART Beauty ドレスドブルーム アイ
+77. **RMK** RMK インフィニシェイド シングル アイシャドウ EX-0
+78. **ヴィセ** Visée ヴィセ　カラー ロック アイベース
+79. **JILL STUART** JILL STUART Beauty クチュール ミックスブ
+80. **PRADA Beauty** PRADA BEAUTY プラダ タッチ R
+81. **YSL** YVES SAINT LAURENT YSL メイクミーブラ
+82. **SHISEIDO** SHISEIDO テクノサテン ジェル リップスティック限定
+83. **Dior** DIOR ディオール アディクト グラス リップスティック 
+84. **キス** GUERLAIN キスキス ビー インテンス 全20色
+85. **デコルテ** DECORTÉ ルージュデコルテ クリームグロウ 29G
+86. **CLINIQUE** CLINIQUE クイック ライナー フォー リップ N 4
+87. **WAKEMAKE** wakemake ハローキティ ウォータフルグロウティント1
+88. **shu uemura** shu uemura キヌケアＣＣオイル PK 345 / 
+89. **PRADA Beauty** PRADA BEAUTY リセット セッティング パウダー
+90. **バイユア** ByUR バイユア セラムフィット ボリューミング グロース
+91. **エレガンス** YVES SAINT LAURENT オールアワーズ ブラー
+92. **トーン** M･A･C グロー プレイ ライトフル C3 トーン アップ
+93. **MAC** #小田切ヒロ #NYFW #HOTICE #ホットアイスメイ
+94. **トーン** ☆トーンアップ下地部門
+95. **エスティ ローダー** プロモーション：
+96. **ADDICTION** ADDICTION アディクション　ブラー ＆ ロック プラ
 
 ---
 
@@ -888,5 +921,312 @@
 [動画を見る](https://www.youtube.com/watch?v=2mGDNafoctA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=too%20cool%20for%20school%20too%20cool%20for%20school%20%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%90%E3%82%A4%E3%83%AD%E3%83%80%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%2002%20%E3%83%A2%E3%83%80%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hanbist/too_001veiled/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### hince hince ポアーショットブラープライマー
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20hince%20%E3%83%9D%E3%82%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/hince%20hince%20%E3%83%9D%E3%82%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC/?af=mobi.0319)
+
+---
+
+### LUNASOL LUNASOL ルナソル　グロウデイセラムUV　リミテッドキット SPF50+ / PA++++ 15g※モノアイカラーレーション EX15 Frozen Shell限定色とのセット
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNASOL%20LUNASOL%20%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%E3%80%80%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%87%E3%82%A4%E3%82%BB%E3%83%A9%E3%83%A0UV%E3%80%80%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%82%AD%E3%83%83%E3%83%88%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2015g%E2%80%BB%E3%83%A2%E3%83%8E%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20EX15%20Frozen%20Shell%E9%99%90%E5%AE%9A%E8%89%B2%E3%81%A8%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNASOL%20LUNASOL%20%E3%83%AB%E3%83%8A%E3%82%BD%E3%83%AB%E3%80%80%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%87%E3%82%A4%E3%82%BB%E3%83%A9%E3%83%A0UV%E3%80%80%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%82%AD%E3%83%83%E3%83%88%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2015g%E2%80%BB%E3%83%A2%E3%83%8E%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20EX15%20Frozen%20Shell%E9%99%90%E5%AE%9A%E8%89%B2%E3%81%A8%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88/?af=mobi.0319)
+
+---
+
+### KATE KATE ケイト ジュレリーププライマー SPF50+ / PA++++オーシャングリーン / ラグーンピンク
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%97%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%20/%20%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%97%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%20/%20%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
+
+---
+
+### CANMAKE CANMAKE マーメイドスキンジェルUV  SPF50+ / PA++++
+
+> **小田切ヒロ**: 「こちらSPF50プラスにPA++++でございまして 日焼け止めなんですけれども もうね日焼け止めっぽくないんですもうスキンケアのこの延長洗浄のような全く膜感もなければトーンアップもしないです」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%ABUV%20%20SPF50%2B%20/%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%ABUV%20%20SPF50%2B%20/%20PA%2B%2B%2B%2B/?af=mobi.0319)
+
+---
+
+### NARS NARS ライトリフレクティング ルミナイジングスティック 04233 / 04232 /
+
+> **小田切ヒロ**: 「そしてNARSから ライトリフレクティングシリーズの ハイライターが登場いたしました またまずで濡れているような質感に仕上がってくれる というハイライターになります」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2004233%20/%2004232%20/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2004233%20/%2004232%20//?af=mobi.0319)
+
+---
+
+### トーン GIVENCHY プリズム・リーブル・デュアルトーン・ハイライター 全4色 No.001 / No.
+
+> **小田切ヒロ**: 「そしてNARSから ライトリフレクティングシリーズの ハイライターが登場いたしました またまずで濡れているような質感に仕上がってくれる というハイライターになります」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%20%E5%85%A84%E8%89%B2%20No.001%20/%20No.&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%20%E5%85%A84%E8%89%B2%20No.001%20/%20No./?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオール フォーエヴァー グロウ マキシマイザー
+
+> **小田切ヒロ**: 「ぜひこれ使ってみてください そしてディオールのマキシマイザーからですこちら新色登場いたしました またなったこれ サンバーストというカラーなんですけれども まあこれがちょっと常夏の ちょっと情緒あふれる素敵なニュアンスの ドラマティックな肌になります」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION アディクション ザ グロウ スティック UV SPF30 / PA++
+
+> **小田切ヒロ**: 「今年の夏ぜひゲットしてほしいです そしてアディクションからこちら ハイライトとシェーディングのスティックが登場しました こちらがハイライターの方はですちょっとウェッティーな質感になってくれるというです」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B6%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20UV%20SPF30%20/%20PA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B6%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20UV%20SPF30%20/%20PA%2B%2B/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION アディクション コントゥアスティック
+
+> **小田切ヒロ**: 「今年の夏ぜひゲットしてほしいです そしてアディクションからこちら ハイライトとシェーディングのスティックが登場しました こちらがハイライターの方はですちょっとウェッティーな質感になってくれるというです」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
+
+---
+
+### ESPOIR espoir シルクスキンレイヤークッション SPF42 / PA++ 全2色
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ESPOIR%20espoir%20%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF42%20/%20PA%2B%2B%20%E5%85%A82%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ESPOIR%20espoir%20%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF42%20/%20PA%2B%2B%20%E5%85%A82%E8%89%B2/?af=mobi.0319)
+
+---
+
+### KATE KATE KATE ケイト ジュレリープカラーパウダー PK
+
+> **小田切ヒロ**: 「そしてこちらがケイトなんですけれども これケイトのね生艶感と化粧持ちを抜群に良くしてくれるという下地になります ラベンダーのカラーとミントグリーンのこちらのカラーになっております 赤みを飛ばす」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20PK&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20PK/?af=mobi.0319)
+
+---
+
+### MAJOLICA MAJORCA MAJOLICA MAJORCA マジョスコープシャドウ 全16色 / カスタマイズケース
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAJOLICA%20MAJORCA%20MAJOLICA%20MAJORCA%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E5%85%A816%E8%89%B2%20/%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAJOLICA%20MAJORCA%20MAJOLICA%20MAJORCA%20%E3%83%9E%E3%82%B8%E3%83%A7%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E5%85%A816%E8%89%B2%20/%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%B9/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART Beauty ドレスドブルーム アイズ　レディトゥブラッシュ
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20Beauty%20%E3%83%89%E3%83%AC%E3%82%B9%E3%83%89%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%82%A4%E3%82%BA%E3%80%80%E3%83%AC%E3%83%87%E3%82%A3%E3%83%88%E3%82%A5%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20Beauty%20%E3%83%89%E3%83%AC%E3%82%B9%E3%83%89%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%82%A4%E3%82%BA%E3%80%80%E3%83%AC%E3%83%87%E3%82%A3%E3%83%88%E3%82%A5%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/?af=mobi.0319)
+
+---
+
+### RMK RMK インフィニシェイド シングル アイシャドウ EX-09 / EX-
+
+> **小田切ヒロ**: 「いいかなと思います そしてRMKからもシングルアイシャドウなんですけれども まさにホットアイスこちらアイシーなねブルー すごく鮮やかな綺麗なブルーでしょ これにですよ こちら太陽の夏の日差しに相性のいい テラコッタピンクカラーに なります」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89%20%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20EX-09%20/%20EX-&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89%20%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20EX-09%20/%20EX-/?af=mobi.0319)
+
+---
+
+### ヴィセ Visée ヴィセ　カラー ロック アイベース
+
+> **小田切ヒロ**: 「そして美性からこれカラーロック アイベースといいまして カラーをですねピタッとフィットさせる タイプのアイベースになります そして若干なんですけれども 少しトーンアップするんですトーンアップす」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%B4%E3%82%A3%E3%82%BB%20Vis%C3%A9e%20%E3%83%B4%E3%82%A3%E3%82%BB%E3%80%80%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%AD%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%B4%E3%82%A3%E3%82%BB%20Vis%C3%A9e%20%E3%83%B4%E3%82%A3%E3%82%BB%E3%80%80%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%AD%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%83%99%E3%83%BC%E3%82%B9/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART Beauty クチュール ミックスブラッシュ コンパクト
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20Beauty%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20Beauty%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY プラダ タッチ R
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%97%E3%83%A9%E3%83%80%20%E3%82%BF%E3%83%83%E3%83%81%20R&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%97%E3%83%A9%E3%83%80%20%E3%82%BF%E3%83%83%E3%83%81%20R/?af=mobi.0319)
+
+---
+
+### YSL YVES SAINT LAURENT YSL メイクミーブラッシュ パウダー
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC/?af=mobi.0319)
+
+---
+
+### SHISEIDO SHISEIDO テクノサテン ジェル リップスティック限定コレクション 全5色
+
+> **小田切ヒロ**: 「いろんなタイプのものが登場しております こちらシテイドのテクノサテンシリーズの ピンクシリーズからご紹介させていただきますテクノサテンシリーズ大好きもうこのサテンシリーズって すごく使いやすいんですよ 色味と潤いと透け感と す」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B5%E3%83%86%E3%83%B3%20%E3%82%B8%E3%82%A7%E3%83%AB%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A85%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B5%E3%83%86%E3%83%B3%20%E3%82%B8%E3%82%A7%E3%83%AB%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A85%E8%89%B2/?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオール アディクト グラス リップスティック 全11色
+
+> **小田切ヒロ**: 「ピュアピュアピンク エナジェティックピンクリップスティックで フューシャピンクって バンって出せると思うんですけれども リップグロスで この高彩度のピンクって なかなかないんです」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%82%B0%E3%83%A9%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E5%85%A811%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%82%B0%E3%83%A9%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E5%85%A811%E8%89%B2/?af=mobi.0319)
+
+---
+
+### キス GUERLAIN キスキス ビー インテンス 全20色
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20GUERLAIN%20%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%B9%20%E3%83%93%E3%83%BC%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B9%20%E5%85%A820%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20GUERLAIN%20%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%B9%20%E3%83%93%E3%83%BC%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B9%20%E5%85%A820%E8%89%B2/?af=mobi.0319)
+
+---
+
+### デコルテ DECORTÉ ルージュデコルテ クリームグロウ 29G
+
+> **小田切ヒロ**: 「これもおすすめデコルテからはクリームグロウの新色が登場いたしました もうこれは トレンド関係なく ベーシックに絶対いいんですよ 私もです実はこのリップはもうリピートしてるカラーがあるんです」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20DECORT%C3%89%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B0%E3%83%AD%E3%82%A6%2029G&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20DECORT%C3%89%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%87%E3%82%B3%E3%83%AB%E3%83%86%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B0%E3%83%AD%E3%82%A6%2029G/?af=mobi.0319)
+
+---
+
+### CLINIQUE CLINIQUE クイック ライナー フォー リップ N 44 /
+
+> **小田切ヒロ**: 「スルリとピタッとくっついてくれる そうこんなアイライナー待ってました私はですね個人的にこの 鉛筆削り型のものが大好きなんですよ 削るひと手間はあったとて 削り続けることによって 常にフレッシュなものを使うことができます」
+> [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLINIQUE%20CLINIQUE%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%83%95%E3%82%A9%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%20N%2044%20/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLINIQUE%20CLINIQUE%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%83%95%E3%82%A9%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%20N%2044%20//?af=mobi.0319)
+
+---
+
+### WAKEMAKE wakemake ハローキティ ウォータフルグロウティント15号
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20wakemake%20%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%86%E3%82%A3%E3%83%B3%E3%83%8815%E5%8F%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20wakemake%20%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%86%E3%82%A3%E3%83%B3%E3%83%8815%E5%8F%B7/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura キヌケアＣＣオイル PK 345 / ミントゼリー / タンジェリンシロップ
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%AD%E3%83%8C%E3%82%B1%E3%82%A2%EF%BC%A3%EF%BC%A3%E3%82%AA%E3%82%A4%E3%83%AB%20PK%20345%20/%20%E3%83%9F%E3%83%B3%E3%83%88%E3%82%BC%E3%83%AA%E3%83%BC%20/%20%E3%82%BF%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%AD%E3%83%8C%E3%82%B1%E3%82%A2%EF%BC%A3%EF%BC%A3%E3%82%AA%E3%82%A4%E3%83%AB%20PK%20345%20/%20%E3%83%9F%E3%83%B3%E3%83%88%E3%82%BC%E3%83%AA%E3%83%BC%20/%20%E3%82%BF%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY リセット セッティング パウダー
+
+**価格**: 14300円
+
+> **小田切ヒロ**: 「やっぱりナーズこのライトリフレクティングセッティングパウダーの ベージュのカラーが登場したんですけれども これ なぜかと申します」
+> [動画を見る](https://www.youtube.com/watch?v=GiqqoXqD1fM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC/?af=mobi.0319)
+
+---
+
+### バイユア ByUR バイユア セラムフィット ボリューミング グロースティック06 アイシー　※3月12月発売
+
+**価格**: 2090円
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=GiqqoXqD1fM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2%20ByUR%20%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF06%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%BC%E3%80%80%E2%80%BB3%E6%9C%8812%E6%9C%88%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2%20ByUR%20%E3%83%90%E3%82%A4%E3%83%A6%E3%82%A2%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF06%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%BC%E3%80%80%E2%80%BB3%E6%9C%8812%E6%9C%88%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### エレガンス YVES SAINT LAURENT オールアワーズ ブラークッション　※3月13日限定発売 / Elégance エレガンス モデリング カラーベース UV SPF40 / PA+++ UV耐水性★ YE441　 / GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・プライマー ピンク
+
+**価格**: 10890円
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=GiqqoXqD1fM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20YVES%20SAINT%20LAURENT%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%96%E3%83%A9%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E2%80%BB3%E6%9C%8813%E6%97%A5%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2%20/%20El%C3%A9gance%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B9%20UV%20SPF40%20/%20PA%2B%2B%2B%20UV%E8%80%90%E6%B0%B4%E6%80%A7%E2%98%85%20YE441%E3%80%80%20/%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20YVES%20SAINT%20LAURENT%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%BA%20%E3%83%96%E3%83%A9%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E2%80%BB3%E6%9C%8813%E6%97%A5%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2%20/%20El%C3%A9gance%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B9%20UV%20SPF40%20/%20PA%2B%2B%2B%20UV%E8%80%90%E6%B0%B4%E6%80%A7%E2%98%85%20YE441%E3%80%80%20/%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
+
+---
+
+### トーン M･A･C グロー プレイ ライトフル C3 トーン アップ プライマー SPF 50+ SPF50+ / PA+++ ライトリー ラベンダー
+
+**価格**: 6270円
+
+> **小田切ヒロ**: 「こちらの下地を使っていきます ライトフルシーのこちらを軽くサラッとのせていきます 基本的にこの下地でメイクアップ効果というよりは 全体的に明るくしながら日焼け止め効果を狙っていきます」
+> [動画を見る](https://www.youtube.com/watch?v=gRf8C6qopCk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20M%EF%BD%A5A%EF%BD%A5C%20%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%A4%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%95%E3%83%AB%20C3%20%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF%2050%2B%20SPF50%2B%20/%20PA%2B%2B%2B%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%BC%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20M%EF%BD%A5A%EF%BD%A5C%20%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%83%97%E3%83%AC%E3%82%A4%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%95%E3%83%AB%20C3%20%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF%2050%2B%20SPF50%2B%20/%20PA%2B%2B%2B%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%BC%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC/?af=mobi.0319)
+
+---
+
+### MAC #小田切ヒロ #NYFW #HOTICE #ホットアイスメイク # #トレンド #トレンドメイク #メイク #ベースメイク #ベルベット肌 #コスメ
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=gRf8C6qopCk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAC%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD%20%23NYFW%20%23HOTICE%20%23%E3%83%9B%E3%83%83%E3%83%88%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%20%23%20%23%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%20%23%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E8%82%8C%20%23%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAC%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD%20%23NYFW%20%23HOTICE%20%23%E3%83%9B%E3%83%83%E3%83%88%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%20%23%20%23%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%20%23%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E8%82%8C%20%23%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319)
+
+---
+
+### トーン ☆トーンアップ下地部門
+
+> **小田切ヒロ**: 「まずはUV下地部門です アスタリフトDUVシールドトーンアップナチュラルホワイトさすがのアスタリフト 日焼け止めなんです」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E2%98%86%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0%E9%83%A8%E9%96%80&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E2%98%86%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0%E9%83%A8%E9%96%80/?af=mobi.0319)
+
+---
+
+### エスティ ローダー プロモーション：
+
+> **小田切ヒロ**: 「こちらSTローダーダブルウェアステインプレイスメイクアップNあの伝説的王道ファンデーションがなんと約30年ぶりにリニューアルしたんです」
+> [動画を見る](https://www.youtube.com/watch?v=tfWOKjxutMU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%20%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%20%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9A/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION アディクション　ブラー ＆ ロック プライマー SPF38 / PA+++
+
+**価格**: 5280円
+
+> **小田切ヒロ**: 「そうなんだ。 いい。 いい。 いい。 続きまして、アディクションです。 はい。 せーの。 。 おー。 おー。 素晴らけました。 はい。 これ何? これ、アディクションのブラー&ロックプライマーで、新作なんですよ。 新作なんだ。」
+> [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%83%96%E3%83%A9%E3%83%BC%20%EF%BC%86%20%E3%83%AD%E3%83%83%E3%82%AF%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF38%20/%20PA%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%83%96%E3%83%A9%E3%83%BC%20%EF%BC%86%20%E3%83%AD%E3%83%83%E3%82%AF%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF38%20/%20PA%2B%2B%2B/?af=mobi.0319)
 
 ---

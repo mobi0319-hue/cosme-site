@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 水越みさとおすすめ化粧下地48選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 水越みさとおすすめ化粧下地49選【2026年04月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介した化粧下地アイテムをまとめました。
 
@@ -57,6 +57,7 @@
 00/01/
 47. **デコルテ** ルージュ デコルテ ティンティドプランパー
 48. **KISS** kiss もちみずベース
+49. **TAG** Instagram＊https://www.instagra
 
 ---
 
@@ -687,5 +688,14 @@
 [動画を見る](https://www.youtube.com/watch?v=ZnjUYTNbyEE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KISS%20kiss%20%E3%82%82%E3%81%A1%E3%81%BF%E3%81%9A%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4901433172448/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### TAG Instagram＊https://www.instagram.com/mitan.m/
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=VJ1Hfj6JGak)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Instagram%EF%BC%8Ahttps%3A//www.instagram.com/mitan.m/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Instagram%EF%BC%8Ahttps%3A//www.instagram.com/mitan.m//?af=mobi.0319)
 
 ---

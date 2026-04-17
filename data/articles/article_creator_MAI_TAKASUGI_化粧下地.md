@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
+<!-- LAST_UPDATED: 2026-04-18 -->
 # MAI TAKASUGIおすすめ化粧下地11選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介した化粧下地アイテムをまとめました。

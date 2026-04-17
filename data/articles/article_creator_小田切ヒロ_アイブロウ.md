@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-16 -->
-# 小田切ヒロおすすめアイブロウ23選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-18 -->
+# 小田切ヒロおすすめアイブロウ24選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイブロウアイテムをまとめました。
 
@@ -29,6 +29,7 @@
 21. **CANMAKE** CANMAKE スタイリングエッジアイブロウ 01 ナチュラ
 22. **LUNASOL** LUNASOL フェザリーアイブロウジェル 00 クリア
 23. **dejavu** dejavu アイブロウカラー アッシュオリーブ
+24. **KATE** KATE アイブロウペンシルスーパースリム0.8 GY-1 
 
 ---
 
@@ -328,5 +329,16 @@
 [動画を見る](https://www.youtube.com/watch?v=ShMFbV832hU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4903335103315&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dejavu%20dejavu%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96/?af=mobi.0319)
+
+---
+
+### KATE KATE アイブロウペンシルスーパースリム0.8 GY-1 ナチュラルグレー
+
+**価格**: 1100円
+
+動画の概要欄でアイブロウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%A00.8%20GY-1%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%B0%E3%83%AC%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%A00.8%20GY-1%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%B0%E3%83%AC%E3%83%BC/?af=mobi.0319)
 
 ---
