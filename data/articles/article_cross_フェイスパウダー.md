@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 【2026年04月版】YouTuberが複数紹介したフェイスパウダーおすすめ14選
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 【2026年04月版】YouTuberが複数紹介したフェイスパウダーおすすめ15選
 
 複数の美容系YouTuberが**独立して紹介**したフェイスパウダーアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -9,19 +9,20 @@
 
 1. **SHISEIDO（資生堂）** エッセンス スキンセッティング パウダー — 3人が紹介
 2. **SHISEIDO** エッセンス スキンセッティング パウダー — 3人が紹介
-3. **NARS（ナーズ）** ライトリフレクティングセッティングパウダー プレスト N 0 — 2人が紹介
-4. **CANMAKE（キャンメイク）** シルキールースモイストパウダー — 2人が紹介
-5. **CANMAKE（キャンメイク）** マシュマロフィニッシュパウダー — 2人が紹介
-6. **NARS（ナーズ）** パウダー NARS ライトリフレクティングセッティングパウダ — 2人が紹介
-7. **TFIT（ティーフィット）** tfit　トランスルーセントセットエッセンシャルパウダー — 2人が紹介
-8. **SUQQU** SUQQU ソフト マット セッティング パウダー グロウ  — 2人が紹介
-9. **セザンヌ** セザンヌ シームレスカバーパウダー — 2人が紹介
-10. **ADDICTION** ADDICTION / ADDICTION
-インビジブル エ — 2人が紹介
+3. **ADDICTION** ADDICTION / ADDICTION
+インビジブル エ — 3人が紹介
+4. **NARS（ナーズ）** ライトリフレクティングセッティングパウダー プレスト N 0 — 2人が紹介
+5. **CANMAKE（キャンメイク）** シルキールースモイストパウダー — 2人が紹介
+6. **CANMAKE（キャンメイク）** マシュマロフィニッシュパウダー — 2人が紹介
+7. **NARS（ナーズ）** パウダー NARS ライトリフレクティングセッティングパウダ — 2人が紹介
+8. **TFIT（ティーフィット）** tfit　トランスルーセントセットエッセンシャルパウダー — 2人が紹介
+9. **SUQQU** SUQQU ソフト マット セッティング パウダー グロウ  — 2人が紹介
+10. **セザンヌ** セザンヌ シームレスカバーパウダー — 2人が紹介
 11. **tfit** トランスルーセントセットフィニッシングパウダー — 2人が紹介
 12. **KATE** 3Dクリエイトニュアンスパウダー EX-2 透明感アップ パ — 2人が紹介
-13. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ — 2人が紹介
-14. **NARS** NARS ゴールドダスト ライトリフレクティングセッティング — 2人が紹介
+13. **SHISEIDO** SHISEIDO ベネフィアンス ブライトニング スキンケア — 2人が紹介
+14. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ — 2人が紹介
+15. **NARS** NARS ゴールドダスト ライトリフレクティングセッティング — 2人が紹介
 
 ---
 
@@ -54,6 +55,23 @@
 > [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0053/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ADDICTION ADDICTION / ADDICTION
+インビジブル エッセンス ルースパウダー グロウ +
+002 Luminous Pink
+
+![ADDICTION ADDICTION / ADDICTION
+インビジブル エッセンス ルースパウダー グロウ +
+002 Luminous Pink](https://item-shopping.c.yimg.jp/i/l/kindal_8040001206409)
+
+**価格**: 4950円 | **3人のYouTuberが紹介**
+
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「現役美容部員に聞いた人気デパコスの隠れた名品紹介動画で取り上げ。」
+> [動画を見る](https://www.youtube.com/watch?v=dvF0rviBajc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20/%20ADDICTION%0A%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0A002%20Luminous%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20/%20ADDICTION%0D%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0D002%20Luminous%20Pink/?af=mobi.0319)
 
 ---
 
@@ -159,23 +177,6 @@
 
 ---
 
-### ADDICTION ADDICTION / ADDICTION
-インビジブル エッセンス ルースパウダー グロウ +
-002 Luminous Pink
-
-![ADDICTION ADDICTION / ADDICTION
-インビジブル エッセンス ルースパウダー グロウ +
-002 Luminous Pink](https://item-shopping.c.yimg.jp/i/l/kindal_8040001206409)
-
-**価格**: 4950円 | **2人のYouTuberが紹介**
-
-> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「現役美容部員に聞いた人気デパコスの隠れた名品紹介動画で取り上げ。」
-> [動画を見る](https://www.youtube.com/watch?v=dvF0rviBajc)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20/%20ADDICTION%0A%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0A002%20Luminous%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20/%20ADDICTION%0D%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0D002%20Luminous%20Pink/?af=mobi.0319)
-
----
-
 ### tfit トランスルーセントセットフィニッシングパウダー
 
 ![tfit トランスルーセントセットフィニッシングパウダー](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmenana/cabinet/item08/1077301002.jpg?_ex=500x500)
@@ -205,6 +206,22 @@
 > [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167518823&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%203D%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20EX-2%20%E9%80%8F%E6%98%8E%E6%84%9F%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E7%B3%BB/?af=mobi.0319)
+
+---
+
+### SHISEIDO SHISEIDO ベネフィアンス ブライトニング スキンケアパウダー
+
+![SHISEIDO SHISEIDO ベネフィアンス ブライトニング スキンケアパウダー](https://thumbnail.image.rakuten.co.jp/@0_mall/erume-de-beaute/cabinet/benefiance/bef-20540_600.jpg?_ex=500x500)
+
+**価格**: 5280円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「そこでフィックスしていただきたいのが スキンケアパウダーです これは寝るときに必ず私 最後のフィニッシングパウダーとして使うんですけれども 首もですねこちらの2品をつけた後に ぶわーっとしっかりとパウダーでセッティングした後 ここからなんです」
+> [動画を見る](https://www.youtube.com/watch?v=xhnCBYOWaC8)
+
+> **HIRO BEAUTY CHANNEL**: 「もうこれ私大好きなんですけれども こちら シェイドモーベネフィアンスブライトニングスキンケアパウダーでございまして そうシェイドのスキンケアパウダー 私前回のですピンクのタイプのスキンケアパウダー 何個もリピートしてるんですけれども それのです」
+> [動画を見る](https://www.youtube.com/watch?v=mjQI96QdYXs)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%99%E3%83%8D%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/20540/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

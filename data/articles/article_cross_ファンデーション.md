@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ28選
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ32選
 
 複数の美容系YouTuberが**独立して紹介**したファンデーションアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -33,11 +33,15 @@ N — 2人が紹介
 22. **マキアージュ** マキアージュ ドラマティックエッセンスクッション グロウ
 ラ — 2人が紹介
 23. **SHISEIDO** SHISEIDO メーキャップ エッセンス スキングロウ フ — 2人が紹介
-24. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
-25. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
-26. **ミシャ** MISSHA () — 2人が紹介
-27. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
-28. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
+24. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15 — 2人が紹介
+25. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
+26. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション — 2人が紹介
+27. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
+28. **shu uemura** ツヤ 55 ファンデーション ブラシ — 2人が紹介
+29. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ — 2人が紹介
+30. **ミシャ** MISSHA () — 2人が紹介
+31. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
+32. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
 
 ---
 
@@ -409,6 +413,22 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 ---
 
+### NARS NARS ナチュラル ロングウェア ファンデーション 全15色　※3月20日発売
+
+![NARS NARS ナチュラル ロングウェア ファンデーション 全15色　※3月20日発売](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmetch/cabinet/30/0000031035000.jpg?_ex=500x500)
+
+**価格**: 7480円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「セザンヌの皮脂テカリ防止下地50ナチュラルベージュのお色になるんですけれども これまたです皮脂がいっぱい出てしまうという方 お顔がテカリやすいという方 そういった方にはとてもおすすめの下地になります」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+
+> **HIRO BEAUTY CHANNEL**: 「でもこれって一般の人にもできると思うな できるできる ファンデーションに一滴混ぜればいいだけじゃない そう なるほどねでもグリーン苦手な方結構いらっしゃるから はいはい確かに ファンデーションに混ぜるっていうテクニックも一つありだうん素敵だと思います」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A815%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%8820%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A815%E8%89%B2%E3%80%80%E2%80%BB3%E6%9C%8820%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
 ### KATE KATE ケイト エアリーチェンジリキッド SPF30 / PA+++ 全4色
 
 ![KATE KATE ケイト エアリーチェンジリキッド SPF30 / PA+++ 全4色](https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/09201782/12491858/4973167038727_3.jpg?_ex=500x500)
@@ -425,6 +445,19 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 ---
 
+### GIVENCHY プリズム・リーブル・グロウ・セラム・ファンデーション
+
+![GIVENCHY プリズム・リーブル・グロウ・セラム・ファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/cinderellabeaute/cabinet/fdt/2501gy002fdt_001.jpg?_ex=500x500)
+
+**価格**: 8030円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「まあ代表的なのはこちら美容液ファンデーションですよこの美容液ファンデーションも素敵なんです」
+> [動画を見る](https://www.youtube.com/watch?v=L_ETd6Wfcnk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/stylife/nm0954/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### トーン 崩れない新作トーンアップ下地
 
 **2人のYouTuberが紹介**
@@ -436,6 +469,34 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 > [動画を見る](https://www.youtube.com/watch?v=qyx1ylJGq6s)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E5%B4%A9%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E4%B8%8B%E5%9C%B0/?af=mobi.0319)
+
+---
+
+### shu uemura ツヤ 55 ファンデーション ブラシ
+
+**価格**: 6820円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「うねってますで、こちらも家から持ってきたウエットブラシを使って 髪の毛を解いていきます 基本的にホテルに置いてあるアメニティは使わないです」
+> [動画を見る](https://www.youtube.com/watch?v=2iiZ-Ei-PiE)
+
+> **HIRO BEAUTY CHANNEL**: 「そこで使っていくブラシはこちらファンデーションブラシ これでタッピングしながらつけていく でほっぺ Now つけすぎ これ見てごらんなさ バッとつきます」
+> [動画を見る](https://www.youtube.com/watch?v=BfkZfl4bRkQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%83%84%E3%83%A4%2055%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%83%84%E3%83%A4%2055%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%96%E3%83%A9%E3%82%B7/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura アンリミテッド ケア ツヤ セラム ファンデーション
+
+**価格**: 7480円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「ま、このオレンジを一旦ファンデーション塗る前に入れます なんかね思ったことが オレンジのコンシーラー仕込んだ後に 上からね明るいベージュのコンシーラー塗るんです」
+> [動画を見る](https://www.youtube.com/watch?v=ufcu-pkXT2E)
+
+> **HIRO BEAUTY CHANNEL**: 「そこで使っていくブラシはこちらファンデーションブラシ これでタッピングしながらつけていく でほっぺ Now つけすぎ これ見てごらんなさ バッとつきます」
+> [動画を見る](https://www.youtube.com/watch?v=BfkZfl4bRkQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
 
 ---
 

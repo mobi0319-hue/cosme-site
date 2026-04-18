@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 韓国オンニAちゃん (会社員J)おすすめコンシーラー4選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 韓国オンニAちゃん (会社員J)おすすめコンシーラー5選【2026年04月版】
 
 人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したコンシーラーアイテムをまとめました。
 
@@ -8,8 +8,9 @@
 
 1. **CEZANNE（セザンヌ）** ブライトカラーシーラー
 2. **CANMAKE（キャンメイク）** カラーミキシングコンシーラー
-3. **maluwilz** [コスメ] maluwilz コンシーラー
-4. **DROP BE COLORS** DROP BE COLORS カバーピックコンシーラーペンシ
+3. **トーン** パレットコンシーラー ハイカバー [10] ベーシック 税込
+4. **maluwilz** [コスメ] maluwilz コンシーラー
+5. **DROP BE COLORS** DROP BE COLORS カバーピックコンシーラーペンシ
 
 ---
 
@@ -36,6 +37,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=rYBTpTyyIjg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008312699&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4901008312699/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### トーン パレットコンシーラー ハイカバー [10] ベーシック 税込
+
+![トーン パレットコンシーラー ハイカバー [10] ベーシック 税込](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img220/item_1000205652_1.jpg?_ex=500x500)
+
+**価格**: 748円
+
+> **韓国オンニAちゃん (会社員J)**: 「こちらがパレット コンシーラーハイバーの00ライトトーン というパレット。そしてこちらがブライト カラーコンシーラーの10番。ちょっと 青み入ったやつです。」
+> [動画を見る](https://www.youtube.com/watch?v=ffg3I6UbmJM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%90%E3%83%BC%20%5B10%5D%20%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%20%E7%A8%8E%E8%BE%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%90%E3%83%BC%20%5B10%5D%20%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%20%E7%A8%8E%E8%BE%BC/?af=mobi.0319)
 
 ---
 

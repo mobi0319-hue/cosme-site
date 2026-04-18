@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 韓国オンニAちゃん (会社員J)おすすめアイシャドウ9選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 韓国オンニAちゃん (会社員J)おすすめアイシャドウ10選【2026年04月版】
 
 人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -15,6 +15,7 @@
 7. **DEAR DAHLIA（ディアダリア）** シャドウスティック（ワニラファイト）
 8. **ウェイクメイク** ウェイクメイク
 9. **TWINKLE POP** TWINKLE POP レイヤリングムードパレット ピンクセ
+10. **トーン** ペールトーンアイシャドウ
 
 ---
 
@@ -126,5 +127,14 @@
 [動画を見る](https://www.youtube.com/watch?v=xNN3MPh3R68)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TWINKLE%20POP%20TWINKLE%20POP%20%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A0%E3%83%BC%E3%83%89%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%83%94%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TWINKLE%20POP%20TWINKLE%20POP%20%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A0%E3%83%BC%E3%83%89%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E3%83%94%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20//?af=mobi.0319)
+
+---
+
+### トーン ペールトーンアイシャドウ
+
+> **韓国オンニAちゃん (会社員J)**: 「こちらがパレット コンシーラーハイバーの00ライトトーン というパレット。そしてこちらがブライト カラーコンシーラーの10番。ちょっと 青み入ったやつです。」
+> [動画を見る](https://www.youtube.com/watch?v=ffg3I6UbmJM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9A%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9A%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/?af=mobi.0319)
 
 ---

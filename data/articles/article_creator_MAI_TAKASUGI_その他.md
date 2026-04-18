@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# MAI TAKASUGIおすすめその他34選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# MAI TAKASUGIおすすめその他35選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -40,6 +40,7 @@
 32. **DECORTE** 24.コスメデコルテ
 33. **Laneige** 26.
 34. **エレガンス** 32. Elégance（）
+35. **レブロン** フォトレディアンチシャイン バーム
 
 ---
 
@@ -402,5 +403,14 @@
 > [動画を見る](https://www.youtube.com/watch?v=IWETKM5LKVg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2032.%20El%C3%A9gance%EF%BC%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%2032.%20El%C3%A9gance%EF%BC%88%EF%BC%89/?af=mobi.0319)
+
+---
+
+### レブロン フォトレディアンチシャイン バーム
+
+> **MAI TAKASUGI**: 「ですけど、こちらは4月23日に発売予定 のレブロンさんのね、オトレディアンチ シャインバムって言って、これ化粧下地に もなるし、メイクなしでも使えるような バームになってるんですね。」
+> [動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%96%E3%83%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%88%E3%83%AC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%96%E3%83%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%88%E3%83%AC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)
 
 ---

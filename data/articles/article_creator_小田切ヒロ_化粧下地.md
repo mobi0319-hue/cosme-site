@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめ化粧下地96選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめ化粧下地103選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介した化粧下地アイテムをまとめました。
 
@@ -102,6 +102,13 @@
 94. **トーン** ☆トーンアップ下地部門
 95. **エスティ ローダー** プロモーション：
 96. **ADDICTION** ADDICTION アディクション　ブラー ＆ ロック プラ
+97. **トーン** 発光系・アップ系
+98. **トーン** トレンド最前線のピンクアップ＆ラベンダー下地
+99. **PRADA Beauty** PRADA BEAUTY リファイン ブラーリング エクステ
+100. **トーン** 【ピンクトーンアップ系下地】
+101. **CEZANNE** CEZANNE 皮脂テカリ防止下地 SPF28 / PA++
+102. **SUQQU** SUQQU ディファイニング アイラッシュ ベース
+103. **BANILA CO** BANILA CO シルキーグローハイライター BE01 チ
 
 ---
 
@@ -176,8 +183,8 @@
 
 **価格**: 7700円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=36f9jFUQMAo)
+> **小田切ヒロ**: 「こちらブラウン&ロックプライマーといいまして これSPF38にPAが3プラスなので日焼け止めも入ってるんですけれども ほのかなトーンアップ トーンアップはしてくれるんですけれども上がりすぎずにブラー効果があります」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/partytime-tokyo/2512gy065mub/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -332,8 +339,8 @@
 
 **価格**: 7150円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=GiqqoXqD1fM)
+> **小田切ヒロ**: 「じゃあちょうどツヤの話が出たから SUQQUのリキッドファンデーションEというところで ここのSUQQUのツヤの質がす」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167517246&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%82%AA%E3%82%A4%E3%83%AB%20%E3%83%AA%E3%83%83%E3%83%81%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%AB%E3%83%BC%E3%82%B9%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20e/?af=mobi.0319)
 
@@ -787,8 +794,8 @@
 
 **価格**: 3960円
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=_4DoWfXeh0M)
+> **小田切ヒロ**: 「ラロッシュポゼのUVイデアXL プロテクショントーンアップローズのカラー! そう! この下地は 透明タイプが好きなんですけれども 何度かローズタイプ使わせていただいたんです」
+> [動画を見る](https://www.youtube.com/watch?v=KtLNymj5pdM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20LA%20ROCHE-POSAY%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%2B%20SPF50%2B%20/%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pinnacosme/laroche-posay_7569/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -1070,6 +1077,8 @@
 
 ### PRADA Beauty PRADA BEAUTY プラダ タッチ R
 
+**価格**: 6930円
+
 動画の概要欄でベースメイクの下地として紹介されています。
 [動画を見る](https://www.youtube.com/watch?v=4P3CMtWdbwc)
 
@@ -1228,5 +1237,70 @@
 > [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%83%96%E3%83%A9%E3%83%BC%20%EF%BC%86%20%E3%83%AD%E3%83%83%E3%82%AF%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF38%20/%20PA%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%83%96%E3%83%A9%E3%83%BC%20%EF%BC%86%20%E3%83%AD%E3%83%83%E3%82%AF%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF38%20/%20PA%2B%2B%2B/?af=mobi.0319)
+
+---
+
+### トーン 発光系・アップ系
+
+> **小田切ヒロ**: 「すごく優秀なカラーになりますので まず皆様もピンクトーンアップ系のものは 必ず2025年1本持っておいてください その中でも私はいいなと思っているのが デコルテのロージーグロウライザーの これリニューアルなんです」
+> [動画を見る](https://www.youtube.com/watch?v=d4GHX0C3lko)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E7%99%BA%E5%85%89%E7%B3%BB%E3%83%BB%E3%82%A2%E3%83%83%E3%83%97%E7%B3%BB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E7%99%BA%E5%85%89%E7%B3%BB%E3%83%BB%E3%82%A2%E3%83%83%E3%83%97%E7%B3%BB/?af=mobi.0319)
+
+---
+
+### トーン トレンド最前線のピンクアップ＆ラベンダー下地
+
+> **小田切ヒロ**: 「私のようなちょっとトーンダウンした肌の方 もしくはくすみが気になる方 くすみは絶対嫌という方にはとってもおすす」
+> [動画を見る](https://www.youtube.com/watch?v=d4GHX0C3lko)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E6%9C%80%E5%89%8D%E7%B7%9A%E3%81%AE%E3%83%94%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%EF%BC%86%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E6%9C%80%E5%89%8D%E7%B7%9A%E3%81%AE%E3%83%94%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%EF%BC%86%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E4%B8%8B%E5%9C%B0/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY リファイン ブラーリング エクステンディング プライマー
+
+**価格**: 8470円
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=d4GHX0C3lko)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC/?af=mobi.0319)
+
+---
+
+### トーン 【ピンクトーンアップ系下地】
+
+> **小田切ヒロ**: 「私のようなちょっとトーンダウンした肌の方 もしくはくすみが気になる方 くすみは絶対嫌という方にはとってもおすす」
+> [動画を見る](https://www.youtube.com/watch?v=d4GHX0C3lko)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%80%90%E3%83%94%E3%83%B3%E3%82%AF%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E7%B3%BB%E4%B8%8B%E5%9C%B0%E3%80%91&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%80%90%E3%83%94%E3%83%B3%E3%82%AF%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E7%B3%BB%E4%B8%8B%E5%9C%B0%E3%80%91/?af=mobi.0319)
+
+---
+
+### CEZANNE CEZANNE 皮脂テカリ防止下地 SPF28 / PA++ /UV耐久性★★ ピュアラベンダー ※6/2先行発売
+
+> **小田切ヒロ**: 「そこでこちら セザンヌの皮脂テカリ防止下地これピュアラベンダーというカラーで SPF28 PA++なんですけれども 出していただきますと ラベンダーといってもですそこまでラベンダー色が強くないので 比較的使いやすいです」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E7%9A%AE%E8%84%82%E3%83%86%E3%82%AB%E3%83%AA%E9%98%B2%E6%AD%A2%E4%B8%8B%E5%9C%B0%20SPF28%20/%20PA%2B%2B%20/UV%E8%80%90%E4%B9%85%E6%80%A7%E2%98%85%E2%98%85%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E2%80%BB6/2%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20CEZANNE%20%E7%9A%AE%E8%84%82%E3%83%86%E3%82%AB%E3%83%AA%E9%98%B2%E6%AD%A2%E4%B8%8B%E5%9C%B0%20SPF28%20/%20PA%2B%2B%20/UV%E8%80%90%E4%B9%85%E6%80%A7%E2%98%85%E2%98%85%20%E3%83%94%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E2%80%BB6/2%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### SUQQU SUQQU ディファイニング アイラッシュ ベース
+
+> **小田切ヒロ**: 「そしてこちらのSUQQUなんかはですテラコッタに相性のいいこちらの3色に対して ひねりの効いたラベンダーカラー これまた使いやすく そしてマットなのがいいですカーッと深みが出ます」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%99%E3%83%BC%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%99%E3%83%BC%E3%82%B9/?af=mobi.0319)
+
+---
+
+### BANILA CO BANILA CO シルキーグローハイライター BE01 チュチュ
+
+> **小田切ヒロ**: 「でこれ色がたくさん4色くらいかなある中で私このBE01のチュチュっていうカラーを一番使っていて チュチュ なるほどです 可愛いですよ可愛いわ あのハイライトもやっぱいろんな光り方があるじゃないです」
+> [動画を見る](https://www.youtube.com/watch?v=_4DoWfXeh0M)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20BANILA%20CO%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%20BE01%20%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/BANILA%20CO%20BANILA%20CO%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%20BE01%20%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめリップ58選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめリップ73選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したリップアイテムをまとめました。
 
@@ -9,61 +9,76 @@
 1. **Dior（ディオール）** ディオール アディクト リップ グロウ オイル 077 ロー
 2. **デコルテ** ルージュ　クリームグロウ
 3. **KATE** リップ モンスター
-4. **Laneige** LANEIGE ジュースポップボックスリップティント ローフ
-5. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ
-6. **Dior** DIOR ディオール アディクト リップ グロウ オイル 0
+4. **PERIPERA** PERIPERA  インク グラスティング リップ グロス
+5. **Laneige** LANEIGE ジュースポップボックスリップティント ローフ
+6. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ
 7. **Dior** DIOR ディオール アディクト リップ グロウ オイル 0
-8. **CEZANNE** CEZANNE 影色リップメイカー 01 ウォームベージュ
-9. **TOM FORD** TOM FORD BEAUTY リップ スティロ マット 1
-10. **SUQQU** SUQQU ベルベット フィット リップスティック 11 恋
-11. **ETUDE** ETUDE ジンジャーシュガーカラーリップセラム 07 コー
-12. **Dior** DIOR ディオール アディクト リップ グロウ オイル 0
-13. **Bobbi Brown** BOBBI BROWN エクストラ ブラッシング リップ オ
-14. **GIVENCHY** GIVENCHY PFCT･セラム･リップオイル No.10
-15. **NARS** NARS アフターグロー センシュアルシャイン リップスティ
-16. **ルナ** MAKE UP FOR EVER スーパーブースト リップグ
-17. **TOM FORD** TOM FORD BEAUTY FUCKING ファビュラス
-18. **ADDICTION** :12 ADDICTION ザ リップスティック グレイズド
-19. **SUQQU** :31 SUQQU ベルベット フィット リップスティック 
-20. **NARS** NARS エクスプリシット リップスティック 830 ENV
-21. **Dior** DIOR ディオール アディクト リップ グロウ バター 1
-22. **スリー** M∙A∙C マキシマル スリーク サテン リップスティック 
-23. **ADDICTION** ADDICTION アディクション　リップ セラム ティント
-24. **NARS** NARS エクスプリシット リップスティック 829A BL
-25. **NARS** NARS グリーム アフターグロー リップシャイン 271A
-26. **Laneige** LANEIGE グレイズ ティントリップセラム ストロベリー
-27. **スリー** M∙A∙C マキシマル スリーク サテン リップスティック 
+8. **Dior** DIOR ディオール アディクト リップ グロウ オイル 0
+9. **CEZANNE** CEZANNE 影色リップメイカー 01 ウォームベージュ
+10. **TOM FORD** TOM FORD BEAUTY リップ スティロ マット 1
+11. **SUQQU** SUQQU ベルベット フィット リップスティック 11 恋
+12. **ETUDE** ETUDE ジンジャーシュガーカラーリップセラム 07 コー
+13. **Dior** DIOR ディオール アディクト リップ グロウ オイル 0
+14. **Bobbi Brown** BOBBI BROWN エクストラ ブラッシング リップ オ
+15. **GIVENCHY** GIVENCHY PFCT･セラム･リップオイル No.10
+16. **NARS** NARS アフターグロー センシュアルシャイン リップスティ
+17. **ルナ** MAKE UP FOR EVER スーパーブースト リップグ
+18. **TOM FORD** TOM FORD BEAUTY FUCKING ファビュラス
+19. **ADDICTION** :12 ADDICTION ザ リップスティック グレイズド
+20. **SUQQU** :31 SUQQU ベルベット フィット リップスティック 
+21. **NARS** NARS エクスプリシット リップスティック 830 ENV
+22. **Dior** DIOR ディオール アディクト リップ グロウ バター 1
+23. **スリー** M∙A∙C マキシマル スリーク サテン リップスティック 
+24. **ADDICTION** ADDICTION アディクション　リップ セラム ティント
+25. **NARS** NARS エクスプリシット リップスティック 829A BL
+26. **NARS** NARS グリーム アフターグロー リップシャイン 271A
+27. **Laneige** LANEIGE グレイズ ティントリップセラム ストロベリー
 28. **スリー** M∙A∙C マキシマル スリーク サテン リップスティック 
-29. **NARS** NARS エクスプリシット リップスティック ENVY  ※
-30. **Dior** DIOR バックステージ ロージー グロウ 103 トフィー
-31. **SUQQU** SUQQU ブラーリング カラー ブラッシュ 07 彩望 -
-32. **RMK** RMK ピュア コンプレクション ブラッシュ 14 クラウド
-33. **LUNASOL** LUNASOL リクイドブラッシュ EX02 Coral D
-34. **RMK** RMK ベルベットシーン リップカラー EX-02 ウィスト
-35. **LUNASOL** LUNASOL フュージングカラーリップス EX07 Sec
-36. **TOM FORD** TOM FORD BEAUTY スリム リップ カラー シャ
-37. **Dior** DIOR ルージュ ディオール 100V ヌード ルック ベ
-38. **KISS** KISSME FERME 紅筆リップグロウ 限定4色  ※7
-39. **CEZANNE** CEZANNE 影色リップメイカー 03 ソフトコーラル  
-40. **YSL** YVES SAINT LAURENT YSL ラブシャイン 
-41. **Dior** DIOR ディオール アディクト リップ グロウ バター 1
-42. **rom&nd** rom&nd カラーリップマット 03 TAUPE DAWN
-43. **NARS** NARS アフターグロー リップシャイン 280 WHAT 
-44. **RMK** RMK スキンティント SPF20 / PA++
-45. **PERIPERA** インク グラスティング リップ グロス P03 ライラックフ
-46. **NARS** NARS アフターグロー センシュアルシャイン リップスティ
-47. **CEZANNE** CEZANNE 影色リップメイカー 02 クールピンク
-48. **WAKEMAKE** WAKEMAKE ウォータフルグロウティント 02 ティーン
-49. **ルナ** MAKE UP FOR EVER スーパーブースト リップグ
-50. **rom&nd** rom&nd グラスティングカラーグロス 06 Deepen
-51. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
+29. **スリー** M∙A∙C マキシマル スリーク サテン リップスティック 
+30. **NARS** NARS エクスプリシット リップスティック ENVY  ※
+31. **Dior** DIOR バックステージ ロージー グロウ 103 トフィー
+32. **SUQQU** SUQQU ブラーリング カラー ブラッシュ 07 彩望 -
+33. **RMK** RMK ピュア コンプレクション ブラッシュ 14 クラウド
+34. **LUNASOL** LUNASOL リクイドブラッシュ EX02 Coral D
+35. **RMK** RMK ベルベットシーン リップカラー EX-02 ウィスト
+36. **LUNASOL** LUNASOL フュージングカラーリップス EX07 Sec
+37. **TOM FORD** TOM FORD BEAUTY スリム リップ カラー シャ
+38. **Dior** DIOR ルージュ ディオール 100V ヌード ルック ベ
+39. **KISS** KISSME FERME 紅筆リップグロウ 限定4色  ※7
+40. **CEZANNE** CEZANNE 影色リップメイカー 03 ソフトコーラル  
+41. **YSL** YVES SAINT LAURENT YSL ラブシャイン 
+42. **Dior** DIOR ディオール アディクト リップ グロウ バター 1
+43. **rom&nd** rom&nd カラーリップマット 03 TAUPE DAWN
+44. **NARS** NARS アフターグロー リップシャイン 280 WHAT 
+45. **RMK** RMK スキンティント SPF20 / PA++
+46. **PERIPERA** インク グラスティング リップ グロス P03 ライラックフ
+47. **NARS** NARS アフターグロー センシュアルシャイン リップスティ
+48. **CEZANNE** CEZANNE 影色リップメイカー 02 クールピンク
+49. **WAKEMAKE** WAKEMAKE ウォータフルグロウティント 02 ティーン
+50. **ルナ** MAKE UP FOR EVER スーパーブースト リップグ
+51. **rom&nd** rom&nd グラスティングカラーグロス 06 Deepen
 52. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
-53. **NARS** NARS エクスプリシット リップスティック 820 BAR
-54. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
-55. **MAC** #小田切ヒロ #メイク #毎日メイク #デイリーメイク #ヌ
-56. **キス** Betty cosmetic ディアモーメントリップ 01 
-57. **PRADA Beauty** PRADA BEAUTY プラダ リフレクション リキッド 
-58. **YSL** YVES SAINT LAURENT YSL ラブシャイン 
+53. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
+54. **NARS** NARS エクスプリシット リップスティック 820 BAR
+55. **スリー** M・A・C マキシマル スリーク サテン リップスティック 
+56. **CLIO** ベルベットリップペンシル
+57. **MAC** #小田切ヒロ #メイク #毎日メイク #デイリーメイク #ヌ
+58. **キス** Betty cosmetic ディアモーメントリップ 01 
+59. **PRADA Beauty** PRADA BEAUTY プラダ リフレクション リキッド 
+60. **YSL** YVES SAINT LAURENT YSL ラブシャイン 
+61. **CLIO** ✔︎ セクシーと好感度のバランス◎のミュートリップペンシル
+62. **Dior** ✔︎ “自分を肯定できる”リップNo.1💋Rouge  On
+63. **shu uemura** shu uemura スペシャル リップ　エーテルヌード  
+64. **NARS** ※4:07 「 エクスプリシット リップスティック」は202
+65. **PRADA Beauty** PRADA BEAUTY モノクローム ウェイトレス リップ
+66. **shu uemura** Shu uemura アイスカルプトミューテッド カーキ
+67. **NARS** NARS ミニラグナブロンザー & ミニリップオイルデュオ 
+68. **CLARINS** CLARINS ウォーター リップ ステイン N 全5色 ※
+69. **CLARINS** CLARINS リップ パーフェクター 全9色
+70. **RIMMEL** RIMMEL オーマイグロス リップオイル ※6/13発売
+71. **ALBION** ALBION フローラドリップ ｓ 160ml
+72. **キス** ALL MY THINGS トゥルービューティ キス リップ
+73. **YSL** YVES SAINT LAURENT YSL ラブヌード リ
 
 ---
 
@@ -106,6 +121,19 @@
 
 ---
 
+### PERIPERA PERIPERA  インク グラスティング リップ グロス
+
+![PERIPERA PERIPERA  インク グラスティング リップ グロス](https://thumbnail.image.rakuten.co.jp/@0_mall/renew-beauty/cabinet/biiino/item/main-image-7/20251120133017_1.jpg?_ex=500x500)
+
+**価格**: 1320円
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9FnIrD1CBhA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PERIPERA%20PERIPERA%20%20%E3%82%A4%E3%83%B3%E3%82%AF%20%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cliojapan/10000720/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### Laneige LANEIGE ジュースポップボックスリップティント ローファイモーヴ
 
 ![Laneige LANEIGE ジュースポップボックスリップティント ローファイモーヴ](https://thumbnail.image.rakuten.co.jp/@0_mall/joyance-m/cabinet/12063865/juice00.jpg?_ex=500x500)
@@ -138,8 +166,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=g8vHFPryJx8)
+> **小田切ヒロ**: 「このディオールビューリーこれはあなたももうみなさんもご存知でしょうか もうみなさまもね言わなくてもわかると思います こちら新しいリニューアルは前回のものも素晴らしかったんです」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AA%E3%82%A4%E3%83%AB%20077%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/aquabouquet/3348901792196/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -658,8 +686,8 @@
 
 **価格**: 4730円
 
-動画の概要欄でリップとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=uOJrfvSw0Qc)
+> **小田切ヒロ**: 「っていうのがあるんですよ アフターグロウセンシュアルシャインリップスティック これ使ったことない? ない あなたこのシリーズすごいのよ もうとにかくリップクリーム感覚 で使いながらも ちゃんと発色しながら 唇を立体的に潤わせてくれるというものになります」
+> [動画を見る](https://www.youtube.com/watch?v=L_ETd6Wfcnk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4535683188999&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hewuakaneshop/4535683188999/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -769,6 +797,15 @@
 
 ---
 
+### CLIO ベルベットリップペンシル
+
+> **小田切ヒロ**: 「クリオベルベットリップライナー014ヘーゼルナッツトップクリオのリップライナーって優秀なんですそうこれも王道なんですけれども 王道のノンパール そしてこちら油分が少ないタイプになりますので このようにちゃんと色がつくんです」
+> [動画を見る](https://www.youtube.com/watch?v=4fRgpzl9R-E)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319)
+
+---
+
 ### MAC #小田切ヒロ #メイク #毎日メイク #デイリーメイク #ヌーディーメイク #リップ #新作リップ #新作コスメ #
 
 動画の概要欄でリップとして紹介されています。
@@ -808,5 +845,134 @@
 > [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%20No.2%20%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A9%E3%83%96%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%20No.2%20%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3/?af=mobi.0319)
+
+---
+
+### CLIO ✔︎ セクシーと好感度のバランス◎のミュートリップペンシル
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=29zAKNZ5am0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20%E2%9C%94%EF%B8%8E%20%E3%82%BB%E3%82%AF%E3%82%B7%E3%83%BC%E3%81%A8%E5%A5%BD%E6%84%9F%E5%BA%A6%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E2%97%8E%E3%81%AE%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20%E2%9C%94%EF%B8%8E%20%E3%82%BB%E3%82%AF%E3%82%B7%E3%83%BC%E3%81%A8%E5%A5%BD%E6%84%9F%E5%BA%A6%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E2%97%8E%E3%81%AE%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319)
+
+---
+
+### Dior ✔︎ “自分を肯定できる”リップNo.1💋Rouge  On Stage
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=29zAKNZ5am0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E2%9C%94%EF%B8%8E%20%E2%80%9C%E8%87%AA%E5%88%86%E3%82%92%E8%82%AF%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E2%80%9D%E3%83%AA%E3%83%83%E3%83%97No.1%F0%9F%92%8BRouge%20%20On%20Stage&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E2%9C%94%EF%B8%8E%20%E2%80%9C%E8%87%AA%E5%88%86%E3%82%92%E8%82%AF%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E2%80%9D%E3%83%AA%E3%83%83%E3%83%97No.1%F0%9F%92%8BRouge%20%20On%20Stage/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura スペシャル リップ　エーテルヌード  ※10/31数量限定発売
+
+**価格**: 5390円
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9CKO2RFfkes)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%83%AA%E3%83%83%E3%83%97%E3%80%80%E3%82%A8%E3%83%BC%E3%83%86%E3%83%AB%E3%83%8C%E3%83%BC%E3%83%89%20%20%E2%80%BB10/31%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%83%AA%E3%83%83%E3%83%97%E3%80%80%E3%82%A8%E3%83%BC%E3%83%86%E3%83%AB%E3%83%8C%E3%83%BC%E3%83%89%20%20%E2%80%BB10/31%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### NARS ※4:07 「 エクスプリシット リップスティック」は2025年9月12日発売予定です
+
+> **小田切ヒロ**: 「自然にリフトアップした印象に仕上がります 次にNARSのパウダーハイライターを使っていきます 04番のブレンディングブラシにとったら まずは鼻根、」
+> [動画を見る](https://www.youtube.com/watch?v=bKkUHLVnoFw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20%E2%80%BB4%3A07%20%E3%80%8C%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AA%E3%82%B7%E3%83%83%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%80%8D%E3%81%AF2025%E5%B9%B49%E6%9C%8812%E6%97%A5%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20%E2%80%BB4%3A07%20%E3%80%8C%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AA%E3%82%B7%E3%83%83%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%80%8D%E3%81%AF2025%E5%B9%B49%E6%9C%8812%E6%97%A5%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY モノクローム ウェイトレス リップカラー  新2色
+
+**価格**: 7260円
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=hgrIZloPAX8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%20%20%E6%96%B02%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%20%20%E6%96%B02%E8%89%B2/?af=mobi.0319)
+
+---
+
+### shu uemura Shu uemura アイスカルプトミューテッド カーキ
+
+**価格**: 7480円
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=hgrIZloPAX8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20Shu%20uemura%20%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%83%88%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%83%89%20%E3%82%AB%E3%83%BC%E3%82%AD&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20Shu%20uemura%20%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%83%88%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%83%89%20%E3%82%AB%E3%83%BC%E3%82%AD/?af=mobi.0319)
+
+---
+
+### NARS NARS ミニラグナブロンザー & ミニリップオイルデュオ 限定1種  ※6/11数量限定発売
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%9F%E3%83%8B%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%96%E3%83%AD%E3%83%B3%E3%82%B6%E3%83%BC%20%26%20%E3%83%9F%E3%83%8B%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%87%E3%83%A5%E3%82%AA%20%E9%99%90%E5%AE%9A1%E7%A8%AE%20%20%E2%80%BB6/11%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%9F%E3%83%8B%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%96%E3%83%AD%E3%83%B3%E3%82%B6%E3%83%BC%20%26%20%E3%83%9F%E3%83%8B%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%87%E3%83%A5%E3%82%AA%20%E9%99%90%E5%AE%9A1%E7%A8%AE%20%20%E2%80%BB6/11%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### CLARINS CLARINS ウォーター リップ ステイン N 全5色 ※5/16発売
+
+動画の概要欄でリップとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%20N%20%E5%85%A85%E8%89%B2%20%E2%80%BB5/16%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLARINS%20CLARINS%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%20N%20%E5%85%A85%E8%89%B2%20%E2%80%BB5/16%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### CLARINS CLARINS リップ パーフェクター 全9色
+
+> **小田切ヒロ**: 「こちらはチーク&リップです まあこんなに色鮮やかで これまた使いたくなるほどのですワクワク感 これだけ並びますとすごく圧倒感ありますよもう全てが私今お気に入りで 今選ばせていただいているんです」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E5%85%A89%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLARINS%20CLARINS%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E5%85%A89%E8%89%B2/?af=mobi.0319)
+
+---
+
+### RIMMEL RIMMEL オーマイグロス リップオイル ※6/13発売
+
+> **小田切ヒロ**: 「もうこちらはですね透明のリップオイルになりますけれども 普段使っているリップのオイルの上にですふわーっとかさーっと重ねていただきますと これまたビニールのような質感になってくれます 無色透明タイプはです」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20RIMMEL%20%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB%20%E2%80%BB6/13%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RIMMEL%20RIMMEL%20%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB%20%E2%80%BB6/13%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### ALBION ALBION フローラドリップ ｓ 160ml
+
+**価格**: 14300円
+
+> **小田切ヒロ**: 「はこちら アルビオンのフローラドリップSこれなんといっても植物性発酵エキスが配合されております ミュラ ミュラを感じたい方はとってもおすす」
+> [動画を見る](https://www.youtube.com/watch?v=mjQI96QdYXs)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ALBION%20ALBION%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%20%EF%BD%93%20160ml&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ALBION%20ALBION%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%20%EF%BD%93%20160ml/?af=mobi.0319)
+
+---
+
+### キス ALL MY THINGS トゥルービューティ キス リッププランパー 05 ガールズナイト
+
+**価格**: 1650円
+
+> **小田切ヒロ**: 「はい次がですねオールマイシングストゥルービューティーキスリッププランパー5番 キスプランパー キスプランパーです なるほど キスをするときにつけるのキスの前につけるのキスのためにつけるの 全部ダメです 全部ダメ あら なぜなら刺激的す」
+> [動画を見る](https://www.youtube.com/watch?v=5PpOf5_P0TA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20ALL%20MY%20THINGS%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%2005%20%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%8A%E3%82%A4%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20ALL%20MY%20THINGS%20%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%83%83%E3%83%97%E3%83%97%E3%83%A9%E3%83%B3%E3%83%91%E3%83%BC%2005%20%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%8A%E3%82%A4%E3%83%88/?af=mobi.0319)
+
+---
+
+### YSL YVES SAINT LAURENT YSL ラブヌード リップスティック #1 アンドレスド ピンク
+
+**価格**: 5500円
+
+> **小田切ヒロ**: 「いやこれね私お気に入りで これリップスティックのカラーもあるんですけれども やっぱりこのリップ&チークの方がです」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A9%E3%83%96%E3%83%8C%E3%83%BC%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%231%20%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%83%89%20%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20YVES%20SAINT%20LAURENT%20YSL%20%E3%83%A9%E3%83%96%E3%83%8C%E3%83%BC%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%231%20%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%83%89%20%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
 
 ---

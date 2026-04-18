@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめアイシャドウ28選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめアイシャドウ38選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -34,6 +34,16 @@
 26. **dejavu** dejavu シアーカラーブロウ シアーベージュ 全3色　※
 27. **CEZANNE** CEZANNE 極細アイブロウマスカラ C5 マイルドベージ
 28. **WAKEMAKE** wakemake ハローキティ ソフトブラーリングアイパレッ
+29. **WAKEMAKE** wakemake ソフトブラーリングアイパレット 26号
+30. **shu uemura** shu uemura クポ! クリスタル パレット  ※10
+31. **hince** hana by hince トリプルアイパレット 全3色
+32. **to/one** to/one ペタル フロート アイパレット 04 Swee
+33. **NARS** NARS クワッドアイシャドー 04065 SAKURA ※
+34. **CLINIQUE** CLINIQUE ハイ インパクト アイシャドウ スティック
+35. **NARS** NARS ホットエスケープ チークパレット Ⅲ ※6/11数
+36. **TWINKLE POP** twinkle pop グリッターレイヤリングアイパレット 
+37. **shu uemura** shu uemura クラッシュド ジェム コハク アンバー
+38. **shu uemura** Shu uemura ニードル ブロー 全4色
 
 ---
 
@@ -82,8 +92,8 @@
 
 **価格**: 4950円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=oLorA9EqAlc)
+> **小田切ヒロ**: 「オベージュです 私はなんか目の上にアイシャドウ塗る前に1回こうクリアにしたい時とかに わかる アイシャドウブラシにとって使った」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20BOBBI%20BROWN%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2003%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF%E3%80%80%E2%80%BB4%E6%9C%883%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bobbibrown/141221/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -396,5 +406,103 @@
 [動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20wakemake%20%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2029%20%E3%82%BD%E3%82%A4%E3%83%94%E3%83%B3%E3%82%AF%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20wakemake%20%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2029%20%E3%82%BD%E3%82%A4%E3%83%94%E3%83%B3%E3%82%AF%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### WAKEMAKE wakemake ソフトブラーリングアイパレット 26号
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=WUpGwrScGh4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20wakemake%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2026%E5%8F%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20wakemake%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2026%E5%8F%B7/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura クポ! クリスタル パレット  ※10/31全国限定発売
+
+**価格**: 11000円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9CKO2RFfkes)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%AF%E3%83%9D%21%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%20%E2%80%BB10/31%E5%85%A8%E5%9B%BD%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%AF%E3%83%9D%21%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%20%E2%80%BB10/31%E5%85%A8%E5%9B%BD%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### hince hana by hince トリプルアイパレット 全3色
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20hana%20by%20hince%20%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A83%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/hince%20hana%20by%20hince%20%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A83%E8%89%B2/?af=mobi.0319)
+
+---
+
+### to/one to/one ペタル フロート アイパレット 04 Sweet Sorbet
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=to/one%20to/one%20%E3%83%9A%E3%82%BF%E3%83%AB%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20Sweet%20Sorbet&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/to/one%20to/one%20%E3%83%9A%E3%82%BF%E3%83%AB%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20Sweet%20Sorbet/?af=mobi.0319)
+
+---
+
+### NARS NARS クワッドアイシャドー 04065 SAKURA ※5/16数量限定発売
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%AF%E3%83%AF%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%2004065%20SAKURA%20%E2%80%BB5/16%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%82%AF%E3%83%AF%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%2004065%20SAKURA%20%E2%80%BB5/16%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### CLINIQUE CLINIQUE ハイ インパクト アイシャドウ スティック 06 ダブル ラテ
+
+> **小田切ヒロ**: 「これふぃー もう可愛いですよもうこのアイシャドウが全てオールマットに 一個だけラメなんですよ そしてキーホルダー もうこれカバンにジャラジャラつけてみたいな もうこれ韓国の定番ですよ 定番の今流行り物になっております」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLINIQUE%20CLINIQUE%20%E3%83%8F%E3%82%A4%20%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2006%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%A9%E3%83%86&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLINIQUE%20CLINIQUE%20%E3%83%8F%E3%82%A4%20%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2006%20%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%A9%E3%83%86/?af=mobi.0319)
+
+---
+
+### NARS NARS ホットエスケープ チークパレット Ⅲ ※6/11数量限定発売
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%9B%E3%83%83%E3%83%88%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E2%85%A2%20%E2%80%BB6/11%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%9B%E3%83%83%E3%83%88%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E2%85%A2%20%E2%80%BB6/11%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### TWINKLE POP twinkle pop グリッターレイヤリングアイパレット 02 PINK LAYER
+
+**価格**: 1397円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=RfsvlnOqkG0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TWINKLE%20POP%20twinkle%20pop%20%E3%82%B0%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20PINK%20LAYER&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TWINKLE%20POP%20twinkle%20pop%20%E3%82%B0%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20PINK%20LAYER/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura クラッシュド ジェム コハク アンバー ※9/5全国発売
+
+**価格**: 5500円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=t9mESrqJGJo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%20%E3%82%B8%E3%82%A7%E3%83%A0%20%E3%82%B3%E3%83%8F%E3%82%AF%20%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20%E2%80%BB9/5%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%20%E3%82%B8%E3%82%A7%E3%83%A0%20%E3%82%B3%E3%83%8F%E3%82%AF%20%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20%E2%80%BB9/5%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### shu uemura Shu uemura ニードル ブロー 全4色
+
+**価格**: 6160円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=t9mESrqJGJo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20Shu%20uemura%20%E3%83%8B%E3%83%BC%E3%83%89%E3%83%AB%20%E3%83%96%E3%83%AD%E3%83%BC%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20Shu%20uemura%20%E3%83%8B%E3%83%BC%E3%83%89%E3%83%AB%20%E3%83%96%E3%83%AD%E3%83%BC%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
 
 ---

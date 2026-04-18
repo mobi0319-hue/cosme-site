@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
+<!-- LAST_UPDATED: 2026-04-19 -->
 # 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ11選
 
 複数の美容系YouTuberが**独立して紹介**したアイライナーアイテムだけを厳選しました。
@@ -10,16 +10,16 @@
 1. **ヒロインメイク** リキッドアイライナー — 7人が紹介
 2. **CANMAKE（キャンメイク）** クリーミータッチライナー — 5人が紹介
 3. **キャンメイク** クリーミータッチライナー — 3人が紹介
-4. **CEZANNE（セザンヌ）** 描くふたえアイライナー — 2人が紹介
-5. **CANMAKE（キャンメイク）** クリーミータッチライナー 09 — 2人が紹介
-6. **Love Liner（ラブライナー）** Love Liner リキッドアイライナー — 2人が紹介
-7. **CEZANNE** セザンヌ / CEZANNE
+4. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 3人が紹介
+5. **CEZANNE（セザンヌ）** 描くふたえアイライナー — 2人が紹介
+6. **CANMAKE（キャンメイク）** クリーミータッチライナー 09 — 2人が紹介
+7. **Love Liner（ラブライナー）** Love Liner リキッドアイライナー — 2人が紹介
+8. **CEZANNE** セザンヌ / CEZANNE
 描くふたえアイライナー
 30  — 2人が紹介
-8. **CANMAKE** クリーミータッチライナー 06 — 2人が紹介
-9. **CANMAKE** CANMAKE ラスティングリキッドライナー 05 グレージ — 2人が紹介
-10. **KATE** スーパーシャープライナー ブラウン — 2人が紹介
-11. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 2人が紹介
+9. **CANMAKE** クリーミータッチライナー 06 — 2人が紹介
+10. **CANMAKE** CANMAKE ラスティングリキッドライナー 05 グレージ — 2人が紹介
+11. **KATE** スーパーシャープライナー ブラウン — 2人が紹介
 
 ---
 
@@ -89,6 +89,22 @@
 > [動画を見る](https://www.youtube.com/watch?v=I6-L9mbYidI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000077168/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CLIO CLIO ベルベットリップライナー 009 モカ ローズ
+
+![CLIO CLIO ベルベットリップライナー 009 モカ ローズ](https://thumbnail.image.rakuten.co.jp/@0_mall/turuya783/cabinet/ws/2025/cos251202/c00257_1.jpg?_ex=500x500)
+
+**価格**: 1540円 | **3人のYouTuberが紹介**
+
+> **ひよんちゃんねる**: 「CLIOベルベットリップライナー 009モカローズを、YouTuberコラボ動画でアイライナーアイテムとしてメイクに使用。リップライナーをアイメイクに活用するテクニックが紹介されている。」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+
+> **HIRO BEAUTY CHANNEL**: 「選ばせていただいております そしてこちらの ヘーゼルナッツトープ そう トープカラーってやっぱいいんですよ シェーディングも今トープカラーが多いじゃない そうこういう感じの ちょっと青みベースと申しますか ちょっとグレージュっぽい感じのカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=29zAKNZ5am0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
 
 ---
 
@@ -194,18 +210,5 @@
 > [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534410&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
-### CLIO CLIO ベルベットリップライナー 009 モカ ローズ
-
-![CLIO CLIO ベルベットリップライナー 009 モカ ローズ](https://thumbnail.image.rakuten.co.jp/@0_mall/turuya783/cabinet/ws/2025/cos251202/c00257_1.jpg?_ex=500x500)
-
-**価格**: 1540円 | **2人のYouTuberが紹介**
-
-> **ひよんちゃんねる**: 「CLIOベルベットリップライナー 009モカローズを、YouTuberコラボ動画でアイライナーアイテムとしてメイクに使用。リップライナーをアイメイクに活用するテクニックが紹介されている。」
-> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
 
 ---

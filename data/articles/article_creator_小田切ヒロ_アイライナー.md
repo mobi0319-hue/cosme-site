@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめアイライナー18選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめアイライナー21選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイライナーアイテムをまとめました。
 
@@ -24,6 +24,9 @@
 16. **CANMAKE** CANMAKE クリーミータッチライナー 04 ガーネットバ
 17. **MAYBELLINE** MAYBELLINE ハイパーシャープ ライナー R ピーチ
 18. **CLINIQUE** CLINIQUE クイックライナー フォー アイ インテンス
+19. **CEZANNE** CEZANNE ブレぴたライナー 00 リアルブラック ※7
+20. **VDL** VDL リップステイン エッセンシャル オーバー ライナー
+21. **SHISEIDO** SHISEIDO マイクロライナーインク 03 Plum・ 
 
 ---
 
@@ -111,8 +114,8 @@
 
 **価格**: 1540円
 
-動画の概要欄でアイライナーとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=7gBr1DrZ16w)
+> **小田切ヒロ**: 「選ばせていただいております そしてこちらの ヘーゼルナッツトープ そう トープカラーってやっぱいいんですよ シェーディングも今トープカラーが多いじゃない そうこういう感じの ちょっと青みベースと申しますか ちょっとグレージュっぽい感じのカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=29zAKNZ5am0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20009%20%E3%83%A2%E3%82%AB%20%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
 
@@ -258,5 +261,34 @@
 [動画を見る](https://www.youtube.com/watch?v=BfkZfl4bRkQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLINIQUE%20CLINIQUE%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%83%95%E3%82%A9%E3%83%BC%20%E3%82%A2%E3%82%A4%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B9%2003%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B9%20%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/clinique/12313/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CEZANNE CEZANNE ブレぴたライナー 00 リアルブラック ※7/1先行発売
+
+> **小田切ヒロ**: 「もうブレピタライナーですブラックライナーの00リアルブラックライナーが出ましたよ これトレンドとか関係ないんですよ 1本とにかく持っておくこと もうそうするとですよ リアルブラックになります」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%96%E3%83%AC%E3%81%B4%E3%81%9F%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2000%20%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%20%E2%80%BB7/1%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20CEZANNE%20%E3%83%96%E3%83%AC%E3%81%B4%E3%81%9F%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2000%20%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%20%E2%80%BB7/1%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### VDL VDL リップステイン エッセンシャル オーバー ライナー
+
+> **小田切ヒロ**: 「夏っていう感じのですカラースティックやペンシルアイライナーにです結構鮮やかなカラーがすごく多いです こちらがですよ まあ韓国コスメならではの これふぃー もう可愛いです」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20VDL%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/VDL%20VDL%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/?af=mobi.0319)
+
+---
+
+### SHISEIDO SHISEIDO マイクロライナーインク 03 Plum・ 07 Gray
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「もう仕事に絶対欠かせないという商品があるの マイクロライナーインク もうこのジェルペンシルライナーが素晴らしいんですよ とにかく色気の最上級を引き出したい時 ありますはいあるあるある 私なんかね365日中364日は色気を出したいんです」
+> [動画を見る](https://www.youtube.com/watch?v=L_ETd6Wfcnk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%AF%2003%20Plum%E3%83%BB%2007%20Gray&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%AF%2003%20Plum%E3%83%BB%2007%20Gray/?af=mobi.0319)
 
 ---

@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
+<!-- LAST_UPDATED: 2026-04-19 -->
 # MAI TAKASUGIおすすめリップ23選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したリップアイテムをまとめました。

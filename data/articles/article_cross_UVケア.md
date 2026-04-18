@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 【2026年04月版】YouTuberが複数紹介したUVケアおすすめ7選
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 【2026年04月版】YouTuberが複数紹介したUVケアおすすめ12選
 
 複数の美容系YouTuberが**独立して紹介**したUVケアアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -13,7 +13,12 @@
 4. **コスメデコルテ** UVコンフォート エアリートランスペアレント — 2人が紹介
 5. **NARS** NARSライトリフレクティング　トーンアップヴェール SPF — 2人が紹介
 6. **トーン** デーケアレボリューション アップ SP+ aa SPF50+ — 2人が紹介
-7. **Dior** DIOR ディオール フォーエヴァー フルイド スキン グロ — 2人が紹介
+7. **ELIXIR** ELIXIR エリクシール デーケアレボリューション トーン — 2人が紹介
+8. **Dior** DIOR ディオール フォーエヴァー フルイド スキン グロ — 2人が紹介
+9. **Laneige** ネオクッション ミュイ SPF42 / PA++ 全4色 — 2人が紹介
+10. **Dior** ディオールスキン フォーエヴァー イドラ グロウ クッション — 2人が紹介
+11. **トーン** ベールフィットUVトーンアップ — 2人が紹介
+12. **トーン** アップUVエッセンス — 2人が紹介
 
 ---
 
@@ -103,6 +108,22 @@
 
 ---
 
+### ELIXIR ELIXIR エリクシール デーケアレボリューション トーンアップ BE ＋ ca SPF50+ / PA++++
+
+![ELIXIR ELIXIR エリクシール デーケアレボリューション トーンアップ BE ＋ ca SPF50+ / PA++++](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/939/4909978195939.jpg?_ex=500x500)
+
+**価格**: 3410円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「素晴らしいUVになります そしてこちらエリクシールのデイケアレボルーション トーンアップのです」
+> [動画を見る](https://www.youtube.com/watch?v=ZDJIg2WvUnU)
+
+> **HIRO BEAUTY CHANNEL**: 「ほのかなトーンアップ トーンアップはしてくれるんですけれども上がりすぎずにブラー効果がありますので毛穴をフォローしてくれます だから毛穴補正下地って世の中に今いっぱいあると思うんです」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978195939&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikisone/elixir5939/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### Dior DIOR ディオール フォーエヴァー フルイド スキン グロウ SPF50 / PA+++ 全11色
 
 ![Dior DIOR ディオール フォーエヴァー フルイド スキン グロウ SPF50 / PA+++ 全11色](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmelink/cabinet/cp20241211/c0902-2_cp.jpg?_ex=500x500)
@@ -113,5 +134,56 @@
 > [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%B0%E3%83%AD%E3%82%A6%20SPF50%20/%20PA%2B%2B%2B%20%E5%85%A811%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmelink/c0902/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### Laneige ネオクッション ミュイ SPF42 / PA++ 全4色
+
+![Laneige ネオクッション ミュイ SPF42 / PA++ 全4色](https://item-shopping.c.yimg.jp/i/l/pureco_prc-s-8702811630)
+
+**価格**: 3520円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「それではスタート まずはこちらラネージュのネオクッションミュイもうこのクッションファンデーション何が素晴らしいかって ツヤとマットのいいとこ取りをしてくれる」
+> [動画を見る](https://www.youtube.com/watch?v=9FnIrD1CBhA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20%E3%83%8D%E3%82%AA%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%9F%E3%83%A5%E3%82%A4%20SPF42%20/%20PA%2B%2B%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Laneige%20%E3%83%8D%E3%82%AA%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%9F%E3%83%A5%E3%82%A4%20SPF42%20/%20PA%2B%2B%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
+
+---
+
+### Dior ディオールスキン フォーエヴァー イドラ グロウ クッション SPF50 / PA+++ 全7色※セット価格
+
+![Dior ディオールスキン フォーエヴァー イドラ グロウ クッション SPF50 / PA+++ 全7色※セット価格](https://thumbnail.image.rakuten.co.jp/@0_mall/hewuakaneshop/cabinet/09472470/202502212342.jpg?_ex=500x500)
+
+**価格**: 10340円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「選ばせていただきました 続きましてクッションファンデーション2つあります 1つ目リオールリオールスキンフォーエバー イドラグロウクッションこちらのファンデーション 自分史上最高の美しい肌を作り出す」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%A4%E3%83%89%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%20/%20PA%2B%2B%2B%20%E5%85%A87%E8%89%B2%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rareu/20250227006/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### トーン ベールフィットUVトーンアップ
+
+**2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「一旦メイクを軽く落としていきます。 まずこちら、ベールフィットUVトーンアップSPF50プラスPA++++です。」
+> [動画を見る](https://www.youtube.com/watch?v=CMT-sWGfM3Y)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%99%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88UV%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%99%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88UV%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97/?af=mobi.0319)
+
+---
+
+### トーン アップUVエッセンス
+
+**価格**: 1100円 | **2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「スキンアクアのフォームアップUVエッセンスのラベンダー これも定番ですよ定番です 学生さんから大人気 SPF50プラス、」
+> [動画を見る](https://www.youtube.com/watch?v=sF8eEEOXuRI)
+
+> **miku / 未来**: 「街歩き用は、こちらのスキンアクアのトーンアップUVエッセンスを持っていきます。 ウォーターアクティビティ用には、バジャーのこちらのね、サンゴを守る環境に優しい日焼け止めを持っていきます。 で、あと大事なのが、こちらです。 アフターサンバーム。」
+> [動画を見る](https://www.youtube.com/watch?v=83Wp307Jy2o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97UV%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97UV%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9/?af=mobi.0319)
 
 ---

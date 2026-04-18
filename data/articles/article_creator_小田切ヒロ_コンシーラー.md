@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめコンシーラー10選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめコンシーラー11選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したコンシーラーアイテムをまとめました。
 
@@ -16,6 +16,7 @@
 8. **SHISEIDO** SHISEIDO シンクロスキン ラディアントリフティング 
 9. **PRADA Beauty** PRADA BEAUTY ブラーリング マイクロコレクティン
 10. **PRADA Beauty** PRADA BEAUTY ブラーリング マイクロコレクティン
+11. **tfit** tfit カバーアッププロコンシーラー 02 WARM
 
 ---
 
@@ -142,5 +143,14 @@
 > [動画を見る](https://www.youtube.com/watch?v=g8vHFPryJx8)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
+
+---
+
+### tfit tfit カバーアッププロコンシーラー 02 WARM
+
+動画の概要欄でコンシーラーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9FnIrD1CBhA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2002%20WARM&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/tfit%20tfit%20%E3%82%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2002%20WARM/?af=mobi.0319)
 
 ---

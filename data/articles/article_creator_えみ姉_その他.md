@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# えみ姉おすすめその他14選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# えみ姉おすすめその他17選【2026年04月版】
 
 人気美容YouTuber **えみ姉** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -20,6 +20,9 @@
 12. **バニラコ** 公式ショップでチェックしてみてね🫧
 13. **バニラコ** 【NEW＆BEST ITEM企画セット✨】
 14. **BANILA CO** BANILA CO/カバーリシャス アルティメット ホワイト
+15. **TAG** Velvetear（プロデュースカラコンブランド） WEB：
+16. **TAG** SNS：https://www.insram.com/vel
+17. **TAG** Insram：https://www.insram.com/
 
 ---
 
@@ -154,5 +157,32 @@
 > [動画を見る](https://www.youtube.com/watch?v=ZAKoe1TZ7x0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20BANILA%20CO/%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/8809759904070/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### TAG Velvetear（プロデュースカラコンブランド） WEB：https://store.sweet78.co.jp/c/brand/velvetear SNS：https://www.instagram.com/velvetear_official/
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=FF7-tyMX00U)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Velvetear%EF%BC%88%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%89%20WEB%EF%BC%9Ahttps%3A//store.sweet78.co.jp/c/brand/velvetear%20SNS%EF%BC%9Ahttps%3A//www.instagram.com/velvetear_official/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Velvetear%EF%BC%88%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%89%20WEB%EF%BC%9Ahttps%3A//store.sweet78.co.jp/c/brand/velvetear%20SNS%EF%BC%9Ahttps%3A//www.instagram.com/velvetear_official//?af=mobi.0319)
+
+---
+
+### TAG SNS：https://www.insram.com/velvetear_official/
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=FF7-tyMX00U)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20SNS%EF%BC%9Ahttps%3A//www.insram.com/velvetear_official/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20SNS%EF%BC%9Ahttps%3A//www.insram.com/velvetear_official//?af=mobi.0319)
+
+---
+
+### TAG Insram：https://www.insram.com/emk_oooo/
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=FF7-tyMX00U)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Insram%EF%BC%9Ahttps%3A//www.insram.com/emk_oooo/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Insram%EF%BC%9Ahttps%3A//www.insram.com/emk_oooo//?af=mobi.0319)
 
 ---

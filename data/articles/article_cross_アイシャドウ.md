@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ16選
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ18選
 
 複数の美容系YouTuberが**独立して紹介**したアイシャドウアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -21,8 +21,10 @@
 12. **RMK** RMK シンクロマティックアイシャドウパレット EX-12  — 2人が紹介
 13. **キャンメイク** キャンメイク プティパレットアイズM — 2人が紹介
 14. **WAKEMAKE** WAKEMAKE （ウェイクメイク） ソフトカラーリングリッ — 2人が紹介
-15. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ — 2人が紹介
-16. **CLIO** # #クリオ #メガ割 #キルカバーザニュークッション #プ — 2人が紹介
+15. **Bobbi Brown** BOBBI BROWN クリスタル アイシャドウ スティック — 2人が紹介
+16. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ — 2人が紹介
+17. **トーン** ペールトーンアイシャドウ — 2人が紹介
+18. **CLIO** # #クリオ #メガ割 #キルカバーザニュークッション #プ — 2人が紹介
 
 ---
 
@@ -237,6 +239,19 @@
 
 ---
 
+### Bobbi Brown BOBBI BROWN クリスタル アイシャドウ スティック 03 ブリリアントピンク　※4月3日発売
+
+![Bobbi Brown BOBBI BROWN クリスタル アイシャドウ スティック 03 ブリリアントピンク　※4月3日発売](https://thumbnail.image.rakuten.co.jp/@0_mall/cinderellabeaute/cabinet/esd/2603br004esd_001.jpg?_ex=500x500)
+
+**価格**: 4950円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「オベージュです 私はなんか目の上にアイシャドウ塗る前に1回こうクリアにしたい時とかに わかる アイシャドウブラシにとって使った」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20BOBBI%20BROWN%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2003%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF%E3%80%80%E2%80%BB4%E6%9C%883%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bobbibrown/141221/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### WAKEMAKE ソフトブラーリングアイパレット 26 ミュートローズブラーリング
 
 ![WAKEMAKE ソフトブラーリングアイパレット 26 ミュートローズブラーリング](https://item-shopping.c.yimg.jp/i/l/zozo_96866607)
@@ -248,6 +263,20 @@
 **紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2026%20%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2026%20%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### トーン ペールトーンアイシャドウ
+
+**2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「今回は買うときに迷いやすいビタートーンアイシャドウとベージュトーンアイシャドウとヘールトーンアイシャドウとライティングアップアイシャドウを全色レビューしていきます。 蓋を開けるとこんな感じです。」
+> [動画を見る](https://www.youtube.com/watch?v=p32uIWxIWKs)
+
+> **韓国オンニAちゃん (会社員J)**: 「こちらがパレット コンシーラーハイバーの00ライトトーン というパレット。そしてこちらがブライト カラーコンシーラーの10番。ちょっと 青み入ったやつです。」
+> [動画を見る](https://www.youtube.com/watch?v=ffg3I6UbmJM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9A%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9A%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/?af=mobi.0319)
 
 ---
 

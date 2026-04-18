@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# MAI TAKASUGIおすすめ化粧下地11選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# MAI TAKASUGIおすすめ化粧下地18選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介した化粧下地アイテムをまとめました。
 
@@ -17,6 +17,13 @@
 9. **SK-II** SK-II ジェノプティクス CC プライマー ロージーピン
 10. **トーン** 5番　白玉グルタチオンCアップベース
 11. **ソフィーナ** ソフィーナ プリマヴィスタ 角層保水プライマー　シアーベージ
+12. **ラロッシュポゼ** ミスト化粧水 ラロッシュポゼ ターマルウォーター
+13. **エリクシール** エリクシール デーケアレボリューション トーンアップベージュ
+14. **トーン** アップベージュ＋ca
+15. **サナニューボーン** サナニューボーン パーフェクトアイブロウ 01 グレイッシュ
+16. **WAKEMAKE** wakemake ソフトシマーマルチパレット 10ジョイフル
+17. **KATE** KATE スーパーシャープライナーEX4.0 （ショート筆）
+18. **ロージーローザ** ロージーローザ マルチユースブラシ（ポイント）
 
 ---
 
@@ -148,5 +155,68 @@
 > [動画を見る](https://www.youtube.com/watch?v=1XEyhS309cA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%83%97%E3%83%AA%E3%83%9E%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%20%E8%A7%92%E5%B1%A4%E4%BF%9D%E6%B0%B4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%E3%80%80%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A%20%E3%83%97%E3%83%AA%E3%83%9E%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%20%E8%A7%92%E5%B1%A4%E4%BF%9D%E6%B0%B4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%E3%80%80%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
+
+---
+
+### ラロッシュポゼ ミスト化粧水 ラロッシュポゼ ターマルウォーター
+
+> **MAI TAKASUGI**: 「ちょっとこう気に なられる方とかはこういうミスト。こちら ラロッシュポゼのエタ丸ウォーターですね 。これはね、先日本体大きいサイズのを 買った時にこのミニサイズが付いてたので 、ちょっと持ち歩き用に最近持ってるん ですが、こういう風にまずね、他を保湿し ていきます。」
+> [動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%20%E3%83%9F%E3%82%B9%E3%83%88%E5%8C%96%E7%B2%A7%E6%B0%B4%20%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%20%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%20%E3%83%9F%E3%82%B9%E3%83%88%E5%8C%96%E7%B2%A7%E6%B0%B4%20%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%20%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC/?af=mobi.0319)
+
+---
+
+### エリクシール エリクシール デーケアレボリューション トーンアップベージュ＋ca
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%8Bca&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%8Bca/?af=mobi.0319)
+
+---
+
+### トーン アップベージュ＋ca
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%8Bca&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%EF%BC%8Bca/?af=mobi.0319)
+
+---
+
+### サナニューボーン サナニューボーン パーフェクトアイブロウ 01 グレイッシュブラウン
+
+> **MAI TAKASUGI**: 「この変のは この状態からもスタートします。入本の パーフェクトアイブロウ01グレッシュ ブラウンです。」
+> [動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%8A%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%B3%20%E3%82%B5%E3%83%8A%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%B3%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%2001%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%8A%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%B3%20%E3%82%B5%E3%83%8A%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%B3%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%2001%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
+
+---
+
+### WAKEMAKE wakemake ソフトシマーマルチパレット 10ジョイフルピンク
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20wakemake%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2010%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20wakemake%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2010%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
+
+---
+
+### KATE KATE スーパーシャープライナーEX4.0 （ショート筆）　BR2 ビターブラウン
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BCEX4.0%20%EF%BC%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E7%AD%86%EF%BC%89%E3%80%80BR2%20%E3%83%93%E3%82%BF%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BCEX4.0%20%EF%BC%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E7%AD%86%EF%BC%89%E3%80%80BR2%20%E3%83%93%E3%82%BF%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
+
+---
+
+### ロージーローザ ロージーローザ マルチユースブラシ（ポイント）
+
+> **MAI TAKASUGI**: 「とね、すっごい多分厚塗り感になっちゃう ので、ポイントポイントで直していこうか なとは思っております。」
+> [動画を見る](https://www.youtube.com/watch?v=Ifkh5tF0YlU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A6%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%88%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B6%20%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A6%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%82%B7%EF%BC%88%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%89/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 関根りさおすすめその他22選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 関根りさおすすめその他23選【2026年04月版】
 
 人気美容YouTuber **関根りさ** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -28,6 +28,7 @@
 20. **レック** 激落ちくん（ウェットシート系）
 21. **花王** バスマジックリン
 22. **レック** 激落ちくん（コンロ用ワイプ系）
+23. **TAG** instagram→https://www.instagra
 
 ---
 
@@ -314,5 +315,14 @@
 > [動画を見る](https://www.youtube.com/watch?v=yZI33kU-hzs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4903320047952&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/nishimura-ejoy/p000019120/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### TAG instagram→https://www.instagram.com/sekine.risa/
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=2hUnRlLT_6I)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20instagram%E2%86%92https%3A//www.instagram.com/sekine.risa/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20instagram%E2%86%92https%3A//www.instagram.com/sekine.risa//?af=mobi.0319)
 
 ---

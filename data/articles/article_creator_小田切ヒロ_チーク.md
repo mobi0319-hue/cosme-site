@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめチーク25選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめチーク31選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したチークアイテムをまとめました。
 
@@ -31,6 +31,12 @@
 23. **dasique** dasique ソフトブラーチーク 07 ヌードベージュ
 24. **ジルスチュアート** の「クチュール ミックスブラッシュ コンパクト」を主役に、
 25. **ADDICTION** ADDICTION アディクション　ザ ブラッシュ 006M
+26. **ADDICTION** ADDICTION チーク スティック 01 / 13※廃盤
+27. **shu uemura** shu uemura 3D チークメイト ラベンダー ソルベ
+28. **SUQQU** SUQQU ブラーリング カラー ブラッシュ 110 日差色
+29. **ADDICTION** ADDICTION ザ リキッドブラッシュ フォギー 002
+30. **ADDICTION** ADDICTION ザ リキッドブラッシュ グロウ 004 
+31. **NARS** NARS ライトリフレクティング ルミナイジングブラッシュ 
 
 ---
 
@@ -350,5 +356,65 @@
 > [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%B6%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20006M%20Naked%20Veil&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%B6%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20006M%20Naked%20Veil/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION チーク スティック 01 / 13※廃盤
+
+> **小田切ヒロ**: 「そこで出会ったのが今は無き こういったねスティックタイプは今登場しておりますけれども ポットタイプになっていて このポットタイプのプレストコンシーラーとパウダーが セットになっているっていうものがあったんです」
+> [動画を見る](https://www.youtube.com/watch?v=HghDx_Hjlos)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%83%81%E3%83%BC%E3%82%AF%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2001%20/%2013%E2%80%BB%E5%BB%83%E7%9B%A4&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%83%81%E3%83%BC%E3%82%AF%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2001%20/%2013%E2%80%BB%E5%BB%83%E7%9B%A4/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura 3D チークメイト ラベンダー ソルベ ※6/2発売
+
+> **小田切ヒロ**: 「ルースタイプになります そしてお色はラベンダー こちらもですよ パフにこうやって揉み込んでいただいて このままサラーっと これ見て ノンパールタイプなので 肌に清潔感と透明感 そして皮脂を吸着してくれる効果にです」
+> [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%203D%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%88%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E3%82%BD%E3%83%AB%E3%83%99%20%E2%80%BB6/2%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%203D%20%E3%83%81%E3%83%BC%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%88%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20%E3%82%BD%E3%83%AB%E3%83%99%20%E2%80%BB6/2%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### SUQQU SUQQU ブラーリング カラー ブラッシュ 110 日差色 -HISASHIIRO ※数量限定
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20110%20%E6%97%A5%E5%B7%AE%E8%89%B2%20-HISASHIIRO%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20110%20%E6%97%A5%E5%B7%AE%E8%89%B2%20-HISASHIIRO%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ リキッドブラッシュ フォギー 002 So Cushy
+
+**価格**: 3740円
+
+> **小田切ヒロ**: 「ちょっと剥げてしまう可能性があります でもねこのフォギータイプ これはシミがある方や ファンデーションハイカバータイプの方でも しっかりフィットしてくれます へー これをこれ取りますでしょ あ、」
+> [動画を見る](https://www.youtube.com/watch?v=L_ETd6Wfcnk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%95%E3%82%A9%E3%82%AE%E3%83%BC%20002%20So%20Cushy&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%95%E3%82%A9%E3%82%AE%E3%83%BC%20002%20So%20Cushy/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ リキッドブラッシュ グロウ 004 The Healing
+
+**価格**: 3740円
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=EjHKpM9oHX0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%B0%E3%83%AD%E3%82%A6%20004%20The%20Healing&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%B0%E3%83%AD%E3%82%A6%20004%20The%20Healing/?af=mobi.0319)
+
+---
+
+### NARS NARS ライトリフレクティング ルミナイジングブラッシュ 05893 SELF CONTROL　※5月22日発売
+
+**価格**: 6490円
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%2005893%20SELF%20CONTROL%E3%80%80%E2%80%BB5%E6%9C%8822%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%2005893%20SELF%20CONTROL%E3%80%80%E2%80%BB5%E6%9C%8822%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
 ---

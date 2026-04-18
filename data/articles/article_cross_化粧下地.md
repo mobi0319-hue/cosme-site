@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 【2026年04月版】YouTuberが複数紹介した化粧下地おすすめ19選
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 【2026年04月版】YouTuberが複数紹介した化粧下地おすすめ23選
 
 複数の美容系YouTuberが**独立して紹介**した化粧下地アイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -22,10 +22,14 @@
 13. **ソフィーナ** ソフィーナip ベースケア セラム＜土台美容液＞ ※Amaz — 2人が紹介
 14. **セザンヌ** セザンヌ 影色リップメイカー02　クールピンク — 2人が紹介
 15. **KISS** kiss もちみずベース — 2人が紹介
-16. **tfit** tfit ハイドレートバニッシュアートプライマー — 2人が紹介
-17. **CEZANNE** CEZANNE パールグロウハイライト 01 シャンパンベー — 2人が紹介
-18. **d'Alba** 提供： — 2人が紹介
-19. **トーン** アップサンクリーム 50ml — 2人が紹介
+16. **GIVENCHY** GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・ — 2人が紹介
+17. **SUQQU** SUQQU オイル リッチ グロウ ルース パウダー e — 2人が紹介
+18. **tfit** tfit ハイドレートバニッシュアートプライマー — 2人が紹介
+19. **Laneige** LANEIGE グレイズ ティントリップセラム ピーチグレイ — 2人が紹介
+20. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
+21. **CEZANNE** CEZANNE パールグロウハイライト 01 シャンパンベー — 2人が紹介
+22. **d'Alba** 提供： — 2人が紹介
+23. **トーン** アップサンクリーム 50ml — 2人が紹介
 
 ---
 
@@ -245,6 +249,32 @@
 
 ---
 
+### GIVENCHY GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・プライマー グリーン
+
+![GIVENCHY GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・プライマー グリーン](https://thumbnail.image.rakuten.co.jp/@0_mall/partytime-tokyo/cabinet/mub/2512gy065mub_001.jpg?_ex=500x500)
+
+**価格**: 7700円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「こちらブラウン&ロックプライマーといいまして これSPF38にPAが3プラスなので日焼け止めも入ってるんですけれども ほのかなトーンアップ トーンアップはしてくれるんですけれども上がりすぎずにブラー効果があります」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BB%E3%82%B1%E3%82%A2%EF%BC%86%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/partytime-tokyo/2512gy065mub/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### SUQQU SUQQU オイル リッチ グロウ ルース パウダー e
+
+![SUQQU SUQQU オイル リッチ グロウ ルース パウダー e](https://item-shopping.c.yimg.jp/i/l/cosmediva_4973167517246)
+
+**価格**: 7150円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「じゃあちょうどツヤの話が出たから SUQQUのリキッドファンデーションEというところで ここのSUQQUのツヤの質がす」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167517246&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%82%AA%E3%82%A4%E3%83%AB%20%E3%83%AA%E3%83%83%E3%83%81%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%AB%E3%83%BC%E3%82%B9%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20e/?af=mobi.0319)
+
+---
+
 ### tfit tfit ハイドレートバニッシュアートプライマー
 
 ![tfit tfit ハイドレートバニッシュアートプライマー](https://thumbnail.image.rakuten.co.jp/@0_mall/cosme-village/cabinet/test4/8809751800936.jpg?_ex=500x500)
@@ -255,6 +285,33 @@
 > [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20tfit%20%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%83%88%E3%83%90%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pinnacosme/tfit_0530/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### Laneige LANEIGE グレイズ ティントリップセラム ピーチグレイズ
+
+![Laneige LANEIGE グレイズ ティントリップセラム ピーチグレイズ](https://thumbnail.image.rakuten.co.jp/@0_mall/pureco/cabinet/prc-s-868000/prc-s-8689867437.jpg?_ex=500x500)
+
+**価格**: 2200円 | **2人のYouTuberが紹介**
+
+動画の概要欄でベースメイクの下地として紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%94%E3%83%BC%E3%83%81%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pureco/prc-s-8689867437/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### トーン LA ROCHE-POSAY UVイデア XL プロテクショントーンアップ ローズ+ SPF50+ / PA++++
+
+![トーン LA ROCHE-POSAY UVイデア XL プロテクショントーンアップ ローズ+ SPF50+ / PA++++](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item1_03/3337875585859.jpg?_ex=500x500)
+
+**価格**: 3960円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「ラロッシュポゼのUVイデアXL プロテクショントーンアップローズのカラー! そう! この下地は 透明タイプが好きなんですけれども 何度かローズタイプ使わせていただいたんです」
+> [動画を見る](https://www.youtube.com/watch?v=KtLNymj5pdM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20LA%20ROCHE-POSAY%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%2B%20SPF50%2B%20/%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pinnacosme/laroche-posay_7569/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

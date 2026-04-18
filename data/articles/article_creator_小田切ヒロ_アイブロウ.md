@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 小田切ヒロおすすめアイブロウ24選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 小田切ヒロおすすめアイブロウ26選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイブロウアイテムをまとめました。
 
@@ -30,6 +30,8 @@
 22. **LUNASOL** LUNASOL フェザリーアイブロウジェル 00 クリア
 23. **dejavu** dejavu アイブロウカラー アッシュオリーブ
 24. **KATE** KATE アイブロウペンシルスーパースリム0.8 GY-1 
+25. **KATE** ✔︎ プロが惚れたの折れない極細アイブロウ
+26. **dejavu** dejavu アイブロウカラー ムーンアッシュ ※7/11発
 
 ---
 
@@ -340,5 +342,23 @@
 [動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%A00.8%20GY-1%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%B0%E3%83%AC%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%A00.8%20GY-1%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%B0%E3%83%AC%E3%83%BC/?af=mobi.0319)
+
+---
+
+### KATE ✔︎ プロが惚れたの折れない極細アイブロウ
+
+動画の概要欄でアイブロウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=29zAKNZ5am0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E2%9C%94%EF%B8%8E%20%E3%83%97%E3%83%AD%E3%81%8C%E6%83%9A%E3%82%8C%E3%81%9F%E3%81%AE%E6%8A%98%E3%82%8C%E3%81%AA%E3%81%84%E6%A5%B5%E7%B4%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20%E2%9C%94%EF%B8%8E%20%E3%83%97%E3%83%AD%E3%81%8C%E6%83%9A%E3%82%8C%E3%81%9F%E3%81%AE%E6%8A%98%E3%82%8C%E3%81%AA%E3%81%84%E6%A5%B5%E7%B4%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6/?af=mobi.0319)
+
+---
+
+### dejavu dejavu アイブロウカラー ムーンアッシュ ※7/11発売
+
+動画の概要欄でアイブロウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=dejavu%20dejavu%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%20%E2%80%BB7/11%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/dejavu%20dejavu%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%20%E2%80%BB7/11%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
 ---

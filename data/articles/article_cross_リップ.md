@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-18 -->
-# 【2026年04月版】YouTuberが複数紹介したリップおすすめ27選
+<!-- LAST_UPDATED: 2026-04-19 -->
+# 【2026年04月版】YouTuberが複数紹介したリップおすすめ31選
 
 複数の美容系YouTuberが**独立して紹介**したリップアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -25,15 +25,19 @@
 16. **ジルスチュアート** ジルスチュアート リップブロッサム — 2人が紹介
 17. **ディオール** ディオール アディクト リップ グロウ — 2人が紹介
 18. **ヴィセ** ヴィセ エッセンス リッププランパー — 2人が紹介
-19. **LAKA** LAKA フルーティーグラムティント — 2人が紹介
-20. **オペラ** オペラ グロウリップティント305 ベイビーピンク — 2人が紹介
-21. **ディオール** アディクト リップ マキシマイザー — 2人が紹介
-22. **Laneige** LANEIGE ジュースポップボックスリップティント ローフ — 2人が紹介
-23. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
-24. **Laneige** LANEIGE グレイズ ティントリップセラム ストロベリー — 2人が紹介
-25. **CEZANNE** CEZANNE 影色リップメイカー 02 クールピンク — 2人が紹介
-26. **WAKEMAKE** WAKEMAKE デュイジェルグロウティント — 2人が紹介
-27. **TIRTIR** WATERISM GLOW TINT — 2人が紹介
+19. **PERIPERA** PERIPERA  インク グラスティング リップ グロス — 2人が紹介
+20. **LAKA** LAKA フルーティーグラムティント — 2人が紹介
+21. **オペラ** オペラ グロウリップティント305 ベイビーピンク — 2人が紹介
+22. **ディオール** アディクト リップ マキシマイザー — 2人が紹介
+23. **Laneige** LANEIGE ジュースポップボックスリップティント ローフ — 2人が紹介
+24. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
+25. **Dior** DIOR ディオール アディクト リップ グロウ オイル 0 — 2人が紹介
+26. **Laneige** LANEIGE グレイズ ティントリップセラム ストロベリー — 2人が紹介
+27. **NARS** NARS アフターグロー センシュアルシャイン リップスティ — 2人が紹介
+28. **CEZANNE** CEZANNE 影色リップメイカー 02 クールピンク — 2人が紹介
+29. **WAKEMAKE** WAKEMAKE デュイジェルグロウティント — 2人が紹介
+30. **CLIO** ベルベットリップペンシル — 2人が紹介
+31. **TIRTIR** WATERISM GLOW TINT — 2人が紹介
 
 ---
 
@@ -335,6 +339,19 @@
 
 ---
 
+### PERIPERA PERIPERA  インク グラスティング リップ グロス
+
+![PERIPERA PERIPERA  インク グラスティング リップ グロス](https://thumbnail.image.rakuten.co.jp/@0_mall/renew-beauty/cabinet/biiino/item/main-image-7/20251120133017_1.jpg?_ex=500x500)
+
+**価格**: 1320円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「で今日悩んでるのがー このペリペラのインクグラスティングリップグロスの2番と9番です 2番がこちらのカラーで 9番が濃いのよこっちの方が 濃い方がねやっぱ盛れるっていうのもあるんです」
+> [動画を見る](https://www.youtube.com/watch?v=vWC57pWCM0w)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PERIPERA%20PERIPERA%20%20%E3%82%A4%E3%83%B3%E3%82%AF%20%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%B9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cliojapan/10000720/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### LAKA LAKA フルーティーグラムティント
 
 ![LAKA LAKA フルーティーグラムティント](https://thumbnail.image.rakuten.co.jp/@0_mall/pinnacosme/cabinet/09999569/10859078/10905196/imgrc0147906885.jpg?_ex=500x500)
@@ -415,6 +432,19 @@
 
 ---
 
+### Dior DIOR ディオール アディクト リップ グロウ オイル 077 ロージー キャンディ
+
+![Dior DIOR ディオール アディクト リップ グロウ オイル 077 ロージー キャンディ](https://thumbnail.image.rakuten.co.jp/@0_mall/aquabouquet/cabinet/a06/3348901792196.jpg?_ex=500x500)
+
+**価格**: 4950円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「このディオールビューリーこれはあなたももうみなさんもご存知でしょうか もうみなさまもね言わなくてもわかると思います こちら新しいリニューアルは前回のものも素晴らしかったんです」
+> [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AA%E3%82%A4%E3%83%AB%20077%20%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/aquabouquet/3348901792196/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### Laneige LANEIGE グレイズ ティントリップセラム ストロベリースプリンクル
 
 ![Laneige LANEIGE グレイズ ティントリップセラム ストロベリースプリンクル](https://thumbnail.image.rakuten.co.jp/@0_mall/renew-beauty/cabinet/biiino/item/main-image-5/20250916124838_1.jpg?_ex=500x500)
@@ -425,6 +455,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Laneige%20LANEIGE%20%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BA%20%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/divastyle/lip_tinted_serum/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### NARS NARS アフターグロー センシュアルシャイン リップスティック 888 DOLCE VITA
+
+![NARS NARS アフターグロー センシュアルシャイン リップスティック 888 DOLCE VITA](https://thumbnail.image.rakuten.co.jp/@0_mall/hewuakaneshop/cabinet/09923039/4535683188999.jpg?_ex=500x500)
+
+**価格**: 4730円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「っていうのがあるんですよ アフターグロウセンシュアルシャインリップスティック これ使ったことない? ない あなたこのシリーズすごいのよ もうとにかくリップクリーム感覚 で使いながらも ちゃんと発色しながら 唇を立体的に潤わせてくれるというものになります」
+> [動画を見る](https://www.youtube.com/watch?v=L_ETd6Wfcnk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4535683188999&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hewuakaneshop/4535683188999/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -453,6 +496,17 @@
 > [動画を見る](https://www.youtube.com/watch?v=ZPd0lcbSqCo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%83%87%E3%83%A5%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/koma/wakemake_dewygal/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CLIO ベルベットリップペンシル
+
+**2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「クリオベルベットリップライナー014ヘーゼルナッツトップクリオのリップライナーって優秀なんですそうこれも王道なんですけれども 王道のノンパール そしてこちら油分が少ないタイプになりますので このようにちゃんと色がつくんです」
+> [動画を見る](https://www.youtube.com/watch?v=4fRgpzl9R-E)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLIO%20%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB/?af=mobi.0319)
 
 ---
 
