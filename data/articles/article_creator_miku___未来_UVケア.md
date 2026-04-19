@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
+<!-- LAST_UPDATED: 2026-04-20 -->
 # miku / 未来おすすめUVケア3選【2026年04月版】
 
 人気美容YouTuber **miku / 未来** さんが動画で紹介したUVケアアイテムをまとめました。

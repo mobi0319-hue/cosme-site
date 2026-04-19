@@ -1,6 +1,6 @@
 <!-- VIDEO_URL: https://www.youtube.com/watch?v=vCddksm1maA -->
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-13 -->
+<!-- LAST_UPDATED: 2026-04-20 -->
 # 【nanakoななこ】ZOZOTOWN10万円分購入品まとめ【2026年03月】
 
 秋冬の服選びで「スタイルよく見えるアイテムが欲しい」「骨格ウェーブに似合う服が知りたい」とお悩みの方に必見です。人気YouTuberのnanakoななこさんが、ZOZOTOWNで購入した10万円分の秋冬アイテムをLOOKBOOK付きで紹介しています。お気に入りブランドの厳選アイテムをまとめました。

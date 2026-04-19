@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したハイライターおすすめ8選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介したハイライターおすすめ9選
 
 複数の美容系YouTuberが**独立して紹介**したハイライターアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -13,8 +13,9 @@
 4. **CEZANNE（セザンヌ）** トーンフィルターハイライト 02 フィルターピンク — 2人が紹介
 5. **CANMAKE（キャンメイク）** ムーングロウハイライター — 2人が紹介
 6. **トーン** フィルターハイライト — 2人が紹介
-7. **CANMAKE** CANMAKE むにゅっとハイライター — 2人が紹介
-8. **セザンヌ** セザンヌ パールグロウハイライトシャンパンベージュ — 2人が紹介
+7. **セザンヌ** パールグロウハイライト 04シェルピンク — 2人が紹介
+8. **CANMAKE** CANMAKE むにゅっとハイライター — 2人が紹介
+9. **セザンヌ** セザンヌ パールグロウハイライトシャンパンベージュ — 2人が紹介
 
 ---
 
@@ -100,6 +101,22 @@
 **紹介YouTuber**: ありちゃん / コスメヲタちゃんねるサラ
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530657&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00ui149.zqde7b1a.g00ui149.zqde8ccc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fears%2F4939553530299%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fears%2Fi%2F10001572%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
+
+---
+
+### セザンヌ パールグロウハイライト 04シェルピンク
+
+![セザンヌ パールグロウハイライト 04シェルピンク](https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0073/4939553042143_1.jpg?_ex=500x500)
+
+**価格**: 660円 | **2人のYouTuberが紹介**
+
+> **nanakoななこ**: 「そしたら次ハイライトやります ハイライトははいこちらの セザンヌのパールグロウハイライトの4番 シェルピンクを使うんですけど これちょっとピンクっぽいから ピンクって実際に腫れて見える色じゃないです」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+
+> **KAWAII PATEEN**: 「すごくおすすめです 次はハイライトです セザンヌのパールグロウハイライト 1番のシャンパンベージュです これは私の地元の 先輩がコスメショップで働いてて すごいこのハイライトいいからって言って あまりをくれたんですよ そこからもうなくなっちゃって 新しく自分で買ったんです」
+> [動画を見る](https://www.youtube.com/watch?v=9UuXD3elw7Y)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042143&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000141892/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

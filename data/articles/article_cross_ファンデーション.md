@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ37選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ39選
 
 複数の美容系YouTuberが**独立して紹介**したファンデーションアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -36,17 +36,19 @@ N — 2人が紹介
 25. **マキアージュ** マキアージュ ドラマティックエッセンスクッション グロウ
 ラ — 2人が紹介
 26. **SHISEIDO** SHISEIDO メーキャップ エッセンス スキングロウ フ — 2人が紹介
-27. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15 — 2人が紹介
-28. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
-29. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ — 2人が紹介
-30. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ — 2人が紹介
-31. **CEZANNE** CEZANNE トーンフィルターハイライト 01 フィルター — 2人が紹介
-32. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション — 2人が紹介
-33. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
-34. **shu uemura** ツヤ 55 ファンデーション ブラシ — 2人が紹介
-35. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ — 2人が紹介
-36. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
-37. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
+27. **MAYBELLINE** フィットミー リキッド ファンデーション R 112 — 2人が紹介
+28. **CEZANNE** CEZANNE 皮脂テカリ防止下地50 SPF50 / PA — 2人が紹介
+29. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15 — 2人が紹介
+30. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
+31. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ — 2人が紹介
+32. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ — 2人が紹介
+33. **CEZANNE** CEZANNE トーンフィルターハイライト 01 フィルター — 2人が紹介
+34. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション — 2人が紹介
+35. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
+36. **shu uemura** ツヤ 55 ファンデーション ブラシ — 2人が紹介
+37. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ — 2人が紹介
+38. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
+39. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
 
 ---
 
@@ -470,6 +472,38 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 > [動画を見る](https://www.youtube.com/watch?v=0_P0ejI9D-g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%83%A1%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sian/14645/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### MAYBELLINE フィットミー リキッド ファンデーション R 112
+
+![MAYBELLINE フィットミー リキッド ファンデーション R 112](https://item-shopping.c.yimg.jp/i/l/lucker_041423-11631850-r)
+
+**価格**: 1969円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「さあファンデーション崩れないものといえば メイベリンのフィットミーリキッドの ファンデーションいろんなね、」
+> [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
+
+> **KAWAII PATEEN**: 「リキッドファンデーションを使用しましたメイベリンのヒットミーリキッドファンデーションの520番を使用しましたこれはす」
+> [動画を見る](https://www.youtube.com/watch?v=I8J_ivKt8Dk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20R%20112&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%9F%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20R%20112/?af=mobi.0319)
+
+---
+
+### CEZANNE CEZANNE 皮脂テカリ防止下地50 SPF50 / PA++++ UV耐水性★★ ナチュラルベージュ　※3月4日発売
+
+![CEZANNE CEZANNE 皮脂テカリ防止下地50 SPF50 / PA++++ UV耐水性★★ ナチュラルベージュ　※3月4日発売](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/602/4939553530602.jpg?_ex=500x500)
+
+**価格**: 858円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「そしてこちら セザンヌの皮脂テカリ防止下地50ナチュラルベージュのお色になるんですけれども これまたです皮脂がいっぱい出てしまうという方 お顔がテカリやす」
+> [動画を見る](https://www.youtube.com/watch?v=xPKZdc3IN0w)
+
+> **KAWAII PATEEN**: 「は化粧下地です。 セザンヌの皮脂テカリ防止下地、ピンクベージュです。 もともと肌も黒いんですけど、くすみ肌なので、 この人中のところとか、鼻とか、あとこの唇の下とかにも塗ったりして、くすみを飛ばすことが多いです。」
+> [動画を見る](https://www.youtube.com/watch?v=SZGGj4m4lZE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530602&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20CEZANNE%20%E7%9A%AE%E8%84%82%E3%83%86%E3%82%AB%E3%83%AA%E9%98%B2%E6%AD%A2%E4%B8%8B%E5%9C%B050%20SPF50%20/%20PA%2B%2B%2B%2B%20UV%E8%80%90%E6%B0%B4%E6%80%A7%E2%98%85%E2%98%85%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%E2%80%BB3%E6%9C%884%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
 
 ---
 

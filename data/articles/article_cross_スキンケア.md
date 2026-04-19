@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したスキンケアおすすめ21選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介したスキンケアおすすめ22選
 
 複数の美容系YouTuberが**独立して紹介**したスキンケアアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -26,8 +26,9 @@
 17. **LUNASOL** LUNASOL グロウデイセラムUV SPF50+ / PA — 2人が紹介
 18. **GIVENCHY** GIVENCHY スカルプチュラル セラム — 2人が紹介
 19. **Anua** Anua ドクダミポアコントロールクレンジングオイル — 2人が紹介
-20. **オバジ** C デイセラムBB  ライト — 2人が紹介
-21. **オバジ** C デイセラムUV — 2人が紹介
+20. **セザンヌ** ミネラルカバーBBクリームN — 2人が紹介
+21. **オバジ** C デイセラムBB  ライト — 2人が紹介
+22. **オバジ** C デイセラムUV — 2人が紹介
 
 ---
 
@@ -297,6 +298,20 @@
 **紹介YouTuber**: えみ姉 / HIRO BEAUTY CHANNEL
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Anua%20Anua%20%E3%83%89%E3%82%AF%E3%83%80%E3%83%9F%E3%83%9D%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%AA%E3%82%A4%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/anuajapan/anua00061/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### セザンヌ ミネラルカバーBBクリームN
+
+**2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「そして次。 3月3日追加発売。 セザンヌカクアイゾンコンシーラー02番と、 ライティングアップアイシャドウ02番。 こちらセザンヌの新作レビュー動画を出してますので、 そちらをご覧ください。」
+> [動画を見る](https://www.youtube.com/watch?v=loUvF1C7hvE)
+
+> **KAWAII PATEEN**: 「アルビオンエクラフチュール美容液を塗ります セザンヌのBBクリーム01ライトウォークル塗ります 原宿のダイソーの隣にある電気屋さんと 薬局が一緒になっているところで買ったんですけど 580円だったんですよ いや、少ないですか? で、」
+> [動画を見る](https://www.youtube.com/watch?v=tJLcIRmTxtw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BCBB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0N&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BCBB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0N/?af=mobi.0319)
 
 ---
 

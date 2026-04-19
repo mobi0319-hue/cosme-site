@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したその他おすすめ92選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介したその他おすすめ94選
 
 複数の美容系YouTuberが**独立して紹介**したその他アイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -14,32 +14,32 @@
 5. **メイベリン** 提供： ニューヨーク — 4人が紹介
 6. **REJURAN（リジュラン）** REJURAN — 3人が紹介
 7. **コスメデコルテ** コスメデコルテ トーンパーフェクティングパレット 01 — 3人が紹介
-8. **MAJOLICA MAJORCA** ラッシュエキスパンダー ロングロングロング EX — 3人が紹介
-9. **LUNASOL** アイカラーレーションN — 3人が紹介
-10. **MAYBELLINE** MAYBELLINE NEW YORK メイベリン SP フ — 3人が紹介
-11. **TAG** 友利新のInstagram — 3人が紹介
-12. **WAKEMAKE** 提供： — 3人が紹介
-13. **エレガンス** 27.Elégance（） — 3人が紹介
-14. **キス** マジョリカマジョルカ　ラッシュエパンダードーリーカール — 3人が紹介
-15. **ロート** プロモーション：製薬株式会社 — 3人が紹介
-16. **AMUSE** AMUSE(アミューズ) — 2人が紹介
-17. **SHARP（シャープ）** プラズマクラスターヘアブラシ — 2人が紹介
-18. **CEZANNE（セザンヌ）** CEZANNE フェイスグロウカラー 03 ロマンスグロウ — 2人が紹介
-19. **SUQQU（スック）** SUQQU メイクアップ キット 舜華 11/1数量限定発売 — 2人が紹介
-20. **ジルスチュアート** ジルスチュアート リボンファッションショー コレクション 1 — 2人が紹介
-21. **プリマヴィスタ** プリマヴィスタ プレメイクアップ ジェルウォッシュ — 2人が紹介
-22. **VODANA** GLAMWAVE CURLING IRON 40mm Pow — 2人が紹介
-23. **ETVOS（エトヴォス）** ETVOS ミネラルクラッシィシャドー シフォンアンサンブル — 2人が紹介
-24. **セザンヌ** セザンヌ フェイスグロウカラー 01 — 2人が紹介
-25. **ルナソル** ルナソル アイカラーレーションＮ 04,05,06 ※1/2 — 2人が紹介
-26. **EXCEL** excel リアルクローズシャドウ ＣＸ — 2人が紹介
-27. **too cool for school** too cool for school　フロッタージュペンシ — 2人が紹介
-28. **rom&nd** rom&nd ロムアンド ハンオールブロウカラ — 2人が紹介
-29. **イヴ・サンローラン** クチュール ミニ クラッチ No.100 ストラ ドールズ — 2人が紹介
-30. **SHISEIDO** Shiseido ミニアイラッシュカーラー — 2人が紹介
-31. **Dior** Dior ディオールスキン フォーエヴァー グロウ マキシマ — 2人が紹介
-32. **トーン** lauramercier フローレス ルミエール ラディアン — 2人が紹介
-33. **資生堂** 資生堂 ミニアイラッシュカーラー — 2人が紹介
+8. **SHISEIDO** Shiseido ミニアイラッシュカーラー — 3人が紹介
+9. **MAJOLICA MAJORCA** ラッシュエキスパンダー ロングロングロング EX — 3人が紹介
+10. **資生堂** 資生堂 ミニアイラッシュカーラー — 3人が紹介
+11. **LUNASOL** アイカラーレーションN — 3人が紹介
+12. **MAYBELLINE** MAYBELLINE NEW YORK メイベリン SP フ — 3人が紹介
+13. **TAG** 友利新のInstagram — 3人が紹介
+14. **WAKEMAKE** 提供： — 3人が紹介
+15. **エレガンス** 27.Elégance（） — 3人が紹介
+16. **キス** マジョリカマジョルカ　ラッシュエパンダードーリーカール — 3人が紹介
+17. **ロート** プロモーション：製薬株式会社 — 3人が紹介
+18. **AMUSE** AMUSE(アミューズ) — 2人が紹介
+19. **SHARP（シャープ）** プラズマクラスターヘアブラシ — 2人が紹介
+20. **CEZANNE（セザンヌ）** CEZANNE フェイスグロウカラー 03 ロマンスグロウ — 2人が紹介
+21. **SUQQU（スック）** SUQQU メイクアップ キット 舜華 11/1数量限定発売 — 2人が紹介
+22. **ジルスチュアート** ジルスチュアート リボンファッションショー コレクション 1 — 2人が紹介
+23. **プリマヴィスタ** プリマヴィスタ プレメイクアップ ジェルウォッシュ — 2人が紹介
+24. **VODANA** GLAMWAVE CURLING IRON 40mm Pow — 2人が紹介
+25. **ETVOS（エトヴォス）** ETVOS ミネラルクラッシィシャドー シフォンアンサンブル — 2人が紹介
+26. **セザンヌ** セザンヌ フェイスグロウカラー 01 — 2人が紹介
+27. **ルナソル** ルナソル アイカラーレーションＮ 04,05,06 ※1/2 — 2人が紹介
+28. **EXCEL** excel リアルクローズシャドウ ＣＸ — 2人が紹介
+29. **too cool for school** too cool for school　フロッタージュペンシ — 2人が紹介
+30. **rom&nd** rom&nd ロムアンド ハンオールブロウカラ — 2人が紹介
+31. **イヴ・サンローラン** クチュール ミニ クラッチ No.100 ストラ ドールズ — 2人が紹介
+32. **Dior** Dior ディオールスキン フォーエヴァー グロウ マキシマ — 2人が紹介
+33. **トーン** lauramercier フローレス ルミエール ラディアン — 2人が紹介
 34. **ディオール** ディオールスキン フォーエヴァー/クチュール ルミナイザー/ — 2人が紹介
 35. **エクセル** サナ エクセル スキニーリッチシャドウnrj06589 sk — 2人が紹介
 36. **コスメデコルテ** ダズリング ジェム  02 — 2人が紹介
@@ -91,14 +91,16 @@
 82. **オルビス** エッセンスインヘアミルク — 2人が紹介
 83. **GIVENCHY** ※数量限定 — 2人が紹介
 84. **ラロッシュポゼ** シカプラストバーム — 2人が紹介
-85. **Dior** ディオールスキン フォーエヴァー スキン パーフェクト ステ — 2人が紹介
-86. **MEDULLA** #プロモーション# — 2人が紹介
-87. **クリオ** メガ割に合わせて大人気アイテムがフルーツマーケットテーマに合 — 2人が紹介
-88. **CLIO** のオフィシャルアカウントはこちら — 2人が紹介
-89. **TAG** 【カラリア マガジン 公式Insram】 — 2人が紹介
-90. **TAG** ▼Insram▼ — 2人が紹介
-91. **Dior** Christian　 Addict Eau Fraiche — 2人が紹介
-92. **COSRX** 提供： — 2人が紹介
+85. **ETUDE** ｜エチュード — 2人が紹介
+86. **Dior** ディオールスキン フォーエヴァー スキン パーフェクト ステ — 2人が紹介
+87. **MEDULLA** #プロモーション# — 2人が紹介
+88. **クリオ** メガ割に合わせて大人気アイテムがフルーツマーケットテーマに合 — 2人が紹介
+89. **CLIO** のオフィシャルアカウントはこちら — 2人が紹介
+90. **TAG** 【カラリア マガジン 公式Insram】 — 2人が紹介
+91. **TAG** ▼Insram▼ — 2人が紹介
+92. **Dior** Christian　 Addict Eau Fraiche — 2人が紹介
+93. **COSRX** 提供： — 2人が紹介
+94. **CANMAKE** CANMAKE ジュエリーシャドウベール 01 / 06 各 — 2人が紹介
 
 ---
 
@@ -141,9 +143,8 @@
 
 **6人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: さぁや saaya / nanakoななこ / EGA.channel / かす / ゆりなYurina's Diary / KAWAII PATEEN
+> **KAWAII PATEEN**: 「ぜひ私のTwitter、 Instagram、 そしてTikTokもやってますので、 そちらもぜひぜひチェックしてみてください。 いろんな写真も載せたり、 いろんな投稿してたりするので、 見てもらえると私はめちゃめちゃ喜びます。」
+> [動画を見る](https://www.youtube.com/watch?v=pzhDidMcnNE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%80%90Insram%E3%80%91&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%80%90Insram%E3%80%91/?af=mobi.0319)
 
@@ -153,9 +154,8 @@
 
 **5人のYouTuberが紹介**
 
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 韓国オンニAちゃん (会社員J) / ゆきりぬ / Marina Takewaki / miku / 未来 / KAWAII PATEEN
+> **KAWAII PATEEN**: 「その他にも Twitter Instagram YouTube 中国のベイボー 中国のTikTok やっています」
+> [動画を見る](https://www.youtube.com/watch?v=-JugqWg70Rw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E2%96%B7Insram%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%F0%9F%98%8A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E2%96%B7Insram%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%F0%9F%98%8A/?af=mobi.0319)
 
@@ -211,6 +211,19 @@
 
 ---
 
+### SHISEIDO Shiseido ミニアイラッシュカーラー
+
+![SHISEIDO Shiseido ミニアイラッシュカーラー](https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10631/00000013199664_a01.jpg?_ex=500x500)
+
+**価格**: 880円 | **3人のYouTuberが紹介**
+
+> **鹿の間**: 「26個のお気に入りアイテム紹介動画でコスメ部門として紹介。」
+> [動画を見る](https://www.youtube.com/watch?v=cQtu86xL06A)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20Shiseido%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce016389780101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### MAJOLICA MAJORCA ラッシュエキスパンダー ロングロングロング EX
 
 ![MAJOLICA MAJORCA ラッシュエキスパンダー ロングロングロング EX](https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025021718/20250217200012_94_1.jpg?_ex=500x500)
@@ -224,6 +237,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=dABN1N7Sotc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAJOLICA%20MAJORCA%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20EX&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAJOLICA%20MAJORCA%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20EX/?af=mobi.0319)
+
+---
+
+### 資生堂 資生堂 ミニアイラッシュカーラー
+
+![資生堂 資生堂 ミニアイラッシュカーラー](https://thumbnail.image.rakuten.co.jp/@0_mall/hb-navi/cabinet/shiseido/self/01/4909978215477.jpg?_ex=500x500)
+
+**価格**: 880円 | **3人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「とてもおすすめですこれは 資生堂のアイラッシュカハラ 資生堂は前々から使ってて すっごいまつ毛が上がるので 資生堂はいろんな人に合うと思うのでおすすめです」
+> [動画を見る](https://www.youtube.com/watch?v=KkqMZQgVrXM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978215477&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/syouwa/sct1009n/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -535,19 +561,6 @@
 
 ---
 
-### SHISEIDO Shiseido ミニアイラッシュカーラー
-
-![SHISEIDO Shiseido ミニアイラッシュカーラー](https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10631/00000013199664_a01.jpg?_ex=500x500)
-
-**価格**: 880円 | **2人のYouTuberが紹介**
-
-> **鹿の間**: 「26個のお気に入りアイテム紹介動画でコスメ部門として紹介。」
-> [動画を見る](https://www.youtube.com/watch?v=cQtu86xL06A)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20Shiseido%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce016389780101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
 ### Dior Dior ディオールスキン フォーエヴァー グロウ マキシマイザー パーリー
 
 ![Dior Dior ディオールスキン フォーエヴァー グロウ マキシマイザー パーリー](https://thumbnail.image.rakuten.co.jp/@0_mall/emporio8888/cabinet/10841199/imgrc0143151586.jpg?_ex=500x500)
@@ -574,20 +587,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=dNG-RE3b2Uo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20lauramercier%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9%20%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20FAIR%20ROSE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0194250052237/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
-### 資生堂 資生堂 ミニアイラッシュカーラー
-
-![資生堂 資生堂 ミニアイラッシュカーラー](https://thumbnail.image.rakuten.co.jp/@0_mall/hb-navi/cabinet/shiseido/self/01/4909978215477.jpg?_ex=500x500)
-
-**価格**: 880円 | **2人のYouTuberが紹介**
-
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 鹿の間 / HIRO BEAUTY CHANNEL
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978215477&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/syouwa/sct1009n/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -1283,6 +1282,17 @@
 
 ---
 
+### ETUDE ｜エチュード
+
+**2人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「リップです。 使ったのは、エチュードハウスリアダーリンオイルティントの8番です。 この色味が、すごく可愛くて、匂いがピーチの香りがして、めちゃめちゃ良いです。 これを、唇の内側に塗っていきます。 次に使ったのが、ロレアルパリのユイルカレス806番です。」
+> [動画を見る](https://www.youtube.com/watch?v=0BVOOkVIPE4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ETUDE%20%EF%BD%9C%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ETUDE%20%EF%BD%9C%E3%82%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89/?af=mobi.0319)
+
+---
+
 ### Dior ディオールスキン フォーエヴァー スキン パーフェクト スティック
 
 **価格**: 7370円 | **2人のYouTuberが紹介**
@@ -1381,5 +1391,16 @@
 > [動画を見る](https://www.youtube.com/watch?v=fk8BibJRQJY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=COSRX%20%E6%8F%90%E4%BE%9B%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/COSRX%20%E6%8F%90%E4%BE%9B%EF%BC%9A/?af=mobi.0319)
+
+---
+
+### CANMAKE CANMAKE ジュエリーシャドウベール 01 / 06 各
+
+**価格**: 660円 | **2人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「ブラウンをのせていきます 次にキャンメイク ジュエリーシャドウベール01番をのせていきます こちらは粒の大きさが2種類あるんです」
+> [動画を見る](https://www.youtube.com/watch?v=-JugqWg70Rw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%99%E3%83%BC%E3%83%AB%2001%20/%2006%20%E5%90%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%99%E3%83%BC%E3%83%AB%2001%20/%2006%20%E5%90%84/?af=mobi.0319)
 
 ---

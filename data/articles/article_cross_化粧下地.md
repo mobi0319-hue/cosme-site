@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介した化粧下地おすすめ27選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介した化粧下地おすすめ28選
 
 複数の美容系YouTuberが**独立して紹介**した化粧下地アイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -34,6 +34,7 @@
 25. **SUQQU** SUQQU グロウ セッティング パウダー　※セット価格 — 2人が紹介
 26. **d'Alba** 提供： — 2人が紹介
 27. **トーン** アップサンクリーム 50ml — 2人が紹介
+28. **セザンヌ** セザンヌ 皮脂テカリ防止下地 — 2人が紹介
 
 ---
 
@@ -409,5 +410,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=09RJ2YZcWbo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%A2%E3%83%83%E3%83%97%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2050ml&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/koreabeautystar/pdrn-pink-toneup-sun-cream-50ml/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### セザンヌ セザンヌ 皮脂テカリ防止下地
+
+**2人のYouTuberが紹介**
+
+> **美希ぽんチャンネル**: 「みきぽんチャンネルです 今回はプチプラブランドのセザンヌを使って オールメイクを紹介します それではみきぽんチャンネル始まるよ はい、」
+> [動画を見る](https://www.youtube.com/watch?v=ija0NgKB-_4)
+
+> **KAWAII PATEEN**: 「それでは始めていきます まず下地はこのセザンヌのひし テカリ防止下地用のピンクベージュを使っています これをよく振って適量を手の甲に出して ほっぺと鼻とおでこと顎先にのせて 全体的に手で伸ばす感じです」
+> [動画を見る](https://www.youtube.com/watch?v=bSrPmwKBE2o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E7%9A%AE%E8%84%82%E3%83%86%E3%82%AB%E3%83%AA%E9%98%B2%E6%AD%A2%E4%B8%8B%E5%9C%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E7%9A%AE%E8%84%82%E3%83%86%E3%82%AB%E3%83%AA%E9%98%B2%E6%AD%A2%E4%B8%8B%E5%9C%B0/?af=mobi.0319)
 
 ---

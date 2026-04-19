@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したマスカラおすすめ15選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介したマスカラおすすめ16選
 
 複数の美容系YouTuberが**独立して紹介**したマスカラアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -18,10 +18,11 @@
 9. **セザンヌ** セザンヌ 耐久カールスリムマスカラ — 2人が紹介
 10. **mude** mude. インスパイア　マルチフィクサーマスカラ　０１　ク — 2人が紹介
 11. **CLIO** キルラッシュスーパープルーフマスカラ ボリュームカーリング — 2人が紹介
-12. **CEZANNE** CEZANNE スタイリングアイブロウマスカラ 00 クリア — 2人が紹介
-13. **セザンヌ** 耐久カールマスカラ — 2人が紹介
-14. **CEZANNE** 耐久カールマスカラ — 2人が紹介
-15. **NARS** リップスティック 2913 【マスカラ】 NARSクライマッ — 2人が紹介
+12. **CANMAKE** CANMAKE｜クイックラッシュカーラー ロングマスカラ｜0 — 2人が紹介
+13. **CEZANNE** CEZANNE スタイリングアイブロウマスカラ 00 クリア — 2人が紹介
+14. **セザンヌ** 耐久カールマスカラ — 2人が紹介
+15. **CEZANNE** 耐久カールマスカラ — 2人が紹介
+16. **NARS** リップスティック 2913 【マスカラ】 NARSクライマッ — 2人が紹介
 
 ---
 
@@ -196,6 +197,19 @@
 **紹介YouTuber**: 鹿の間 / HIRO BEAUTY CHANNEL
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20%E3%82%AD%E3%83%AB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/clokm0000002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CANMAKE CANMAKE｜クイックラッシュカーラー ロングマスカラ｜01 ブラック｜
+
+![CANMAKE CANMAKE｜クイックラッシュカーラー ロングマスカラ｜01 ブラック｜](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/882/4901008305882.jpg?_ex=500x500)
+
+**価格**: 748円 | **2人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「次にマスカラなんですけども キャンメイククイックラッシュカーラー こちらはまつ毛カールのキープを助けるものになっています こちらはまつ毛カールのキープを助けるものになっています 一番最初何もしない状態で塗って 乾かしてからビューラーでグインと上げて使っていきます」
+> [動画を見る](https://www.youtube.com/watch?v=9LmEyyVyq4Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901008305882&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%EF%BD%9C%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%EF%BD%9C01%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%EF%BD%9C/?af=mobi.0319)
 
 ---
 

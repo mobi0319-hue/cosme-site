@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ15選
+<!-- LAST_UPDATED: 2026-04-20 -->
+# 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ19選
 
 複数の美容系YouTuberが**独立して紹介**したアイライナーアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -9,7 +9,7 @@
 
 1. **ヒロインメイク** リキッドアイライナー — 8人が紹介
 2. **CANMAKE（キャンメイク）** クリーミータッチライナー — 5人が紹介
-3. **キャンメイク** クリーミータッチライナー — 3人が紹介
+3. **キャンメイク** クリーミータッチライナー — 4人が紹介
 4. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 3人が紹介
 5. **CEZANNE（セザンヌ）** 描くふたえアイライナー — 2人が紹介
 6. **CANMAKE（キャンメイク）** クリーミータッチライナー 09 — 2人が紹介
@@ -20,10 +20,14 @@
 9. **CANMAKE** クリーミータッチライナー 06 — 2人が紹介
 10. **CANMAKE** CANMAKE ラスティングリキッドライナー 05 グレージ — 2人が紹介
 11. **KATE** スーパーシャープライナー ブラウン — 2人が紹介
-12. **KATE** KATE スーパーシャープライナーEX4.0 BK-1 漆黒 — 2人が紹介
-13. **MAYBELLINE** MAYBELLINE NEW YORK ハイパーシャープ ラ — 2人が紹介
-14. **LUNASOL** LUNASOL モデリングアイブロウライナー 01 アッシュ — 2人が紹介
-15. **THREE** ファントゥファンキーリキッドアイライナー — 2人が紹介
+12. **KATE** スーパーシャープライナーEX2.0 ブラック — 2人が紹介
+13. **CANMAKE** クリーミータッチライナー 03 — 2人が紹介
+14. **KATE** KATE スーパーシャープライナーEX4.0 BK-1 漆黒 — 2人が紹介
+15. **MAYBELLINE** MAYBELLINE NEW YORK ハイパーシャープ ラ — 2人が紹介
+16. **LUNASOL** LUNASOL モデリングアイブロウライナー 01 アッシュ — 2人が紹介
+17. **セザンヌ** セザンヌ 描くふたえアイライナー 20 影用グレージュ — 2人が紹介
+18. **ケイト** スーパーシャープライナーEX4.0 — 2人が紹介
+19. **THREE** ファントゥファンキーリキッドアイライナー — 2人が紹介
 
 ---
 
@@ -84,7 +88,7 @@
 
 ![キャンメイク クリーミータッチライナー](https://thumbnail.image.rakuten.co.jp/@0_mall/0101marui/cabinet/to514/132/804901008311937_1.jpg?_ex=500x500)
 
-**価格**: 715円 | **3人のYouTuberが紹介**
+**価格**: 715円 | **4人のYouTuberが紹介**
 
 > **さぁや**: 「2025年下半期ベスコス・アイライナー部門」
 > [動画を見る](https://www.youtube.com/watch?v=JAZaczkdBLg)
@@ -94,6 +98,9 @@
 
 > **コスメヲタちゃんねるサラ**: 「アイライナーこちら。 キャンメイククリーミータッチライナー03。 不動の大人気アイライナー。 先端が細いので、目尻も描きやすい。 ではマスカラはこちら。」
 > [動画を見る](https://www.youtube.com/watch?v=I6-L9mbYidI)
+
+> **KAWAII PATEEN**: 「アイラインなんですけども 私が使ったのはキャンメイククリーミータッチライナー02番になります すごい描きやすくて 私はこの粘膜のところをしっかり結構見えちゃう目なので 粘膜のところをしっかり描こうって 最後は目尻に沿って優しく 最後の線が細くなるように優しく伸ばしていきます」
+> [動画を見る](https://www.youtube.com/watch?v=IVsGYONqzOU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000077168/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -220,6 +227,32 @@
 
 ---
 
+### KATE スーパーシャープライナーEX2.0 ブラック
+
+![KATE スーパーシャープライナーEX2.0 ブラック](https://thumbnail.image.rakuten.co.jp/@0_mall/midstore/cabinet/amayahoo/08129123/0680-029039.jpg?_ex=500x500)
+
+**価格**: 1320円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「つけまが終わったらケイトのスーパーシャープライナーの ブラック使っていきます 今日は跳ね上げたいんですけど だいぶ慎重に描いていきます ちょこちょこつけ足しながら 角度を探っていく で、」
+> [動画を見る](https://www.youtube.com/watch?v=qCxSYNnRbhI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BCEX2.0%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/belletoi/jdrf2ejpaakm2c3vani7kl4kuu/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CANMAKE クリーミータッチライナー 03
+
+![CANMAKE クリーミータッチライナー 03](https://thumbnail.image.rakuten.co.jp/@0_mall/0101marui/cabinet/to514/132/804901008311937_1.jpg?_ex=500x500)
+
+**価格**: 715円 | **2人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「次はアイライナーです。 こちらは、キャンメイクのクリーミータッチライナー03番です。」
+> [動画を見る](https://www.youtube.com/watch?v=SZGGj4m4lZE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BF%E3%83%83%E3%83%81%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2003&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/to514132800101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### KATE KATE スーパーシャープライナーEX4.0 BK-1 漆黒ブラック / BR-2 ビターブラウン
 
 ![KATE KATE スーパーシャープライナーEX4.0 BK-1 漆黒ブラック / BR-2 ビターブラウン](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item_post01/4973167534540_m_p.jpg?_ex=500x500)
@@ -257,6 +290,34 @@
 **紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167009925&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNASOL%20LUNASOL%20%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2001%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%83%97/?af=mobi.0319)
+
+---
+
+### セザンヌ セザンヌ 描くふたえアイライナー 20 影用グレージュ
+
+**価格**: 660円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「んー 裏されてる感じ そしてセザンヌの描く二重ライナー これはリキッドのご強調す」
+> [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+
+> **KAWAII PATEEN**: 「必ず一番最初にやるようにしています 下地に使ったのはセザンヌの皮脂テカリ防止下地のライトブルーと 無印のUVベースコントロールカラーのブルー どっちもブルーで半分半分ぐらいで混ぜてつけていきます こうす」
+> [動画を見る](https://www.youtube.com/watch?v=WRrF7y3q92c)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E6%8F%8F%E3%81%8F%E3%81%B5%E3%81%9F%E3%81%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2020%20%E5%BD%B1%E7%94%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E6%8F%8F%E3%81%8F%E3%81%B5%E3%81%9F%E3%81%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2020%20%E5%BD%B1%E7%94%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A5/?af=mobi.0319)
+
+---
+
+### ケイト スーパーシャープライナーEX4.0
+
+**2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「という使命感 そして次 1月の25日 ケイトから 新色とか新作がめちゃくちゃいっぱい出ます」
+> [動画を見る](https://www.youtube.com/watch?v=aDTGelQPIvE)
+
+> **KAWAII PATEEN**: 「一気に目が引き締まった印象になると思います 次にケイトのスーパーシャープライナーの 漆黒ブラックを使って 切開ラインを描いていきます これをすることで 結構目が中心にちょっと寄って 大きく見える と思います 次に使ったのが 3CEのワンカラーシャドウ 赤です」
+> [動画を見る](https://www.youtube.com/watch?v=UZOplk0oYAQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BCEX4.0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BCEX4.0/?af=mobi.0319)
 
 ---
 
