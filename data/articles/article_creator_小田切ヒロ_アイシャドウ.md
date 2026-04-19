@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 小田切ヒロおすすめアイシャドウ38選【2026年04月版】
+# 小田切ヒロおすすめアイシャドウ82選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -9,41 +9,85 @@
 1. **DECORTÉ（コスメデコルテ）** スキンシャドウ デザイニング パレット 09 cashmer
 2. **LUNASOL（ルナソル）** アイカラーレーションN 17 Neo Depth
 3. **トーン** DECORTÉ トーンパーフェクティング パレット
-4. **Bobbi Brown** BOBBI BROWN クリスタル アイシャドウ スティック
-5. **コスメデコルテ** DECORTÉ  スキンシャドウ デザイニング パレット 0
-6. **CEZANNE** フェイスアイパレット 03 ノーブルベージュ※2/2発売
-7. **コスメデコルテ** DECORTÉ コスメデコルテ スキンシャドウ デザイニング
-8. **RMK** RMK リッド インプレッション リクイド アイシャドウ 0
-9. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ
-10. **Dior** DIOR バックステージ グロウ マキシマイザー パレット 
-11. **RMK** RMK インフィニシェイド シングル アイシャドウ 21 イ
-12. **NARS** NARS クワッドアイシャドー LAGUNA
-13. **ADDICTION** ADDICTION アディクション アイ＆ブラッシュ パレッ
-14. **Bobbi Brown** BOBBI BROWN リュクス アイシャドウ デュオ スパ
-15. **Bobbi Brown** BOBBI BROWN スウィート デカダンス アイシャドウ
-16. **NARS** NARS クワッドアイシャドー 05079 SOLARIS 
-17. **NARS** NARS エシリアル オーラ ブラッシュパレット ライトスピ
-18. **NARS** NARS トータルセダクション アイシャドースティック RE
-19. **RMK** RMK シンクロマティック アイシャドウパレット EX-14
-20. **SUQQU** SUQQU モノ ルック アイズ S-01 色恋文 -IRO
-21. **JILL STUART** JILL STUART　ブルーミングラッシュ フィルムカーラ
-22. **Bobbi Brown** BOBBI BROWN カジャル ライナー ウォータープルー
-23. **REVLON** REVLON カラーステイ マルチプレイヤー アイ ペンシル
-24. **CEZANNE** CEZANNE ジェルアイライナー 00 ブラウンブラック 
-25. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
-26. **dejavu** dejavu シアーカラーブロウ シアーベージュ 全3色　※
-27. **CEZANNE** CEZANNE 極細アイブロウマスカラ C5 マイルドベージ
-28. **WAKEMAKE** wakemake ハローキティ ソフトブラーリングアイパレッ
-29. **WAKEMAKE** wakemake ソフトブラーリングアイパレット 26号
-30. **shu uemura** shu uemura クポ! クリスタル パレット  ※10
-31. **hince** hana by hince トリプルアイパレット 全3色
-32. **to/one** to/one ペタル フロート アイパレット 04 Swee
-33. **NARS** NARS クワッドアイシャドー 04065 SAKURA ※
-34. **CLINIQUE** CLINIQUE ハイ インパクト アイシャドウ スティック
-35. **NARS** NARS ホットエスケープ チークパレット Ⅲ ※6/11数
-36. **TWINKLE POP** twinkle pop グリッターレイヤリングアイパレット 
-37. **shu uemura** shu uemura クラッシュド ジェム コハク アンバー
-38. **shu uemura** Shu uemura ニードル ブロー 全4色
+4. **Dior** バックステージ フェイス グロウ パレット　004 ローズ 
+5. **Bobbi Brown** BOBBI BROWN クリスタル アイシャドウ スティック
+6. **コスメデコルテ** DECORTÉ  スキンシャドウ デザイニング パレット 0
+7. **CEZANNE** フェイスアイパレット 03 ノーブルベージュ※2/2発売
+8. **コスメデコルテ** DECORTÉ コスメデコルテ スキンシャドウ デザイニング
+9. **RMK** RMK リッド インプレッション リクイド アイシャドウ 0
+10. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ
+11. **Dior** DIOR バックステージ グロウ マキシマイザー パレット 
+12. **RMK** RMK インフィニシェイド シングル アイシャドウ 21 イ
+13. **NARS** NARS クワッドアイシャドー LAGUNA
+14. **ADDICTION** ADDICTION アディクション アイ＆ブラッシュ パレッ
+15. **Bobbi Brown** BOBBI BROWN リュクス アイシャドウ デュオ スパ
+16. **Bobbi Brown** BOBBI BROWN スウィート デカダンス アイシャドウ
+17. **NARS** NARS クワッドアイシャドー 05079 SOLARIS 
+18. **NARS** NARS エシリアル オーラ ブラッシュパレット ライトスピ
+19. **NARS** NARS トータルセダクション アイシャドースティック RE
+20. **RMK** RMK シンクロマティック アイシャドウパレット EX-14
+21. **SUQQU** SUQQU モノ ルック アイズ S-01 色恋文 -IRO
+22. **JILL STUART** JILL STUART　ブルーミングラッシュ フィルムカーラ
+23. **Bobbi Brown** BOBBI BROWN カジャル ライナー ウォータープルー
+24. **REVLON** REVLON カラーステイ マルチプレイヤー アイ ペンシル
+25. **CEZANNE** CEZANNE ジェルアイライナー 00 ブラウンブラック 
+26. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+27. **dejavu** dejavu シアーカラーブロウ シアーベージュ 全3色　※
+28. **CEZANNE** CEZANNE 極細アイブロウマスカラ C5 マイルドベージ
+29. **Dior** ディオール バックステージ フェイス グロウ パレット
+30. **WAKEMAKE** wakemake ハローキティ ソフトブラーリングアイパレッ
+31. **WAKEMAKE** wakemake ソフトブラーリングアイパレット 26号
+32. **shu uemura** shu uemura クポ! クリスタル パレット  ※10
+33. **hince** hana by hince トリプルアイパレット 全3色
+34. **to/one** to/one ペタル フロート アイパレット 04 Swee
+35. **NARS** NARS クワッドアイシャドー 04065 SAKURA ※
+36. **CLINIQUE** CLINIQUE ハイ インパクト アイシャドウ スティック
+37. **NARS** NARS ホットエスケープ チークパレット Ⅲ ※6/11数
+38. **TWINKLE POP** twinkle pop グリッターレイヤリングアイパレット 
+39. **shu uemura** shu uemura クラッシュド ジェム コハク アンバー
+40. **shu uemura** Shu uemura ニードル ブロー 全4色
+41. **THREE** THREE スターゲージングアイシャドウクアッド X03　 
+42. **RMK** RMK シンクロマティック アイシャドウパレット 09 Sm
+43. **ADDICTION** ADDICTION ザ アイシャドウ パレット ＋ "サイレ
+44. **PERIPERA** peripera インク ポケット シャドウ パレット 07
+45. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+46. **ADDICTION** ADDICTION ザ アイシャドウ パレット＋  009 
+47. **LAKA** Laka モノアイシャドウ #908 バニラ
+48. **NARS** NARS ラグナ アルティメイト　フェイスパレット　※4/1
+49. **Dior** DIOR ディオール バックステージ コントゥール パレット
+50. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+51. **CEZANNE** CEZANNE ビタートーンアイシャドウ 03 ビスケットブ
+52. **CEZANNE** #メイク #アイメイク #セザンヌ # #コスメ #プチプラ
+53. **ADDICTION** ADDICTION ザ アイシャドウ パレット + 007　
+54. **PAUL & JOE** PAUL & JOE アイデザイン パレット 08　※8/1
+55. **THREE** THREE スターゲージング アイシャドウクアッド X01　
+56. **RMK** RMK シンクロマティック アイシャドウパレット EX-09
+57. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+58. **WAKEMAKE** WAKEMAKE ソフトシアーマルチパレット 02 レイジー
+59. **WAKEMAKE** WAKEMAKE ソフトブラーリングアイパレット 17 ライ
+60. **ADDICTION** ADDICTION ザ アイシャドウパレット "アウト オブ
+61. **ADDICTION** ADDICTION ザ アイシャドウ 限定2色
+62. **WAKEMAKE** WAKEMAKE ソフトカラーリングリップパレット 全2色
+63. **ADDICTION** ADDICTION ザ アイシャドウ パレット 全11色
+64. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+65. **ルナ** DAISY DOLL by MARY QUANT デイジード
+66. **Dior** DIOR ディオール バックステージ アイ パレット 002
+67. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+68. **shu uemura** shu uemura シュウ ウエムラ × TASAKI パ
+69. **Dior** DIOR ディオール バックステージ アイ パレット 004
+70. **ADDICTION** ADDICTION ザ アイシャドウ パレット + “スルー
+71. **RMK** RMK ザ ピンク ハイ アイズ ＆ ブラッシュ パレット 
+72. **THREE** スターゲージングアイシャドウクアッド 06 MYSTERIO
+73. **benefit** Benefit ブラッシュ ボス ブラッシュ ブロンズ & 
+74. **LUNA** LUNA コンシールブレンダーパレット 04 パーフェクトカ
+75. **NARS** NARS ラグナ アルティメイト フェイスパレット ※限定品
+76. **NARS** #小田切ヒロ #メイク #コスメ #夏メイク #夏コスメ #
+77. **RIMMEL** RIMMEL ワンダー スウィート アイシャドウ 010 バ
+78. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット 
+79. **ADDICTION** ADDICTION ザ アイシャドウ パレット ＋ 006 
+80. **NARS** NARS スモールアイシャドーブラシ
+81. **ADDICTION** ADDICTION ザ アイシャドウ パレット + 008 
+82. **IPSA** IPSA アイブロウ クリエイティブパレット
 
 ---
 
@@ -79,10 +123,23 @@
 
 **価格**: 4950円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2mGDNafoctA)
+> **小田切ヒロ**: 「美容成分がすごく高配合になっております そして今4色パレットあるうちのですこの3色がコンシーラーなんですけれども これはハイライトコンシーラーのフィックスコンシーラーになりますので このコンシーラーの上に指でトントンのせていただきます」
+> [動画を見る](https://www.youtube.com/watch?v=9Mlr_SH0NAQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### Dior バックステージ フェイス グロウ パレット　004 ローズ ゴールド
+
+![Dior バックステージ フェイス グロウ パレット　004 ローズ ゴールド](https://thumbnail.image.rakuten.co.jp/@0_mall/emporio8888/cabinet/10841199/imgrc0143151752.jpg?_ex=500x500)
+
+**価格**: 5610円
+
+> **小田切ヒロ**: 「こちら大好きなんですけれども ディオールのプレストタイプの カラーハイライターになります」
+> [動画を見る](https://www.youtube.com/watch?v=wsMR4W53els)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%80004%20%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/3348901530873/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -365,8 +422,8 @@
 
 **価格**: 3850円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=t9mESrqJGJo)
+> **小田切ヒロ**: 「ジルスチュアートブルームニュアンスブロウパレット01を使っていきます 骨格に合わせるのがポイントなんですけれども 今回はこのいくみちゃんの眉毛の形を 伸ばした感じで真ん中にですスーッと一本軸を作っていきます 当時のアイブロウはです」
+> [動画を見る](https://www.youtube.com/watch?v=ZhpcIJKOTmk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710582956&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4971710582987/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -395,6 +452,17 @@
 [動画を見る](https://www.youtube.com/watch?v=t9mESrqJGJo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E6%A5%B5%E7%B4%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20C5%20%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%89%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%E2%80%BB8/26%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cheeringcharm/20250925075112_186/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### Dior ディオール バックステージ フェイス グロウ パレット
+
+**価格**: 6600円
+
+> **小田切ヒロ**: 「おすすめそして次はこちら ディオールもうディオールも毎シーズン クリスマスコフレは欠かせませんよ なんと今回はですベルサイユ宮殿の仮面武道会がです」
+> [動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319)
 
 ---
 
@@ -504,5 +572,447 @@
 [動画を見る](https://www.youtube.com/watch?v=t9mESrqJGJo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20Shu%20uemura%20%E3%83%8B%E3%83%BC%E3%83%89%E3%83%AB%20%E3%83%96%E3%83%AD%E3%83%BC%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20Shu%20uemura%20%E3%83%8B%E3%83%BC%E3%83%89%E3%83%AB%20%E3%83%96%E3%83%AD%E3%83%BC%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
+
+---
+
+### THREE THREE スターゲージングアイシャドウクアッド X03　 ※限定色
+
+**価格**: 7480円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=-sXHRcVoR9Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=THREE%20THREE%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%20X03%E3%80%80%20%E2%80%BB%E9%99%90%E5%AE%9A%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/THREE%20THREE%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%20X03%E3%80%80%20%E2%80%BB%E9%99%90%E5%AE%9A%E8%89%B2/?af=mobi.0319)
+
+---
+
+### RMK RMK シンクロマティック アイシャドウパレット 09 Smart & Witty  ※1/10発売
+
+> **小田切ヒロ**: 「そうこのカレーボーのアイシャドウパレットだったりとか あとは絶対に見逃してはなりません ならないこのルナソル こういった暖色系のこれまあ使いやすそうな これルナソル見て 春のお花って感じますでしょ もうとっても使いやす」
+> [動画を見る](https://www.youtube.com/watch?v=-sXHRcVoR9Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2009%20Smart%20%26%20Witty%20%20%E2%80%BB1/10%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2009%20Smart%20%26%20Witty%20%20%E2%80%BB1/10%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット ＋ "サイレンスト セレニティ" 102 Unchained Melody ※1/10限定発売
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=-sXHRcVoR9Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%EF%BC%8B%20%22%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%88%20%E3%82%BB%E3%83%AC%E3%83%8B%E3%83%86%E3%82%A3%22%20102%20Unchained%20Melody%20%E2%80%BB1/10%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%EF%BC%8B%20%22%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%88%20%E3%82%BB%E3%83%AC%E3%83%8B%E3%83%86%E3%82%A3%22%20102%20Unchained%20Melody%20%E2%80%BB1/10%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### PERIPERA peripera インク ポケット シャドウ パレット 07 ※1/11発売
+
+> **小田切ヒロ**: 「それではスタート! はいまずはアイシャドウ編です わー!春やってきたー!って感じになっておりますけれども いや今回はマジでテンション上がります というのはですね春といってもです毎年毎年トレンドいろいろ違います」
+> [動画を見る](https://www.youtube.com/watch?v=-sXHRcVoR9Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PERIPERA%20peripera%20%E3%82%A4%E3%83%B3%E3%82%AF%20%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2007%20%E2%80%BB1/11%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PERIPERA%20peripera%20%E3%82%A4%E3%83%B3%E3%82%AF%20%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2007%20%E2%80%BB1/11%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 07 cassis beige bloom ※1/10限定発売
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=-sXHRcVoR9Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2007%20cassis%20beige%20bloom%20%E2%80%BB1/10%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2007%20cassis%20beige%20bloom%20%E2%80%BB1/10%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット＋  009 Enchanted Lilac
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「いかがでしょうか すっごい健康的じゃない 今日はチークもアイシャドウも つけてないんですけれども 今リップをさした瞬間にです見て すっごく生き生きして見えますよこのコビナイピンク これがです」
+> [動画を見る](https://www.youtube.com/watch?v=0VEmKeIRzDk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%8B%20%20009%20Enchanted%20Lilac&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BC%8B%20%20009%20Enchanted%20Lilac/?af=mobi.0319)
+
+---
+
+### LAKA Laka モノアイシャドウ #908 バニラ
+
+**価格**: 1045円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=62dBYwQ5WX0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LAKA%20Laka%20%E3%83%A2%E3%83%8E%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%23908%20%E3%83%90%E3%83%8B%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LAKA%20Laka%20%E3%83%A2%E3%83%8E%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%23908%20%E3%83%90%E3%83%8B%E3%83%A9/?af=mobi.0319)
+
+---
+
+### NARS NARS ラグナ アルティメイト　フェイスパレット　※4/10限定発売
+
+**価格**: 8800円
+
+> **小田切ヒロ**: 「限定品なんですけれども NARSのラグーナアルティメットフェイスパレットというですこれはもう久しぶりに触れました まあイケてるフェイスパレットになりますので 基本はブロンザーにハイライターに こちらはアイシャドウになります 色味はです」
+> [動画を見る](https://www.youtube.com/watch?v=6tCEivaxAx0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%B0%E3%83%8A%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%88%E3%80%80%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%E2%80%BB4/10%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%B0%E3%83%8A%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%88%E3%80%80%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%E2%80%BB4/10%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオール バックステージ コントゥール パレット 001 ユニバーサル
+
+> **小田切ヒロ**: 「日焼け感を演出するというカラーになります そしてこちらはディオールのコントワーリングパレットになるんですけれども こちらはグレートーンのものからベージュのものから ハイライトそして日焼け感を演出するためのカラーが入っております」
+> [動画を見る](https://www.youtube.com/watch?v=ANuxa34vIRc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20001%20%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20001%20%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 01 beige bloom
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「こちらジルスチュアートブルーブニュアンスアイブロウパレット01番もうこれがですね私なぜか6月ずっとこれ使ってたんですよ そうなんかねピンクのニュアンスが欲しくてそうメイクアップの中でねやっぱりその時のマイブームってあります」
+> [動画を見る](https://www.youtube.com/watch?v=B1Xvm1DewB4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2001%20beige%20bloom&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2001%20beige%20bloom/?af=mobi.0319)
+
+---
+
+### CEZANNE CEZANNE ビタートーンアイシャドウ 03 ビスケットブラウン
+
+**価格**: 748円
+
+> **小田切ヒロ**: 「そこで使っていくのがこちら セザンヌビタートーンアイシャドウ03 ビスケットブラウンを使っていきます もうまさにこのベージュのカラー これは比較的王道と言われる4色展開になっているんです」
+> [動画を見る](https://www.youtube.com/watch?v=B3FYHaJoY_I)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%93%E3%82%BF%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%2003%20%E3%83%93%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20CEZANNE%20%E3%83%93%E3%82%BF%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%2003%20%E3%83%93%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/?af=mobi.0319)
+
+---
+
+### CEZANNE #メイク #アイメイク #セザンヌ # #コスメ #プチプラ #プチプラコスメ #アイシャドウ #アイシャドウグラデ #グラデーション #ブラウンメイク #小田切ヒロ
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=B3FYHaJoY_I)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%82%A2%E3%82%A4%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%23%20%23%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%20%23%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%23%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%B0%E3%83%A9%E3%83%87%20%23%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%23%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%82%A2%E3%82%A4%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%23%20%23%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%20%23%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%23%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%B0%E3%83%A9%E3%83%87%20%23%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%23%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット + 007　※8/2発売
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「それではスタート それでは早速こちらアイシャドウたちのご紹介ここに並んでいるものはですねもう私がもう絶対これはいいよねっていうものをですセレクトさせていただいております そうパッとご覧いただきます」
+> [動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2B%20007%E3%80%80%E2%80%BB8/2%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2B%20007%E3%80%80%E2%80%BB8/2%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### PAUL & JOE PAUL & JOE アイデザイン パレット 08　※8/1発売
+
+**価格**: 5500円
+
+> **小田切ヒロ**: 「今までのルナソルのアイカラーパレットも とっても使いやすかったですよしかしですより馴染みやすくより使いやす」
+> [動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PAUL%20%26%20JOE%20PAUL%20%26%20JOE%20%E3%82%A2%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2008%E3%80%80%E2%80%BB8/1%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PAUL%20%26%20JOE%20PAUL%20%26%20JOE%20%E3%82%A2%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2008%E3%80%80%E2%80%BB8/1%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### THREE THREE スターゲージング アイシャドウクアッド X01　※7/31発売
+
+**価格**: 7480円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=THREE%20THREE%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%20X01%E3%80%80%E2%80%BB7/31%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/THREE%20THREE%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%20X01%E3%80%80%E2%80%BB7/31%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### RMK RMK シンクロマティック アイシャドウパレット EX-09　※7/26限定発売
+
+**価格**: 6380円
+
+> **小田切ヒロ**: 「彩度の低いグリーンが セッティングされている アイシャドウパレットがありますので これまたとっても分かりやすく とにかく彩度の低いグリーン これが一色入っているということが 条件になります 全体的に今年の秋のトレンドというのはです」
+> [動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20EX-09%E3%80%80%E2%80%BB7/26%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20EX-09%E3%80%80%E2%80%BB7/26%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 全6種
+
+**価格**: 3850円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A86%E7%A8%AE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A86%E7%A8%AE/?af=mobi.0319)
+
+---
+
+### WAKEMAKE WAKEMAKE ソフトシアーマルチパレット 02 レイジーローズ
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=BjQQhcARcoE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
+
+---
+
+### WAKEMAKE WAKEMAKE ソフトブラーリングアイパレット 17 ライムクラッシュブラーリング
+
+**価格**: 2970円
+
+> **小田切ヒロ**: 「アイシャドウ部門です ウェイクメイクソフトブラーリングアイパレット 17ライムクラッシュブラーリング今期のプチプラアイシャドウといえば もうウェイクメイクのこちらのカラーが一択でございました いろんなタイプのアイシャドウ出てました」
+> [動画を見る](https://www.youtube.com/watch?v=H8zYLpzK52Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2017%20%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2017%20%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウパレット "アウト オブ ユア シェル" 102 Sunrise Tide　※限定色
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「これねクルトポーボーテのこちらのネイビーのアイシャドウパレット単色系のカラーなんですけれども 私ねこれアイライン使いしていただきたいんですよ これは105番のですねディープブルーオーシャンというカラーで まさに深海のお色を演出したカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=dBXgLaHle-o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%22%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%AA%E3%83%96%20%E3%83%A6%E3%82%A2%20%E3%82%B7%E3%82%A7%E3%83%AB%22%20102%20Sunrise%20Tide%E3%80%80%E2%80%BB%E9%99%90%E5%AE%9A%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%22%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%AA%E3%83%96%20%E3%83%A6%E3%82%A2%20%E3%82%B7%E3%82%A7%E3%83%AB%22%20102%20Sunrise%20Tide%E3%80%80%E2%80%BB%E9%99%90%E5%AE%9A%E8%89%B2/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ 限定2色
+
+**価格**: 2200円
+
+> **小田切ヒロ**: 「見つけたら即買いわーっとアイシャドウ すごいでしょ これはですね、今年の夏に登場するアイシャドウたちなんですけれども 今年の夏というのもですね、」
+> [動画を見る](https://www.youtube.com/watch?v=dBXgLaHle-o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E9%99%90%E5%AE%9A2%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E9%99%90%E5%AE%9A2%E8%89%B2/?af=mobi.0319)
+
+---
+
+### WAKEMAKE WAKEMAKE ソフトカラーリングリップパレット 全2色
+
+**価格**: 2970円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=dBXgLaHle-o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A82%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/WAKEMAKE%20WAKEMAKE%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A82%E8%89%B2/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット 全11色
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「このトムフォードのアイシャドウパレット これもまた私おすすめなものがありまして 私ねエミリンちゃんにはやっぱり このローズ系のカラーがいいと思うの そうなんです」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A811%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A811%E8%89%B2/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 02 greige bloom
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「こちらジルスチュアートのアイブロウパレット このカラーがまたです今日のメイクにピッタンコなのよ ニュアンスですそうなの これを使って こちら2色ミックスしたものを もともとにこるちゃんはです毛があります」
+> [動画を見る](https://www.youtube.com/watch?v=iEoDGHMdmx8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20greige%20bloom&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20greige%20bloom/?af=mobi.0319)
+
+---
+
+### ルナ DAISY DOLL by MARY QUANT デイジードール アイカラー パレット BR-06 キャラメルナッツ
+
+**価格**: 1430円
+
+> **小田切ヒロ**: 「次はです小田切さんが去年 下半期ベスコスで紹介したデイジードールのリップスティックが結構バズってて なるほど それでなんか他のデイジードールの紹介 してくれたら嬉しいですってあったので 今回結構用意してみました 分かりました いやとにかく可愛いんです」
+> [動画を見る](https://www.youtube.com/watch?v=IpuewC4E-W4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AB%E3%83%8A%20DAISY%20DOLL%20by%20MARY%20QUANT%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20BR-06%20%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%83%8A%E3%83%83%E3%83%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AB%E3%83%8A%20DAISY%20DOLL%20by%20MARY%20QUANT%20%E3%83%87%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20BR-06%20%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%83%8A%E3%83%83%E3%83%84/?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオール バックステージ アイ パレット 002 スモーキー
+
+**価格**: 7040円
+
+> **小田切ヒロ**: 「次はですねディオールなんですけど なんか最近バックステージのアイパレットがリニューアルされたんですその002番が少し変わったから ちょっと使い方がわからないっていう声もきまして こちらはい一見するとすごい難しそうです」
+> [動画を見る](https://www.youtube.com/watch?v=IpuewC4E-W4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20002%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20002%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 04 violet bloom
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「次に眉毛をこちらを使っていきます ジルスチュアートブルームニュアンスブロウパレット04を使っていきます もうこちらのカラーねもうピンクニュアンスですので 濃いカラーとこの真ん中のカラーをミックスしたものを こちらそういうアイブロウブラシでのせていきます」
+> [動画を見る](https://www.youtube.com/watch?v=lP071SspST0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20violet%20bloom&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20violet%20bloom/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura シュウ ウエムラ × TASAKI パール レベル クラッチ アイシャドー パレット　 ⓒ2024 TASAKI
+
+**価格**: 11000円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%B7%E3%83%A5%E3%82%A6%20%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%C3%97%20TASAKI%20%E3%83%91%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%83%99%E3%83%AB%20%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%20%E2%93%922024%20TASAKI&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%B7%E3%83%A5%E3%82%A6%20%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%C3%97%20TASAKI%20%E3%83%91%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%83%99%E3%83%AB%20%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%20%E2%93%922024%20TASAKI/?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオール バックステージ アイ パレット 004 セレスティアル パープル　※11/15数量限定発売
+
+**価格**: 7040円
+
+> **小田切ヒロ**: 「おすすめそして次はこちら ディオールもうディオールも毎シーズン クリスマスコフレは欠かせませんよ なんと今回はですベルサイユ宮殿の仮面武道会がです」
+> [動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20004%20%E3%82%BB%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AB%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%80%80%E2%80%BB11/15%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%82%A2%E3%82%A4%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20004%20%E3%82%BB%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AB%20%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%80%80%E2%80%BB11/15%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット + “スルー ザ グラス” 102 Antique Glass  ※10/25限定発売
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「バッグのように見えながら 中はアイシャドウパレット ミュートトーンとラメとグリッターのこのコーディネート これどちらかというとです」
+> [動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2B%20%E2%80%9C%E3%82%B9%E3%83%AB%E3%83%BC%20%E3%82%B6%20%E3%82%B0%E3%83%A9%E3%82%B9%E2%80%9D%20102%20Antique%20Glass%20%20%E2%80%BB10/25%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2B%20%E2%80%9C%E3%82%B9%E3%83%AB%E3%83%BC%20%E3%82%B6%20%E3%82%B0%E3%83%A9%E3%82%B9%E2%80%9D%20102%20Antique%20Glass%20%20%E2%80%BB10/25%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### RMK RMK ザ ピンク ハイ アイズ ＆ ブラッシュ パレット 全1種　※11/1数量限定発売
+
+**価格**: 8250円
+
+> **小田切ヒロ**: 「いや今回こちらのポーチとなるこのパレットバッグのように見えながら 中はアイシャドウパレット ミュートトーンとラメとグリッターのこのコーディネート これどちらかというとです」
+> [動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%82%B6%20%E3%83%94%E3%83%B3%E3%82%AF%20%E3%83%8F%E3%82%A4%20%E3%82%A2%E3%82%A4%E3%82%BA%20%EF%BC%86%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A81%E7%A8%AE%E3%80%80%E2%80%BB11/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%82%B6%20%E3%83%94%E3%83%B3%E3%82%AF%20%E3%83%8F%E3%82%A4%20%E3%82%A2%E3%82%A4%E3%82%BA%20%EF%BC%86%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%85%A81%E7%A8%AE%E3%80%80%E2%80%BB11/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### THREE スターゲージングアイシャドウクアッド 06 MYSTERIOUS MISTER
+
+**価格**: 7480円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=mwzQBT9otgQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=THREE%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%2006%20MYSTERIOUS%20MISTER&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/THREE%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%AF%E3%82%A2%E3%83%83%E3%83%89%2006%20MYSTERIOUS%20MISTER/?af=mobi.0319)
+
+---
+
+### benefit Benefit ブラッシュ ボス ブラッシュ ブロンズ & ハイライトパレット
+
+> **小田切ヒロ**: 「うーん 今韓国のトレンドはアンダーアイブラッシュ これ日本で言うか アンダーアイブラッシュ こっからチークがブワーっと外側に広がってるのがトレンドなのよ はいはいで、」
+> [動画を見る](https://www.youtube.com/watch?v=NCV0JaEL4_g)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=benefit%20Benefit%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%9C%E3%82%B9%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%20%26%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/benefit%20Benefit%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%9C%E3%82%B9%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%20%26%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319)
+
+---
+
+### LUNA LUNA コンシールブレンダーパレット 04 パーフェクトカバーミディアム
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=o-9-6bzOLNw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNA%20LUNA%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%AB%E3%83%90%E3%83%BC%E3%83%9F%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNA%20LUNA%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2004%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%AB%E3%83%90%E3%83%BC%E3%83%9F%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A0/?af=mobi.0319)
+
+---
+
+### NARS NARS ラグナ アルティメイト フェイスパレット ※限定品
+
+**価格**: 8800円
+
+> **小田切ヒロ**: 「そこで使っていくのがこちら NARSのですねリキッドチークでオーガズムラッシュっていうカラーなの すごく可愛くない? すごい綺麗でしょ すごい高発色なんですけど これのお顔全体にのせていきます」
+> [動画を見る](https://www.youtube.com/watch?v=o9xG7cGr7ik)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%B0%E3%83%8A%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%88%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E2%80%BB%E9%99%90%E5%AE%9A%E5%93%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%B0%E3%83%8A%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%88%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E2%80%BB%E9%99%90%E5%AE%9A%E5%93%81/?af=mobi.0319)
+
+---
+
+### NARS #小田切ヒロ #メイク #コスメ #夏メイク #夏コスメ #新作コスメ #アイシャドウ #ディオール #リップ #shuuemura # #プチプラ #おすすめ
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=o9xG7cGr7ik)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E5%A4%8F%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E5%A4%8F%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E6%96%B0%E4%BD%9C%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%23%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%23%E3%83%AA%E3%83%83%E3%83%97%20%23shuuemura%20%23%20%23%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%20%23%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20%23%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%92%E3%83%AD%20%23%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E5%A4%8F%E3%83%A1%E3%82%A4%E3%82%AF%20%23%E5%A4%8F%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E6%96%B0%E4%BD%9C%E3%82%B3%E3%82%B9%E3%83%A1%20%23%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%23%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%23%E3%83%AA%E3%83%83%E3%83%97%20%23shuuemura%20%23%20%23%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%20%23%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/?af=mobi.0319)
+
+---
+
+### RIMMEL RIMMEL ワンダー スウィート アイシャドウ 010 バニラミントショコラ　※限定色
+
+**価格**: 1760円
+
+> **小田切ヒロ**: 「こういったふんわり柔らかいタイプの アイシャドウをぼかすぐらいのブラシでのせていただきますと 尻面ジワーすらも出さない ちゃんとカバーをすることができます そしてもう一個ポイントなのがです年齢重ねますと フレームに彫りが出てきます」
+> [動画を見る](https://www.youtube.com/watch?v=RP49Y-05tEk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RIMMEL%20RIMMEL%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%20%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%88%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20010%20%E3%83%90%E3%83%8B%E3%83%A9%E3%83%9F%E3%83%B3%E3%83%88%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%80%80%E2%80%BB%E9%99%90%E5%AE%9A%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RIMMEL%20RIMMEL%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%20%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%88%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20010%20%E3%83%90%E3%83%8B%E3%83%A9%E3%83%9F%E3%83%B3%E3%83%88%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%80%80%E2%80%BB%E9%99%90%E5%AE%9A%E8%89%B2/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 06 maple red bloom
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「アイブロウはこちらを使っていきます ジルスシュアート ブルームニュアンスアイブロウパレット06を使っていきます もうアイブロウはベーシックに ブラウンを使うんですけれども ブラウンに赤みをちょっと含ませた もうアイシャドウとの同系色 奥二重のまぶたさんというのはです」
+> [動画を見る](https://www.youtube.com/watch?v=vcDK3JMOuUk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2006%20maple%20red%20bloom&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2006%20maple%20red%20bloom/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット ＋ 006 Hidden Orchid
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「そこで使っていくのが アディクションザアイシャドウパレット006番 こうね透明感爆上がりの そうちょっとブルーベース系のアイシャドウなんです」
+> [動画を見る](https://www.youtube.com/watch?v=xAUc1OsbUV0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%EF%BC%8B%20006%20Hidden%20Orchid&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%EF%BC%8B%20006%20Hidden%20Orchid/?af=mobi.0319)
+
+---
+
+### NARS NARS スモールアイシャドーブラシ
+
+**価格**: 4180円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=xAUc1OsbUV0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%96%E3%83%A9%E3%82%B7/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION ザ アイシャドウ パレット + 008 Miss Mauve
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「パウダーでセッティング 顎もちょろっと そしてアイシャドウをつけるベースとして こちらを二重ラインの部分とラッシュライン 二重ラインの部分とラッシュライン そうこの部分だけ こうす」
+> [動画を見る](https://www.youtube.com/watch?v=XcUsP6Xw6pI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2B%20008%20Miss%20Mauve&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%2B%20008%20Miss%20Mauve/?af=mobi.0319)
+
+---
+
+### IPSA IPSA アイブロウ クリエイティブパレット
+
+**価格**: 4620円
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=_0xQi3hT6P4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=IPSA%20IPSA%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%20%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/IPSA%20IPSA%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%20%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319)
 
 ---

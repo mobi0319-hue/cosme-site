@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したその他おすすめ79選
+# 【2026年04月版】YouTuberが複数紹介したその他おすすめ92選
 
 複数の美容系YouTuberが**独立して紹介**したその他アイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -9,83 +9,96 @@
 
 1. **NARS** NARS ライトリフレクティングセッティングパウダー — 6人が紹介
 2. **CHANEL** CHANEL — 6人が紹介
-3. **TAG** 【Insram】 — 5人が紹介
-4. **TAG** ▷Insramやってます😊 — 4人が紹介
+3. **TAG** 【Insram】 — 6人が紹介
+4. **TAG** ▷Insramやってます😊 — 5人が紹介
 5. **メイベリン** 提供： ニューヨーク — 4人が紹介
 6. **REJURAN（リジュラン）** REJURAN — 3人が紹介
 7. **コスメデコルテ** コスメデコルテ トーンパーフェクティングパレット 01 — 3人が紹介
-8. **LUNASOL** アイカラーレーションN — 3人が紹介
-9. **MAYBELLINE** MAYBELLINE NEW YORK メイベリン SP フ — 3人が紹介
-10. **WAKEMAKE** 提供： — 3人が紹介
-11. **エレガンス** 27.Elégance（） — 3人が紹介
-12. **キス** マジョリカマジョルカ　ラッシュエパンダードーリーカール — 3人が紹介
-13. **ロート** プロモーション：製薬株式会社 — 3人が紹介
-14. **AMUSE** AMUSE(アミューズ) — 2人が紹介
-15. **SHARP（シャープ）** プラズマクラスターヘアブラシ — 2人が紹介
-16. **CEZANNE（セザンヌ）** CEZANNE フェイスグロウカラー 03 ロマンスグロウ — 2人が紹介
-17. **SUQQU（スック）** SUQQU メイクアップ キット 舜華 11/1数量限定発売 — 2人が紹介
-18. **ジルスチュアート** ジルスチュアート リボンファッションショー コレクション 1 — 2人が紹介
-19. **プリマヴィスタ** プリマヴィスタ プレメイクアップ ジェルウォッシュ — 2人が紹介
-20. **VODANA** GLAMWAVE CURLING IRON 40mm Pow — 2人が紹介
-21. **ETVOS（エトヴォス）** ETVOS ミネラルクラッシィシャドー シフォンアンサンブル — 2人が紹介
-22. **セザンヌ** セザンヌ フェイスグロウカラー 01 — 2人が紹介
-23. **ルナソル** ルナソル アイカラーレーションＮ 04,05,06 ※1/2 — 2人が紹介
-24. **EXCEL** excel リアルクローズシャドウ ＣＸ — 2人が紹介
-25. **too cool for school** too cool for school　フロッタージュペンシ — 2人が紹介
-26. **rom&nd** rom&nd ロムアンド ハンオールブロウカラ — 2人が紹介
-27. **イヴ・サンローラン** クチュール ミニ クラッチ No.100 ストラ ドールズ — 2人が紹介
-28. **SHISEIDO** Shiseido ミニアイラッシュカーラー — 2人が紹介
-29. **トーン** lauramercier フローレス ルミエール ラディアン — 2人が紹介
-30. **ディオール** ディオールスキン フォーエヴァー/クチュール ルミナイザー/ — 2人が紹介
-31. **エクセル** サナ エクセル スキニーリッチシャドウnrj06589 sk — 2人が紹介
-32. **コスメデコルテ** ダズリング ジェム  02 — 2人が紹介
-33. **ディオール** ミス  ブルーミング ブーケ ミニ ミス — 2人が紹介
-34. **ディオール** スキン フォーエヴァー グロウ マキシマイザー パーリー — 2人が紹介
-35. **トーン** Wonjungyo アップ　フィルタークッション 03 シャ — 2人が紹介
-36. **SABON** SABON フェイスポリッシャー リフレッシング / 200 — 2人が紹介
-37. **Dior** DIOR ディオールスキン フォーエヴァー ベルベット ヴェ — 2人が紹介
-38. **Dior** DIOR ディオールショウ サンク クルール 429 トワル — 2人が紹介
-39. **ADDICTION** ADDICTION シルキーバームスティック — 2人が紹介
-40. **SUQQU** SUQQU コンプレクション フェイス カラー 01 初心色 — 2人が紹介
-41. **ルナ** MAKE UP FOR EVER アーティストカラーペンシル — 2人が紹介
-42. **スリー** LANEIGE ウォータースリーピングマスク N 70ml — 2人が紹介
-43. **GIVENCHY** GIVENCHY プリズム・リーブル・スキンケアリング・コレ — 2人が紹介
-44. **ミルクタッチ** ミルクタッチ — 2人が紹介
-45. **ETUDE** 提供： — 2人が紹介
-46. **TAG** 友利新のInstagram — 2人が紹介
-47. **ヒロインメイク** 提供： — 2人が紹介
-48. **CLIO** CLIO キルカバーメッシュグロウ エッセンシャルクッション — 2人が紹介
-49. **BANILA CO** BANILA CO/カバーリシャス アルティメット ホワイト — 2人が紹介
-50. **イニスフリー** 提供： — 2人が紹介
-51. **ロート** 提供：製薬 — 2人が紹介
-52. **TAG** ▼公式Insram — 2人が紹介
-53. **ジルスチュアート** 提供：　ビューティ — 2人が紹介
-54. **Elegance** 19. エレガンス（） — 2人が紹介
-55. **ミルクタッチ** 20. milktouch（） — 2人が紹介
-56. **TAG** 「恋庭」公式Instagramアカウント — 2人が紹介
-57. **LUNA** 提供： — 2人が紹介
-58. **花王** 提供：株式会社 — 2人が紹介
-59. **レブロン** フォトレディアンチシャイン バーム — 2人が紹介
-60. **tfit** tfit — 2人が紹介
-61. **スリー** ハクスリー — 2人が紹介
-62. **エクセル** エクセル — 2人が紹介
-63. **セザンヌ** セザンヌ — 2人が紹介
-64. **rom&nd** rom&nd シアーティンテッドスティック — 2人が紹介
-65. **ヴィセ** 提供：Visée () — 2人が紹介
-66. **ラネージュ** ラネージュ　第一弾 — 2人が紹介
-67. **NARS** NARS — 2人が紹介
-68. **ディオール** スキンフォーエヴァースキンパーフェクトスティック — 2人が紹介
-69. **コスメデコルテ** DECORTÉ () [4/16発売] — 2人が紹介
-70. **マック** M･A･C () — 2人が紹介
-71. **オルビス** エッセンスインヘアミルク — 2人が紹介
-72. **ラロッシュポゼ** シカプラストバーム — 2人が紹介
-73. **MEDULLA** #プロモーション# — 2人が紹介
-74. **クリオ** メガ割に合わせて大人気アイテムがフルーツマーケットテーマに合 — 2人が紹介
-75. **CLIO** のオフィシャルアカウントはこちら — 2人が紹介
-76. **TAG** 【カラリア マガジン 公式Insram】 — 2人が紹介
-77. **TAG** ▼Insram▼ — 2人が紹介
-78. **Dior** Christian　 Addict Eau Fraiche — 2人が紹介
-79. **COSRX** 提供： — 2人が紹介
+8. **MAJOLICA MAJORCA** ラッシュエキスパンダー ロングロングロング EX — 3人が紹介
+9. **LUNASOL** アイカラーレーションN — 3人が紹介
+10. **MAYBELLINE** MAYBELLINE NEW YORK メイベリン SP フ — 3人が紹介
+11. **TAG** 友利新のInstagram — 3人が紹介
+12. **WAKEMAKE** 提供： — 3人が紹介
+13. **エレガンス** 27.Elégance（） — 3人が紹介
+14. **キス** マジョリカマジョルカ　ラッシュエパンダードーリーカール — 3人が紹介
+15. **ロート** プロモーション：製薬株式会社 — 3人が紹介
+16. **AMUSE** AMUSE(アミューズ) — 2人が紹介
+17. **SHARP（シャープ）** プラズマクラスターヘアブラシ — 2人が紹介
+18. **CEZANNE（セザンヌ）** CEZANNE フェイスグロウカラー 03 ロマンスグロウ — 2人が紹介
+19. **SUQQU（スック）** SUQQU メイクアップ キット 舜華 11/1数量限定発売 — 2人が紹介
+20. **ジルスチュアート** ジルスチュアート リボンファッションショー コレクション 1 — 2人が紹介
+21. **プリマヴィスタ** プリマヴィスタ プレメイクアップ ジェルウォッシュ — 2人が紹介
+22. **VODANA** GLAMWAVE CURLING IRON 40mm Pow — 2人が紹介
+23. **ETVOS（エトヴォス）** ETVOS ミネラルクラッシィシャドー シフォンアンサンブル — 2人が紹介
+24. **セザンヌ** セザンヌ フェイスグロウカラー 01 — 2人が紹介
+25. **ルナソル** ルナソル アイカラーレーションＮ 04,05,06 ※1/2 — 2人が紹介
+26. **EXCEL** excel リアルクローズシャドウ ＣＸ — 2人が紹介
+27. **too cool for school** too cool for school　フロッタージュペンシ — 2人が紹介
+28. **rom&nd** rom&nd ロムアンド ハンオールブロウカラ — 2人が紹介
+29. **イヴ・サンローラン** クチュール ミニ クラッチ No.100 ストラ ドールズ — 2人が紹介
+30. **SHISEIDO** Shiseido ミニアイラッシュカーラー — 2人が紹介
+31. **Dior** Dior ディオールスキン フォーエヴァー グロウ マキシマ — 2人が紹介
+32. **トーン** lauramercier フローレス ルミエール ラディアン — 2人が紹介
+33. **資生堂** 資生堂 ミニアイラッシュカーラー — 2人が紹介
+34. **ディオール** ディオールスキン フォーエヴァー/クチュール ルミナイザー/ — 2人が紹介
+35. **エクセル** サナ エクセル スキニーリッチシャドウnrj06589 sk — 2人が紹介
+36. **コスメデコルテ** ダズリング ジェム  02 — 2人が紹介
+37. **ディオール** ミス  ブルーミング ブーケ ミニ ミス — 2人が紹介
+38. **ディオール** スキン フォーエヴァー グロウ マキシマイザー パーリー — 2人が紹介
+39. **トーン** Wonjungyo アップ　フィルタークッション 03 シャ — 2人が紹介
+40. **スリー** LANEIGE バウンシースリーピングマスク 60mL — 2人が紹介
+41. **SABON** SABON フェイスポリッシャー リフレッシング / 200 — 2人が紹介
+42. **Dior** DIOR ディオールスキン フォーエヴァー ベルベット ヴェ — 2人が紹介
+43. **Dior** DIOR ディオールショウ サンク クルール 429 トワル — 2人が紹介
+44. **dejavu** dejavu ラッシュアップ ブラック — 2人が紹介
+45. **ADDICTION** ADDICTION シルキーバームスティック — 2人が紹介
+46. **SUQQU** SUQQU コンプレクション フェイス カラー 01 初心色 — 2人が紹介
+47. **Dior** ディオールスキン フォーエヴァー グロウ ルミナイザー 05 — 2人が紹介
+48. **ルナ** MAKE UP FOR EVER アーティストカラーペンシル — 2人が紹介
+49. **スリー** LANEIGE ウォータースリーピングマスク N 70ml — 2人が紹介
+50. **NARS** NARS アイラッシュカーラー — 2人が紹介
+51. **GIVENCHY** GIVENCHY ウィンター ビューティー キット  ※11 — 2人が紹介
+52. **Dior** DIOR ディオールスキン フォーエヴァー グロウ マキシマ — 2人が紹介
+53. **GIVENCHY** GIVENCHY プリズム・リーブル・スキンケアリング・コレ — 2人が紹介
+54. **ミルクタッチ** ミルクタッチ — 2人が紹介
+55. **ETUDE** 提供： — 2人が紹介
+56. **ヒロインメイク** 提供： — 2人が紹介
+57. **CLIO** CLIO キルカバーメッシュグロウ エッセンシャルクッション — 2人が紹介
+58. **BANILA CO** BANILA CO/カバーリシャス アルティメット ホワイト — 2人が紹介
+59. **イニスフリー** 提供： — 2人が紹介
+60. **ロート** 提供：製薬 — 2人が紹介
+61. **TAG** ▼公式Insram — 2人が紹介
+62. **ジルスチュアート** 提供：　ビューティ — 2人が紹介
+63. **Elegance** 19. エレガンス（） — 2人が紹介
+64. **ミルクタッチ** 20. milktouch（） — 2人が紹介
+65. **CLARINS** CLARINS フィックス メイクアップ N — 2人が紹介
+66. **TAG** 「恋庭」公式Instagramアカウント — 2人が紹介
+67. **KATE** ダブルラインエキスパート LB-1 — 2人が紹介
+68. **LUNA** 提供： — 2人が紹介
+69. **花王** 提供：株式会社 — 2人が紹介
+70. **レブロン** フォトレディアンチシャイン バーム — 2人が紹介
+71. **tfit** tfit — 2人が紹介
+72. **スリー** ハクスリー — 2人が紹介
+73. **エクセル** エクセル — 2人が紹介
+74. **セザンヌ** セザンヌ — 2人が紹介
+75. **rom&nd** rom&nd シアーティンテッドスティック — 2人が紹介
+76. **ヴィセ** 提供：Visée () — 2人が紹介
+77. **ラネージュ** ラネージュ　第一弾 — 2人が紹介
+78. **NARS** NARS — 2人が紹介
+79. **ディオール** スキンフォーエヴァースキンパーフェクトスティック — 2人が紹介
+80. **コスメデコルテ** DECORTÉ () [4/16発売] — 2人が紹介
+81. **マック** M･A･C () — 2人が紹介
+82. **オルビス** エッセンスインヘアミルク — 2人が紹介
+83. **GIVENCHY** ※数量限定 — 2人が紹介
+84. **ラロッシュポゼ** シカプラストバーム — 2人が紹介
+85. **Dior** ディオールスキン フォーエヴァー スキン パーフェクト ステ — 2人が紹介
+86. **MEDULLA** #プロモーション# — 2人が紹介
+87. **クリオ** メガ割に合わせて大人気アイテムがフルーツマーケットテーマに合 — 2人が紹介
+88. **CLIO** のオフィシャルアカウントはこちら — 2人が紹介
+89. **TAG** 【カラリア マガジン 公式Insram】 — 2人が紹介
+90. **TAG** ▼Insram▼ — 2人が紹介
+91. **Dior** Christian　 Addict Eau Fraiche — 2人が紹介
+92. **COSRX** 提供： — 2人が紹介
 
 ---
 
@@ -126,11 +139,11 @@
 
 ### TAG 【Insram】
 
-**5人のYouTuberが紹介**
+**6人のYouTuberが紹介**
 
 動画の概要欄で紹介されています。
 
-**紹介YouTuber**: さぁや saaya / nanakoななこ / EGA.channel / かす / ゆりなYurina's Diary
+**紹介YouTuber**: さぁや saaya / nanakoななこ / EGA.channel / かす / ゆりなYurina's Diary / KAWAII PATEEN
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%80%90Insram%E3%80%91&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%80%90Insram%E3%80%91/?af=mobi.0319)
 
@@ -138,11 +151,11 @@
 
 ### TAG ▷Insramやってます😊
 
-**4人のYouTuberが紹介**
+**5人のYouTuberが紹介**
 
 動画の概要欄で紹介されています。
 
-**紹介YouTuber**: 韓国オンニAちゃん (会社員J) / ゆきりぬ / Marina Takewaki / miku / 未来
+**紹介YouTuber**: 韓国オンニAちゃん (会社員J) / ゆきりぬ / Marina Takewaki / miku / 未来 / KAWAII PATEEN
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E2%96%B7Insram%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%F0%9F%98%8A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E2%96%B7Insram%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%F0%9F%98%8A/?af=mobi.0319)
 
@@ -198,6 +211,22 @@
 
 ---
 
+### MAJOLICA MAJORCA ラッシュエキスパンダー ロングロングロング EX
+
+![MAJOLICA MAJORCA ラッシュエキスパンダー ロングロングロング EX](https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025021718/20250217200012_94_1.jpg?_ex=500x500)
+
+**価格**: 1210円 | **3人のYouTuberが紹介**
+
+> **鹿の間**: 「がマジョリカマジョルカの ラッシュエキスパンダーロングロングロングのRD505使っていきます 今日は下まつ毛からやっていくんですが 2、」
+> [動画を見る](https://www.youtube.com/watch?v=TfXphx1tQGc)
+
+> **KAWAII PATEEN**: 「マスカラは マジョリカマジョルカの ラッシュエキスパンダロングロングロングっていう ロングタイプのマスカラです このマスカラは長くなるタイプで 繊維もたくさん入ってて これを使ってます 次にアイライナーを引きます」
+> [動画を見る](https://www.youtube.com/watch?v=dABN1N7Sotc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAJOLICA%20MAJORCA%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20EX&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAJOLICA%20MAJORCA%20%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%B3%E3%83%80%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20EX/?af=mobi.0319)
+
+---
+
 ### LUNASOL アイカラーレーションN
 
 ![LUNASOL アイカラーレーションN](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/09877751/4973167011973-01.jpg?_ex=500x500)
@@ -209,6 +238,9 @@
 
 > **小田切ヒロ**: 「ルナソル アイカラーレーションN 06番をアイシャドウパレット部門で選出。カラーの重なりが毎回素晴らしいと絶賛。」
 > [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+
+> **HIRO BEAUTY CHANNEL**: 「こちらルナソルアイカラーレーションN02 ビタミンA ビタミンA ビタロマンスでしょう もうこれもですねお気に入りと そしてやっぱりルナソル あのね使いやすさがもちろんなんですけれども 使いやす」
+> [動画を見る](https://www.youtube.com/watch?v=B1Xvm1DewB4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167011973&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167066041/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -227,6 +259,17 @@
 > [動画を見る](https://www.youtube.com/watch?v=l_lkGH_M5VY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20%E3%83%A1%E3%82%A4%E3%83%99%E3%83%AA%E3%83%B3%20SP%20%E3%83%95%E3%83%A9%E3%83%83%E3%83%95%20%E3%83%96%E3%83%AD%E3%82%A6%20%E3%83%A0%E3%83%BC%E3%82%B9%2002%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-6902395856214/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### TAG 友利新のInstagram
+
+**3人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「私SNSやっておりまして TwitterとInstagramやっております Twitterの方はアカウントが 多分ジラっていう名前のアカウントでやらせていただいてます そちらの方はもう完全にコスプレのアカウントになっております」
+> [動画を見る](https://www.youtube.com/watch?v=fCBIk_AiSng)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E5%8F%8B%E5%88%A9%E6%96%B0%E3%81%AEInstagram&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E5%8F%8B%E5%88%A9%E6%96%B0%E3%81%AEInstagram/?af=mobi.0319)
 
 ---
 
@@ -505,6 +548,22 @@
 
 ---
 
+### Dior Dior ディオールスキン フォーエヴァー グロウ マキシマイザー パーリー
+
+![Dior Dior ディオールスキン フォーエヴァー グロウ マキシマイザー パーリー](https://thumbnail.image.rakuten.co.jp/@0_mall/emporio8888/cabinet/10841199/imgrc0143151586.jpg?_ex=500x500)
+
+**価格**: 5490円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「さあ続いてはディオールスキーの フォーエバーグロウマキシマイザーパーリーパーリー めっちゃテンション高い名前だなって思ったら こっちのパーリーだった いつも可愛がってくれる憧れのモデルをしているお姉さまがいるんです」
+> [動画を見る](https://www.youtube.com/watch?v=JIEg1Q62V1o)
+
+> **HIRO BEAUTY CHANNEL**: 「ディオロスキンフォーエバーグロウマキシマイザー パーリーというホワイトのカラーになります こちらはホワイトといっても白ではなく 色が出ないタイプの シルバーのグリッターやラメが入っている タイプのハイライターなんですが 少量だけです」
+> [動画を見る](https://www.youtube.com/watch?v=6tCEivaxAx0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%91%E3%83%BC%E3%83%AA%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%91%E3%83%BC%E3%83%AA%E3%83%BC/?af=mobi.0319)
+
+---
+
 ### トーン lauramercier フローレス ルミエール ラディアンス パーフェクティング トーンアップ クッション FAIR ROSE
 
 ![トーン lauramercier フローレス ルミエール ラディアンス パーフェクティング トーンアップ クッション FAIR ROSE](https://thumbnail.image.rakuten.co.jp/@0_mall/blanc-lapin/cabinet/item/lmr/lmrhg0000010m.jpg?_ex=500x500)
@@ -515,6 +574,20 @@
 > [動画を見る](https://www.youtube.com/watch?v=dNG-RE3b2Uo)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20lauramercier%20%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9%20%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20FAIR%20ROSE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0194250052237/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### 資生堂 資生堂 ミニアイラッシュカーラー
+
+![資生堂 資生堂 ミニアイラッシュカーラー](https://thumbnail.image.rakuten.co.jp/@0_mall/hb-navi/cabinet/shiseido/self/01/4909978215477.jpg?_ex=500x500)
+
+**価格**: 880円 | **2人のYouTuberが紹介**
+
+動画の概要欄で紹介されています。
+
+**紹介YouTuber**: 鹿の間 / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4909978215477&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/syouwa/sct1009n/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -611,6 +684,19 @@
 
 ---
 
+### スリー LANEIGE バウンシースリーピングマスク 60mL
+
+![スリー LANEIGE バウンシースリーピングマスク 60mL](https://thumbnail.image.rakuten.co.jp/@0_mall/kankokufoodcosme/cabinet/biiino/item/main-image-4/20250916165701_1.jpg?_ex=500x500)
+
+**価格**: 3960円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「ラネージュの スリーピングマスクの新しいのが登場したのよ これやばいんですよ というのは何がやばいかと申しますと 以前のね私スリーピングマスク ご紹介させていただきましたけれども 水分の保持力肌の弾力すごかったです」
+> [動画を見る](https://www.youtube.com/watch?v=NZXt3kBUZ8A)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20LANEIGE%20%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%2060mL&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/lneec0000007/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### SABON SABON フェイスポリッシャー リフレッシング / 200mL
 
 ![SABON SABON フェイスポリッシャー リフレッシング / 200mL](https://item-shopping.c.yimg.jp/i/l/parfumearth_zzsbn14-0003)
@@ -651,6 +737,19 @@
 
 ---
 
+### dejavu dejavu ラッシュアップ ブラック
+
+![dejavu dejavu ラッシュアップ ブラック](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/018/4903335103018.jpg?_ex=500x500)
+
+**価格**: 1320円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「こちらを使っていきます レジャブラッシュアップマスカラE1を使っていきます これね地まつげとつけまつげミックスするのにすごい良いの 細くて よくない? 確かに細い そうなの これをこういう感じで地まつげとです」
+> [動画を見る](https://www.youtube.com/watch?v=R589rv0atIQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4903335103018&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4903335103018/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### ADDICTION ADDICTION シルキーバームスティック
 
 ![ADDICTION ADDICTION シルキーバームスティック](https://thumbnail.image.rakuten.co.jp/@0_mall/cochume1234/cabinet/imgrc0094189740.jpg?_ex=500x500)
@@ -680,6 +779,19 @@
 
 ---
 
+### Dior ディオールスキン フォーエヴァー グロウ ルミナイザー 05 ブルー ストロボ
+
+![Dior ディオールスキン フォーエヴァー グロウ ルミナイザー 05 ブルー ストロボ](https://thumbnail.image.rakuten.co.jp/@0_mall/luckybravo/cabinet/f/dior8032_001.jpg?_ex=500x500)
+
+**価格**: 7810円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「リオールリオールスキンフォーエバー グロウルミナイザー05ブルーストロボとブルーというのはです透明感を最小キーに引き出しながらも 透け感やなんとなく新しさを感じるカラー その中にですなんとこちらはただのブルーではないんです」
+> [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2005%20%E3%83%96%E3%83%AB%E3%83%BC%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/3348901748032/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### ルナ MAKE UP FOR EVER アーティストカラーペンシル 606 ウェアエバー ウォルナッツ
 
 ![ルナ MAKE UP FOR EVER アーティストカラーペンシル 606 ウェアエバー ウォルナッツ](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/make_up_for_ever/3548752210812-01.jpg?_ex=500x500)
@@ -704,6 +816,51 @@
 > [動画を見る](https://www.youtube.com/watch?v=9FnIrD1CBhA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%AA%E3%83%BC%20LANEIGE%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20N%2070ml&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%AA%E3%83%BC%20LANEIGE%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%AF%20N%2070ml/?af=mobi.0319)
+
+---
+
+### NARS NARS アイラッシュカーラー
+
+![NARS NARS アイラッシュカーラー](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/nars/0607845018308-01.jpg?_ex=500x500)
+
+**価格**: 2970円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「サッと一吐け人生に光と そこで宿すのがあなた NARSのこちらハイライターのエロスというカラーです そう名の通りそうなんですよ あなたこれを何でつけるかと言いますと ブレンディングブラシを使っていきます」
+> [動画を見る](https://www.youtube.com/watch?v=j4vaAySu_po)
+
+> **HIRO BEAUTY CHANNEL**: 「そこで使っていくのがこちらNARSのライトリフレッティングトーンアップベール若干薄いピンクベースのこちら下地なんですけれども 光を受けることによって肌の荒を拡散してパッと綺麗に見せてくれる効果があるんですが これをです」
+> [動画を見る](https://www.youtube.com/watch?v=9Mlr_SH0NAQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/mimori/0607845018308/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### GIVENCHY GIVENCHY ウィンター ビューティー キット  ※11/1数量限定発売
+
+![GIVENCHY GIVENCHY ウィンター ビューティー キット  ※11/1数量限定発売](https://item-shopping.c.yimg.jp/i/l/beautyfiveauc_fr3274872482623)
+
+**価格**: 44550円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「もうこのピュアショット使ってみるとですモロッコビューティーをですもうこのピュアショットで感じていただけると思いますよ 私も大ファンでしたので 以前はこのピュアショット何本もリピートしてる商品になります」
+> [動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%20%E3%82%AD%E3%83%83%E3%83%88%20%20%E2%80%BB11/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/GIVENCHY%20GIVENCHY%20%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%20%E3%82%AD%E3%83%83%E3%83%88%20%20%E2%80%BB11/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### Dior DIOR ディオールスキン フォーエヴァー グロウ マキシマイザー ピンク
+
+![Dior DIOR ディオールスキン フォーエヴァー グロウ マキシマイザー ピンク](https://thumbnail.image.rakuten.co.jp/@0_mall/emporio8888/cabinet/10841199/imgrc0143151583.jpg?_ex=500x500)
+
+**価格**: 5940円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「こっち? フォーエバーグロウマキシマイザー 使ってます? あ、」
+> [動画を見る](https://www.youtube.com/watch?v=wkSc1rVIxCw)
+
+> **HIRO BEAUTY CHANNEL**: 「コンシーラーとこのグロウマキシマイザー これね巷ではこれをね一本ひょいってこのバッグから取り出した瞬間に 全人類から注目されるという え そうなのよ そんなすごいものだよ すごいのす」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20DIOR%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%83%94%E3%83%B3%E3%82%AF/?af=mobi.0319)
 
 ---
 
@@ -743,18 +900,6 @@
 **紹介YouTuber**: 韓国オンニAちゃん (会社員J) / nanakoななこ
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ETUDE%20%E6%8F%90%E4%BE%9B%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ETUDE%20%E6%8F%90%E4%BE%9B%EF%BC%9A/?af=mobi.0319)
-
----
-
-### TAG 友利新のInstagram
-
-**2人のYouTuberが紹介**
-
-動画の概要欄で紹介されています。
-
-**紹介YouTuber**: 友利新公式チャンネル(内科・皮膚科医) / コスメヲタちゃんねるサラ
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E5%8F%8B%E5%88%A9%E6%96%B0%E3%81%AEInstagram&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E5%8F%8B%E5%88%A9%E6%96%B0%E3%81%AEInstagram/?af=mobi.0319)
 
 ---
 
@@ -879,6 +1024,20 @@
 
 ---
 
+### CLARINS CLARINS フィックス メイクアップ N
+
+**価格**: 5060円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「全人類一度は使うべきミスト クラランスのフィックスメイクアップミストちょっと現在使っているのがラブエディションという この春に出たばかりの ものなんですけど メイクミストは使います」
+> [動画を見る](https://www.youtube.com/watch?v=PfF2WGEDH0Y)
+
+> **HIRO BEAUTY CHANNEL**: 「皆様こんにちはヘアメイクアップアーティストの小田切博本日の内容はこちら アットコスメ東京に来ておりまして なんとです」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20N&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLARINS%20CLARINS%20%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20N/?af=mobi.0319)
+
+---
+
 ### TAG 「恋庭」公式Instagramアカウント
 
 **2人のYouTuberが紹介**
@@ -888,6 +1047,17 @@
 **紹介YouTuber**: ゆきりぬ / コスメヲタちゃんねるサラ
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%80%8C%E6%81%8B%E5%BA%AD%E3%80%8D%E5%85%AC%E5%BC%8FInstagram%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%80%8C%E6%81%8B%E5%BA%AD%E3%80%8D%E5%85%AC%E5%BC%8FInstagram%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88/?af=mobi.0319)
+
+---
+
+### KATE ダブルラインエキスパート LB-1
+
+**2人のYouTuberが紹介**
+
+> **KAWAII PATEEN**: 「次に使ったのがケイトのダブルラインエキスパートの極薄ブラウンです これでこの二重の終わりについては この二重の終わりのラインを描き足してます」
+> [動画を見る](https://www.youtube.com/watch?v=lUgnOfOiFV4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E3%83%80%E3%83%96%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%20LB-1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20%E3%83%80%E3%83%96%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%20LB-1/?af=mobi.0319)
 
 ---
 
@@ -1091,6 +1261,17 @@
 
 ---
 
+### GIVENCHY ※数量限定
+
+**価格**: 5060円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「この2色 こちらがラベンダーのカラー そしてこちらがブルー 日焼け止め効果が抜群にありながら こういったラベンダーブルーという感じで トーンアップをおかないながらも 明るさを プラスしてくれるという下地になります」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/GIVENCHY%20%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A/?af=mobi.0319)
+
+---
+
 ### ラロッシュポゼ シカプラストバーム
 
 **2人のYouTuberが紹介**
@@ -1099,6 +1280,20 @@
 > [動画を見る](https://www.youtube.com/watch?v=F7WtCQ5mU8Q)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%20%E3%82%B7%E3%82%AB%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88%E3%83%90%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%20%E3%82%B7%E3%82%AB%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88%E3%83%90%E3%83%BC%E3%83%A0/?af=mobi.0319)
+
+---
+
+### Dior ディオールスキン フォーエヴァー スキン パーフェクト スティック
+
+**価格**: 7370円 | **2人のYouTuberが紹介**
+
+> **ひよんちゃんねる**: 「キヨンちゃんが一緒に購入した 新作のディオールのスティックファンデーション いこうよー やったー 結構きちんとした ちょっとサラッとした 崩れにくい肌に仕掛けますので 凛としたちょっと大人感っていうのが出てくる で、」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+
+> **HIRO BEAUTY CHANNEL**: 「はいディオールの スティックタイプのファンデーション そう スティックタイプなのにみずみずしいっていうのがですなぜって思うんですけれども 見てつけたてはですねかなりみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=AZRiwRoCZzo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%20%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/?af=mobi.0319)
 
 ---
 

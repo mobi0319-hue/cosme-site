@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 小田切ヒロおすすめファンデーション61選【2026年04月版】
+# 小田切ヒロおすすめファンデーション99選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したファンデーションアイテムをまとめました。
 
@@ -8,65 +8,103 @@
 
 1. **Dior（ディオール）** ディオール フォーエヴァー フルイド スキン グロウ SPF
 2. **ESTĒE LAUDER（エスティ ローダー）** ダブル ウェア ステイ イン プレイス メークアップ N S
-3. **NARS** NARS ラディアントクリーミーコンシーラー 1242 VA
-4. **NARS** NARS ライトリフレクティング メーキャップセッティングミ
-5. **SHISEIDO** SHISEIDO エッセンス スキングロウ ファンデーション
-6. **Dior** DIOR プレステージ ホワイト ル プロテクター UV ル
-7. **tfit** tfit アイシーブラーアートプライマー　※3月1日発売～夏
-8. **CEZANNE** CEZANNE 皮脂テカリ防止下地50 SPF50 / PA
-9. **GIVENCHY** GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・
-10. **REVLON** REVLON レブロン カラーステイ ロングウェア UV プ
-11. **CLARINS** CLARINS ダブル セーラム ファンデーション 全6色　
-12. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15
-13. **コスメデコルテ** DECORTÉ コスメデコルテ ゼン ウェア ステイ SPF
-14. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 / 
-15. **RMK** RMK スキンティント モイストヴェール SPF15 / P
-16. **LUNASOL** LUNASOL ラディアントフロウ メッシュコンパクト SP
-17. **NARS** ライトリフレクティング セラムクッションファンデーション S
-18. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ
-19. **NARS** NARS ライトリフレクティング セラムクッションファンデー
-20. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
-21. **ADDICTION** ADDICTION ホリデー アディクション ザ ファンデー
-22. **資生堂** 資生堂 ファンデーション ブラシ
-23. **LUNASOL** LUNASOL クラリティスキンプライマー SPF13 / 
-24. **CLARINS** CLARINS スキン イリュージョン セラム プライマー 
-25. **KATE** KATE ポアレスキーパー FOR ドライ  ※7/19発売
-26. **SHISEIDO** SHISEIDO ブライトニング スポットコントロール ベー
-27. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
-28. **Dior** DIOR プレステージ ル マイクロ フルイド タン SPF
-29. **SUQQU** SUQQU スキンケア クリーム ティント SPF38 / 
-30. **RMK** RMK リクイドファンデーション フローレスカバレッジ プラ
-31. **SUQQU** SUQQU クリーミィ カバー コンシーラー 全10色  ※
-32. **LUNASOL** LUNASOL シームレスコレクティングリクイド 全5色  
-33. **CEZANNE** CEZANNE ブライトカラーシーラー 00 メリハリホワイ
-34. **GIVENCHY** GIVENCHY プリズム･リーブル･プレストパウダー No
-35. **NARS** NARS ライトリフレクティング ルミナイジングパウダー 0
-36. **CEZANNE** CEZANNE トーンフィルターハイライト 01 フィルター
-37. **CEZANNE** CEZANNE ブレンドカラーシェーディング 01 ウォーム
-38. **to/one** to/one フローレス グロウ フィックスミスト
-39. **TOM FORD** TOM FORD BEAUTY アーキテクチャー ソフト マ
-40. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
-41. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ
-42. **MAYBELLINE** NEW YORK メイベリン SPステイ クリームパクト フ
-43. **TOM FORD** TOM FORD アーキテクチャー ソフト マット ブラーリ
-44. **NARS** NARS ライトリフレクティング セラムクッションファンデー
-45. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション
-46. **TOM FORD** TOM FORD BEAUTY アーキテクチャー ソフトマッ
+3. **VDL** クッションファンデーション
+4. **hince** hince セカンドスキンメッシュマットクッション
+5. **NARS** NARS ラディアントクリーミーコンシーラー 1242 VA
+6. **NARS** NARS ライトリフレクティング メーキャップセッティングミ
+7. **RMK** RMK クリームファンデーション アクアティックグロウ
+8. **SHISEIDO** SHISEIDO エッセンス スキングロウ ファンデーション
+9. **Dior** DIOR プレステージ ホワイト ル プロテクター UV ル
+10. **tfit** tfit アイシーブラーアートプライマー　※3月1日発売～夏
+11. **CEZANNE** CEZANNE 皮脂テカリ防止下地50 SPF50 / PA
+12. **GIVENCHY** GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・
+13. **REVLON** REVLON レブロン カラーステイ ロングウェア UV プ
+14. **CLARINS** CLARINS ダブル セーラム ファンデーション 全6色　
+15. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15
+16. **コスメデコルテ** DECORTÉ コスメデコルテ ゼン ウェア ステイ SPF
+17. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 / 
+18. **RMK** RMK スキンティント モイストヴェール SPF15 / P
+19. **LUNASOL** LUNASOL ラディアントフロウ メッシュコンパクト SP
+20. **NARS** ライトリフレクティング セラムクッションファンデーション S
+21. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ
+22. **NARS** NARS ライトリフレクティング セラムクッションファンデー
+23. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
+24. **ADDICTION** ADDICTION ホリデー アディクション ザ ファンデー
+25. **資生堂** 資生堂 ファンデーション ブラシ
+26. **LUNASOL** LUNASOL クラリティスキンプライマー SPF13 / 
+27. **CLARINS** CLARINS スキン イリュージョン セラム プライマー 
+28. **KATE** KATE ポアレスキーパー FOR ドライ  ※7/19発売
+29. **SHISEIDO** SHISEIDO ブライトニング スポットコントロール ベー
+30. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
+31. **Dior** DIOR プレステージ ル マイクロ フルイド タン SPF
+32. **SUQQU** SUQQU スキンケア クリーム ティント SPF38 / 
+33. **RMK** RMK リクイドファンデーション フローレスカバレッジ プラ
+34. **SUQQU** SUQQU クリーミィ カバー コンシーラー 全10色  ※
+35. **LUNASOL** LUNASOL シームレスコレクティングリクイド 全5色  
+36. **CEZANNE** CEZANNE ブライトカラーシーラー 00 メリハリホワイ
+37. **GIVENCHY** GIVENCHY プリズム･リーブル･プレストパウダー No
+38. **NARS** NARS ライトリフレクティング ルミナイジングパウダー 0
+39. **CEZANNE** CEZANNE トーンフィルターハイライト 01 フィルター
+40. **CEZANNE** CEZANNE ブレンドカラーシェーディング 01 ウォーム
+41. **to/one** to/one フローレス グロウ フィックスミスト
+42. **TOM FORD** TOM FORD BEAUTY アーキテクチャー ソフト マ
+43. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
+44. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ
+45. **MAYBELLINE** NEW YORK メイベリン SPステイ クリームパクト フ
+46. **TOM FORD** TOM FORD アーキテクチャー ソフト マット ブラーリ
 47. **NARS** NARS ライトリフレクティング セラムクッションファンデー
-48. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ クリーム
-49. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ クリーム
-50. **SHISEIDO** SHISEIDO シンクロスキン ラディアントリフティング 
-51. **Bobbi Brown** BOBBI BROWN インテンシブ セラム ファンデーショ
-52. **shu uemura** ツヤ 55 ファンデーション ブラシ
-53. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ
-54. **ディオール** #小田切ヒロ #メイク #コスメ #新作コスメ # #ファン
-55. **トーン** アップ、毛穴補正、崩れ対策、UV、カラー補正…
-56. **shu uemura** shu uemura アンリミテッド ブロック:ブースター 
-57. **shu uemura** shu uemura アンリミテッド ケア ツヤ ドロップ 
-58. **トーン** #小田切ヒロ #メイク #コスメ #化粧下地 #ベース #ベ
-59. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ クリーム
-60. **NARS** NARS ライトリフレクティング セラムクッションファンデー
-61. **NARS** NARS ライト リフレクティング セラムクッション ファン
+48. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション
+49. **TOM FORD** TOM FORD BEAUTY アーキテクチャー ソフトマッ
+50. **NARS** NARS ライトリフレクティング セラムクッションファンデー
+51. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ クリーム
+52. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ クリーム
+53. **SHISEIDO** SHISEIDO シンクロスキン ラディアントリフティング 
+54. **Bobbi Brown** BOBBI BROWN インテンシブ セラム ファンデーショ
+55. **shu uemura** ツヤ 55 ファンデーション ブラシ
+56. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ
+57. **ディオール** #小田切ヒロ #メイク #コスメ #新作コスメ # #ファン
+58. **トーン** アップ、毛穴補正、崩れ対策、UV、カラー補正…
+59. **shu uemura** shu uemura アンリミテッド ブロック:ブースター 
+60. **shu uemura** shu uemura アンリミテッド ケア ツヤ ドロップ 
+61. **トーン** #小田切ヒロ #メイク #コスメ #化粧下地 #ベース #ベ
+62. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ クリーム
+63. **NARS** NARS ライトリフレクティング セラムクッションファンデー
+64. **NARS** NARS ライト リフレクティング セラムクッション ファン
+65. **RMK** クリームファンデーション アクアティックグロウ SPF18 
+66. **shu uemura** アンリミテッド ケア ツヤ セラム ファンデーション 全20
+67. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ
+68. **SHISEIDO** その後、 シンクロスキン セルフリフレッシングファンデーショ
+69. **SHISEIDO** SHISEIDO シンクロスキン セルフリフレッシング ファ
+70. **shu uemura** アンリミテッド ケア ツヤ セラム ファンデーション 574
+71. **KISS** ME FERME シルキーフィットファンデ SPF33 / 
+72. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ
+73. **ORBIS** オルビスユー カラースキンケアマスク ファンデーション SP
+74. **shu uemura** shu uemura ペタル 55 ファンデーション ブラシ
+75. **トーン** ByUR セラムフィット シャイニング トーンアップクリーム
+76. **トーン** ByUR セラムフィット バランシング アップクリーム SP
+77. **KATE** KATE スノースキンベース ユキザクラ SPF50 / P
+78. **RMK** RMK UVフェイスプロテクター エンハンスト SPF50+
+79. **RMK** RMK リファイニング ポアレス スキン ベース 01 SP
+80. **PAUL & JOE** PAUL & JOE プロテクティング プライマー SPF5
+81. **SK-II** SK-II ジェノプティクス CC プライマー SPF50+
+82. **JILL STUART** JILL STUART イルミネイティングジェム セラムプラ
+83. **ADDICTION** ADDICTION スキンリフレクト カラーコレクター 全6
+84. **NARS** NARS ライト リフレクティング セラムクッション ファン
+85. **PRADA Beauty** PRADA BEAUTY プラダ メッシュ クッション SP
+86. **REVLON** REVLON カラーステイ ロングウェア UV クッション 
+87. **EXCEL** excel スキンフラッター セラムクッション SPF50+
+88. **GIVENCHY** GIVENCHY プリズム•リーブル•グロウ•セラム•ファン
+89. **shu uemura** shu uemura アンリミテッド ラスティング フルイド
+90. **RMK** RMK リクイドファンデーション EX SPF12 / PA
+91. **KATE** KATE バーチャルスキンメイカー SPF30 / PA++
+92. **CLARINS** CLARINS スキン イリュージョン フルカバレッジ ファ
+93. **CLINIQUE** CLINIQUE イーブン ベター メイクアップ V ファン
+94. **PAUL & JOE** プロテクティング ファンデーション プライマー SPF50+
+95. **Bobbi Brown** BOBBI BROWN ウェイトレス スキン ファンデーショ
+96. **shu uemura** アンリミテッド ケア ツヤ セラム ファンデーション 全20
+97. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
+98. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ
+99. **shu uemura** アンリミテッド ケア ツヤ セラム ファンデーション 463
 
 ---
 
@@ -96,6 +134,32 @@
 
 ---
 
+### VDL クッションファンデーション
+
+![VDL クッションファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/blanc-lapin/cabinet/item/vdl/vdlhg0000001m.jpg?_ex=500x500)
+
+**価格**: 3630円
+
+> **小田切ヒロ**: 「これもです肌に明るさ そしてなんとなくファンデーション らのせたかなという ほのかなカバー力 そういった感じで とっても使いやすい うるおい効果の高い下地になっております 極度の乾燥 そして花粉症で肌がかゆいという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_cs_cf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### hince hince セカンドスキンメッシュマットクッション
+
+![hince hince セカンドスキンメッシュマットクッション](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img2031/item_1000174116_1.jpg?_ex=500x500)
+
+**価格**: 2970円
+
+> **小田切ヒロ**: 「これは日中用乳液なんですけれども SPF50プラスにPA++++ 紫外線防御力がしっかりとしながらも ピンクのトーンアップをしてくれるという下地になります 日中用乳液っていうだけあって肌なじみがとても良く 潤う力がとても高いんです」
+> [動画を見る](https://www.youtube.com/watch?v=U2ZpclpEMkQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20hince%20%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hincejapan/p0000bmg/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
 ### NARS NARS ラディアントクリーミーコンシーラー 1242 VANILLA とNARS ソフトマットコンプリートコンシーラー 1276 VANILLA
 
 ![NARS NARS ラディアントクリーミーコンシーラー 1242 VANILLA とNARS ソフトマットコンプリートコンシーラー 1276 VANILLA](https://thumbnail.image.rakuten.co.jp/@0_mall/lunadea/cabinet/05543822/imgrc0077309809.jpg?_ex=500x500)
@@ -122,14 +186,27 @@
 
 ---
 
+### RMK RMK クリームファンデーション アクアティックグロウ
+
+![RMK RMK クリームファンデーション アクアティックグロウ](https://thumbnail.image.rakuten.co.jp/@0_mall/mimori/cabinet/sku/4973167535424_2.jpg?_ex=500x500)
+
+**価格**: 6600円
+
+> **小田切ヒロ**: 「見つけ次第即買い続いてはクリームファンデーション !って感じもうねあなたこの季節からよ クリームファンデーションが大活躍です 秋というのはですやはり乾燥の季節 そして潤いが続かないですよそんな時にはです」
+> [動画を見る](https://www.youtube.com/watch?v=rH75W7bbCu0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167535424&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167535448/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### SHISEIDO SHISEIDO エッセンス スキングロウ ファンデーション
 
 ![SHISEIDO SHISEIDO エッセンス スキングロウ ファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmedenet-dx/cabinet/item/0235/3104151_1.jpg?_ex=500x500)
 
 **価格**: 7590円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=2mGDNafoctA)
+> **小田切ヒロ**: 「それではスタート まずは精度のファンデーションが来ております」
+> [動画を見る](https://www.youtube.com/watch?v=IpuewC4E-W4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0021/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -297,8 +374,8 @@
 
 **価格**: 2992円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=4fRgpzl9R-E)
+> **小田切ヒロ**: 「メイベリンSPステイルミマットリキッドファンデーション皆様もう使ってらっしゃいます」
+> [動画を見る](https://www.youtube.com/watch?v=H8zYLpzK52Q)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20N01&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/biccamera/6902395856207/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -323,8 +400,8 @@
 
 **価格**: 2992円
 
-動画の概要欄でファンデーションとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=WF5_LxH4Pgc)
+> **小田切ヒロ**: 「はいはいだからファンデーションいっぱいつけなくて済むようになるわけ へー そうスキンケアの状態でうるおいと顔の赤みを沈静してくれるっていうスプレーなのよ 私こういうの買ったことあるんです」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20N&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-6902395856214/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
@@ -806,6 +883,8 @@
 
 ### MAYBELLINE MAYBELLINE NEW YORK SPステイ クリームパクト ファンデーション 全4色
 
+**価格**: 3993円
+
 > **小田切ヒロ**: 「そのハイカバータイプでも崩れにくいというファンデーションが登場しました こちらメイベリンニューヨークのですねバームクッションコンパクトバームタイプになりますのでねこのパフで乗せていただくとです」
 > [動画を見る](https://www.youtube.com/watch?v=i1QxhBXd2RY)
 
@@ -832,5 +911,388 @@
 > [動画を見る](https://www.youtube.com/watch?v=KtLNymj5pdM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF42%20/%20PA%2B%2B%20%E5%85%A88%E8%89%B2%E3%80%80%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF42%20/%20PA%2B%2B%20%E5%85%A88%E8%89%B2%E3%80%80%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC/?af=mobi.0319)
+
+---
+
+### RMK クリームファンデーション アクアティックグロウ SPF18 / PA++他 全9色　各
+
+**価格**: 6600円
+
+> **小田切ヒロ**: 「わかる なんかリキッドファンデーションとクリームファンデーションの中間のような感じなんだけれども つけると結構つけるというか わかる 健やかファンデ わかる あとみずみずしさ そう でねみずみずしさといえばなんですけれどもこれもなんです」
+> [動画を見る](https://www.youtube.com/watch?v=AZRiwRoCZzo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B0%E3%83%AD%E3%82%A6%20SPF18%20/%20PA%2B%2B%E4%BB%96%20%E5%85%A89%E8%89%B2%E3%80%80%E5%90%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B0%E3%83%AD%E3%82%A6%20SPF18%20/%20PA%2B%2B%E4%BB%96%20%E5%85%A89%E8%89%B2%E3%80%80%E5%90%84/?af=mobi.0319)
+
+---
+
+### shu uemura アンリミテッド ケア ツヤ セラム ファンデーション 全20色　各
+
+**価格**: 7480円
+
+> **小田切ヒロ**: 「そうなのよ 意外にファンデーションいらないパターンもあります わかる 私なんかよくやるのがです」
+> [動画を見る](https://www.youtube.com/watch?v=AZRiwRoCZzo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A820%E8%89%B2%E3%80%80%E5%90%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A820%E8%89%B2%E3%80%80%E5%90%84/?af=mobi.0319)
+
+---
+
+### MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 全6色
+
+**価格**: 2992円
+
+> **小田切ヒロ**: 「目開けていいの はいどうぞ 巻物 分かりました ファンデーション これツヤ出る ツヤも一応出るんですけど 一応なんだ どちらかというとセミマットな仕上がりだと思います これいつ出た 紙ハンキーです」
+> [動画を見る](https://www.youtube.com/watch?v=c3PuiMsv7n0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20%E5%85%A86%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20%E5%85%A86%E8%89%B2/?af=mobi.0319)
+
+---
+
+### SHISEIDO その後、 シンクロスキン セルフリフレッシングファンデーションでセミマットな仕上がりを目指します。あまり厚塗りせず、肌のコンディションに合わせてSOYO ファンデーションブラシで薄く伸ばしていきます。ファンデーションはあくまで「ベース」。今日は全体的にパーツメイクが強調されるので、ベースメイクは60%仕上げで自然に整えます。
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=dzTHqvdlFL8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20%E3%81%9D%E3%81%AE%E5%BE%8C%E3%80%81%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%82%BB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%E3%81%AA%E4%BB%95%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%81%82%E3%81%BE%E3%82%8A%E5%8E%9A%E5%A1%97%E3%82%8A%E3%81%9B%E3%81%9A%E3%80%81%E8%82%8C%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6SOYO%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B7%E3%81%A7%E8%96%84%E3%81%8F%E4%BC%B8%E3%81%B0%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AF%E3%81%82%E3%81%8F%E3%81%BE%E3%81%A7%E3%80%8C%E3%83%99%E3%83%BC%E3%82%B9%E3%80%8D%E3%80%82%E4%BB%8A%E6%97%A5%E3%81%AF%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AB%E3%83%91%E3%83%BC%E3%83%84%E3%83%A1%E3%82%A4%E3%82%AF%E3%81%8C%E5%BC%B7%E8%AA%BF%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%81%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%E3%81%AF60%25%E4%BB%95%E4%B8%8A%E3%81%92%E3%81%A7%E8%87%AA%E7%84%B6%E3%81%AB%E6%95%B4%E3%81%88%E3%81%BE%E3%81%99%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20%E3%81%9D%E3%81%AE%E5%BE%8C%E3%80%81%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%82%BB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%E3%81%AA%E4%BB%95%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%81%82%E3%81%BE%E3%82%8A%E5%8E%9A%E5%A1%97%E3%82%8A%E3%81%9B%E3%81%9A%E3%80%81%E8%82%8C%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6SOYO%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B7%E3%81%A7%E8%96%84%E3%81%8F%E4%BC%B8%E3%81%B0%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AF%E3%81%82%E3%81%8F%E3%81%BE%E3%81%A7%E3%80%8C%E3%83%99%E3%83%BC%E3%82%B9%E3%80%8D%E3%80%82%E4%BB%8A%E6%97%A5%E3%81%AF%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AB%E3%83%91%E3%83%BC%E3%83%84%E3%83%A1%E3%82%A4%E3%82%AF%E3%81%8C%E5%BC%B7%E8%AA%BF%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%81%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AF%E3%81%AF60%25%E4%BB%95%E4%B8%8A%E3%81%92%E3%81%A7%E8%87%AA%E7%84%B6%E3%81%AB%E6%95%B4%E3%81%88%E3%81%BE%E3%81%99%E3%80%82/?af=mobi.0319)
+
+---
+
+### SHISEIDO SHISEIDO シンクロスキン セルフリフレッシング ファンデーション SPF35 / PA++++ 130 Opal
+
+**価格**: 6600円
+
+> **小田切ヒロ**: 「メイクでいけるんですかそれは いけるんですよそう次に使うファンデーションがねこちら不正道のこちらのファンデーションなんですけれどもこれはねセミマットに仕上がってくれるファンデーションなんです ほー セミマットって聞くとなんかガバッとしちゃうのかなっていうイメージもあります」
+> [動画を見る](https://www.youtube.com/watch?v=dzTHqvdlFL8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF35%20/%20PA%2B%2B%2B%2B%20130%20Opal&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF35%20/%20PA%2B%2B%2B%2B%20130%20Opal/?af=mobi.0319)
+
+---
+
+### shu uemura アンリミテッド ケア ツヤ セラム ファンデーション 574
+
+**価格**: 7480円
+
+> **小田切ヒロ**: 「平成のベースメイクというのはですねファンデーションファンデーション これ常識でしたというどういうことかと言いますと肌の荒は全部隠すというのが平成 メイク でしたもうすべてなかったことにするというのがですね平成のベースメイクだったんです」
+> [動画を見る](https://www.youtube.com/watch?v=ESq8iCvkIoc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20574&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20574/?af=mobi.0319)
+
+---
+
+### KISS ME FERME シルキーフィットファンデ SPF33 / PA+++ 全4色　各
+
+**価格**: 1650円
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=gyATilLks3s)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KISS%20ME%20FERME%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%20SPF33%20/%20PA%2B%2B%2B%20%E5%85%A84%E8%89%B2%E3%80%80%E5%90%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KISS%20ME%20FERME%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%20SPF33%20/%20PA%2B%2B%2B%20%E5%85%A84%E8%89%B2%E3%80%80%E5%90%84/?af=mobi.0319)
+
+---
+
+### MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション 全6色　SPF12
+
+**価格**: 2992円
+
+> **小田切ヒロ**: 「私もですちょっと今回は これはねマジのいいファンデーションなので 私もマジの方に入れたので プチプラに入れました プチプラにも入れたし あちらのベースメイクでも出した」
+> [動画を見る](https://www.youtube.com/watch?v=gyATilLks3s)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A86%E8%89%B2%E3%80%80SPF12&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A86%E8%89%B2%E3%80%80SPF12/?af=mobi.0319)
+
+---
+
+### ORBIS オルビスユー カラースキンケアマスク ファンデーション SPF20 / PA++ ベージュピンク01
+
+**価格**: 2310円
+
+> **小田切ヒロ**: 「湿度プラスカバー入った そして 私はファンデーションを持ちたの オルビスユーのファンデーションで これもさ お安いお値段でびっくりしちゃった」
+> [動画を見る](https://www.youtube.com/watch?v=I469VcGiaa8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ORBIS%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF20%20/%20PA%2B%2B%20%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%94%E3%83%B3%E3%82%AF01&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ORBIS%20%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%AF%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF20%20/%20PA%2B%2B%20%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%94%E3%83%B3%E3%82%AF01/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura ペタル 55 ファンデーション ブラシ
+
+**価格**: 6820円
+
+> **小田切ヒロ**: 「はいはいだからファンデーションいっぱいつけなくて済むようになるわけ へー そうスキンケアの状態でうるおいと顔の赤みを沈静してくれるっていうスプレーなのよ 私こういうの買ったことあるんです」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%83%9A%E3%82%BF%E3%83%AB%2055%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%96%E3%83%A9%E3%82%B7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%83%9A%E3%82%BF%E3%83%AB%2055%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%96%E3%83%A9%E3%82%B7/?af=mobi.0319)
+
+---
+
+### トーン ByUR セラムフィット シャイニング トーンアップクリーム SPF50+ / PA++++ 02 ラベンダー　※5/22発売
+
+**価格**: 2860円
+
+> **小田切ヒロ**: 「こちらSPF50プラスにPA++++ UV耐水性2になっておりますので まずね伸ばした時にめちゃくちゃみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20ByUR%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2002%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%80%80%E2%80%BB5/22%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20ByUR%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2002%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%80%80%E2%80%BB5/22%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### トーン ByUR セラムフィット バランシング アップクリーム SPF50+ / PA++++ 02 クリアブルー※5/22発売
+
+**価格**: 2750円
+
+> **小田切ヒロ**: 「こちらSPF50プラスにPA++++ UV耐水性2になっておりますので まずね伸ばした時にめちゃくちゃみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20ByUR%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2002%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%96%E3%83%AB%E3%83%BC%E2%80%BB5/22%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20ByUR%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20SPF50%2B%20/%20PA%2B%2B%2B%2B%2002%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%96%E3%83%AB%E3%83%BC%E2%80%BB5/22%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### KATE KATE スノースキンベース ユキザクラ SPF50 / PA+++　※数量限定
+
+**価格**: 1540円
+
+> **小田切ヒロ**: 「そしてケイト もうこのスノースキンベース 雪桜というですカラーなんですけれども とても可愛らしいピンクですよそう桜のようなカラーで全体に伸ばしていただきます」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9%20%E3%83%A6%E3%82%AD%E3%82%B6%E3%82%AF%E3%83%A9%20SPF50%20/%20PA%2B%2B%2B%E3%80%80%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9%20%E3%83%A6%E3%82%AD%E3%82%B6%E3%82%AF%E3%83%A9%20SPF50%20/%20PA%2B%2B%2B%E3%80%80%E2%80%BB%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A/?af=mobi.0319)
+
+---
+
+### RMK RMK UVフェイスプロテクター エンハンスト SPF50+ / PA++++
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「そしてこちら RMK このねUVフェイスプロテクターがですこれまた使いやすいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20UV%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%83%B3%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%88%20SPF50%2B%20/%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20UV%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%83%B3%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%88%20SPF50%2B%20/%20PA%2B%2B%2B%2B/?af=mobi.0319)
+
+---
+
+### RMK RMK リファイニング ポアレス スキン ベース 01 SPF4、02•03 SPF8 / PA+　各※3/7発売
+
+**価格**: 4400円
+
+> **小田切ヒロ**: 「透明感を与えてくれるというですポアレススキンベースになりますので 毛穴を綺麗に見せながら透明感まで プラスできるというタイプになります みずみずしいですので結構広範囲乗せていただいても肌が 綺麗に見えるなというのを感じております」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%9D%E3%82%A2%E3%83%AC%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%99%E3%83%BC%E3%82%B9%2001%20SPF4%E3%80%8102%E2%80%A203%20SPF8%20/%20PA%2B%E3%80%80%E5%90%84%E2%80%BB3/7%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%9D%E3%82%A2%E3%83%AC%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%99%E3%83%BC%E3%82%B9%2001%20SPF4%E3%80%8102%E2%80%A203%20SPF8%20/%20PA%2B%E3%80%80%E5%90%84%E2%80%BB3/7%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### PAUL & JOE PAUL & JOE プロテクティング プライマー SPF50+ / PA+++ 全3色　※3/1発売
+
+**価格**: 4070円
+
+> **小田切ヒロ**: 「そしてこちら ローラメルシェのピュアキャンバスプライマー これがですね新製品としてさらに進化を遂げました 新成分新手法で再登場したんですよ もうとにかく毛穴隠しはお任せあれということと 潤いが続いてくれる毛穴隠しになります 見て す」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PAUL%20%26%20JOE%20PAUL%20%26%20JOE%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%E2%80%BB3/1%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PAUL%20%26%20JOE%20PAUL%20%26%20JOE%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%E2%80%BB3/1%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### SK-II SK-II ジェノプティクス CC プライマー SPF50+ / PA++++ ナチュラルベージュ　 ※4/20発売
+
+**価格**: 9900円
+
+> **小田切ヒロ**: 「そしてこちらがナチュラルベージュ化粧下地の効果そして肌をなんとなく 補正してくれるタイプになります」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SK-II%20SK-II%20%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%97%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%20CC%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%20%E2%80%BB4/20%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SK-II%20SK-II%20%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%97%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%20CC%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%80%80%20%E2%80%BB4/20%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### JILL STUART JILL STUART イルミネイティングジェム セラムプライマー SPF40 / PA+++ 全3色　 ※3/7発売
+
+**価格**: 3850円
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B8%E3%82%A7%E3%83%A0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF40%20/%20PA%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%20%E2%80%BB3/7%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B8%E3%82%A7%E3%83%A0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF40%20/%20PA%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%20%E2%80%BB3/7%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION スキンリフレクト カラーコレクター 全6色　各 ※3/7発売
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「そしてもうこちらアディクションのカラーコレクターですけれども もうこれが これはですメイクアップアーティスト全員注目してるんじゃないでしょうか しかしですプロ需要と思いきや これテクニックない方でもとても使いやすいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%88%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%20%E5%85%A86%E8%89%B2%E3%80%80%E5%90%84%20%E2%80%BB3/7%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%88%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%20%E5%85%A86%E8%89%B2%E3%80%80%E5%90%84%20%E2%80%BB3/7%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### NARS NARS ライト リフレクティング セラムクッション ファンデーション 全8色　セット価格 ※2/14発売
+
+**価格**: 8580円
+
+> **小田切ヒロ**: 「これもです肌に明るさ そしてなんとなくファンデーション らのせたかなという ほのかなカバー力 そういった感じで とっても使いやすい うるおい効果の高い下地になっております 極度の乾燥 そして花粉症で肌がかゆいという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A88%E8%89%B2%E3%80%80%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC%20%E2%80%BB2/14%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%A4%E3%83%88%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A88%E8%89%B2%E3%80%80%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC%20%E2%80%BB2/14%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### PRADA Beauty PRADA BEAUTY プラダ メッシュ クッション SPF50+ / PA+++ 全4色
+
+**価格**: 11330円
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%97%E3%83%A9%E3%83%80%20%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B%20/%20PA%2B%2B%2B%20%E5%85%A84%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PRADA%20Beauty%20PRADA%20BEAUTY%20%E3%83%97%E3%83%A9%E3%83%80%20%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B%20/%20PA%2B%2B%2B%20%E5%85%A84%E8%89%B2/?af=mobi.0319)
+
+---
+
+### REVLON REVLON カラーステイ ロングウェア UV クッション ファンデーション SPF50+ / PA++++ 全3色　 ※2/25発売
+
+**価格**: 2750円
+
+> **小田切ヒロ**: 「これもです肌に明るさ そしてなんとなくファンデーション らのせたかなという ほのかなカバー力 そういった感じで とっても使いやすい うるおい効果の高い下地になっております 極度の乾燥 そして花粉症で肌がかゆいという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=REVLON%20REVLON%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20UV%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%20%E2%80%BB2/25%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/REVLON%20REVLON%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A7%E3%82%A2%20UV%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%20%E2%80%BB2/25%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### EXCEL excel スキンフラッター セラムクッション SPF50+ / PA++++ 全3色　 ※3/1一部先行発売、3/11全国発売
+
+**価格**: 3410円
+
+> **小田切ヒロ**: 「NARSのですこちら ライトリフレッティングセラムクッションファンデーションあのリフコありますもうNARSといえばリフコ あのリフコがファンデーションになったタイプなんですけれども これまた使いやすく ちょっとスポンジ少しだけ大きめなんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=EXCEL%20excel%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%20%E2%80%BB3/1%E4%B8%80%E9%83%A8%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2%E3%80%813/11%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/EXCEL%20excel%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%95%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E5%85%A83%E8%89%B2%E3%80%80%20%E2%80%BB3/1%E4%B8%80%E9%83%A8%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2%E3%80%813/11%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### GIVENCHY GIVENCHY プリズム•リーブル•グロウ•セラム•ファンデーション 全12色
+
+**価格**: 8030円
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=GIVENCHY%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E2%80%A2%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E2%80%A2%E3%82%B0%E3%83%AD%E3%82%A6%E2%80%A2%E3%82%BB%E3%83%A9%E3%83%A0%E2%80%A2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A812%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/GIVENCHY%20GIVENCHY%20%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E2%80%A2%E3%83%AA%E3%83%BC%E3%83%96%E3%83%AB%E2%80%A2%E3%82%B0%E3%83%AD%E3%82%A6%E2%80%A2%E3%82%BB%E3%83%A9%E3%83%A0%E2%80%A2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A812%E8%89%B2/?af=mobi.0319)
+
+---
+
+### shu uemura shu uemura アンリミテッド ラスティング フルイド SPF25 / PA+++ 全20色 各※2/12•2/23一部先行発売、3/3全国発売
+
+**価格**: 7480円
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20SPF25%20/%20PA%2B%2B%2B%20%E5%85%A820%E8%89%B2%20%E5%90%84%E2%80%BB2/12%E2%80%A22/23%E4%B8%80%E9%83%A8%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2%E3%80%813/3%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%83%AB%E3%82%A4%E3%83%89%20SPF25%20/%20PA%2B%2B%2B%20%E5%85%A820%E8%89%B2%20%E5%90%84%E2%80%BB2/12%E2%80%A22/23%E4%B8%80%E9%83%A8%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2%E3%80%813/3%E5%85%A8%E5%9B%BD%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### RMK RMK リクイドファンデーション EX SPF12 / PA++ 全9色
+
+**価格**: 5500円
+
+> **小田切ヒロ**: 「こちらSPF50プラスにPA++++ UV耐水性2になっておりますので まずね伸ばした時にめちゃくちゃみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20RMK%20%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20EX%20SPF12%20/%20PA%2B%2B%20%E5%85%A89%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20RMK%20%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20EX%20SPF12%20/%20PA%2B%2B%20%E5%85%A89%E8%89%B2/?af=mobi.0319)
+
+---
+
+### KATE KATE バーチャルスキンメイカー SPF30 / PA+++ 全6色
+
+**価格**: 1980円
+
+> **小田切ヒロ**: 「こちらSPF50プラスにPA++++ UV耐水性2になっておりますので まずね伸ばした時にめちゃくちゃみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A86%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%20SPF30%20/%20PA%2B%2B%2B%20%E5%85%A86%E8%89%B2/?af=mobi.0319)
+
+---
+
+### CLARINS CLARINS スキン イリュージョン フルカバレッジ ファンデーション 全6色　 ※3/14発売
+
+**価格**: 7150円
+
+> **小田切ヒロ**: 「これもです肌に明るさ そしてなんとなくファンデーション らのせたかなという ほのかなカバー力 そういった感じで とっても使いやすい うるおい効果の高い下地になっております 極度の乾燥 そして花粉症で肌がかゆいという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLARINS%20CLARINS%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%A4%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%20%E3%83%95%E3%83%AB%E3%82%AB%E3%83%90%E3%83%AC%E3%83%83%E3%82%B8%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A86%E8%89%B2%E3%80%80%20%E2%80%BB3/14%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLARINS%20CLARINS%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%82%A4%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%20%E3%83%95%E3%83%AB%E3%82%AB%E3%83%90%E3%83%AC%E3%83%83%E3%82%B8%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A86%E8%89%B2%E3%80%80%20%E2%80%BB3/14%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### CLINIQUE CLINIQUE イーブン ベター メイクアップ V ファンデーション 50 SPF50 / PA++++ 全7色　 ※3/14発売
+
+**価格**: 7040円
+
+> **小田切ヒロ**: 「これもです肌に明るさ そしてなんとなくファンデーション らのせたかなという ほのかなカバー力 そういった感じで とっても使いやすい うるおい効果の高い下地になっております 極度の乾燥 そして花粉症で肌がかゆいという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLINIQUE%20CLINIQUE%20%E3%82%A4%E3%83%BC%E3%83%96%E3%83%B3%20%E3%83%99%E3%82%BF%E3%83%BC%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20V%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2050%20SPF50%20/%20PA%2B%2B%2B%2B%20%E5%85%A87%E8%89%B2%E3%80%80%20%E2%80%BB3/14%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CLINIQUE%20CLINIQUE%20%E3%82%A4%E3%83%BC%E3%83%96%E3%83%B3%20%E3%83%99%E3%82%BF%E3%83%BC%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20V%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2050%20SPF50%20/%20PA%2B%2B%2B%2B%20%E5%85%A87%E8%89%B2%E3%80%80%20%E2%80%BB3/14%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### PAUL & JOE プロテクティング ファンデーション プライマー SPF50+ / PA++++ 全2色
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「下地って世の中にいっぱいありますでしょ いっぱい ファンデーションをつける前につけるアイテムなんですけれども この下地の効果によって肌のランクというのを変えることができます そしてお肌のお悩みというところもフォローすることができるのが下地の役目なんです」
+> [動画を見る](https://www.youtube.com/watch?v=pwcbRhn8D7Y)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PAUL%20%26%20JOE%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E5%85%A82%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PAUL%20%26%20JOE%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E5%85%A82%E8%89%B2/?af=mobi.0319)
+
+---
+
+### Bobbi Brown BOBBI BROWN ウェイトレス スキン ファンデーション SPF15 / PA++ 全10色
+
+**価格**: 8580円
+
+> **小田切ヒロ**: 「存在感が出ない下地になりますので もうファンデーションののりつけ役というような存在感でしょうか 色全然出ません ファンデーションの質感そのまま出したいという方にはとってもおすすめの下地そしてメイクアップフォーエバーからです」
+> [動画を見る](https://www.youtube.com/watch?v=rH75W7bbCu0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20BOBBI%20BROWN%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF15%20/%20PA%2B%2B%20%E5%85%A810%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Bobbi%20Brown%20BOBBI%20BROWN%20%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF15%20/%20PA%2B%2B%20%E5%85%A810%E8%89%B2/?af=mobi.0319)
+
+---
+
+### shu uemura アンリミテッド ケア ツヤ セラム ファンデーション 全20色※9/6発売
+
+**価格**: 7480円
+
+> **小田切ヒロ**: 「存在感が出ない下地になりますので もうファンデーションののりつけ役というような存在感でしょうか 色全然出ません ファンデーションの質感そのまま出したいという方にはとってもおすすめの下地そしてメイクアップフォーエバーからです」
+> [動画を見る](https://www.youtube.com/watch?v=rH75W7bbCu0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A820%E8%89%B2%E2%80%BB9/6%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%85%A820%E8%89%B2%E2%80%BB9/6%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### MAYBELLINE MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 / PA+++ 全6色
+
+**価格**: 2992円
+
+> **小田切ヒロ**: 「そしてこちら無色透明になりますので 見て ファンデーションやコンシーラーで 色付きでフォローす」
+> [動画を見る](https://www.youtube.com/watch?v=U2ZpclpEMkQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20%E5%85%A86%E8%89%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20%E5%85%A86%E8%89%B2/?af=mobi.0319)
+
+---
+
+### MAYBELLINE MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 / PA+++ W
+
+**価格**: 2992円
+
+> **小田切ヒロ**: 「へーすごい そうするとこの後にのせる油分物コンシーラーやファンデーション そういったもの滑るようなものがちゃんとフィットしてくれます これをですね取っていただきまして まずはですねやはりテカリやすいおでこの部分 この部分にファーっと滑らせながらのせていきます」
+> [動画を見る](https://www.youtube.com/watch?v=vd3sVotP30E)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20W&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20W/?af=mobi.0319)
+
+---
+
+### shu uemura アンリミテッド ケア ツヤ セラム ファンデーション 463
+
+**価格**: 7480円
+
+> **小田切ヒロ**: 「こちらシュウエメロのリキッドファンデーション そしてこちらエテュセのコンシーラーに エテュセのスキンケアパウダーを使って 今ベースメイクをしてあげております ここからパーツメイクをしていくんですが まずアイメイクから行きたいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=xAUc1OsbUV0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20463&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20463/?af=mobi.0319)
 
 ---

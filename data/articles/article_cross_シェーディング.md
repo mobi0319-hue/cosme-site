@@ -7,11 +7,24 @@
 
 ## 一覧
 
-1. **デイジーク** シェーディング デイジーク Vカットブレンディングシェーディ — 2人が紹介
-2. **CEZANNE（セザンヌ）** シェーディングペンシル 02 クールトーン — 2人が紹介
-3. **CEZANNE（セザンヌ）** ブレンドカラーシェーディング — 2人が紹介
-4. **トーン** シェーディング ブレンドカラーシェーディング 02 クールト — 2人が紹介
-5. **WAKEMAKE** WAKEMAKE ミックスブラーリングボリュームシェーディン — 2人が紹介
+1. **WAKEMAKE** WAKEMAKE ミックスブラーリングボリュームシェーディン — 3人が紹介
+2. **デイジーク** シェーディング デイジーク Vカットブレンディングシェーディ — 2人が紹介
+3. **CEZANNE（セザンヌ）** シェーディングペンシル 02 クールトーン — 2人が紹介
+4. **CEZANNE（セザンヌ）** ブレンドカラーシェーディング — 2人が紹介
+5. **トーン** シェーディング ブレンドカラーシェーディング 02 クールト — 2人が紹介
+
+---
+
+### WAKEMAKE WAKEMAKE ミックスブラーリングボリュームシェーディング 01 ソフトウォーム
+
+![WAKEMAKE WAKEMAKE ミックスブラーリングボリュームシェーディング 01 ソフトウォーム](https://thumbnail.image.rakuten.co.jp/@0_mall/ludia/cabinet/07561868/10657410/wak-nf-01_0.jpg?_ex=500x500)
+
+**価格**: 2100円 | **3人のYouTuberが紹介**
+
+> **nanakoななこ**: 「SNSでバズったコスメのレビュー動画でシェーディングアイテムとして検証されている」
+> [動画を見る](https://www.youtube.com/watch?v=ZPd0lcbSqCo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%2001%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/oliveyoung/yp2509/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -65,18 +78,5 @@
 > [動画を見る](https://www.youtube.com/watch?v=ffg3I6UbmJM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553530312&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hmvjapan/16066378/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
-### WAKEMAKE WAKEMAKE ミックスブラーリングボリュームシェーディング 01 ソフトウォーム
-
-![WAKEMAKE WAKEMAKE ミックスブラーリングボリュームシェーディング 01 ソフトウォーム](https://thumbnail.image.rakuten.co.jp/@0_mall/ludia/cabinet/07561868/10657410/wak-nf-01_0.jpg?_ex=500x500)
-
-**価格**: 2100円 | **2人のYouTuberが紹介**
-
-> **nanakoななこ**: 「SNSでバズったコスメのレビュー動画でシェーディングアイテムとして検証されている」
-> [動画を見る](https://www.youtube.com/watch?v=ZPd0lcbSqCo)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20WAKEMAKE%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%2001%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/oliveyoung/yp2509/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---

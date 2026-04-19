@@ -1,13 +1,13 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ11選
+# 【2026年04月版】YouTuberが複数紹介したアイライナーおすすめ15選
 
 複数の美容系YouTuberが**独立して紹介**したアイライナーアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
 
 ## 一覧
 
-1. **ヒロインメイク** リキッドアイライナー — 7人が紹介
+1. **ヒロインメイク** リキッドアイライナー — 8人が紹介
 2. **CANMAKE（キャンメイク）** クリーミータッチライナー — 5人が紹介
 3. **キャンメイク** クリーミータッチライナー — 3人が紹介
 4. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 3人が紹介
@@ -20,6 +20,10 @@
 9. **CANMAKE** クリーミータッチライナー 06 — 2人が紹介
 10. **CANMAKE** CANMAKE ラスティングリキッドライナー 05 グレージ — 2人が紹介
 11. **KATE** スーパーシャープライナー ブラウン — 2人が紹介
+12. **KATE** KATE スーパーシャープライナーEX4.0 BK-1 漆黒 — 2人が紹介
+13. **MAYBELLINE** MAYBELLINE NEW YORK ハイパーシャープ ラ — 2人が紹介
+14. **LUNASOL** LUNASOL モデリングアイブロウライナー 01 アッシュ — 2人が紹介
+15. **THREE** ファントゥファンキーリキッドアイライナー — 2人が紹介
 
 ---
 
@@ -27,7 +31,7 @@
 
 ![ヒロインメイク リキッドアイライナー](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/031/4901433039031.jpg?_ex=500x500)
 
-**価格**: 1100円 | **7人のYouTuberが紹介**
+**価格**: 1100円 | **8人のYouTuberが紹介**
 
 > **水越みさと**: 「目尻ライン・まつげの隙間埋め・目頭ラインに取り入れている。にじまず長時間きれいなラインをキープしてくれるのが魅力で、目元のラインを引くのに取り入れている。ナチュラルメイク派にぴったり」
 > [動画を見る](https://www.youtube.com/watch?v=xPgtsEQfQtc)
@@ -46,6 +50,9 @@
 
 > **鹿の間**: 「ヒロインメイクのプライムリッチライナー3番を目尻に使用。はみ出して横に伸ばすスタイルで、目元を自然に大きく見せている」
 > [動画を見る](https://www.youtube.com/watch?v=VC9mBlbBTK0)
+
+> **HIRO BEAUTY CHANNEL**: 「アイラインあります アイライン何使ってんの? これヒロインメイク ヒロインメイクキスミーキスミーヒロインメイク 締め色ないんだ締め色ない このアイブロウパウダー使っていきます」
+> [動画を見る](https://www.youtube.com/watch?v=HVVPmzipgKQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
@@ -210,5 +217,57 @@
 > [動画を見る](https://www.youtube.com/watch?v=0x9kqa5bjnw)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534410&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shopypp22/20240530-916-1/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### KATE KATE スーパーシャープライナーEX4.0 BK-1 漆黒ブラック / BR-2 ビターブラウン
+
+![KATE KATE スーパーシャープライナーEX4.0 BK-1 漆黒ブラック / BR-2 ビターブラウン](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item_post01/4973167534540_m_p.jpg?_ex=500x500)
+
+**価格**: 1430円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「リキッドアイライナー部門です ケイトスーパーシャープライナーEX4.0もうケイトといえばリキッドアイライナー もう何ら変わりないと思いますでしょう この新製品何が違いかといいますとですこの筆先の部分がです若干短くなってるんです」
+> [動画を見る](https://www.youtube.com/watch?v=H8zYLpzK52Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167534540&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yayoi-cosme/ka534540/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### MAYBELLINE MAYBELLINE NEW YORK ハイパーシャープ ライナー RBK-1 漆黒ブラック
+
+![MAYBELLINE MAYBELLINE NEW YORK ハイパーシャープ ライナー RBK-1 漆黒ブラック](https://thumbnail.image.rakuten.co.jp/@0_mall/soukaikenbi/cabinet/064/4936968663840.jpg?_ex=500x500)
+
+**価格**: 1419円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「アイライナーブラシをですねコンシーラーにとっていただいたら この眉尻のところにスッと1本入れていくんですそしてミーガンの場合はですね眉下にですね明るいハイライターが入っております なのでこの部分です」
+> [動画を見る](https://www.youtube.com/watch?v=ShMFbV832hU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4936968663840&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%20%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%20RBK-1%20%E6%BC%86%E9%BB%92%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/?af=mobi.0319)
+
+---
+
+### LUNASOL LUNASOL モデリングアイブロウライナー 01 アッシュトープ
+
+![LUNASOL LUNASOL モデリングアイブロウライナー 01 アッシュトープ](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeparfaite/cabinet/image/4973167009925c1.jpg?_ex=500x500)
+
+**価格**: 3520円 | **2人のYouTuberが紹介**
+
+動画の概要欄でアイライナーとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167009925&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNASOL%20LUNASOL%20%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%2001%20%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%83%97/?af=mobi.0319)
+
+---
+
+### THREE ファントゥファンキーリキッドアイライナー
+
+**価格**: 3300円 | **2人のYouTuberが紹介**
+
+動画の概要欄でアイライナーとして紹介されています。
+
+**紹介YouTuber**: ひよんちゃんねる / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=THREE%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%82%A5%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/THREE%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%82%A5%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/?af=mobi.0319)
 
 ---

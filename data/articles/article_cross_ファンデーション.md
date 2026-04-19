@@ -1,47 +1,90 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ32選
+# 【2026年04月版】YouTuberが複数紹介したファンデーションおすすめ37選
 
 複数の美容系YouTuberが**独立して紹介**したファンデーションアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
 
 ## 一覧
 
-1. **ロージーローザ** パフ ロージーローザ マルチファンデパフ2P — 3人が紹介
-2. **BANILA CO** BANILA CO カバーリシャス アルティメット ホワイト — 3人が紹介
-3. **NARS** NARS ラディアントクリーミーコンシーラー 1242 VA — 3人が紹介
-4. **SHISEIDO** SHISEIDO エッセンス スキングロウ ファンデーション — 3人が紹介
-5. **セザンヌ** セラムクッションファンデーション — 3人が紹介
-6. **VDL** クッションファンデーション — 2人が紹介
-7. **CLARINS (クラランス)** ダブル セーラム ファンデーション — 2人が紹介
-8. **MAQuillAGE（マキアージュ）** エッセンスリキッド EX ブライトグロウ ピュアピンク05  — 2人が紹介
-9. **DECORTÉ（コスメデコルテ）** ゼン ウェア ステイ N22 SPF25 PA++ — 2人が紹介
-10. **WAKEMAKE（ウェイクメイク）** ファンデーションブラシ — 2人が紹介
-11. **YSL（イヴ・サンローラン）** オールアワーズ リキッド グロウ — 2人が紹介
-12. **NARS（ナーズ）** ライトリフレクティング セラムクッションファンデーション（色 — 2人が紹介
-13. **TOM FORD** TOM FORD BEAUTY アーキテクチャー　ラディアン — 2人が紹介
-14. **マキアージュ** マキアージュ ドラマティックヌードジェリービービー — 2人が紹介
-15. **ジバンシイ** ジバンシイ　プリズム・リーブル・グロウ・セラム・ファンデーシ — 2人が紹介
-16. **ジバンシイ** ジバンシイ　プリズム・リーブル No.00 オパルセント・チ — 2人が紹介
-17. **NARS** NARS ライトリフレクティング トーンアップヴェール
+1. **SHISEIDO** SHISEIDO エッセンス スキングロウ ファンデーション — 4人が紹介
+2. **VDL** クッションファンデーション — 3人が紹介
+3. **ロージーローザ** パフ ロージーローザ マルチファンデパフ2P — 3人が紹介
+4. **BANILA CO** BANILA CO カバーリシャス アルティメット ホワイト — 3人が紹介
+5. **NARS** NARS ラディアントクリーミーコンシーラー 1242 VA — 3人が紹介
+6. **セザンヌ** セラムクッションファンデーション — 3人が紹介
+7. **ミシャ** MISSHA () — 3人が紹介
+8. **CLARINS (クラランス)** ダブル セーラム ファンデーション — 2人が紹介
+9. **MAQuillAGE（マキアージュ）** エッセンスリキッド EX ブライトグロウ ピュアピンク05  — 2人が紹介
+10. **DECORTÉ（コスメデコルテ）** ゼン ウェア ステイ N22 SPF25 PA++ — 2人が紹介
+11. **WAKEMAKE（ウェイクメイク）** ファンデーションブラシ — 2人が紹介
+12. **YSL（イヴ・サンローラン）** オールアワーズ リキッド グロウ — 2人が紹介
+13. **NARS（ナーズ）** ライトリフレクティング セラムクッションファンデーション（色 — 2人が紹介
+14. **hince** hince セカンドスキンメッシュマットクッション — 2人が紹介
+15. **TOM FORD** TOM FORD BEAUTY アーキテクチャー　ラディアン — 2人が紹介
+16. **マキアージュ** マキアージュ ドラマティックヌードジェリービービー — 2人が紹介
+17. **ジバンシイ** ジバンシイ　プリズム・リーブル・グロウ・セラム・ファンデーシ — 2人が紹介
+18. **ジバンシイ** ジバンシイ　プリズム・リーブル No.00 オパルセント・チ — 2人が紹介
+19. **NARS** NARS ライトリフレクティング トーンアップヴェール
 SP — 2人が紹介
-18. **NARS** NARS ライトリフレクティング セラムクッションファンデー — 2人が紹介
-19. **NARS** NARS ライトリフレクティング メーキャップセッティングミ — 2人が紹介
-20. **SHISEIDO** SHISEIDOシンクロスキン ラディアントリフティング フ — 2人が紹介
-21. **コスメデコルテ** コスメデコルテ　ゼン ウェア グロウ
+20. **NARS** NARS ライトリフレクティング セラムクッションファンデー — 2人が紹介
+21. **NARS** NARS ライトリフレクティング メーキャップセッティングミ — 2人が紹介
+22. **SHISEIDO** SHISEIDOシンクロスキン ラディアントリフティング フ — 2人が紹介
+23. **コスメデコルテ** コスメデコルテ　ゼン ウェア グロウ
 N — 2人が紹介
-22. **マキアージュ** マキアージュ ドラマティックエッセンスクッション グロウ
+24. **RMK** RMK クリームファンデーション アクアティックグロウ — 2人が紹介
+25. **マキアージュ** マキアージュ ドラマティックエッセンスクッション グロウ
 ラ — 2人が紹介
-23. **SHISEIDO** SHISEIDO メーキャップ エッセンス スキングロウ フ — 2人が紹介
-24. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15 — 2人が紹介
-25. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
-26. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション — 2人が紹介
-27. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
-28. **shu uemura** ツヤ 55 ファンデーション ブラシ — 2人が紹介
-29. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ — 2人が紹介
-30. **ミシャ** MISSHA () — 2人が紹介
-31. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
-32. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
+26. **SHISEIDO** SHISEIDO メーキャップ エッセンス スキングロウ フ — 2人が紹介
+27. **NARS** NARS ナチュラル ロングウェア ファンデーション 全15 — 2人が紹介
+28. **KATE** KATE ケイト エアリーチェンジリキッド SPF30 /  — 2人が紹介
+29. **MAYBELLINE** NEW YORK SPステイ ルミマット リキッド ファンデ — 2人が紹介
+30. **MAYBELLINE** MAYBELLINE NEW YORK SPステイ ルミマッ — 2人が紹介
+31. **CEZANNE** CEZANNE トーンフィルターハイライト 01 フィルター — 2人が紹介
+32. **GIVENCHY** プリズム・リーブル・グロウ・セラム・ファンデーション — 2人が紹介
+33. **トーン** 崩れない新作トーンアップ下地 — 2人が紹介
+34. **shu uemura** ツヤ 55 ファンデーション ブラシ — 2人が紹介
+35. **shu uemura** shu uemura アンリミテッド ケア ツヤ セラム フ — 2人が紹介
+36. **CLIO** 🍑薄付きだけど優れたカバー力で有名な王道クッションファンデ — 2人が紹介
+37. **TIRTIR** #Qoo10メガ割 #楽天スーパーセール # #ティルティル — 2人が紹介
+
+---
+
+### SHISEIDO SHISEIDO エッセンス スキングロウ ファンデーション
+
+![SHISEIDO SHISEIDO エッセンス スキングロウ ファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmedenet-dx/cabinet/item/0235/3104151_1.jpg?_ex=500x500)
+
+**価格**: 7590円 | **4人のYouTuberが紹介**
+
+> **鹿の間**: 「今月のお気に入り紹介動画で取り上げ。最近のメイクで愛用している」
+> [動画を見る](https://www.youtube.com/watch?v=wXXnJH28h1g)
+
+> **コスメヲタちゃんねるサラ**: 「2024年マイベストコスメ動画で紹介。サラタカコンビでお互いのベスコスを発表す」
+> [動画を見る](https://www.youtube.com/watch?v=nBL6g3Q5B8U)
+
+> **HIRO BEAUTY CHANNEL**: 「それではスタート まずは精度のファンデーションが来ております」
+> [動画を見る](https://www.youtube.com/watch?v=IpuewC4E-W4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0021/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### VDL クッションファンデーション
+
+![VDL クッションファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/blanc-lapin/cabinet/item/vdl/vdlhg0000001m.jpg?_ex=500x500)
+
+**価格**: 3630円 | **3人のYouTuberが紹介**
+
+> **水越みさと**: 「薄膜フィットで崩れにくく、擦らず塗れるクッションタイプとして取り入れている。肌に溶け込むように自然になじんでくれるのが魅力で、ナチュラルな仕上がりが好きな方におすすめ」
+> [動画を見る](https://www.youtube.com/watch?v=xPgtsEQfQtc)
+
+> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
+> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
+
+> **HIRO BEAUTY CHANNEL**: 「これもです肌に明るさ そしてなんとなくファンデーション らのせたかなという ほのかなカバー力 そういった感じで とっても使いやすい うるおい効果の高い下地になっております 極度の乾燥 そして花粉症で肌がかゆいという方 そういった方にはです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_cs_cf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -99,22 +142,6 @@ N — 2人が紹介
 
 ---
 
-### SHISEIDO SHISEIDO エッセンス スキングロウ ファンデーション
-
-![SHISEIDO SHISEIDO エッセンス スキングロウ ファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmedenet-dx/cabinet/item/0235/3104151_1.jpg?_ex=500x500)
-
-**価格**: 7590円 | **3人のYouTuberが紹介**
-
-> **鹿の間**: 「今月のお気に入り紹介動画で取り上げ。最近のメイクで愛用している」
-> [動画を見る](https://www.youtube.com/watch?v=wXXnJH28h1g)
-
-> **コスメヲタちゃんねるサラ**: 「2024年マイベストコスメ動画で紹介。サラタカコンビでお互いのベスコスを発表す」
-> [動画を見る](https://www.youtube.com/watch?v=nBL6g3Q5B8U)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/brandshiseido/smu0021/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
 ### セザンヌ セラムクッションファンデーション
 
 **価格**: 1155円 | **3人のYouTuberが紹介**
@@ -132,19 +159,20 @@ N — 2人が紹介
 
 ---
 
-### VDL クッションファンデーション
+### ミシャ MISSHA ()
 
-![VDL クッションファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/blanc-lapin/cabinet/item/vdl/vdlhg0000001m.jpg?_ex=500x500)
+**3人のYouTuberが紹介**
 
-**価格**: 3630円 | **2人のYouTuberが紹介**
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「ミシャのグロウクッションファンデーション ルミナスカバーを使用。最近使ったクッションファンデーションの中で最も仕上がりがわかりやすいと高評価。」
+> [動画を見る](https://www.youtube.com/watch?v=MkHRmo5LMYc)
 
-> **水越みさと**: 「薄膜フィットで崩れにくく、擦らず塗れるクッションタイプとして取り入れている。肌に溶け込むように自然になじんでくれるのが魅力で、ナチュラルな仕上がりが好きな方におすすめ」
-> [動画を見る](https://www.youtube.com/watch?v=xPgtsEQfQtc)
+> **nanachannel**: 「ミシャのクッションファンデーション 21番を使用。若干ピンクみのある色味で、ツヤっぽく仕上がるタイプ。Tゾーンや顎など部分的に使用。」
+> [動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
 
-> **韓国オンニAちゃん (会社員J)**: 「私、韓国の大手コスメメーカーさん、LG生活健康VDLさんとコラボして開発したこちらのクッションとファンデーション。」
-> [動画を見る](https://www.youtube.com/watch?v=V4zvZlAPoog)
+> **KAWAII PATEEN**: 「こちらはファンデーションを塗る前のトーンアップベースに私は使ってます 私の肌は赤みの強い肌をしているので ニキビ跡だったりとかニキビだったりとか あとシミとかをです」
+> [動画を見る](https://www.youtube.com/watch?v=-Ucl7z3z7Oo)
 
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=VDL%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/lg-beauty-japan/vdl_cs_cf/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29/?af=mobi.0319)
 
 ---
 
@@ -241,6 +269,22 @@ N — 2人が紹介
 > [動画を見る](https://www.youtube.com/watch?v=oZixLYT5Hfs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%E8%89%B2%EF%BC%9A%E3%82%BD%E3%82%A6%E3%83%AB%EF%BC%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/0194251145600/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### hince hince セカンドスキンメッシュマットクッション
+
+![hince hince セカンドスキンメッシュマットクッション](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img2031/item_1000174116_1.jpg?_ex=500x500)
+
+**価格**: 2970円 | **2人のYouTuberが紹介**
+
+> **鹿の間**: 「まずは6位ですこちら ヒースのセカンドスキンメッシュマットクッションこちらインキューブで買いました メッシュのねマネットみたいなのが引いてあって そこからファンデが取れるよっていうアイテムなんです」
+> [動画を見る](https://www.youtube.com/watch?v=BlnCIGVzz24)
+
+> **HIRO BEAUTY CHANNEL**: 「これは日中用乳液なんですけれども SPF50プラスにPA++++ 紫外線防御力がしっかりとしながらも ピンクのトーンアップをしてくれるという下地になります 日中用乳液っていうだけあって肌なじみがとても良く 潤う力がとても高いんです」
+> [動画を見る](https://www.youtube.com/watch?v=U2ZpclpEMkQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20hince%20%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hincejapan/p0000bmg/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -379,6 +423,22 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 ---
 
+### RMK RMK クリームファンデーション アクアティックグロウ
+
+![RMK RMK クリームファンデーション アクアティックグロウ](https://thumbnail.image.rakuten.co.jp/@0_mall/mimori/cabinet/sku/4973167535424_2.jpg?_ex=500x500)
+
+**価格**: 6600円 | **2人のYouTuberが紹介**
+
+> **水越みさと**: 「まず、一応ね、条件的には今回下地、いつものごとくですがRMKのメイクアップベースを使用しています この下地が一番カバー力もナチュラルめで、他にあまり何も干渉しないので、わかりやすいので採用しました で、」
+> [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
+
+> **HIRO BEAUTY CHANNEL**: 「見つけ次第即買い続いてはクリームファンデーション !って感じもうねあなたこの季節からよ クリームファンデーションが大活躍です 秋というのはですやはり乾燥の季節 そして潤いが続かないですよそんな時にはです」
+> [動画を見る](https://www.youtube.com/watch?v=rH75W7bbCu0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167535424&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4973167535448/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### マキアージュ マキアージュ ドラマティックエッセンスクッション グロウ
 ライトオークル ※ケース合算価格
 
@@ -445,6 +505,46 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 
 ---
 
+### MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 / PA+++ N01
+
+![MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 / PA+++ N01](https://thumbnail.image.rakuten.co.jp/@0_mall/axas-co/cabinet/2023-11_01/6902395856221.jpg?_ex=500x500)
+
+**価格**: 2992円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「メイベリンSPステイルミマットリキッドファンデーション皆様もう使ってらっしゃいます」
+> [動画を見る](https://www.youtube.com/watch?v=H8zYLpzK52Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20N01&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/biccamera/6902395856207/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### MAYBELLINE MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 / PA+++ N
+
+![MAYBELLINE MAYBELLINE NEW YORK SPステイ ルミマット リキッド ファンデーション SPF12 / PA+++ N](https://thumbnail.image.rakuten.co.jp/@0_mall/axas-co/cabinet/2023-11_01/6902395856214.jpg?_ex=500x500)
+
+**価格**: 2992円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「はいはいだからファンデーションいっぱいつけなくて済むようになるわけ へー そうスキンケアの状態でうるおいと顔の赤みを沈静してくれるっていうスプレーなのよ 私こういうの買ったことあるんです」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20NEW%20YORK%20SP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%AB%E3%83%9F%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20SPF12%20/%20PA%2B%2B%2B%20N&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/axas-co/chokh-6902395856214/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CEZANNE CEZANNE トーンフィルターハイライト 01 フィルターベージュ  ※8/1先行発売
+
+![CEZANNE CEZANNE トーンフィルターハイライト 01 フィルターベージュ  ※8/1先行発売](https://thumbnail.image.rakuten.co.jp/@0_mall/kaleidolife/cabinet/12021376/12809517/imgrc0110669224.jpg?_ex=500x500)
+
+**価格**: 693円 | **2人のYouTuberが紹介**
+
+動画の概要欄でファンデーションとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%2001%20%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%20%20%E2%80%BB8/1%E5%85%88%E8%A1%8C%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kaleidolife/jjj208/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### GIVENCHY プリズム・リーブル・グロウ・セラム・ファンデーション
 
 ![GIVENCHY プリズム・リーブル・グロウ・セラム・ファンデーション](https://thumbnail.image.rakuten.co.jp/@0_mall/cinderellabeaute/cabinet/fdt/2501gy002fdt_001.jpg?_ex=500x500)
@@ -497,20 +597,6 @@ N](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11076020/49
 > [動画を見る](https://www.youtube.com/watch?v=BfkZfl4bRkQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/shu%20uemura%20shu%20uemura%20%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%20%E3%82%B1%E3%82%A2%20%E3%83%84%E3%83%A4%20%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
-
----
-
-### ミシャ MISSHA ()
-
-**2人のYouTuberが紹介**
-
-> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「ミシャのグロウクッションファンデーション ルミナスカバーを使用。最近使ったクッションファンデーションの中で最も仕上がりがわかりやすいと高評価。」
-> [動画を見る](https://www.youtube.com/watch?v=MkHRmo5LMYc)
-
-> **nanachannel**: 「ミシャのクッションファンデーション 21番を使用。若干ピンクみのある色味で、ツヤっぽく仕上がるタイプ。Tゾーンや顎など部分的に使用。」
-> [動画を見る](https://www.youtube.com/watch?v=WWnzLPZtABw)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%82%B7%E3%83%A3%20MISSHA%20%28%29/?af=mobi.0319)
 
 ---
 

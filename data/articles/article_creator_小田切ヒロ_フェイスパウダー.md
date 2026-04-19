@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 小田切ヒロおすすめフェイスパウダー39選【2026年04月版】
+# 小田切ヒロおすすめフェイスパウダー57選【2026年04月版】
 
 人気美容YouTuber **小田切ヒロ** さんが動画で紹介したフェイスパウダーアイテムをまとめました。
 
@@ -12,40 +12,58 @@
 4. **SUQQU** SUQQU ソフト マット セッティング パウダー グロウ 
 5. **ADDICTION** ADDICTION / ADDICTION
 インビジブル エ
-6. **THREE** THREE アドバンスドエシリアルスムースオペレーター ルー
-7. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ
-8. **SHISEIDO** SHISEIDO ベネフィアンス ブライトニング スキンケア
-9. **キス** M∙A∙C パウダーキス ヘイジー マット リップスティック
-10. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ
-11. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ
-12. **CANMAKE** CANMAKE シェーディングパウダー 05 ムーングレージ
-13. **キス** M･A･C パウダーキス ヘイジー マット リップスティック
-14. **キス** M･A･C パウダー キス リップ ＋ チーク ムース ベル
-15. **CEZANNE** CEZANNE アイブロウ&シェードパウダー 03 ソフトグ
-16. **Obagi** Obagi オバジC 酵素洗顔パウダーDP 0.4g×30個
-17. **NARS** NARS ライトリフレクティング ルミナイジングパウダー 0
-18. **RMK** RMK アイブロウ パウダー デュオ 02 ライト ＆ リュ
-19. **トーン** LANEIGE ネオ トーンアップ フィニッシュパウダー
-20. **キス** M∙A∙C パウダー キス リップ＋チーク ムース　※1月9
-21. **NARS** NARS ライトリフレクティング プリズマティックパウダー 
-22. **GIVENCHY** GIVENCHY プリズム・リーブル・プレスト・パウダー N
-23. **NARS** NARS ライトリフレクティング ルミナイジングパウダー O
-24. **GIVENCHY** GIVENCHY プリズム・リーブル・プレストパウダー No
-25. **NARS** NARS ライトリフレクティング ルミナイジングパウダー E
-26. **CANMAKE** CANMAKE パウダーチークス P40thx キューティー
-27. **GIVENCHY** GIVENCHY プリズム・リーブル・ブロンザーパウダー 0
-28. **キス** M∙A∙C パウダー キス リキッド リップカラー 952 
-29. **NARS** NARS ゴールドダスト ライトリフレクティングセッティング
-30. **キス** M·A·C パウダー  ヘイジー マット リップスティック※
-31. **トーン** ✔ 眉はパウダーより「1本ずつ」＋調整で一気に大人見え
-32. **キス** M･A･C パウダー キス リップ + チーク ムース 95
-33. **MAC** ✔︎ のパウダー×クッションで叶える、若々しい“健康ベスト肌
-34. **PRADA Beauty** PRADA BEAUTY プラダ ライト グローイング パウ
-35. **GIVENCHY** GIVENCHY プリズム･リーブル･ブロンザーパウダー 全
-36. **shu uemura** shu uemura アンリミテッド ルミマット セッティン
-37. **ケイト** #小田切ヒロ #メイク #コスメ #眉毛 #眉毛メイク #眉
-38. **THREE** THREE アドバンスドエシリアルスムースオペレーター ルー
-39. **KATE** KATE ケイト ジュレリープパウダー 01　月波　※4月2
+6. **KATE** KATE 3DクリエイトニュアンスパウダーEX-
+7. **ヴィセ** ヴィセ リシェ アイブロウパウダー
+8. **THREE** THREE アドバンスドエシリアルスムースオペレーター ルー
+9. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ
+10. **SHISEIDO** SHISEIDO ベネフィアンス ブライトニング スキンケア
+11. **キス** M∙A∙C パウダーキス ヘイジー マット リップスティック
+12. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ
+13. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ
+14. **CANMAKE** CANMAKE シェーディングパウダー 05 ムーングレージ
+15. **キス** M･A･C パウダーキス ヘイジー マット リップスティック
+16. **キス** M･A･C パウダー キス リップ ＋ チーク ムース ベル
+17. **CEZANNE** CEZANNE アイブロウ&シェードパウダー 03 ソフトグ
+18. **Obagi** Obagi オバジC 酵素洗顔パウダーDP 0.4g×30個
+19. **NARS** NARS ライトリフレクティング ルミナイジングパウダー 0
+20. **RMK** RMK アイブロウ パウダー デュオ 02 ライト ＆ リュ
+21. **トーン** LANEIGE ネオ トーンアップ フィニッシュパウダー
+22. **キス** M∙A∙C パウダー キス リップ＋チーク ムース　※1月9
+23. **NARS** NARS ライトリフレクティング プリズマティックパウダー 
+24. **GIVENCHY** GIVENCHY プリズム・リーブル・プレスト・パウダー N
+25. **NARS** NARS ライトリフレクティング ルミナイジングパウダー O
+26. **GIVENCHY** GIVENCHY プリズム・リーブル・プレストパウダー No
+27. **NARS** NARS ライトリフレクティング ルミナイジングパウダー E
+28. **CANMAKE** CANMAKE パウダーチークス P40thx キューティー
+29. **GIVENCHY** GIVENCHY プリズム・リーブル・ブロンザーパウダー 0
+30. **キス** M∙A∙C パウダー キス リキッド リップカラー 952 
+31. **NARS** NARS ゴールドダスト ライトリフレクティングセッティング
+32. **キス** M·A·C パウダー  ヘイジー マット リップスティック※
+33. **トーン** ✔ 眉はパウダーより「1本ずつ」＋調整で一気に大人見え
+34. **キス** M･A･C パウダー キス リップ + チーク ムース 95
+35. **MAC** ✔︎ のパウダー×クッションで叶える、若々しい“健康ベスト肌
+36. **PRADA Beauty** PRADA BEAUTY プラダ ライト グローイング パウ
+37. **GIVENCHY** GIVENCHY プリズム･リーブル･ブロンザーパウダー 全
+38. **shu uemura** shu uemura アンリミテッド ルミマット セッティン
+39. **ケイト** #小田切ヒロ #メイク #コスメ #眉毛 #眉毛メイク #眉
+40. **THREE** THREE アドバンスドエシリアルスムースオペレーター ルー
+41. **KATE** KATE ケイト ジュレリープパウダー 01　月波　※4月2
+42. **キス** M•A•C パウダーキス リキッド リップカラー バフィスト
+43. **ADDICTION** ADDICTION インビジブル　エッセンス　ルースパウダー
+44. **キス** M•A•C パウダーキス リキッド リップカラー ハビット
+45. **NARS** NARS ラグナ ブロンジングパウダー LAGUNA
+46. **NARS** NARS マット ブロンズパウダー
+47. **NARS** NARS ソフトベルベットプレストパウダー HEAT
+48. **ETUDE** ETUDE コントゥアパウダー イルミネーター/クリエイター
+49. **オバジ** Obaji オバジC 酵素洗顔パウダーDP
+50. **ケイト** Celvoke インディケイト アイブロウパウダー 10　※
+51. **Bobbi Brown** ブロンジング パウダー 01 ライト
+52. **PAUL & JOE** PAUL & JOE プロテクティング フェイス パウダー 
+53. **TOM FORD** TOM FORD アーキテクチャー ソフト マット ブラーリ
+54. **ADDICTION** ADDICTION インビジブルエッセンスルースパウダーグロ
+55. **Bobbi Brown** BOBBI BROWN プロンジングパウダー 01 ライト
+56. **CANMAKE** CANMAKE イルミネイティングフィニッシュパウダー ～A
+57. **SHISEIDO** SHISEIDO PROFESSIONAL ステージワークス
 
 ---
 
@@ -115,6 +133,32 @@
 [動画を見る](https://www.youtube.com/watch?v=kAjXHHsz7kE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20/%20ADDICTION%0A%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0A002%20Luminous%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20/%20ADDICTION%0D%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%B0%E3%83%AD%E3%82%A6%20%2B%0D002%20Luminous%20Pink/?af=mobi.0319)
+
+---
+
+### KATE KATE 3DクリエイトニュアンスパウダーEX-
+
+![KATE KATE 3DクリエイトニュアンスパウダーEX-](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24-cosmetics/cabinet/830/4973167518830.jpg?_ex=500x500)
+
+**価格**: 1540円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=ANuxa34vIRc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167518830&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tsuruha/10163028/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ヴィセ ヴィセ リシェ アイブロウパウダー
+
+![ヴィセ ヴィセ リシェ アイブロウパウダー](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/573/4971710589573.jpg?_ex=500x500)
+
+**価格**: 1210円
+
+> **小田切ヒロ**: 「そこでね使っていただきたいのは必ずアイブロウパウダーになります こちらViseeのアイブロウパウダーなんですが 今日使うのはちょっとピンクニュアンスのカラーになります このカラーとこのカラーをミックスして 自分の元々の眉毛のカラー 色元々黒いです」
+> [動画を見る](https://www.youtube.com/watch?v=4z-neKuXNb8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710589573&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yayoi-cosme/49485/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -527,5 +571,175 @@
 > [動画を見る](https://www.youtube.com/watch?v=MP5EqcFAwTg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%97%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%E3%80%80%E6%9C%88%E6%B3%A2%E3%80%80%E2%80%BB4%E6%9C%8825%E6%97%A5%E4%B8%80%E9%83%A8%E5%BA%97%E8%88%97%EF%BD%A5WEB%E3%81%AB%E3%81%A6%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20KATE%20%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%AA%E3%83%BC%E3%83%97%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%E3%80%80%E6%9C%88%E6%B3%A2%E3%80%80%E2%80%BB4%E6%9C%8825%E6%97%A5%E4%B8%80%E9%83%A8%E5%BA%97%E8%88%97%EF%BD%A5WEB%E3%81%AB%E3%81%A6%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### キス M•A•C パウダーキス リキッド リップカラー バフィスト
+
+> **小田切ヒロ**: 「その中でもこのバフィストというカラー もうこれ何回も使っております もうねこの質感 優れマットなんですけれども これがですふわっと高揚感 そしてこのバフィットというカラーです見た感じ茶色なんです」
+> [動画を見る](https://www.youtube.com/watch?v=-sXHRcVoR9Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20M%E2%80%A2A%E2%80%A2C%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%90%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20M%E2%80%A2A%E2%80%A2C%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%90%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION インビジブル　エッセンス　ルースパウダー　グロウ ＋ 001 ソフトグロウ
+
+**価格**: 4950円
+
+> **小田切ヒロ**: 「そこで使っていくのがこちら。 アディクションのですね、 ルースパウダー。 そう、このルースパウダーをですね、 ちょっとだけつけます。 はい。 いっぱいつけない。 この加減が難しいね。 そうなのよ。 そういった時はね、こういうチークブラシを使うんですよ。」
+> [動画を見る](https://www.youtube.com/watch?v=5rgLED-qy0I)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%E3%80%80%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%80%80%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80%E3%82%B0%E3%83%AD%E3%82%A6%20%EF%BC%8B%20001%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%E3%80%80%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%80%80%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80%E3%82%B0%E3%83%AD%E3%82%A6%20%EF%BC%8B%20001%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
+
+---
+
+### キス M•A•C パウダーキス リキッド リップカラー ハビット
+
+**価格**: 4840円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=AA0CCGQ_SX0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20M%E2%80%A2A%E2%80%A2C%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%8F%E3%83%93%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20M%E2%80%A2A%E2%80%A2C%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%AD%E3%82%B9%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%8F%E3%83%93%E3%83%83%E3%83%88/?af=mobi.0319)
+
+---
+
+### NARS NARS ラグナ ブロンジングパウダー LAGUNA
+
+**価格**: 5500円
+
+> **小田切ヒロ**: 「今からご説明していこうかなと思います まずはブロンザー ブロンジングパウダーというものがあります 私のようにちょっとテラコッタ調の日焼けしたような肌の方には とても相性のいいカラーのことを言うんですけれども 基本的にですブロンザーのカラーにはです」
+> [動画を見る](https://www.youtube.com/watch?v=ANuxa34vIRc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%A9%E3%82%B0%E3%83%8A%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20LAGUNA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%A9%E3%82%B0%E3%83%8A%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20LAGUNA/?af=mobi.0319)
+
+---
+
+### NARS NARS マット ブロンズパウダー
+
+> **小田切ヒロ**: 「まずです結構有名なところではこういった NARSのブロンジングパウダー こちらラグーナというカラーなんですけれども NARSのブロンザーにはですね黄みと赤みベースというものがあります」
+> [動画を見る](https://www.youtube.com/watch?v=ANuxa34vIRc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC/?af=mobi.0319)
+
+---
+
+### NARS NARS ソフトベルベットプレストパウダー HEAT
+
+> **小田切ヒロ**: 「まずです結構有名なところではこういった NARSのブロンジングパウダー こちらラグーナというカラーなんですけれども NARSのブロンザーにはですね黄みと赤みベースというものがあります」
+> [動画を見る](https://www.youtube.com/watch?v=ANuxa34vIRc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20HEAT&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20HEAT/?af=mobi.0319)
+
+---
+
+### ETUDE ETUDE コントゥアパウダー イルミネーター/クリエイター　各
+
+**価格**: 2090円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=ANuxa34vIRc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ETUDE%20ETUDE%20%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E3%80%80%E5%90%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ETUDE%20ETUDE%20%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E3%80%80%E5%90%84/?af=mobi.0319)
+
+---
+
+### オバジ Obaji オバジC 酵素洗顔パウダーDP
+
+**価格**: 2420円
+
+> **小田切ヒロ**: 「はこちら オバジシー酵素洗顔パウダーBP毛穴の中の汚れ毛穴洗浄というのはやはり 酵素洗顔にお任せあれ私ねこのオバジのね酵素洗顔大好きなんですよ なぜならばです」
+> [動画を見る](https://www.youtube.com/watch?v=B1Xvm1DewB4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%90%E3%82%B8%20Obaji%20%E3%82%AA%E3%83%90%E3%82%B8C%20%E9%85%B5%E7%B4%A0%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BCDP&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%90%E3%82%B8%20Obaji%20%E3%82%AA%E3%83%90%E3%82%B8C%20%E9%85%B5%E7%B4%A0%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BCDP/?af=mobi.0319)
+
+---
+
+### ケイト Celvoke インディケイト アイブロウパウダー 10　※8/9発売
+
+**価格**: 3850円
+
+> **小田切ヒロ**: 「こちらジルスチュアートからまた 新しく登場したアイブロウパウダー 鏡付きの蓋に もうこちら もうご丁寧にブラシがですデュオタイプになっております 色味自体はです全体的に暖色系のカラーで構成されております」
+> [動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B1%E3%82%A4%E3%83%88%20Celvoke%20%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2010%E3%80%80%E2%80%BB8/9%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%82%A4%E3%83%88%20Celvoke%20%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%88%20%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2010%E3%80%80%E2%80%BB8/9%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### Bobbi Brown ブロンジング パウダー 01 ライト
+
+**価格**: 7920円
+
+> **小田切ヒロ**: 「シェーディング部門です ボビーブラウンブロンジングパウダー 01ライトもうボビーブラウンの ブロンジングパウダーが とにかく使いやすいんですよ 程よく陰影感をつけてくれる というタイプになります」
+> [動画を見る](https://www.youtube.com/watch?v=jjjepl0TSEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%20%E3%83%A9%E3%82%A4%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Bobbi%20Brown%20%E3%83%96%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%20%E3%83%A9%E3%82%A4%E3%83%88/?af=mobi.0319)
+
+---
+
+### PAUL & JOE PAUL & JOE プロテクティング フェイス パウダー 全2色 SPF50+ / PA++++　専用ケースとのセット価格 各
+
+**価格**: 5500円
+
+> **小田切ヒロ**: 「なんとプレストパウダーなのに SPF50プラスにPA++++というです」
+> [動画を見る](https://www.youtube.com/watch?v=JwNaaO8BnjI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=PAUL%20%26%20JOE%20PAUL%20%26%20JOE%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E5%85%A82%E8%89%B2%20SPF50%2B%20/%20PA%2B%2B%2B%2B%E3%80%80%E5%B0%82%E7%94%A8%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC%20%E5%90%84&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/PAUL%20%26%20JOE%20PAUL%20%26%20JOE%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E5%85%A82%E8%89%B2%20SPF50%2B%20/%20PA%2B%2B%2B%2B%E3%80%80%E5%B0%82%E7%94%A8%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC%20%E5%90%84/?af=mobi.0319)
+
+---
+
+### TOM FORD TOM FORD アーキテクチャー ソフト マット ブラーリング パウダー 01 アラバスター ヌード
+
+**価格**: 13200円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=qlumhucLSp0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20TOM%20FORD%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%BD%E3%83%95%E3%83%88%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%20%E3%82%A2%E3%83%A9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%8C%E3%83%BC%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TOM%20FORD%20TOM%20FORD%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC%20%E3%82%BD%E3%83%95%E3%83%88%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%96%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%20%E3%82%A2%E3%83%A9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%8C%E3%83%BC%E3%83%89/?af=mobi.0319)
+
+---
+
+### ADDICTION ADDICTION インビジブルエッセンスルースパウダーグロウ＋002 Luminous Pink
+
+**価格**: 4950円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=R589rv0atIQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20ADDICTION%20%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6%EF%BC%8B002%20Luminous%20Pink&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%96%E3%83%AB%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6%EF%BC%8B002%20Luminous%20Pink/?af=mobi.0319)
+
+---
+
+### Bobbi Brown BOBBI BROWN プロンジングパウダー 01 ライト
+
+**価格**: 8250円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=R589rv0atIQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Bobbi%20Brown%20BOBBI%20BROWN%20%E3%83%97%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%20%E3%83%A9%E3%82%A4%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Bobbi%20Brown%20BOBBI%20BROWN%20%E3%83%97%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2001%20%E3%83%A9%E3%82%A4%E3%83%88/?af=mobi.0319)
+
+---
+
+### CANMAKE CANMAKE イルミネイティングフィニッシュパウダー ～Abloom～ SPF24 / PA++ 01 ハイドレンジアガーデン
+
+**価格**: 1034円
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=RP49Y-05tEk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CANMAKE%20CANMAKE%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%EF%BD%9EAbloom%EF%BD%9E%20SPF24%20/%20PA%2B%2B%2001%20%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%A2%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CANMAKE%20CANMAKE%20%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%EF%BD%9EAbloom%EF%BD%9E%20SPF24%20/%20PA%2B%2B%2001%20%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%A2%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/?af=mobi.0319)
+
+---
+
+### SHISEIDO SHISEIDO PROFESSIONAL ステージワークス パウダーシェイク
+
+**価格**: 1650円
+
+> **小田切ヒロ**: 「そんな時にとても役に立つのがですこちら 資生堂のステージワークスパウダーシェイクというスタイリング剤なんですが こちらはですねパウダーミストになるものなんですが 根元の立ち上げ方向性をコントロールしてくれるというミストになります」
+> [動画を見る](https://www.youtube.com/watch?v=vlppx8t41z4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20PROFESSIONAL%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20PROFESSIONAL%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF/?af=mobi.0319)
 
 ---

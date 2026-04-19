@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したマスカラおすすめ12選
+# 【2026年04月版】YouTuberが複数紹介したマスカラおすすめ15選
 
 複数の美容系YouTuberが**独立して紹介**したマスカラアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -17,8 +17,11 @@
 8. **ETUDE** ETUDE｜カールフィックスマスカラ ブラック — 2人が紹介
 9. **セザンヌ** セザンヌ 耐久カールスリムマスカラ — 2人が紹介
 10. **mude** mude. インスパイア　マルチフィクサーマスカラ　０１　ク — 2人が紹介
-11. **セザンヌ** 耐久カールマスカラ — 2人が紹介
-12. **NARS** リップスティック 2913 【マスカラ】 NARSクライマッ — 2人が紹介
+11. **CLIO** キルラッシュスーパープルーフマスカラ ボリュームカーリング — 2人が紹介
+12. **CEZANNE** CEZANNE スタイリングアイブロウマスカラ 00 クリア — 2人が紹介
+13. **セザンヌ** 耐久カールマスカラ — 2人が紹介
+14. **CEZANNE** 耐久カールマスカラ — 2人が紹介
+15. **NARS** リップスティック 2913 【マスカラ】 NARSクライマッ — 2人が紹介
 
 ---
 
@@ -182,6 +185,33 @@
 
 ---
 
+### CLIO キルラッシュスーパープルーフマスカラ ボリュームカーリング
+
+![CLIO キルラッシュスーパープルーフマスカラ ボリュームカーリング](https://thumbnail.image.rakuten.co.jp/@0_mall/blanc-lapin/cabinet/item/clo/clokm0000002.jpg?_ex=500x500)
+
+**価格**: 1760円 | **2人のYouTuberが紹介**
+
+動画の概要欄でマスカラとして紹介されています。
+
+**紹介YouTuber**: 鹿の間 / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CLIO%20%E3%82%AD%E3%83%AB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%20%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/blanc-lapin/clokm0000002/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### CEZANNE CEZANNE スタイリングアイブロウマスカラ 00 クリア
+
+![CEZANNE CEZANNE スタイリングアイブロウマスカラ 00 クリア](https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/8915/00000012103490_a01.jpg?_ex=500x500)
+
+**価格**: 561円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「そしてネイビーなので 白目が とてもクリアに 見えてると思います よーくご覧いただきますと 年齢を重ねた大人のまつげというのはです」
+> [動画を見る](https://www.youtube.com/watch?v=RP49Y-05tEk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9%2000%20%E3%82%AF%E3%83%AA%E3%82%A2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553042990/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### セザンヌ 耐久カールマスカラ
 
 **価格**: 638円 | **2人のYouTuberが紹介**
@@ -193,6 +223,17 @@
 > [動画を見る](https://www.youtube.com/watch?v=FQjAUPSRUmU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E8%80%90%E4%B9%85%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E8%80%90%E4%B9%85%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9/?af=mobi.0319)
+
+---
+
+### CEZANNE 耐久カールマスカラ
+
+**価格**: 638円 | **2人のYouTuberが紹介**
+
+> **ひよんちゃんねる**: 「私の中でグレージュ セザンヌの耐久カールマスカラ スリムタイプ これブラックなんだけど 色々と 色々と 私はグレージュっぽいです 下まつりは しっかりやった方がいいです」
+> [動画を見る](https://www.youtube.com/watch?v=HZ9ku33Vu9k)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E8%80%90%E4%B9%85%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/CEZANNE%20%E8%80%90%E4%B9%85%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9/?af=mobi.0319)
 
 ---
 

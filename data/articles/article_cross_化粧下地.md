@@ -1,35 +1,39 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介した化粧下地おすすめ23選
+# 【2026年04月版】YouTuberが複数紹介した化粧下地おすすめ27選
 
 複数の美容系YouTuberが**独立して紹介**した化粧下地アイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
 
 ## 一覧
 
-1. **コスメデコルテ** コスメデコルテ ロージーグロウライザー — 3人が紹介
-2. **エリクシール** デーケアレボリューション トーンアップ BE+ca ピュアベ — 2人が紹介
-3. **CANMAKE（キャンメイク）** キャンメイク ベース モイストプリズムプライマー03 — 2人が紹介
-4. **クレ・ド・ポー ボーテ** クレ・ド・ポー ボーテ ヴォワールコレクチュールｎ ＜プレメ — 2人が紹介
-5. **トーン** UVアップベース ホワイト  SPF50+/PA++++ — 2人が紹介
-6. **トーン** fwee スパグロウ UV トーンアップベース 01 グロウ — 2人が紹介
-7. **トーン** ＶＤＬ トーン ステイン カラー コレクティング プライマー — 2人が紹介
-8. **トーン** ＶＤＬ　トーン　ステイン　カラー　コレクティング　プライマー — 2人が紹介
-9. **TIRTIR** TIRTIR マスクフィットトーンアップエッセンス ミント — 2人が紹介
-10. **トーン** スパグロウUVアップベース — 2人が紹介
-11. **トーン** マスクフィット アップエッセンス  SPF30/PA++ — 2人が紹介
-12. **トーン** オールデイトーンアップベースクリーム — 2人が紹介
-13. **ソフィーナ** ソフィーナip ベースケア セラム＜土台美容液＞ ※Amaz — 2人が紹介
-14. **セザンヌ** セザンヌ 影色リップメイカー02　クールピンク — 2人が紹介
-15. **KISS** kiss もちみずベース — 2人が紹介
-16. **GIVENCHY** GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・ — 2人が紹介
-17. **SUQQU** SUQQU オイル リッチ グロウ ルース パウダー e — 2人が紹介
-18. **tfit** tfit ハイドレートバニッシュアートプライマー — 2人が紹介
-19. **Laneige** LANEIGE グレイズ ティントリップセラム ピーチグレイ — 2人が紹介
-20. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
-21. **CEZANNE** CEZANNE パールグロウハイライト 01 シャンパンベー — 2人が紹介
-22. **d'Alba** 提供： — 2人が紹介
-23. **トーン** アップサンクリーム 50ml — 2人が紹介
+1. **コスメデコルテ** コスメデコルテ ロージーグロウライザー — 4人が紹介
+2. **トーン** オールデイトーンアップベースクリーム — 3人が紹介
+3. **CEZANNE** CEZANNE パールグロウハイライト 01 シャンパンベー — 3人が紹介
+4. **エリクシール** デーケアレボリューション トーンアップ BE+ca ピュアベ — 2人が紹介
+5. **CANMAKE（キャンメイク）** キャンメイク ベース モイストプリズムプライマー03 — 2人が紹介
+6. **クレ・ド・ポー ボーテ** クレ・ド・ポー ボーテ ヴォワールコレクチュールｎ ＜プレメ — 2人が紹介
+7. **トーン** UVアップベース ホワイト  SPF50+/PA++++ — 2人が紹介
+8. **トーン** fwee スパグロウ UV トーンアップベース 01 グロウ — 2人が紹介
+9. **トーン** ＶＤＬ トーン ステイン カラー コレクティング プライマー — 2人が紹介
+10. **トーン** ＶＤＬ　トーン　ステイン　カラー　コレクティング　プライマー — 2人が紹介
+11. **TIRTIR** TIRTIR マスクフィットトーンアップエッセンス ミント — 2人が紹介
+12. **トーン** スパグロウUVアップベース — 2人が紹介
+13. **トーン** マスクフィット アップエッセンス  SPF30/PA++ — 2人が紹介
+14. **ソフィーナ** ソフィーナip ベースケア セラム＜土台美容液＞ ※Amaz — 2人が紹介
+15. **セザンヌ** セザンヌ 影色リップメイカー02　クールピンク — 2人が紹介
+16. **KISS** kiss もちみずベース — 2人が紹介
+17. **ADDICTION** シルキーバームプライマー — 2人が紹介
+18. **GIVENCHY** GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・ — 2人が紹介
+19. **SUQQU** SUQQU オイル リッチ グロウ ルース パウダー e — 2人が紹介
+20. **SHISEIDO** SHISEIDO エッセンス スキングロウ プライマー SP — 2人が紹介
+21. **tfit** tfit ハイドレートバニッシュアートプライマー — 2人が紹介
+22. **トーン** ASTALIFT D-UV シールド トーンアップ SPF5 — 2人が紹介
+23. **Laneige** LANEIGE グレイズ ティントリップセラム ピーチグレイ — 2人が紹介
+24. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
+25. **SUQQU** SUQQU グロウ セッティング パウダー　※セット価格 — 2人が紹介
+26. **d'Alba** 提供： — 2人が紹介
+27. **トーン** アップサンクリーム 50ml — 2人が紹介
 
 ---
 
@@ -37,12 +41,41 @@
 
 ![コスメデコルテ コスメデコルテ ロージーグロウライザー](https://thumbnail.image.rakuten.co.jp/@0_mall/yotsubadrug/cabinet/11507447/4971710614725_1.jpg?_ex=500x500)
 
-**価格**: 3350円 | **3人のYouTuberが紹介**
+**価格**: 3350円 | **4人のYouTuberが紹介**
 
 > **かじえり**: 「パールが入ったツヤ感と透明感を出す下地。抜け感メイクに使用」
 > [動画を見る](https://www.youtube.com/watch?v=cWsczA3P1M0)
 
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「シャネル、RMK、ナーズ、エレガンス、ディオール、コスメデコルテ このね、6ブランドのアイテムを買ってきたので お時間ある方はぜひ動画最後までご覧ください それでは動画、スタート! はい、」
+> [動画を見る](https://www.youtube.com/watch?v=ENUrIIZYxJA)
+
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710614725&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/4971710375817/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### トーン オールデイトーンアップベースクリーム
+
+![トーン オールデイトーンアップベースクリーム](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img212/item_1000194212_1.jpg?_ex=500x500)
+
+**価格**: 2310円 | **3人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「クリームになりますよ これねSPF50プラスにですPA++++になりますので 紫外線防護力MAX 日焼け止め効果が強いのに対して 下地効果が抜群でありながら トーンアップをす」
+> [動画を見る](https://www.youtube.com/watch?v=1qg1Ya73k-Q)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A4%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kanedestore/kabce8763b73/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
+### CEZANNE CEZANNE パールグロウハイライト 01 シャンパンベージュ
+
+![CEZANNE CEZANNE パールグロウハイライト 01 シャンパンベージュ](https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/3732/00000005629951_a01.jpg?_ex=500x500)
+
+**価格**: 660円 | **3人のYouTuberが紹介**
+
+> **ゆきりぬ**: 「はい、でそしたら セザンヌのパールグロウハイライトの01番を使います 鼻の真ん中くるくるって塗った後 スッとまっすぐ塗って ここにもちゃんと塗ります で、次に目頭の部分に塗っていきます はい、」
+> [動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%91%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%2001%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553041122/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -193,20 +226,6 @@
 
 ---
 
-### トーン オールデイトーンアップベースクリーム
-
-![トーン オールデイトーンアップベースクリーム](https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img212/item_1000194212_1.jpg?_ex=500x500)
-
-**価格**: 2310円 | **2人のYouTuberが紹介**
-
-動画の概要欄でベースメイクの下地として紹介されています。
-
-**紹介YouTuber**: えみ姉 / 水越みさと
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A4%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kanedestore/kabce8763b73/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### ソフィーナ ソフィーナip ベースケア セラム＜土台美容液＞ ※Amazon.co.jp7/2時点
 
 ![ソフィーナ ソフィーナip ベースケア セラム＜土台美容液＞ ※Amazon.co.jp7/2時点](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/085/4901301423085.jpg?_ex=500x500)
@@ -249,6 +268,19 @@
 
 ---
 
+### ADDICTION シルキーバームプライマー
+
+![ADDICTION シルキーバームプライマー](https://thumbnail.image.rakuten.co.jp/@0_mall/cinderellabeaute/cabinet/mub/21ac007mub_001.jpg?_ex=500x500)
+
+**価格**: 4620円 | **2人のYouTuberが紹介**
+
+> **ありちゃん**: 「あ、これはもう私が欠かせない、このアディクションのシルキーバームプライマーなんだけど、 これは私もいつも最初に塗ってからやってます。 わかります。 はい。 私もちなみにこれめっちゃ好きです。 ねえ、え、面白いんだけど。」
+> [動画を見る](https://www.youtube.com/watch?v=n4YRjMgNrtU)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ADDICTION%20%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmediva/4971710293449/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### GIVENCHY GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・プライマー グリーン
 
 ![GIVENCHY GIVENCHY プリズム・リーブル・ケア＆カラー・セラム・プライマー グリーン](https://thumbnail.image.rakuten.co.jp/@0_mall/partytime-tokyo/cabinet/mub/2512gy065mub_001.jpg?_ex=500x500)
@@ -275,6 +307,19 @@
 
 ---
 
+### SHISEIDO SHISEIDO エッセンス スキングロウ プライマー SPF25 / PA++
+
+![SHISEIDO SHISEIDO エッセンス スキングロウ プライマー SPF25 / PA++](https://thumbnail.image.rakuten.co.jp/@0_mall/winno/cabinet/10502770/4514254148617-01.jpg?_ex=500x500)
+
+**価格**: 5280円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「静堂のね私も大好きなエッセンススキングロープレート ライマーというですこれかなり美容効果の高いグロウタイプの下地なの 手の甲だけでご紹介すると見て もうほぼほぼね水っぽいテクニックなの 色つかないんです」
+> [動画を見る](https://www.youtube.com/watch?v=olWCkLijhxo)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4514254148617&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/daikisone/shiseido8617/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### tfit tfit ハイドレートバニッシュアートプライマー
 
 ![tfit tfit ハイドレートバニッシュアートプライマー](https://thumbnail.image.rakuten.co.jp/@0_mall/cosme-village/cabinet/test4/8809751800936.jpg?_ex=500x500)
@@ -285,6 +330,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=IHAVH7wJuDQ)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=tfit%20tfit%20%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%83%88%E3%83%90%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/pinnacosme/tfit_0530/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### トーン ASTALIFT D-UV シールド トーンアップ SPF50+ / PA++++ ローズ
+
+![トーン ASTALIFT D-UV シールド トーンアップ SPF50+ / PA++++ ローズ](https://item-shopping.c.yimg.jp/i/l/fujifilm-h_16833942)
+
+**価格**: 4290円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「こちらSPF50プラスにPA++++ UV耐水性2になっておりますので まずね伸ばした時にめちゃくちゃみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20ASTALIFT%20D-UV%20%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E3%83%AD%E3%83%BC%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20ASTALIFT%20D-UV%20%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20SPF50%2B%20/%20PA%2B%2B%2B%2B%20%E3%83%AD%E3%83%BC%E3%82%BA/?af=mobi.0319)
 
 ---
 
@@ -315,16 +373,16 @@
 
 ---
 
-### CEZANNE CEZANNE パールグロウハイライト 01 シャンパンベージュ
+### SUQQU SUQQU グロウ セッティング パウダー　※セット価格
 
-![CEZANNE CEZANNE パールグロウハイライト 01 シャンパンベージュ](https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/3732/00000005629951_a01.jpg?_ex=500x500)
+![SUQQU SUQQU グロウ セッティング パウダー　※セット価格](https://thumbnail.image.rakuten.co.jp/@0_mall/pureco/cabinet/prc-s-871000/prc-s-8711146555.jpg?_ex=500x500)
 
-**価格**: 660円 | **2人のYouTuberが紹介**
+**価格**: 8800円 | **2人のYouTuberが紹介**
 
-> **ゆきりぬ**: 「はい、でそしたら セザンヌのパールグロウハイライトの01番を使います 鼻の真ん中くるくるって塗った後 スッとまっすぐ塗って ここにもちゃんと塗ります で、次に目頭の部分に塗っていきます はい、」
-> [動画を見る](https://www.youtube.com/watch?v=kvKZyi-5CNg)
+> **HIRO BEAUTY CHANNEL**: 「その上からこちらの肌色でセッティング これをしていただくことによって 日焼けしやすいゾーン、」
+> [動画を見る](https://www.youtube.com/watch?v=QsEHYH6cP_g)
 
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20CEZANNE%20%E3%83%91%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AD%E3%82%A6%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%2001%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rakuten24/4939553041122/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SUQQU%20SUQQU%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%80%80%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC/?af=mobi.0319)
 
 ---
 

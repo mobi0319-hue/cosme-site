@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したアイブロウおすすめ6選
+# 【2026年04月版】YouTuberが複数紹介したアイブロウおすすめ7選
 
 複数の美容系YouTuberが**独立して紹介**したアイブロウアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -13,6 +13,7 @@
 4. **shu uemura（シュウウエムラ）** ハードフォーミュラ — 2人が紹介
 5. **dejavu（デジャヴュ）** デジャヴュ シアーカラーブロウ — 2人が紹介
 6. **ロムアンド** ハンオールブロウカラ — 2人が紹介
+7. **KATE** KATE デザイニングアイブロウ3D EX-13 グレージュ — 2人が紹介
 
 ---
 
@@ -109,5 +110,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=0_P0ejI9D-g)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%8F%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AD%E3%82%A6%E3%82%AB%E3%83%A9&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/a-cueb/jbt34/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### KATE KATE デザイニングアイブロウ3D EX-13 グレージュブラウン系　※1/24発売
+
+![KATE KATE デザイニングアイブロウ3D EX-13 グレージュブラウン系　※1/24発売](https://thumbnail.image.rakuten.co.jp/@0_mall/finepharmacy/cabinet/tk2/08457445/10052897/4973167012536.jpg?_ex=500x500)
+
+**価格**: 1210円 | **2人のYouTuberが紹介**
+
+動画の概要欄でアイブロウとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167012536&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/kaityannomise/kate2536/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---

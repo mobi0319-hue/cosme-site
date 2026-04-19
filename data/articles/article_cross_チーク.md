@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したチークおすすめ9選
+# 【2026年04月版】YouTuberが複数紹介したチークおすすめ14選
 
 複数の美容系YouTuberが**独立して紹介**したチークアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -14,8 +14,13 @@
 5. **セザンヌ** セザンヌ チークブラッシュ01 フォギーローズ — 2人が紹介
 6. **CEZANNE** ブレンドカラーチーク — 2人が紹介
 7. **Dior** ディオールスキン フォーエヴァー ブラッシュ ソフト フィル — 2人が紹介
-8. **ディオール** スキンルージュブラッシュカラーグロウ — 2人が紹介
-9. **ディオール** ディオール/ディオール スキン ルージュ ブラッシュ カラー — 2人が紹介
+8. **ADDICTION** ADDICTION ザ リキッドブラッシュ フォギー 004 — 2人が紹介
+9. **NARS** NARS アフターグロー　リキッドブラッシュ ORGASM — 2人が紹介
+10. **NARS** NARS アフターグロー リキッドブラッシュ 02799 O — 2人が紹介
+11. **NARS** NARS ブラッシュ Ｎ 950 THRILL — 2人が紹介
+12. **ディオール** スキンルージュブラッシュカラーグロウ — 2人が紹介
+13. **ディオール** ディオール/ディオール スキン ルージュ ブラッシュ カラー — 2人が紹介
+14. **Dior** ディオールスキン ルージュ ブラッシュ カラー＆グロウ — 2人が紹介
 
 ---
 
@@ -130,6 +135,61 @@
 
 ---
 
+### ADDICTION ADDICTION ザ リキッドブラッシュ フォギー 004 At Balcony
+
+![ADDICTION ADDICTION ザ リキッドブラッシュ フォギー 004 At Balcony](https://item-shopping.c.yimg.jp/i/l/ab-cos_4971710593181)
+
+**価格**: 3740円 | **2人のYouTuberが紹介**
+
+動画の概要欄でチークとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710593181&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ADDICTION%20ADDICTION%20%E3%82%B6%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%95%E3%82%A9%E3%82%AE%E3%83%BC%20004%20At%20Balcony/?af=mobi.0319)
+
+---
+
+### NARS NARS アフターグロー　リキッドブラッシュ ORGASM
+
+![NARS NARS アフターグロー　リキッドブラッシュ ORGASM](https://thumbnail.image.rakuten.co.jp/@0_mall/hewuakaneshop/cabinet/09923039/230707bt_nr02_1.jpg?_ex=500x500)
+
+**価格**: 4840円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「そこで優秀なのが こちらでございまして NARSのリキッドブラッシュですけれども 新しいカラーが出たんですお色はオーガズムラッシュというカラーなんですけれども もうこれ超ヘビロテしております もう私自身に 今月ねもう使っていたんです」
+> [動画を見る](https://www.youtube.com/watch?v=6tCEivaxAx0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%80%80%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20ORGASM&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yh-mahoroba/19425113/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### NARS NARS アフターグロー リキッドブラッシュ 02799 ORGASM
+
+![NARS NARS アフターグロー リキッドブラッシュ 02799 ORGASM](https://thumbnail.image.rakuten.co.jp/@0_mall/hewuakaneshop/cabinet/09923039/230707bt_nr02_1.jpg?_ex=500x500)
+
+**価格**: 4840円 | **2人のYouTuberが紹介**
+
+動画の概要欄でチークとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%2002799%20ORGASM&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yh-mahoroba/19425113/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### NARS NARS ブラッシュ Ｎ 950 THRILL
+
+![NARS NARS ブラッシュ Ｎ 950 THRILL](https://item-shopping.c.yimg.jp/i/l/ab-cos_0194251140490)
+
+**価格**: 5060円 | **2人のYouTuberが紹介**
+
+動画の概要欄でチークとして紹介されています。
+
+**紹介YouTuber**: 小田切ヒロ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%EF%BC%AE%20950%20THRILL&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%EF%BC%AE%20950%20THRILL/?af=mobi.0319)
+
+---
+
 ### ディオール スキンルージュブラッシュカラーグロウ
 
 **価格**: 7150円 | **2人のYouTuberが紹介**
@@ -155,5 +215,19 @@
 > [動画を見る](https://www.youtube.com/watch?v=jhcRqTHDwAY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%26%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB/%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%26%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
+
+---
+
+### Dior ディオールスキン ルージュ ブラッシュ カラー＆グロウ
+
+**価格**: 8470円 | **2人のYouTuberが紹介**
+
+> **ひよんちゃんねる**: 「ハイライトも一緒になってるんだけど ヨールスキンの ルージュブラッシュカラー&クロー 287番 2色になってる」
+> [動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
+
+> **HIRO BEAUTY CHANNEL**: 「この3つの異なるレイヤードで アンダーアイブラッシュ これを作っていただきたいんですそしてアンダーアイブラッシュといえば 絶対にこれを大注目していただきたいのがですこのカネボウの製品全体的に右側 全部暖色系のカラーなんです」
+> [動画を見る](https://www.youtube.com/watch?v=bfy_yt7oDEw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%86%E3%82%B0%E3%83%AD%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%86%E3%82%B0%E3%83%AD%E3%82%A6/?af=mobi.0319)
 
 ---

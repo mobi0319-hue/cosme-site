@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したフェイスパウダーおすすめ15選
+# 【2026年04月版】YouTuberが複数紹介したフェイスパウダーおすすめ20選
 
 複数の美容系YouTuberが**独立して紹介**したフェイスパウダーアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -16,13 +16,18 @@
 6. **CANMAKE（キャンメイク）** マシュマロフィニッシュパウダー — 2人が紹介
 7. **NARS（ナーズ）** パウダー NARS ライトリフレクティングセッティングパウダ — 2人が紹介
 8. **TFIT（ティーフィット）** tfit　トランスルーセントセットエッセンシャルパウダー — 2人が紹介
-9. **SUQQU** SUQQU ソフト マット セッティング パウダー グロウ  — 2人が紹介
-10. **セザンヌ** セザンヌ シームレスカバーパウダー — 2人が紹介
-11. **tfit** トランスルーセントセットフィニッシングパウダー — 2人が紹介
-12. **KATE** 3Dクリエイトニュアンスパウダー EX-2 透明感アップ パ — 2人が紹介
-13. **SHISEIDO** SHISEIDO ベネフィアンス ブライトニング スキンケア — 2人が紹介
-14. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ — 2人が紹介
-15. **NARS** NARS ゴールドダスト ライトリフレクティングセッティング — 2人が紹介
+9. **エレガンス** エレガンス　ラ プードル オートニュアンスI 円 — 2人が紹介
+10. **SUQQU** SUQQU ソフト マット セッティング パウダー グロウ  — 2人が紹介
+11. **セザンヌ** セザンヌ シームレスカバーパウダー — 2人が紹介
+12. **セザンヌ** ノーズ&アイブロウパウダー 　04 モーヴブラウン — 2人が紹介
+13. **tfit** トランスルーセントセットフィニッシングパウダー — 2人が紹介
+14. **KATE** 3Dクリエイトニュアンスパウダー EX-2 透明感アップ パ — 2人が紹介
+15. **KATE** KATE 3DクリエイトニュアンスパウダーEX- — 2人が紹介
+16. **ヴィセ** ヴィセ リシェ アイブロウパウダー — 2人が紹介
+17. **SHISEIDO** SHISEIDO ベネフィアンス ブライトニング スキンケア — 2人が紹介
+18. **キス** M∙A∙C パウダー キス ヘイジー マット リップスティッ — 2人が紹介
+19. **Obagi** Obagi オバジC 酵素洗顔パウダーDP 0.4g×30個 — 2人が紹介
+20. **NARS** NARS ゴールドダスト ライトリフレクティングセッティング — 2人が紹介
 
 ---
 
@@ -147,6 +152,19 @@
 
 ---
 
+### エレガンス エレガンス　ラ プードル オートニュアンスI 円
+
+![エレガンス エレガンス　ラ プードル オートニュアンスI 円](https://item-shopping.c.yimg.jp/i/l/glicotocreo_2025080303021)
+
+**価格**: 11000円 | **2人のYouTuberが紹介**
+
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「で、ブランドとしては シャネル、RMK、ナーズ、エレガンス、ディオール、コスメデコルテ このね、6ブランドのアイテムを買ってきたので お時間ある方はぜひ動画最後までご覧ください それでは動画、スタート! はい、」
+> [動画を見る](https://www.youtube.com/watch?v=ENUrIIZYxJA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%E3%80%80%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9I%20%E5%86%86&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/bibian/234097/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
 ### SUQQU SUQQU ソフト マット セッティング パウダー グロウ セッティング パウダー セット価格 ※2/7全国発売
 
 ![SUQQU SUQQU ソフト マット セッティング パウダー グロウ セッティング パウダー セット価格 ※2/7全国発売](https://thumbnail.image.rakuten.co.jp/@0_mall/emporio8888/cabinet/10841199/imgrc0149341306.jpg?_ex=500x500)
@@ -174,6 +192,22 @@
 > [動画を見る](https://www.youtube.com/watch?v=kNU2AcYCLdY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%90%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/0101marui/ce017491680101/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### セザンヌ ノーズ&アイブロウパウダー 　04 モーヴブラウン
+
+![セザンヌ ノーズ&アイブロウパウダー 　04 モーヴブラウン](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item1_06/4939553042297.jpg?_ex=500x500)
+
+**価格**: 580円 | **2人のYouTuberが紹介**
+
+> **nanakoななこ**: 「そしたら次ハイライトやります ハイライトははいこちらの セザンヌのパールグロウハイライトの4番 シェルピンクを使うんですけど これちょっとピンクっぽいから ピンクって実際に腫れて見える色じゃないです」
+> [動画を見る](https://www.youtube.com/watch?v=GNUiAPo4i3I)
+
+> **KAWAII PATEEN**: 「ハイライトをのせていきました シャドウの方がセザンヌ アイブロウパウダーの一番明るい色と 真ん中の茶色を混ぜて塗ります 目頭から鼻にかけてそのままストンと下ろしてきてください 鼻ここは力を抜く感じでスッとやってあげると綺麗になります」
+> [動画を見る](https://www.youtube.com/watch?v=fCBIk_AiSng)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4939553042297&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g4939553042297/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -209,6 +243,36 @@
 
 ---
 
+### KATE KATE 3DクリエイトニュアンスパウダーEX-
+
+![KATE KATE 3DクリエイトニュアンスパウダーEX-](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24-cosmetics/cabinet/830/4973167518830.jpg?_ex=500x500)
+
+**価格**: 1540円 | **2人のYouTuberが紹介**
+
+動画の概要欄でフェイスパウダーとして紹介されています。
+
+**紹介YouTuber**: 鹿の間 / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4973167518830&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/tsuruha/10163028/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ヴィセ ヴィセ リシェ アイブロウパウダー
+
+![ヴィセ ヴィセ リシェ アイブロウパウダー](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/573/4971710589573.jpg?_ex=500x500)
+
+**価格**: 1210円 | **2人のYouTuberが紹介**
+
+> **コスメヲタちゃんねるサラ**: 「そちらも紹介していきます はいまずアイブロウパウダーBR7番 ホワイトオレンジブラウン BR8 ホワイトピンクブラウン BR9 ホワイトアッシュブラウン 腕に塗るとこんな感じ 最近さ白みがかったアイブロウ系アイテムが流行ってきてるんです」
+> [動画を見る](https://www.youtube.com/watch?v=MhZvWFujT4U)
+
+> **HIRO BEAUTY CHANNEL**: 「そこでね使っていただきたいのは必ずアイブロウパウダーになります こちらViseeのアイブロウパウダーなんですが 今日使うのはちょっとピンクニュアンスのカラーになります このカラーとこのカラーをミックスして 自分の元々の眉毛のカラー 色元々黒いです」
+> [動画を見る](https://www.youtube.com/watch?v=4z-neKuXNb8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710589573&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/yayoi-cosme/49485/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### SHISEIDO SHISEIDO ベネフィアンス ブライトニング スキンケアパウダー
 
 ![SHISEIDO SHISEIDO ベネフィアンス ブライトニング スキンケアパウダー](https://thumbnail.image.rakuten.co.jp/@0_mall/erume-de-beaute/cabinet/benefiance/bef-20540_600.jpg?_ex=500x500)
@@ -235,6 +299,22 @@
 > [動画を見る](https://www.youtube.com/watch?v=VcXYgVSSJQ4)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%B9%20M%E2%88%99A%E2%88%99C%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AD%E3%82%B9%20%E3%83%98%E3%82%A4%E3%82%B8%E3%83%BC%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%93%E3%83%83%E3%82%B0%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%B9%20M%E2%88%99A%E2%88%99C%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AD%E3%82%B9%20%E3%83%98%E3%82%A4%E3%82%B8%E3%83%BC%20%E3%83%9E%E3%83%83%E3%83%88%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%93%E3%83%83%E3%82%B0%20%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/?af=mobi.0319)
+
+---
+
+### Obagi Obagi オバジC 酵素洗顔パウダーDP 0.4g×30個
+
+![Obagi Obagi オバジC 酵素洗顔パウダーDP 0.4g×30個](https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/marason-ariana/4987241149445-1-rk.jpg?_ex=500x500)
+
+**価格**: 2420円 | **2人のYouTuberが紹介**
+
+> **小田切ヒロ**: 「こちらおすすめそしてこれやっぱり オバジC25のセラムネオもう毛穴が気になっているモデルたち みんなこれ使ってるんです」
+> [動画を見る](https://www.youtube.com/watch?v=ZZp7GDv8ohw)
+
+> **HIRO BEAUTY CHANNEL**: 「酵素洗顔部分です オバジシ酵素洗顔パウダーDPもうこちら私が個人的に大好きな酵素洗顔毛穴の中の汚れしっかり取りたいですよ角栓詰まりしっかり取りたいですしかししっかり取りすぎるとやはり乾燥 もしくはです」
+> [動画を見る](https://www.youtube.com/watch?v=amlQv2bKjDQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4987241149445&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/4987241149445/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

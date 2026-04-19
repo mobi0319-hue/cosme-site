@@ -1,24 +1,41 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したUVケアおすすめ12選
+# 【2026年04月版】YouTuberが複数紹介したUVケアおすすめ16選
 
 複数の美容系YouTuberが**独立して紹介**したUVケアアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
 
 ## 一覧
 
-1. **CANMAKE（キャンメイク）** マーメイドスキンジェルUV — 2人が紹介
-2. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
-3. **トーン** D-UVシールド アップ  SPF50+/PA++++ — 2人が紹介
-4. **コスメデコルテ** UVコンフォート エアリートランスペアレント — 2人が紹介
-5. **NARS** NARSライトリフレクティング　トーンアップヴェール SPF — 2人が紹介
-6. **トーン** デーケアレボリューション アップ SP+ aa SPF50+ — 2人が紹介
-7. **ELIXIR** ELIXIR エリクシール デーケアレボリューション トーン — 2人が紹介
-8. **Dior** DIOR ディオール フォーエヴァー フルイド スキン グロ — 2人が紹介
-9. **Laneige** ネオクッション ミュイ SPF42 / PA++ 全4色 — 2人が紹介
-10. **Dior** ディオールスキン フォーエヴァー イドラ グロウ クッション — 2人が紹介
-11. **トーン** ベールフィットUVトーンアップ — 2人が紹介
-12. **トーン** アップUVエッセンス — 2人が紹介
+1. **NARS** NARSライトリフレクティング　トーンアップヴェール SPF — 3人が紹介
+2. **CANMAKE（キャンメイク）** マーメイドスキンジェルUV — 2人が紹介
+3. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
+4. **トーン** D-UVシールド アップ  SPF50+/PA++++ — 2人が紹介
+5. **トーン** LA ROCHE-POSAY UVイデア XL プロテクショ — 2人が紹介
+6. **コスメデコルテ** UVコンフォート エアリートランスペアレント — 2人が紹介
+7. **トーン** デーケアレボリューション アップ SP+ aa SPF50+ — 2人が紹介
+8. **ELIXIR** ELIXIR エリクシール デーケアレボリューション トーン — 2人が紹介
+9. **Dior** DIOR ディオール フォーエヴァー フルイド スキン グロ — 2人が紹介
+10. **Laneige** ネオクッション ミュイ SPF42 / PA++ 全4色 — 2人が紹介
+11. **Dior** ディオールスキン フォーエヴァー イドラ グロウ クッション — 2人が紹介
+12. **ELIXIR** ELIXIR デーケアレボリューション ＋ ba  SPF5 — 2人が紹介
+13. **SHISEIDO** SHISEIDO フューチャーソリューションLX ユニバーサ — 2人が紹介
+14. **WAKEMAKE** ウォーターベルベットカバークッション SPF50+/PA++ — 2人が紹介
+15. **トーン** ベールフィットUVトーンアップ — 2人が紹介
+16. **トーン** アップUVエッセンス — 2人が紹介
+
+---
+
+### NARS NARSライトリフレクティング　トーンアップヴェール SPF27/PA++
+
+![NARS NARSライトリフレクティング　トーンアップヴェール SPF27/PA++](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/nars/0194251136172.jpg?_ex=500x500)
+
+**価格**: 6380円 | **3人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「そこで使っていくのがこちらNARSのライトリフレッティングトーンアップベール若干薄いピンクベースのこちら下地なんですけれども 光を受けることによって肌の荒を拡散してパッと綺麗に見せてくれる効果があるんですが これをです」
+> [動画を見る](https://www.youtube.com/watch?v=9Mlr_SH0NAQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%80%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%20SPF27/PA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/0194251136172/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -62,6 +79,19 @@
 
 ---
 
+### トーン LA ROCHE-POSAY UVイデア XL プロテクショントーンアップ ローズ+ 円
+
+![トーン LA ROCHE-POSAY UVイデア XL プロテクショントーンアップ ローズ+ 円](https://thumbnail.image.rakuten.co.jp/@0_mall/zagzag/cabinet/item1_03/3337875585859.jpg?_ex=500x500)
+
+**価格**: 3960円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「私ねエミリンちゃんにはやっぱり このローズ系のカラーがいいと思うの そうなんですそうなの 今日はね髪の毛のお色もちょっとローズイな感じ ちょっとブレイシュなローシー でお面玉のお色もちょっと明るい そしてやっぱりリップのお色もちょっとくす」
+> [動画を見る](https://www.youtube.com/watch?v=i5b3LWk-BPw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20LA%20ROCHE-POSAY%20UV%E3%82%A4%E3%83%87%E3%82%A2%20XL%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%AD%E3%83%BC%E3%82%BA%2B%20%E5%86%86&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/zagzag/g3337875585859_mail/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
+
+---
+
 ### コスメデコルテ UVコンフォート エアリートランスペアレント
 
 ![コスメデコルテ UVコンフォート エアリートランスペアレント](https://thumbnail.image.rakuten.co.jp/@0_gold/coconokionline/coco3/4971710635409.jpg?_ex=500x500)
@@ -75,20 +105,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=GzPHsdTXBiM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710635409&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/grandberry/c37225/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
-
----
-
-### NARS NARSライトリフレクティング　トーンアップヴェール SPF27/PA++
-
-![NARS NARSライトリフレクティング　トーンアップヴェール SPF27/PA++](https://thumbnail.image.rakuten.co.jp/@0_mall/ab-cos/cabinet/nars/0194251136172.jpg?_ex=500x500)
-
-**価格**: 6380円 | **2人のYouTuberが紹介**
-
-動画の概要欄でUVケア・日焼け止めとして紹介されています。
-
-**紹介YouTuber**: 水越みさと / 小田切ヒロ
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%80%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%20SPF27/PA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/0194251136172/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 
@@ -160,6 +176,44 @@
 > [動画を見る](https://www.youtube.com/watch?v=mg-5D64P-SU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%20%E3%82%A4%E3%83%89%E3%83%A9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%20/%20PA%2B%2B%2B%20%E5%85%A87%E8%89%B2%E2%80%BB%E3%82%BB%E3%83%83%E3%83%88%E4%BE%A1%E6%A0%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/rareu/20250227006/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ELIXIR ELIXIR デーケアレボリューション ＋ ba  SPF50+ / PA++++
+
+![ELIXIR ELIXIR デーケアレボリューション ＋ ba  SPF50+ / PA++++](https://item-shopping.c.yimg.jp/i/l/ohgiri-store_elixir7656)
+
+**価格**: 3410円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「こちらSPF50プラスにPA++++ UV耐水性2になっておりますので まずね伸ばした時にめちゃくちゃみずみずしいんです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=ELIXIR%20ELIXIR%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%EF%BC%8B%20ba%20%20SPF50%2B%20/%20PA%2B%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/ELIXIR%20ELIXIR%20%E3%83%87%E3%83%BC%E3%82%B1%E3%82%A2%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%EF%BC%8B%20ba%20%20SPF50%2B%20/%20PA%2B%2B%2B%2B/?af=mobi.0319)
+
+---
+
+### SHISEIDO SHISEIDO フューチャーソリューションLX ユニバーサル ディフェンスｓ SPF50+ / PA++++
+
+![SHISEIDO SHISEIDO フューチャーソリューションLX ユニバーサル ディフェンスｓ SPF50+ / PA++++](https://thumbnail.image.rakuten.co.jp/@0_mall/sunnydaystoku/cabinet/11766674/4514254185056_1.jpg?_ex=500x500)
+
+**価格**: 11550円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「そしてこちら こちら セイラ レイドのですフューチャーソリューションの下地よ こういう感じのあの乳白色 若干ピンクのニュアンスが入っているカラーなんですけれども 伸ばしていただきますとです」
+> [動画を見る](https://www.youtube.com/watch?v=mPvU84Ujvbc)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4514254185056&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmesail-24/4514254185056/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### WAKEMAKE ウォーターベルベットカバークッション SPF50+/PA+++
+
+**価格**: 2750円 | **2人のYouTuberが紹介**
+
+動画の概要欄でUVケア・日焼け止めとして紹介されています。
+
+**紹介YouTuber**: nanakoななこ / HIRO BEAUTY CHANNEL
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=WAKEMAKE%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%82%AB%E3%83%90%E3%83%BC%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20SPF50%2B/PA%2B%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/ab-cos/8809971482783/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-19 -->
-# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ18選
+# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ21選
 
 複数の美容系YouTuberが**独立して紹介**したアイシャドウアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -9,22 +9,25 @@
 
 1. **ウェイクメイク** ウェイクメイク — 4人が紹介
 2. **PERFECT DIARY** PERFECTDIARY エクスプローラ 12色動物アイシャ — 3人が紹介
-3. **LUNASOL（ルナソル）** アイカラーレーションN 17 Neo Depth — 2人が紹介
-4. **KATE（ケイト）** ポッピングシルエットシャドウ — 2人が紹介
-5. **コスメデコルテ (DECORTÉ)** アイグロウジェム — 2人が紹介
-6. **CANMAKE（キャンメイク）** シルキースフレアイズ マットタイプ — 2人が紹介
-7. **LUNA** Luna コンシールブレンダーパレット 02 ピュアカバー — 2人が紹介
-8. **hince** アイシャドウ 【hince】 ニューデップスアイシャドウ V — 2人が紹介
-9. **RIMMEL** LONDON ワンダー　ラスト　アイシャドウ　スティック — 2人が紹介
-10. **トーン** DECORTÉ トーンパーフェクティング パレット — 2人が紹介
+3. **トーン** DECORTÉ トーンパーフェクティング パレット — 3人が紹介
+4. **LUNASOL（ルナソル）** アイカラーレーションN 17 Neo Depth — 2人が紹介
+5. **KATE（ケイト）** ポッピングシルエットシャドウ — 2人が紹介
+6. **コスメデコルテ (DECORTÉ)** アイグロウジェム — 2人が紹介
+7. **CANMAKE（キャンメイク）** シルキースフレアイズ マットタイプ — 2人が紹介
+8. **LUNA** Luna コンシールブレンダーパレット 02 ピュアカバー — 2人が紹介
+9. **hince** アイシャドウ 【hince】 ニューデップスアイシャドウ V — 2人が紹介
+10. **RIMMEL** LONDON ワンダー　ラスト　アイシャドウ　スティック — 2人が紹介
 11. **アディクション** アディクション ザ アイシャドウパレット — 2人が紹介
 12. **RMK** RMK シンクロマティックアイシャドウパレット EX-12  — 2人が紹介
 13. **キャンメイク** キャンメイク プティパレットアイズM — 2人が紹介
-14. **WAKEMAKE** WAKEMAKE （ウェイクメイク） ソフトカラーリングリッ — 2人が紹介
-15. **Bobbi Brown** BOBBI BROWN クリスタル アイシャドウ スティック — 2人が紹介
-16. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ — 2人が紹介
-17. **トーン** ペールトーンアイシャドウ — 2人が紹介
-18. **CLIO** # #クリオ #メガ割 #キルカバーザニュークッション #プ — 2人が紹介
+14. **Dior** バックステージ フェイス グロウ パレット　004 ローズ  — 2人が紹介
+15. **WAKEMAKE** WAKEMAKE （ウェイクメイク） ソフトカラーリングリッ — 2人が紹介
+16. **Bobbi Brown** BOBBI BROWN クリスタル アイシャドウ スティック — 2人が紹介
+17. **WAKEMAKE** ソフトブラーリングアイパレット 26 ミュートローズブラーリ — 2人が紹介
+18. **JILL STUART** JILL STUART ブルームニュアンス ブロウパレット  — 2人が紹介
+19. **トーン** ペールトーンアイシャドウ — 2人が紹介
+20. **Dior** ディオール バックステージ フェイス グロウ パレット — 2人が紹介
+21. **CLIO** # #クリオ #メガ割 #キルカバーザニュークッション #プ — 2人が紹介
 
 ---
 
@@ -59,6 +62,22 @@
 **紹介YouTuber**: 鹿の間 / MAI TAKASUGI / 水越みさと
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4950536858562&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000186602/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### トーン DECORTÉ トーンパーフェクティング パレット
+
+![トーン DECORTÉ トーンパーフェクティング パレット](https://thumbnail.image.rakuten.co.jp/@0_mall/onemakem/cabinet/biiino/item/main-image/20240302133342_1.jpg?_ex=500x500)
+
+**価格**: 4950円 | **3人のYouTuberが紹介**
+
+> **鹿の間**: 「チップトーンのチークを使用。最近ハマっているアイテムで、動画紹介後に視聴者からも購入報告が多く寄せられた人気商品。」
+> [動画を見る](https://www.youtube.com/watch?v=MjUXSqs781k)
+
+> **HIRO BEAUTY CHANNEL**: 「美容成分がすごく高配合になっております そして今4色パレットあるうちのですこの3色がコンシーラーなんですけれども これはハイライトコンシーラーのフィックスコンシーラーになりますので このコンシーラーの上に指でトントンのせていただきます」
+> [動画を見る](https://www.youtube.com/watch?v=9Mlr_SH0NAQ)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -162,19 +181,6 @@
 
 ---
 
-### トーン DECORTÉ トーンパーフェクティング パレット
-
-![トーン DECORTÉ トーンパーフェクティング パレット](https://thumbnail.image.rakuten.co.jp/@0_mall/onemakem/cabinet/biiino/item/main-image/20240302133342_1.jpg?_ex=500x500)
-
-**価格**: 4950円 | **2人のYouTuberが紹介**
-
-> **鹿の間**: 「チップトーンのチークを使用。最近ハマっているアイテムで、動画紹介後に視聴者からも購入報告が多く寄せられた人気商品。」
-> [動画を見る](https://www.youtube.com/watch?v=MjUXSqs781k)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20DECORT%C3%89%20%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/fancylifecosme/dc-concealer/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### アディクション アディクション ザ アイシャドウパレット
 
 ![アディクション アディクション ザ アイシャドウパレット](https://item-shopping.c.yimg.jp/i/l/mimori_4971710584431)
@@ -223,6 +229,22 @@
 
 ---
 
+### Dior バックステージ フェイス グロウ パレット　004 ローズ ゴールド
+
+![Dior バックステージ フェイス グロウ パレット　004 ローズ ゴールド](https://thumbnail.image.rakuten.co.jp/@0_mall/emporio8888/cabinet/10841199/imgrc0143151752.jpg?_ex=500x500)
+
+**価格**: 5610円 | **2人のYouTuberが紹介**
+
+> **nanakoななこ**: 「ハイライトはこちらはディオールのバック ステージフェイスグロウパレットこちらを 使います 鼻先と 鼻の根本 鼻ができます」
+> [動画を見る](https://www.youtube.com/watch?v=GH1ZadaInOA)
+
+> **HIRO BEAUTY CHANNEL**: 「こちら大好きなんですけれども ディオールのプレストタイプの カラーハイライターになります」
+> [動画を見る](https://www.youtube.com/watch?v=wsMR4W53els)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%80004%20%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/hillslife/3348901530873/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### WAKEMAKE WAKEMAKE （ウェイクメイク） ソフトカラーリングリップパレット 1 号・2 号 定価：  ) ／ セール価格：
 
 ![WAKEMAKE WAKEMAKE （ウェイクメイク） ソフトカラーリングリップパレット 1 号・2 号 定価：  ) ／ セール価格：](https://thumbnail.image.rakuten.co.jp/@0_mall/pochibell/cabinet/11888607/4582356616211.jpg?_ex=500x500)
@@ -266,6 +288,19 @@
 
 ---
 
+### JILL STUART JILL STUART ブルームニュアンス ブロウパレット 08 mauve pink bloom　※限定※8/1発売
+
+![JILL STUART JILL STUART ブルームニュアンス ブロウパレット 08 mauve pink bloom　※限定※8/1発売](https://thumbnail.image.rakuten.co.jp/@0_mall/mimori/cabinet/point2/4971710582956.jpg?_ex=500x500)
+
+**価格**: 3850円 | **2人のYouTuberが紹介**
+
+> **HIRO BEAUTY CHANNEL**: 「ジルスチュアートブルームニュアンスブロウパレット01を使っていきます 骨格に合わせるのがポイントなんですけれども 今回はこのいくみちゃんの眉毛の形を 伸ばした感じで真ん中にですスーッと一本軸を作っていきます 当時のアイブロウはです」
+> [動画を見る](https://www.youtube.com/watch?v=ZhpcIJKOTmk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4971710582956&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosme-venus/4971710582987/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
 ### トーン ペールトーンアイシャドウ
 
 **2人のYouTuberが紹介**
@@ -277,6 +312,20 @@
 > [動画を見る](https://www.youtube.com/watch?v=ffg3I6UbmJM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9A%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%83%9A%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/?af=mobi.0319)
+
+---
+
+### Dior ディオール バックステージ フェイス グロウ パレット
+
+**価格**: 6600円 | **2人のYouTuberが紹介**
+
+> **ひよんちゃんねる**: 「仕上げで さらにハイライトを 塗っていきます ヨール バックステージ フェイスグロウパレット 006番です めっちゃくちゃ かわいくない? 2024年の ホリデーコレクションの パレットになるんです」
+> [動画を見る](https://www.youtube.com/watch?v=jA_6csPkBXc)
+
+> **HIRO BEAUTY CHANNEL**: 「おすすめそして次はこちら ディオールもうディオールも毎シーズン クリスマスコフレは欠かせませんよ なんと今回はですベルサイユ宮殿の仮面武道会がです」
+> [動画を見る](https://www.youtube.com/watch?v=LQXXxVeZjT8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Dior%20%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%20%E3%82%B0%E3%83%AD%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/?af=mobi.0319)
 
 ---
 
