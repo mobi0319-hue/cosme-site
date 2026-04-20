@@ -7,7 +7,7 @@
 
 ## 一覧
 
-1. **ヒロインメイク** リキッドアイライナー — 8人が紹介
+1. **ヒロインメイク** リキッドアイライナー — 9人が紹介
 2. **CANMAKE（キャンメイク）** クリーミータッチライナー — 5人が紹介
 3. **キャンメイク** クリーミータッチライナー — 4人が紹介
 4. **CLIO** CLIO ベルベットリップライナー 009 モカ ローズ — 3人が紹介
@@ -35,7 +35,7 @@
 
 ![ヒロインメイク リキッドアイライナー](https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/031/4901433039031.jpg?_ex=500x500)
 
-**価格**: 1100円 | **8人のYouTuberが紹介**
+**価格**: 1100円 | **9人のYouTuberが紹介**
 
 > **水越みさと**: 「目尻ライン・まつげの隙間埋め・目頭ラインに取り入れている。にじまず長時間きれいなラインをキープしてくれるのが魅力で、目元のラインを引くのに取り入れている。ナチュラルメイク派にぴったり」
 > [動画を見る](https://www.youtube.com/watch?v=xPgtsEQfQtc)
@@ -57,6 +57,9 @@
 
 > **HIRO BEAUTY CHANNEL**: 「アイラインあります アイライン何使ってんの? これヒロインメイク ヒロインメイクキスミーキスミーヒロインメイク 締め色ないんだ締め色ない このアイブロウパウダー使っていきます」
 > [動画を見る](https://www.youtube.com/watch?v=HVVPmzipgKQ)
+
+> **KAWAII PATEEN**: 「これを涙袋に重ねて塗ってます 次に使ったのは ヒロインメイクスムースリキッドアイライナー スムースキープの01番です これは汗だったりとか 涙とか出やすいなって人とかも ウォータープルーフで ちょっと落ちにくいのでおすすめです」
+> [動画を見る](https://www.youtube.com/watch?v=lEgbgEgLRcs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4901433039031&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qaww9.zqde74b9.g00qaww9.zqde86af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000047369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10041746%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 
