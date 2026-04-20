@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-20 -->
+<!-- LAST_UPDATED: 2026-04-21 -->
 # MAI TAKASUGIおすすめチーク6選【2026年04月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したチークアイテムをまとめました。
