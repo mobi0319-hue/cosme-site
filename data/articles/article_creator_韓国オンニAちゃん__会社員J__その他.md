@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-21 -->
-# 韓国オンニAちゃん (会社員J)おすすめその他77選【2026年04月版】
+<!-- LAST_UPDATED: 2026-04-22 -->
+# 韓国オンニAちゃん (会社員J)おすすめその他72選【2026年04月版】
 
 人気美容YouTuber **韓国オンニAちゃん (会社員J)** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -26,65 +26,60 @@
 18. **GESGEP (ジェスジェップ)** GESGEP コスメ
 19. **EITHER& (イーザーアンド)** EITHER& コスメ
 20. **BeginS by JUNGSAEMMOOL (ビギンスバイジョンセンムル)** BeginS コスメ
-21. **wakemake (ウェイクメイク)** wakemake コスメ
-22. **deepinor (ディーピノール)** deepinor コスメ
-23. **DOLCE&GABBANA (ドルチェ&ガッバーナ)** DOLCE&GABBANA コスメ
-24. **talk to Her (トークトゥハー)** talk to Her コスメ
-25. **Mamonde (マモンド)** Mamonde コスメ
-26. **VIDIVICI (ビディビーチ)** VIDIVICI コスメ
-27. **Charlotte Tilbury (シャーロット ティルブリー)** Charlotte Tilbury コスメ
-28. **BYNIQ (バイニーク)** BYNIQ コスメ
-29. **espoir (エスポア)** espoir コスメ
-30. **Fillimilli (フィリミリ)** Fillimilli ツール
-31. **Visee (ヴィゼ)** ヴィゼ コスメ
-32. **shu uemura (シュウウエムラ)** シュウウエムラ コスメ
-33. **Scena** ピールオフジェル
-34. **Scena** ベースジェル
-35. **TAG** ▷Insramやってます😊
-36. **ME+CHAI** 5/10 16:00～17:00 in  ブース
-37. **ME+CHAI** 5/11 13:00～14:00 in  ブース
-38. **ME+CHAI** 5/12 16:00～17:00 in  ブース
-39. **ME+CHAI** 5/11 15:00～16:00 in  ブース
-40. **ME+CHAI** 5/12 14:00～15:00 in  ブース
-41. **TAG** 5/12 12:30～12:50 in NORI SE
-42. **ミチャイ** #KCON2024 #KCONJAPAN #
-43. **バニラコ** バニラコ
-44. **バイユア** バイユア
-45. **ミルクタッチ** ミルクタッチ
-46. **ME+CHAI** ▼Qoo10 公式ショップ▼
-47. **TAG** 📣Insramやってます😊
-48. **ME+CHAI** 🔔新作日本発売🔔
-49. **ME+CHAI** 💙新作日本発売記念特典💙
-50. **ミチャイ** #韓国コスメ #ボディケア #
-51. **ミチャイ** #メイキング # #カレンダー
-52. **スリー** adidas アディカラー ニット
+21. **deepinor (ディーピノール)** deepinor コスメ
+22. **talk to Her (トークトゥハー)** talk to Her コスメ
+23. **VIDIVICI (ビディビーチ)** VIDIVICI コスメ
+24. **Charlotte Tilbury (シャーロット ティルブリー)** Charlotte Tilbury コスメ
+25. **BYNIQ (バイニーク)** BYNIQ コスメ
+26. **Fillimilli (フィリミリ)** Fillimilli ツール
+27. **Visee (ヴィゼ)** ヴィゼ コスメ
+28. **Scena** ピールオフジェル
+29. **Scena** ベースジェル
+30. **TAG** ▷Insramやってます😊
+31. **ME+CHAI** 5/10 16:00～17:00 in  ブース
+32. **ME+CHAI** 5/11 13:00～14:00 in  ブース
+33. **ME+CHAI** 5/12 16:00～17:00 in  ブース
+34. **ME+CHAI** 5/11 15:00～16:00 in  ブース
+35. **ME+CHAI** 5/12 14:00～15:00 in  ブース
+36. **TAG** 5/12 12:30～12:50 in NORI SE
+37. **ミチャイ** #KCON2024 #KCONJAPAN #
+38. **バニラコ** バニラコ
+39. **バイユア** バイユア
+40. **ミルクタッチ** ミルクタッチ
+41. **ME+CHAI** ▼Qoo10 公式ショップ▼
+42. **TAG** 📣Insramやってます😊
+43. **ME+CHAI** 🔔新作日本発売🔔
+44. **ME+CHAI** 💙新作日本発売記念特典💙
+45. **ミチャイ** #韓国コスメ #ボディケア #
+46. **ミチャイ** #メイキング # #カレンダー
+47. **スリー** adidas アディカラー ニット
 スリーストライプス スカ
-53. **スリー** adidas アディカラー スリーストライプス
+48. **スリー** adidas アディカラー スリーストライプス
 トラックトッ
-54. **CHOCHO'S LAB** CHOCHO'S LAB カバーキャプチャークッション ライ
-55. **TAG** TAG ベルベットカバークッション /
-56. **トーン** IPKN& パーソナルトーン コレクティングブラーパクト /
-57. **TAG** TAG スリムブロウペンシル アッシュブラウン /
-58. **TWINKLE POP** TWINKLE POP スパークリング アイスティック ラベ
-59. **A'pieu** A'pieu ザピュアキャンディーカラーバームノープロプラム
-60. **TAG** ▷Insramもやってます😊
-61. **ソルファス** フラグシップストアは本当にすごかった…
-62. **ソルファス** Aちゃんルーティンで使ったの商品は
-63. **ETUDE** 提供：
-64. **ミチャイ** 🔔この動画は自社ブランド「」の広告がふくまれております。
-65. **ミチャイ** 「」がついに日本発売されます！
-66. **ミチャイ** 🔔発売記念セット①
-67. **ミチャイ** 🔔発売記念セット②
-68. **ソルファス** #韓国旅行 #韓国デパコス #
-69. **ETUDE** #innisfree #Hera #sulwhasoo # 
-70. **VDL** 韓国の超有名コスメブランドさんと共同開発しました！
-71. **イニスフリー** 表参道本店
-72. **innisfree** 表参道本店で 1日店員をさせていただくことになりました💚
-73. **NATURE REPUBLIC** #日本留学 #韓国人 #韓国 # #バイト
-74. **NATURE REPUBLIC** のご協力で新大久保にあるSKINGARDENでバイトして来ま
-75. **NATURE REPUBLIC** Qoo10特別企画の生配信
-76. **NATURE REPUBLIC** ❤️‍🔥10月15日 16時  ブースで Aちゃんサイン会
-77. **CEZANNE** #プチプラ #セザンヌ #メイク #美容 #縛りメイク # 
+49. **CHOCHO'S LAB** CHOCHO'S LAB カバーキャプチャークッション ライ
+50. **TAG** TAG ベルベットカバークッション /
+51. **トーン** IPKN& パーソナルトーン コレクティングブラーパクト /
+52. **TAG** TAG スリムブロウペンシル アッシュブラウン /
+53. **TWINKLE POP** TWINKLE POP スパークリング アイスティック ラベ
+54. **A'pieu** A'pieu ザピュアキャンディーカラーバームノープロプラム
+55. **TAG** ▷Insramもやってます😊
+56. **ソルファス** フラグシップストアは本当にすごかった…
+57. **ソルファス** Aちゃんルーティンで使ったの商品は
+58. **ETUDE** 提供：
+59. **ミチャイ** 🔔この動画は自社ブランド「」の広告がふくまれております。
+60. **ミチャイ** 「」がついに日本発売されます！
+61. **ミチャイ** 🔔発売記念セット①
+62. **ミチャイ** 🔔発売記念セット②
+63. **ソルファス** #韓国旅行 #韓国デパコス #
+64. **ETUDE** #innisfree #Hera #sulwhasoo # 
+65. **VDL** 韓国の超有名コスメブランドさんと共同開発しました！
+66. **イニスフリー** 表参道本店
+67. **innisfree** 表参道本店で 1日店員をさせていただくことになりました💚
+68. **NATURE REPUBLIC** #日本留学 #韓国人 #韓国 # #バイト
+69. **NATURE REPUBLIC** のご協力で新大久保にあるSKINGARDENでバイトして来ま
+70. **NATURE REPUBLIC** Qoo10特別企画の生配信
+71. **NATURE REPUBLIC** ❤️‍🔥10月15日 16時  ブースで Aちゃんサイン会
+72. **CEZANNE** #プチプラ #セザンヌ #メイク #美容 #縛りメイク # 
 
 ---
 
@@ -275,6 +270,8 @@
 
 ![DEAR DAHLIA (ディアダリア) DEAR DAHLIA コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/deardahliajapanshop/cabinet/thumnail/imgrc0138234992.jpg?_ex=500x500)
 
+**価格**: 3190円
+
 > **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
 > [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
 
@@ -324,17 +321,6 @@
 
 ---
 
-### wakemake (ウェイクメイク) wakemake コスメ
-
-![wakemake (ウェイクメイク) wakemake コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/oliveyoung/cabinet/2401/yp2763_00.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=wakemake%20%28%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AF%29%20wakemake%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/oliveyoung/yp2763/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### deepinor (ディーピノール) deepinor コスメ
 
 > **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
@@ -344,34 +330,12 @@
 
 ---
 
-### DOLCE&GABBANA (ドルチェ&ガッバーナ) DOLCE&GABBANA コスメ
-
-![DOLCE&GABBANA (ドルチェ&ガッバーナ) DOLCE&GABBANA コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/sunbrand-select/cabinet/item07/dgonmedt100ml.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=DOLCE%26GABBANA%20%28%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%26%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A%29%20DOLCE%26GABBANA%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/sunbrand-select/dgonmedt100ml/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### talk to Her (トークトゥハー) talk to Her コスメ
 
 > **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
 > [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=talk%20to%20Her%20%28%E3%83%88%E3%83%BC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%8F%E3%83%BC%29%20talk%20to%20Her%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/talk%20to%20Her%20%28%E3%83%88%E3%83%BC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%8F%E3%83%BC%29%20talk%20to%20Her%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319&s=2&v=2)
-
----
-
-### Mamonde (マモンド) Mamonde コスメ
-
-![Mamonde (マモンド) Mamonde コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/amorepacific/cabinet/07426734/p0000cbt/op-2506ss-1.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Mamonde%20%28%E3%83%9E%E3%83%A2%E3%83%B3%E3%83%89%29%20Mamonde%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/amorepacific/p0000cbt/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -408,17 +372,6 @@
 
 ---
 
-### espoir (エスポア) espoir コスメ
-
-![espoir (エスポア) espoir コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/charimeti/cabinet/05876460/11139689/002.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
-> [動画を見る](https://www.youtube.com/watch?v=PEU7-mNSlvM)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=espoir%20%28%E3%82%A8%E3%82%B9%E3%83%9D%E3%82%A2%29%20espoir%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/charimeti/espoir_highlighter_a/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
 ### Fillimilli (フィリミリ) Fillimilli ツール
 
 > **韓国オンニAちゃん (会社員J)**: 「新作コスメとして開封紹介。使い勝手がよく手放せないのが魅力で、日常的に取り入れている。気になっている方はチェックしてみて。愛用アイテムとして紹介されている。実際に使っている人の評価も高く、気になる方はぜひ一度試してみる価値のあるアイテム」
@@ -434,17 +387,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=UfMO2A8JjKc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BC%29%20%E3%83%B4%E3%82%A3%E3%82%BC%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/Visee%20%28%E3%83%B4%E3%82%A3%E3%82%BC%29%20%E3%83%B4%E3%82%A3%E3%82%BC%20%E3%82%B3%E3%82%B9%E3%83%A1/?af=mobi.0319&s=2&v=2)
-
----
-
-### shu uemura (シュウウエムラ) シュウウエムラ コスメ
-
-![shu uemura (シュウウエムラ) シュウウエムラ コスメ](https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/images/packshots/shu10406-1.jpg?_ex=500x500)
-
-> **韓国オンニAちゃん (会社員J)**: 「GRWMの動画で実際に使われていたアイテム。デイリーメイクにそのまま取り入れやすく、普段使いのメイクの参考にもなる。気になる方はぜひ動画と合わせてチェックしてみて」
-> [動画を見る](https://www.youtube.com/watch?v=UfMO2A8JjKc)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=shu%20uemura%20%28%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%29%20%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A6%E3%82%A8%E3%83%A0%E3%83%A9%20%E3%82%B3%E3%82%B9%E3%83%A1&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/shuuemura/shu10406/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
