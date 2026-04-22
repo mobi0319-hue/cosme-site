@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-22 -->
+<!-- LAST_UPDATED: 2026-04-23 -->
 # Kawaii Pateenおすすめシェーディング5選【2026年04月版】
 
 人気美容YouTuber **Kawaii Pateen** さんが動画で紹介したシェーディングアイテムをまとめました。

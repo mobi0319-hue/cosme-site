@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-22 -->
+<!-- LAST_UPDATED: 2026-04-23 -->
 # EGA.channelおすすめその他26選【2026年04月版】
 
 人気美容YouTuber **EGA.channel** さんが動画で紹介したその他アイテムをまとめました。
