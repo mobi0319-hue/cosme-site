@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
 <!-- LAST_UPDATED: 2026-04-22 -->
-# 友利新おすすめスキンケア39選【2026年04月版】
+# 友利新おすすめスキンケア41選【2026年04月版】
 
 人気美容YouTuber **友利新** さんが動画で紹介したスキンケアアイテムをまとめました。
 
@@ -45,6 +45,8 @@
 37. **ワンバイコーセー** セラムベール（化粧水・乳液）
 38. **エトボス** モイスチャライジングクリーム
 39. **FANCL** 5年ぶりにリニューアルしたFANCLの名品
+40. **IPSA** リニューアルしたIPSAの名品化粧水
+41. **IPSA** IPSAの最新研究
 
 ---
 
@@ -548,5 +550,23 @@
 [動画を見る](https://www.youtube.com/watch?v=IuhhI4u5KW0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=FANCL%205%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%9FFANCL%E3%81%AE%E5%90%8D%E5%93%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/FANCL%205%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%9FFANCL%E3%81%AE%E5%90%8D%E5%93%81/?af=mobi.0319)
+
+---
+
+### IPSA リニューアルしたIPSAの名品化粧水
+
+動画の概要欄でスキンケアアイテムとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=klbRnC6yrD4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=IPSA%20%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%9FIPSA%E3%81%AE%E5%90%8D%E5%93%81%E5%8C%96%E7%B2%A7%E6%B0%B4&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/IPSA%20%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%9FIPSA%E3%81%AE%E5%90%8D%E5%93%81%E5%8C%96%E7%B2%A7%E6%B0%B4/?af=mobi.0319)
+
+---
+
+### IPSA IPSAの最新研究
+
+動画の概要欄でスキンケアアイテムとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=klbRnC6yrD4)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=IPSA%20IPSA%E3%81%AE%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/IPSA%20IPSA%E3%81%AE%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6/?af=mobi.0319)
 
 ---
