@@ -34,29 +34,53 @@ export default function Home() {
   return (
     <div className="space-y-10">
 
-      {/* ヒーローセクション（悩み別タグ統合・コンパクト版） */}
-      <section className="text-center py-5 sm:py-6 px-4 bg-white rounded-2xl border border-pink-100">
-        <h1 className="text-lg sm:text-2xl font-bold text-gray-800 mb-1">
-          YouTuberが紹介したコスメをまとめてチェック
-        </h1>
-        <p className="text-gray-400 text-xs mb-3">
-          {creators.length}名のYouTuberが紹介した{allProducts.length}件のコスメを掲載中
-        </p>
-        <a href="/ranking"
-          className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-6 py-2 rounded-xl transition-colors text-sm mb-4">
-          人気ランキングを見る
-        </a>
-        {/* 悩み・目的タグ */}
-        <div className="flex flex-wrap justify-center gap-2 pt-3 border-t border-pink-50">
-          {CONCERNS.map(concern => (
-            <a
-              key={concern.slug}
-              href={`/concerns/${concern.slug}`}
-              className="text-xs bg-pink-50 hover:bg-pink-100 text-pink-600 px-3 py-1.5 rounded-full transition-colors"
-            >
-              {concern.icon} {concern.title}
-            </a>
-          ))}
+      {/* ヒーローセクション（GPT image 2 装飾素材入り） */}
+      <section className="relative text-center py-8 sm:py-12 px-4 rounded-2xl border border-pink-100 overflow-hidden bg-white">
+        {/* 背景：水彩風グラデーション */}
+        <img
+          src="/decorations/hero_bg.png"
+          alt=""
+          aria-hidden="true"
+          className="absolute inset-0 w-full h-full object-cover opacity-90 pointer-events-none select-none"
+        />
+        {/* 装飾シェイプ：花びら（左上）／きらめき（右上） */}
+        <img
+          src="/decorations/shapes/petals.png"
+          alt=""
+          aria-hidden="true"
+          className="hidden sm:block absolute -left-4 -top-2 w-24 opacity-80 pointer-events-none select-none"
+        />
+        <img
+          src="/decorations/shapes/sparkles.png"
+          alt=""
+          aria-hidden="true"
+          className="hidden sm:block absolute right-2 top-1 w-20 opacity-70 pointer-events-none select-none"
+        />
+
+        {/* コンテンツ */}
+        <div className="relative">
+          <h1 className="text-lg sm:text-2xl font-bold text-gray-800 mb-1 drop-shadow-sm">
+            YouTuberが紹介したコスメをまとめてチェック
+          </h1>
+          <p className="text-gray-500 text-xs mb-3">
+            {creators.length}名のYouTuberが紹介した{allProducts.length}件のコスメを掲載中
+          </p>
+          <a href="/ranking"
+            className="inline-block bg-pink-500 hover:bg-pink-600 text-white font-bold px-6 py-2 rounded-xl transition-colors text-sm mb-4 shadow-sm">
+            人気ランキングを見る
+          </a>
+          {/* 悩み・目的タグ */}
+          <div className="flex flex-wrap justify-center gap-2 pt-3 border-t border-pink-100/60">
+            {CONCERNS.map(concern => (
+              <a
+                key={concern.slug}
+                href={`/concerns/${concern.slug}`}
+                className="text-xs bg-white/80 backdrop-blur-sm hover:bg-pink-100 text-pink-600 px-3 py-1.5 rounded-full transition-colors border border-pink-100"
+              >
+                {concern.icon} {concern.title}
+              </a>
+            ))}
+          </div>
         </div>
       </section>
 
