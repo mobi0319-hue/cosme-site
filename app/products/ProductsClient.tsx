@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import type { Product } from '@/lib/data'
+import PageHeader from '@/app/components/PageHeader'
 
 type Props = {
   products: Product[]
@@ -48,10 +49,10 @@ export default function ProductsClient({ products, categories, topProduct }: Pro
     <div className="space-y-6">
 
       {/* ページヘッダー */}
-      <div>
-        <h1 className="text-xl font-bold text-gray-800 mb-1">商品一覧</h1>
-        <p className="text-sm text-gray-500">{products.length}商品（YouTuberが動画で紹介した実商品のみ）</p>
-      </div>
+      <PageHeader
+        title="商品一覧"
+        subtitle={`${products.length}商品（YouTuberが動画で紹介した実商品のみ）`}
+      />
 
       {/* 早見ランキングリスト（冒頭）*/}
       <div className="bg-white border border-gray-100 rounded-2xl p-4">

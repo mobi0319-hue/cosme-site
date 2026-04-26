@@ -2,6 +2,7 @@
 import type { Metadata } from 'next'
 import { getArticles, getChannelDisplayInfo } from '@/lib/data'
 import ArticlesClient from './ArticlesClient'
+import PageHeader from '@/app/components/PageHeader'
 
 export const metadata: Metadata = {
   title: 'コスメ記事一覧 | YouTuber紹介コスメまとめ',
@@ -48,16 +49,11 @@ export default function ArticlesPage() {
   articleItems.sort((a, b) => typeOrder[a.articleType] - typeOrder[b.articleType] || b.date.localeCompare(a.date))
 
   return (
-    <div className="max-w-2xl mx-auto">
-      {/* ヘッダー */}
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold text-gray-800 mb-2">
-          コスメ記事一覧
-        </h1>
-        <p className="text-gray-400 text-sm">
-          YouTuberが動画で紹介したコスメをまとめた記事 <span className="text-pink-500 font-bold">{articles.length}</span>件
-        </p>
-      </div>
+    <div className="max-w-2xl mx-auto space-y-6">
+      <PageHeader
+        title="コスメ記事一覧"
+        subtitle={`YouTuberが動画で紹介したコスメをまとめた記事 ${articles.length}件`}
+      />
 
       <ArticlesClient articles={articleItems} />
     </div>

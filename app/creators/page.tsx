@@ -1,5 +1,6 @@
 // YouTuber一覧ページ
 import { getCreators, slugifyCreator } from '@/lib/data'
+import PageHeader from '@/app/components/PageHeader'
 
 export const metadata = {
   title: 'YouTuber一覧 | コスメまとめ',
@@ -22,10 +23,10 @@ export default function CreatorsPage() {
 
   return (
     <div className="space-y-6">
-      <div>
-        <h1 className="text-xl font-bold text-gray-800 mb-1">YouTuber一覧</h1>
-        <p className="text-sm text-gray-500">{creators.length}チャンネル</p>
-      </div>
+      <PageHeader
+        title="YouTuber一覧"
+        subtitle={`コスメを紹介している ${creators.length}チャンネル`}
+      />
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         {creators.map((creator) => {

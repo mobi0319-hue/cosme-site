@@ -2,6 +2,7 @@
 // 「2026年 スキンケア おすすめ YouTuber」等のロングテール検索に対応
 import { getProductsSorted, getCategories, slugifyProduct, getMeaningfulMentions } from '@/lib/data'
 import type { Metadata } from 'next'
+import PageHeader from '@/app/components/PageHeader'
 
 export const metadata: Metadata = {
   title: '【2026年最新】YouTuberおすすめコスメランキング | カテゴリ別TOP商品',
@@ -73,17 +74,11 @@ export default function RankingPage() {
       </nav>
 
       {/* ヘッダー */}
-      <section className="text-center py-8 bg-white rounded-2xl border border-pink-100">
-        <h1 className="text-xl sm:text-2xl font-bold text-gray-800 mb-2">
-          YouTuberおすすめコスメランキング
-        </h1>
-        <p className="text-sm text-gray-500 mb-1">
-          2026年最新 | 35人以上のYouTuberが実際に使って紹介した商品だけを掲載
-        </p>
-        <p className="text-xs text-gray-400">
-          複数のYouTuberに紹介されている商品ほど上位にランクイン
-        </p>
-      </section>
+      <PageHeader
+        title="YouTuberおすすめコスメランキング"
+        subtitle="2026年最新 | 35人以上のYouTuberが実際に使って紹介した商品だけを掲載"
+        meta="複数のYouTuberに紹介されている商品ほど上位にランクイン"
+      />
 
       {/* カテゴリ目次 */}
       <section className="bg-white rounded-2xl border border-gray-100 p-5">

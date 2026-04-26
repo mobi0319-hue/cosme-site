@@ -1,6 +1,7 @@
 // 動画一覧ページ
 import { getVideos } from '@/lib/data'
 import VideosClient from './VideosClient'
+import PageHeader from '@/app/components/PageHeader'
 
 export const metadata = {
   title: '動画一覧 | YouTuberが紹介したコスメまとめ',
@@ -31,9 +32,10 @@ export default function VideosPage() {
 
   return (
     <div className="space-y-6">
-      <div>
-        <h1 className="text-xl font-bold text-gray-800 mb-1">動画一覧</h1>
-      </div>
+      <PageHeader
+        title="動画一覧"
+        subtitle={`YouTuberのコスメ紹介動画 ${videos.length}本`}
+      />
       <VideosClient videos={videos} channels={channels} />
     </div>
   )
