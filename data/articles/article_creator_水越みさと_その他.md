@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 水越みさとおすすめその他50選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 水越みさとおすすめその他55選【2026年05月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -57,6 +57,11 @@
 49. **SOFINA** SOFINA iP
 ポア クリアリング ジェル ウォッシュ
 50. **JILL STUART** JILL STUART　モノトーンツイードジャケット　ブラッ
+51. **LUNA** 提供：
+52. **エレガンス** エレガンス ラ プードル オートニュアンス Ⅷ※6月1日発売
+53. **TAG** 詳しくは上記公式Insramをご覧ください。
+54. **ロムアンド** あのの姉妹ブランドが日本上陸したということで
+55. **トーン** ケアトーンアップ
 
 ---
 
@@ -709,5 +714,54 @@
 [動画を見る](https://www.youtube.com/watch?v=RzMeOsssVNY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=JILL%20STUART%20JILL%20STUART%E3%80%80%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%E3%83%84%E3%82%A4%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%E3%80%80%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%80%80S&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/JILL%20STUART%20JILL%20STUART%E3%80%80%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%E3%83%84%E3%82%A4%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%E3%80%80%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%80%80S/?af=mobi.0319)
+
+---
+
+### LUNA 提供：
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=sC_06hZniW0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNA%20%E6%8F%90%E4%BE%9B%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNA%20%E6%8F%90%E4%BE%9B%EF%BC%9A/?af=mobi.0319)
+
+---
+
+### エレガンス エレガンス ラ プードル オートニュアンス Ⅷ※6月1日発売
+
+**価格**: 11000円
+
+> **水越みさと**: 「はいそれでは次エレガンススラ プードルオートニュアンスの新色8番です ねこれは実は前から頂いて使ってはいたん ですけど動画では多分出していなかったか なと思いますエレガンスのこのパウダー めちゃくちゃ人気なんです」
+> [動画を見る](https://www.youtube.com/watch?v=51zJyVhaWoA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E2%85%A7%E2%80%BB6%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9%20%E3%83%A9%20%E3%83%97%E3%83%BC%E3%83%89%E3%83%AB%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B9%20%E2%85%A7%E2%80%BB6%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### TAG 詳しくは上記公式Insramをご覧ください。
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Eizyer_XhtI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%AF%E4%B8%8A%E8%A8%98%E5%85%AC%E5%BC%8FInsram%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%AF%E4%B8%8A%E8%A8%98%E5%85%AC%E5%BC%8FInsram%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82/?af=mobi.0319)
+
+---
+
+### ロムアンド あのの姉妹ブランドが日本上陸したということで
+
+> **水越みさと**: 「モーブベージュっていう感じでロムアンド のパウダーのチークとかも白身があって すごく可愛いんですけど白身があってくみ があるっていうの珍しいなと思って新しさ を感じました白身があるけど肌のトが 上がりすぎないおしゃれカラーになってい ます」
+> [動画を見る](https://www.youtube.com/watch?v=Eizyer_XhtI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%81%82%E3%81%AE%E3%81%AE%E5%A7%89%E5%A6%B9%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%8A%E9%99%B8%E3%81%97%E3%81%9F%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%81%82%E3%81%AE%E3%81%AE%E5%A7%89%E5%A6%B9%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%8A%E9%99%B8%E3%81%97%E3%81%9F%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7/?af=mobi.0319)
+
+---
+
+### トーン ケアトーンアップ
+
+**価格**: 2200円
+
+> **水越みさと**: 「まずこちら側だけピーチを塗ってあります トーンアップ効果はね結構ありますちゃんと明るくなってるのが分かると思い ます仕上がった肌の質感自体はちょっと艶 っぽい感じになりましたつやつやんって ほどではないんです」
+> [動画を見る](https://www.youtube.com/watch?v=Eizyer_XhtI)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B1%E3%82%A2%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B1%E3%82%A2%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97/?af=mobi.0319)
 
 ---

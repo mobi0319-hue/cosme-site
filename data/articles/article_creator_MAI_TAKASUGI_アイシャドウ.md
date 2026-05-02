@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# MAI TAKASUGIおすすめアイシャドウ32選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# MAI TAKASUGIおすすめアイシャドウ32選【2026年05月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したアイシャドウアイテムをまとめました。
 

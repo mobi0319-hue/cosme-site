@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 水越みさとおすすめ化粧下地49選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 水越みさとおすすめ化粧下地51選【2026年05月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介した化粧下地アイテムをまとめました。
 
@@ -58,6 +58,8 @@
 47. **デコルテ** ルージュ デコルテ ティンティドプランパー
 48. **KISS** kiss もちみずベース
 49. **TAG** Instagram＊https://www.instagra
+50. **TOM FORD** 提供 :  BEAUTY
+51. **LUNA** 本日は大好きなのベースアイテムを使いながら
 
 ---
 
@@ -693,9 +695,27 @@
 
 ### TAG Instagram＊https://www.instagram.com/mitan.m/
 
-動画の概要欄でベースメイクの下地として紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=VJ1Hfj6JGak)
+> **水越みさと**: 「こんにちは水越みさです Instagramの方ではすでに公開を していたんですがなんとこの度ですねオル ドットさんとのコラボ服第2弾の発売が 決定しまし たはい皆様いつもありがとうござい ます」
+> [動画を見る](https://www.youtube.com/watch?v=k4NNkkT8c5w)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Instagram%EF%BC%8Ahttps%3A//www.instagram.com/mitan.m/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Instagram%EF%BC%8Ahttps%3A//www.instagram.com/mitan.m//?af=mobi.0319)
+
+---
+
+### TOM FORD 提供 :  BEAUTY
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=p_RtZMYl8Wk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TOM%20FORD%20%E6%8F%90%E4%BE%9B%20%3A%20%20BEAUTY&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TOM%20FORD%20%E6%8F%90%E4%BE%9B%20%3A%20%20BEAUTY/?af=mobi.0319)
+
+---
+
+### LUNA 本日は大好きなのベースアイテムを使いながら
+
+動画の概要欄でベースメイクの下地として紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=sC_06hZniW0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNA%20%E6%9C%AC%E6%97%A5%E3%81%AF%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%82%92%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/LUNA%20%E6%9C%AC%E6%97%A5%E3%81%AF%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%82%92%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89/?af=mobi.0319)
 
 ---

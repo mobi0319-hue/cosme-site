@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 水越みさとおすすめチーク10選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 水越みさとおすすめチーク12選【2026年05月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したチークアイテムをまとめました。
 
@@ -18,6 +18,9 @@
 10. **イヴ・サンローラン** イヴ・サンローラン
 メイクミーブラッシュ リキッド
 69 ラ
+11. **NARS** NARS ブラッシュN※6月7日一般発売
+12. **hince** hince
+デューイーリキッドチーク
 
 ---
 
@@ -152,5 +155,28 @@
 [動画を見る](https://www.youtube.com/watch?v=LVAhY2_2S1A)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%0A%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%0A69%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%88&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%20%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%0D%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%0D69%20%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%88/?af=mobi.0319)
+
+---
+
+### NARS NARS ブラッシュN※6月7日一般発売
+
+**価格**: 5040円
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=51zJyVhaWoA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=NARS%20NARS%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5N%E2%80%BB6%E6%9C%887%E6%97%A5%E4%B8%80%E8%88%AC%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/NARS%20NARS%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5N%E2%80%BB6%E6%9C%887%E6%97%A5%E4%B8%80%E8%88%AC%E7%99%BA%E5%A3%B2/?af=mobi.0319)
+
+---
+
+### hince hince
+デューイーリキッドチーク
+
+**価格**: 2200円
+
+動画の概要欄でチークとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=NFHCnxncoWE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20hince%0D%E3%83%87%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%81%E3%83%BC%E3%82%AF&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/hince%20hince%0D%E3%83%87%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%81%E3%83%BC%E3%82%AF/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 鹿の間おすすめその他103選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 鹿の間おすすめその他107選【2026年05月版】
 
 人気美容YouTuber **鹿の間** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -117,6 +117,10 @@ L02 たそがれブラウ
 103. **MAYBELLINE** MAYBELLINE 
 SPステイ ヴィニルインク
 280 
+104. **SHIKANOMA ボストン型クリアサングラス #1 ブラック** Zoff
+105. **SHIKANOMA クラウンパント型クリアサングラス #2 ブラック** Zoff
+106. **TAG** Instagram  日常と旅行とファッション ［https
+107. **TAG** ［https://www.insram.com/rhodon
 
 ---
 
@@ -1387,5 +1391,45 @@ SPステイ ヴィニルインク
 > [動画を見る](https://www.youtube.com/watch?v=kLRam1qYDm0)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=MAYBELLINE%20MAYBELLINE%20%0DSP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%B4%E3%82%A3%E3%83%8B%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%AF%0D280%20%E7%94%98%E3%81%95%E6%8E%A7%E3%81%88%E3%82%81%E8%8B%BA%E3%82%AA%E3%83%AC%0D281%20%E7%94%98%E9%85%B8%E3%81%A3%E3%81%B1%E3%81%84%E8%8B%BA%E3%83%AC%E3%83%A2%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/MAYBELLINE%20MAYBELLINE%20%0DSP%E3%82%B9%E3%83%86%E3%82%A4%20%E3%83%B4%E3%82%A3%E3%83%8B%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%AF%0D280%20%E7%94%98%E3%81%95%E6%8E%A7%E3%81%88%E3%82%81%E8%8B%BA%E3%82%AA%E3%83%AC%0D281%20%E7%94%98%E9%85%B8%E3%81%A3%E3%81%B1%E3%81%84%E8%8B%BA%E3%83%AC%E3%83%A2%E3%83%B3/?af=mobi.0319)
+
+---
+
+### SHIKANOMA ボストン型クリアサングラス #1 ブラック Zoff
+
+**価格**: コスメ
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=WS11jk9Xl3o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHIKANOMA%20%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%9E%8B%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%20%231%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%20Zoff&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHIKANOMA%20%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%9E%8B%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%20%231%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%20Zoff/?af=mobi.0319)
+
+---
+
+### SHIKANOMA クラウンパント型クリアサングラス #2 ブラック Zoff
+
+**価格**: コスメ
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=WS11jk9Xl3o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHIKANOMA%20%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%91%E3%83%B3%E3%83%88%E5%9E%8B%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%20%232%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%20Zoff&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHIKANOMA%20%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%91%E3%83%B3%E3%83%88%E5%9E%8B%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%20%232%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%20Zoff/?af=mobi.0319)
+
+---
+
+### TAG Instagram  日常と旅行とファッション ［https://www.instagram.com/rhodon41/ ］
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=WS11jk9Xl3o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Instagram%20%20%E6%97%A5%E5%B8%B8%E3%81%A8%E6%97%85%E8%A1%8C%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%EF%BC%BBhttps%3A//www.instagram.com/rhodon41/%20%EF%BC%BD&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Instagram%20%20%E6%97%A5%E5%B8%B8%E3%81%A8%E6%97%85%E8%A1%8C%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%EF%BC%BBhttps%3A//www.instagram.com/rhodon41/%20%EF%BC%BD/?af=mobi.0319)
+
+---
+
+### TAG ［https://www.insram.com/rhodon41/ ］
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=WS11jk9Xl3o)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%EF%BC%BBhttps%3A//www.insram.com/rhodon41/%20%EF%BC%BD&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%EF%BC%BBhttps%3A//www.insram.com/rhodon41/%20%EF%BC%BD/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 水越みさとおすすめシェーディング4選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 水越みさとおすすめシェーディング5選【2026年05月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したシェーディングアイテムをまとめました。
 
@@ -10,6 +10,9 @@
 2. **too cool for school (トゥークールフォースクール)** シェーディングスティック
 3. **CEZANNE（セザンヌ）** シェーディングパウダー
 4. **CEZANNE（セザンヌ）** ブレンドカラーシェーディング
+5. **ロムアンド** ロムアンド
+ベターザンコントゥア企画セット
+01 NEUTR
 
 ---
 
@@ -62,5 +65,18 @@
 > [動画を見る](https://www.youtube.com/watch?v=my6GkmCGuHk)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=CEZANNE%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00r4d89.zqde7523.g00r4d89.zqde8f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcf021188300101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F0101marui%2Fi%2F13012733%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
+
+---
+
+### ロムアンド ロムアンド
+ベターザンコントゥア企画セット
+01 NEUTRAL WARM
+
+**価格**: 2400円
+
+動画の概要欄でシェーディングとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=NFHCnxncoWE)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%0D%E3%83%99%E3%82%BF%E3%83%BC%E3%82%B6%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E4%BC%81%E7%94%BB%E3%82%BB%E3%83%83%E3%83%88%0D01%20NEUTRAL%20WARM&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%20%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%89%0D%E3%83%99%E3%82%BF%E3%83%BC%E3%82%B6%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%88%E3%82%A5%E3%82%A2%E4%BC%81%E7%94%BB%E3%82%BB%E3%83%83%E3%83%88%0D01%20NEUTRAL%20WARM/?af=mobi.0319)
 
 ---

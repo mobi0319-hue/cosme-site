@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# かじえりおすすめその他29選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# かじえりおすすめその他31選【2026年05月版】
 
 人気美容YouTuber **かじえり** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -35,6 +35,8 @@
 27. **デジャヴ** デジャヴ アイブロウカラー ウォームブラウン
 28. **コスメデコルテ** コスメデコルテ トーンパーフェクティングパレット 01
 29. **TAG** かじえりInsram：@kajierimakeup
+30. **TAG** Insram： @yuuri_fukuse
+31. **TAG** iinsram.com/yuuri_fukuse
 
 ---
 
@@ -408,5 +410,23 @@
 [動画を見る](https://www.youtube.com/watch?v=63wjkDtIEFA)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20%E3%81%8B%E3%81%98%E3%81%88%E3%82%8AInsram%EF%BC%9A%40kajierimakeup&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20%E3%81%8B%E3%81%98%E3%81%88%E3%82%8AInsram%EF%BC%9A%40kajierimakeup/?af=mobi.0319)
+
+---
+
+### TAG Insram： @yuuri_fukuse
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=FIyMkq9O4Ro)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Insram%EF%BC%9A%20%40yuuri_fukuse&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Insram%EF%BC%9A%20%40yuuri_fukuse/?af=mobi.0319)
+
+---
+
+### TAG iinsram.com/yuuri_fukuse
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=FIyMkq9O4Ro)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20iinsram.com/yuuri_fukuse&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20iinsram.com/yuuri_fukuse/?af=mobi.0319)
 
 ---

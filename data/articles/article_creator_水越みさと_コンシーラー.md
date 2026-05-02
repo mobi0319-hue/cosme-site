@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 水越みさとおすすめコンシーラー15選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 水越みさとおすすめコンシーラー16選【2026年05月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したコンシーラーアイテムをまとめました。
 
@@ -22,6 +22,7 @@
 14. **tfit** tfit カバーアッププロコンシーラー
 コレクター
 15. **KISS** kiss スキニーリキッドコンシーラー
+16. **ラカ** FASIOウルトラカバー コンシーラー WP 01 ライトベ
 
 ---
 
@@ -219,5 +220,16 @@
 [動画を見る](https://www.youtube.com/watch?v=ZnjUYTNbyEE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KISS%20kiss%20%E3%82%B9%E3%82%AD%E3%83%8B%E3%83%BC%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/wellness-web/10171832/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### ラカ FASIOウルトラカバー コンシーラー WP 01 ライトベージュSPF30/PA+++ UV耐水性★★
+
+**価格**: 1100円
+
+> **水越みさと**: 「初めて使うファシオのウルトラカバー コンシーラー01番ですSPF30PS3 plusもなんだけどUV対数性に コンシーラーだけどね星が2つついてます パシオもベースにね信頼あります」
+> [動画を見る](https://www.youtube.com/watch?v=51zJyVhaWoA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%A9%E3%82%AB%20FASIO%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%82%AB%E3%83%90%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20WP%2001%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5SPF30/PA%2B%2B%2B%20UV%E8%80%90%E6%B0%B4%E6%80%A7%E2%98%85%E2%98%85&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%82%AB%20FASIO%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%82%AB%E3%83%90%E3%83%BC%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%20WP%2001%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5SPF30/PA%2B%2B%2B%20UV%E8%80%90%E6%B0%B4%E6%80%A7%E2%98%85%E2%98%85/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# ななみんおすすめアイシャドウ6選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# ななみんおすすめアイシャドウ7選【2026年05月版】
 
 人気美容YouTuber **ななみん** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -12,6 +12,7 @@
 4. **トーン** ビターアイシャドウ 03 ビスケットブラウン
 5. **トーン** アップシリーズ
 6. **BANILA CO** バニラコ
+7. **YSL** クチュール ミニ クラッチ500番の
 
 ---
 
@@ -74,5 +75,14 @@
 [動画を見る](https://www.youtube.com/watch?v=w78qDr1AKKE)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=BANILA%20CO%20%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/BANILA%20CO%20%E3%83%90%E3%83%8B%E3%83%A9%E3%82%B3/?af=mobi.0319)
+
+---
+
+### YSL クチュール ミニ クラッチ500番の
+
+動画の概要欄でアイシャドウとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=Je4bDvIDyg8)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=YSL%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%8B%20%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81500%E7%95%AA%E3%81%AE&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/YSL%20%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%8B%20%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81500%E7%95%AA%E3%81%AE/?af=mobi.0319)
 
 ---

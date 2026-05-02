@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# EGA.channelおすすめスキンケア17選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# EGA.channelおすすめスキンケア17選【2026年05月版】
 
 人気美容YouTuber **EGA.channel** さんが動画で紹介したスキンケアアイテムをまとめました。
 

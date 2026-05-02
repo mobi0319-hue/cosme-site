@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# ななみんおすすめその他27選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# ななみんおすすめその他28選【2026年05月版】
 
 人気美容YouTuber **ななみん** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -33,6 +33,7 @@
 25. **CANMAKE** パーフェクトマルチアイズの０８スリーズショコラは１１月下旬の
 26. **デイジーク** のコスメはQoo10メガ割どきに買うのがおすすめ❤️☃️
 27. **RMK** ダンシング ディメンションズ
+28. **TAG** Insram→
 
 ---
 
@@ -282,5 +283,14 @@
 > [動画を見る](https://www.youtube.com/watch?v=igWjrPFHwPg)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA/?af=mobi.0319)
+
+---
+
+### TAG Insram→
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=tbNDKicA8HA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=TAG%20Insram%E2%86%92&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/TAG%20Insram%E2%86%92/?af=mobi.0319)
 
 ---

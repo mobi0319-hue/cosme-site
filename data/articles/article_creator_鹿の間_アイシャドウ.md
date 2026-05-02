@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 鹿の間おすすめアイシャドウ36選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 鹿の間おすすめアイシャドウ36選【2026年05月版】
 
 人気美容YouTuber **鹿の間** さんが動画で紹介したアイシャドウアイテムをまとめました。
 
@@ -53,8 +53,8 @@
 
 **価格**: 2420円
 
-動画の概要欄でアイシャドウとして紹介されています。
-[動画を見る](https://www.youtube.com/watch?v=0rKm9VYUuCM)
+> **鹿の間**: 「ルナのコンシールブレンダーパレット2番 ピュアカバー使っていきます まずはこちらのピンクカラー取ります 拳で温めてとろけさせて クマに塗ります」
+> [動画を見る](https://www.youtube.com/watch?v=s3GFHPr6HdU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNA%20Luna%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20%E3%83%94%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%90%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00q9bv9.zqde7591.g00q9bv9.zqde89c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzagzag%2Fg8801046414156%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzagzag%2Fi%2F10096146%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
 

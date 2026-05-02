@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# コスメヲタちゃんねるサラおすすめその他156選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# コスメヲタちゃんねるサラおすすめその他160選【2026年05月版】
 
 人気美容YouTuber **コスメヲタちゃんねるサラ** さんが動画で紹介したその他アイテムをまとめました。
 
@@ -162,6 +162,10 @@
 154. **キス** マジョリカマジョルカ / ラッシュエキスパンダー ドーリーカ
 155. **KATE** 今回は春に発売するの新作コスメを大量レビューしました！
 156. **KATE** 今回のの新作はどれもオススメになっているので、この動画を参考
+157. **コーセー** サウナの前にはさんに突撃して開発のこだわりやおすすめ使い方を
+158. **KOSE** メイク キープ ミスト EX +：https://www..
+159. **KOSE** メゾンコーセー：https://maison..co.jp/
+160. **コーセー** コーセー本社に突撃
 
 ---
 
@@ -1646,5 +1650,41 @@
 [動画を見る](https://www.youtube.com/watch?v=dPEHy5q8wMc)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KATE%20%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%AE%E6%96%B0%E4%BD%9C%E3%81%AF%E3%81%A9%E3%82%8C%E3%82%82%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%81%E3%81%93%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92%E5%8F%82%E8%80%83%E3%81%AB%E3%80%81%E6%98%AF%E9%9D%9E%E3%81%8A%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%AD%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KATE%20%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%AE%E6%96%B0%E4%BD%9C%E3%81%AF%E3%81%A9%E3%82%8C%E3%82%82%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%81%E3%81%93%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92%E5%8F%82%E8%80%83%E3%81%AB%E3%80%81%E6%98%AF%E9%9D%9E%E3%81%8A%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%AD%EF%BC%81/?af=mobi.0319)
+
+---
+
+### コーセー サウナの前にはさんに突撃して開発のこだわりやおすすめ使い方を聞いて来たので、使う時のコツとして参考にしてみてください！
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9e24yMX03aw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%20%E3%82%B5%E3%82%A6%E3%83%8A%E3%81%AE%E5%89%8D%E3%81%AB%E3%81%AF%E3%81%95%E3%82%93%E3%81%AB%E7%AA%81%E6%92%83%E3%81%97%E3%81%A6%E9%96%8B%E7%99%BA%E3%81%AE%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8A%E3%82%84%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E4%BD%BF%E3%81%86%E6%99%82%E3%81%AE%E3%82%B3%E3%83%84%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E8%80%83%E3%81%AB%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%20%E3%82%B5%E3%82%A6%E3%83%8A%E3%81%AE%E5%89%8D%E3%81%AB%E3%81%AF%E3%81%95%E3%82%93%E3%81%AB%E7%AA%81%E6%92%83%E3%81%97%E3%81%A6%E9%96%8B%E7%99%BA%E3%81%AE%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8A%E3%82%84%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E6%9D%A5%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E4%BD%BF%E3%81%86%E6%99%82%E3%81%AE%E3%82%B3%E3%83%84%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E8%80%83%E3%81%AB%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81/?af=mobi.0319)
+
+---
+
+### KOSE メイク キープ ミスト EX +：https://www..co.jp/makekeep/mist/
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9e24yMX03aw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KOSE%20%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%BC%E3%83%97%20%E3%83%9F%E3%82%B9%E3%83%88%20EX%20%2B%EF%BC%9Ahttps%3A//www..co.jp/makekeep/mist/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KOSE%20%E3%83%A1%E3%82%A4%E3%82%AF%20%E3%82%AD%E3%83%BC%E3%83%97%20%E3%83%9F%E3%82%B9%E3%83%88%20EX%20%2B%EF%BC%9Ahttps%3A//www..co.jp/makekeep/mist//?af=mobi.0319)
+
+---
+
+### KOSE メゾンコーセー：https://maison..co.jp/site/makekeepmist/g/gDLEA/
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9e24yMX03aw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KOSE%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%EF%BC%9Ahttps%3A//maison..co.jp/site/makekeepmist/g/gDLEA/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KOSE%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%EF%BC%9Ahttps%3A//maison..co.jp/site/makekeepmist/g/gDLEA//?af=mobi.0319)
+
+---
+
+### コーセー コーセー本社に突撃
+
+動画の概要欄で紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=9e24yMX03aw)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%20%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%E6%9C%AC%E7%A4%BE%E3%81%AB%E7%AA%81%E6%92%83&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%20%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%E6%9C%AC%E7%A4%BE%E3%81%AB%E7%AA%81%E6%92%83/?af=mobi.0319)
 
 ---

@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 水越みさとおすすめファンデーション45選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 水越みさとおすすめファンデーション46選【2026年05月版】
 
 人気美容YouTuber **水越みさと** さんが動画で紹介したファンデーションアイテムをまとめました。
 
@@ -59,6 +59,7 @@ N-
 44. **オルビス** オルビス カラースキンケアマスクファンデーション
 BP
 45. **SHISEIDO** SHISEIDO シンクロスキン ラディアントリフティング 
+46. **KISS** kissミルキッシュガラスファンデ02 ピンクベージュSPF
 
 ---
 
@@ -672,5 +673,16 @@ Linen/](https://thumbnail.image.rakuten.co.jp/@0_mall/brandshiseido/cabinet/prd/
 > [動画を見る](https://www.youtube.com/watch?v=V2OsvGsr0OU)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0ALinen/&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/SHISEIDO%20SHISEIDO%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%B3%20%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0DLinen//?af=mobi.0319)
+
+---
+
+### KISS kissミルキッシュガラスファンデ02 ピンクベージュSPF34 PA++
+
+**価格**: 1980円
+
+動画の概要欄でファンデーションとして紹介されています。
+[動画を見る](https://www.youtube.com/watch?v=51zJyVhaWoA)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=KISS%20kiss%E3%83%9F%E3%83%AB%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%A9%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%8702%20%E3%83%94%E3%83%B3%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5SPF34%20PA%2B%2B&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/KISS%20kiss%E3%83%9F%E3%83%AB%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%A9%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%8702%20%E3%83%94%E3%83%B3%E3%82%AF%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5SPF34%20PA%2B%2B/?af=mobi.0319)
 
 ---

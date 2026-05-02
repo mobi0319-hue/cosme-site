@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# 【2026年04月版】YouTuberが複数紹介したアイシャドウおすすめ21選
+<!-- LAST_UPDATED: 2026-05-03 -->
+# 【2026年05月版】YouTuberが複数紹介したアイシャドウおすすめ21選
 
 複数の美容系YouTuberが**独立して紹介**したアイシャドウアイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -9,13 +9,13 @@
 
 1. **ウェイクメイク** ウェイクメイク — 4人が紹介
 2. **PERFECT DIARY** PERFECTDIARY エクスプローラ 12色動物アイシャ — 3人が紹介
-3. **トーン** DECORTÉ トーンパーフェクティング パレット — 3人が紹介
-4. **LUNASOL（ルナソル）** アイカラーレーションN 17 Neo Depth — 2人が紹介
-5. **KATE（ケイト）** ポッピングシルエットシャドウ — 2人が紹介
-6. **コスメデコルテ (DECORTÉ)** アイグロウジェム — 2人が紹介
-7. **CANMAKE（キャンメイク）** シルキースフレアイズ マットタイプ — 2人が紹介
-8. **LUNA** Luna コンシールブレンダーパレット 02 ピュアカバー — 2人が紹介
-9. **hince** アイシャドウ 【hince】 ニューデップスアイシャドウ V — 2人が紹介
+3. **hince** アイシャドウ 【hince】 ニューデップスアイシャドウ V — 3人が紹介
+4. **トーン** DECORTÉ トーンパーフェクティング パレット — 3人が紹介
+5. **LUNASOL（ルナソル）** アイカラーレーションN 17 Neo Depth — 2人が紹介
+6. **KATE（ケイト）** ポッピングシルエットシャドウ — 2人が紹介
+7. **コスメデコルテ (DECORTÉ)** アイグロウジェム — 2人が紹介
+8. **CANMAKE（キャンメイク）** シルキースフレアイズ マットタイプ — 2人が紹介
+9. **LUNA** Luna コンシールブレンダーパレット 02 ピュアカバー — 2人が紹介
 10. **RIMMEL** LONDON ワンダー　ラスト　アイシャドウ　スティック — 2人が紹介
 11. **アディクション** アディクション ザ アイシャドウパレット — 2人が紹介
 12. **RMK** RMK シンクロマティックアイシャドウパレット EX-12  — 2人が紹介
@@ -62,6 +62,19 @@
 **紹介YouTuber**: 鹿の間 / MAI TAKASUGI / 水越みさと
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=4950536858562&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000186602/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026)
+
+---
+
+### hince アイシャドウ 【hince】 ニューデップスアイシャドウ V002アリュール・イン・モーション
+
+![hince アイシャドウ 【hince】 ニューデップスアイシャドウ V002アリュール・イン・モーション](https://thumbnail.image.rakuten.co.jp/@0_mall/arwss/cabinet/10835198/8809642484986.jpg?_ex=500x500)
+
+**価格**: 2200円 | **3人のYouTuberが紹介**
+
+> **よしミチ**: 「アイシャドウもちょっともっとたくさんあるんですけど なんかお気に入りがありす」
+> [動画を見る](https://www.youtube.com/watch?v=sFlnxSdTzTk)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%80%90hince%E3%80%91%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20V002%E3%82%A2%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000161872/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -148,23 +161,13 @@
 
 **価格**: 2420円 | **2人のYouTuberが紹介**
 
+> **鹿の間**: 「ルナのコンシールブレンダーパレット2番 ピュアカバー使っていきます まずはこちらのピンクカラー取ります 拳で温めてとろけさせて クマに塗ります」
+> [動画を見る](https://www.youtube.com/watch?v=s3GFHPr6HdU)
+
 > **コスメヲタちゃんねるサラ**: 「崩れの原因になります。 そして使うのがこちら。 ルナコンシールブレンダーパレット0102。 これ他の動画でも出てくるぐらい、 愛用品なんですけど、 リップスベストコスメ2024。 下半期新作賞。 コンシーラー部門で2位を受賞してます。」
 > [動画を見る](https://www.youtube.com/watch?v=1ts30nc9hMs)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=LUNA%20Luna%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%2002%20%E3%83%94%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%90%E3%83%BC&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00q9bv9.zqde7591.g00q9bv9.zqde89c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzagzag%2Fg8801046414156%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzagzag%2Fi%2F10096146%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
-
----
-
-### hince アイシャドウ 【hince】 ニューデップスアイシャドウ V002アリュール・イン・モーション
-
-![hince アイシャドウ 【hince】 ニューデップスアイシャドウ V002アリュール・イン・モーション](https://thumbnail.image.rakuten.co.jp/@0_mall/arwss/cabinet/10835198/8809642484986.jpg?_ex=500x500)
-
-**価格**: 2200円 | **2人のYouTuberが紹介**
-
-> **よしミチ**: 「アイシャドウもちょっともっとたくさんあるんですけど なんかお気に入りがありす」
-> [動画を見る](https://www.youtube.com/watch?v=sFlnxSdTzTk)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=hince%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%80%90hince%E3%80%91%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20V002%E3%82%A2%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/cosmecomonline/1000161872/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 

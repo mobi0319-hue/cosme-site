@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-23 -->
-# Kawaii Pateenおすすめ化粧下地28選【2026年04月版】
+<!-- LAST_UPDATED: 2026-05-03 -->
+# Kawaii Pateenおすすめ化粧下地28選【2026年05月版】
 
 人気美容YouTuber **Kawaii Pateen** さんが動画で紹介した化粧下地アイテムをまとめました。
 
