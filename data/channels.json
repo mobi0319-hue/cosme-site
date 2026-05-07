@@ -440,7 +440,7 @@
     "youtube_name": "和田さん。チャンネル",
     "url": "https://www.youtube.com/@wadasanchannel",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -448,7 +448,7 @@
     "youtube_name": "元美容部員和田さん",
     "url": "https://www.youtube.com/@wadasan_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -456,7 +456,7 @@
     "youtube_name": "COCO Beauty channel",
     "url": "https://www.youtube.com/@COCOBeautychannel",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -464,7 +464,7 @@
     "youtube_name": "アラフォーちえ",
     "url": "https://www.youtube.com/@arafochie",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -472,7 +472,7 @@
     "youtube_name": "元鈴木さん",
     "url": "https://www.youtube.com/@motosuzukisan",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -488,7 +488,7 @@
     "youtube_name": "佐藤優里亜",
     "url": "https://www.youtube.com/@satoyuria",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -496,7 +496,7 @@
     "youtube_name": "peko",
     "url": "https://www.youtube.com/@peko_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -504,7 +504,7 @@
     "youtube_name": "ALL ABOUT",
     "url": "https://www.youtube.com/@AllAbout_channel",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -521,7 +521,7 @@
     "youtube_name": "MiMi TV",
     "url": "https://www.youtube.com/@MimiTV",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -529,7 +529,7 @@
     "youtube_name": "LDK the Beauty",
     "url": "https://www.youtube.com/@LDKtheBeauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -537,7 +537,7 @@
     "youtube_name": "おめがシスターズ",
     "url": "https://www.youtube.com/@OmegaSisters",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -545,7 +545,7 @@
     "youtube_name": "兵藤小百合",
     "url": "https://www.youtube.com/@hyodosayuri",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -553,7 +553,7 @@
     "youtube_name": "佐々木あさひ",
     "url": "https://www.youtube.com/@saikiasahi",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -569,7 +569,7 @@
     "youtube_name": "ALISAのメイク講座",
     "url": "https://www.youtube.com/@ALISA_makeup",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -577,7 +577,7 @@
     "youtube_name": "イガリシノブ",
     "url": "https://www.youtube.com/@igari_shinobu",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -585,7 +585,7 @@
     "youtube_name": "おかめ",
     "url": "https://www.youtube.com/@okame_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -593,7 +593,7 @@
     "youtube_name": "ここあ",
     "url": "https://www.youtube.com/@cocoa_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -601,7 +601,7 @@
     "youtube_name": "プチプラのあや",
     "url": "https://www.youtube.com/@PuchiPura_Aya",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -609,7 +609,7 @@
     "youtube_name": "整形アイドル轟ちゃん",
     "url": "https://www.youtube.com/@todoroki_chan",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -633,7 +633,7 @@
     "youtube_name": "美的チャンネル",
     "url": "https://www.youtube.com/@biteki_channel",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -641,7 +641,7 @@
     "youtube_name": "VOCE",
     "url": "https://www.youtube.com/@VOCE_official",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -649,7 +649,7 @@
     "youtube_name": "MAQUIA",
     "url": "https://www.youtube.com/@MAQUIA_official",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -657,7 +657,7 @@
     "youtube_name": "美容オタクちゃんみな",
     "url": "https://www.youtube.com/@chamina_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -665,7 +665,7 @@
     "youtube_name": "みぃ",
     "url": "https://www.youtube.com/@mii_beauty_ch",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -673,7 +673,7 @@
     "youtube_name": "noel_izm",
     "url": "https://www.youtube.com/@noel_izm",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -681,7 +681,7 @@
     "youtube_name": "ShuShu",
     "url": "https://www.youtube.com/@shushu_cosme",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -689,7 +689,7 @@
     "youtube_name": "かんだま劇場",
     "url": "https://www.youtube.com/@kandama",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -697,7 +697,7 @@
     "youtube_name": "momohaha",
     "url": "https://www.youtube.com/@momohaha_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -705,7 +705,7 @@
     "youtube_name": "韓国コスメオタクyuna",
     "url": "https://www.youtube.com/@yuna_kbeauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -713,7 +713,7 @@
     "youtube_name": "ワタナベ薫",
     "url": "https://www.youtube.com/@watanabe_kaoru",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -721,7 +721,7 @@
     "youtube_name": "田中みな実",
     "url": "https://www.youtube.com/@tanakaminami_ch",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -729,7 +729,7 @@
     "youtube_name": "石井美保",
     "url": "https://www.youtube.com/@ishiimiho",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   },
   {
@@ -745,7 +745,7 @@
     "youtube_name": "meg_beauty",
     "url": "https://www.youtube.com/@meg_beauty",
     "genre": "cosme",
-    "active": true,
+    "active": false,
     "display": false
   }
 ]
