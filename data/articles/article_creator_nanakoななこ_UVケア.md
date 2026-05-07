@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-04-20 -->
+<!-- LAST_UPDATED: 2026-05-07 -->
 # nanakoななこおすすめUVケア4選【2026年04月版】
 
 人気美容YouTuber **nanakoななこ** さんが動画で紹介したUVケアアイテムをまとめました。

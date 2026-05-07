@@ -1,6 +1,6 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-05-03 -->
-# 【2026年05月版】YouTuberが複数紹介したその他おすすめ96選
+<!-- LAST_UPDATED: 2026-05-07 -->
+# 【2026年05月版】YouTuberが複数紹介したその他おすすめ97選
 
 複数の美容系YouTuberが**独立して紹介**したその他アイテムだけを厳選しました。
 「本当に良いもの」を見つける参考にしてください。
@@ -13,23 +13,23 @@
 4. **TAG** ▷Insramやってます😊 — 5人が紹介
 5. **メイベリン** 提供： ニューヨーク — 4人が紹介
 6. **REJURAN（リジュラン）** REJURAN — 3人が紹介
-7. **コスメデコルテ** コスメデコルテ トーンパーフェクティングパレット 01 — 3人が紹介
-8. **SHISEIDO** Shiseido ミニアイラッシュカーラー — 3人が紹介
-9. **MAJOLICA MAJORCA** ラッシュエキスパンダー ロングロングロング EX — 3人が紹介
-10. **資生堂** 資生堂 ミニアイラッシュカーラー — 3人が紹介
-11. **LUNASOL** アイカラーレーションN — 3人が紹介
-12. **MAYBELLINE** MAYBELLINE NEW YORK メイベリン SP フ — 3人が紹介
-13. **TAG** 友利新のInstagram — 3人が紹介
-14. **WAKEMAKE** 提供： — 3人が紹介
-15. **エレガンス** 27.Elégance（） — 3人が紹介
-16. **LUNA** 提供： — 3人が紹介
-17. **キス** マジョリカマジョルカ　ラッシュエパンダードーリーカール — 3人が紹介
-18. **ロート** プロモーション：製薬株式会社 — 3人が紹介
-19. **AMUSE** AMUSE(アミューズ) — 2人が紹介
-20. **SHARP（シャープ）** プラズマクラスターヘアブラシ — 2人が紹介
-21. **CEZANNE（セザンヌ）** CEZANNE フェイスグロウカラー 03 ロマンスグロウ — 2人が紹介
-22. **SUQQU（スック）** SUQQU メイクアップ キット 舜華 11/1数量限定発売 — 2人が紹介
-23. **ジルスチュアート** ジルスチュアート リボンファッションショー コレクション 1 — 2人が紹介
+7. **ジルスチュアート** ジルスチュアート リボンファッションショー コレクション 1 — 3人が紹介
+8. **コスメデコルテ** コスメデコルテ トーンパーフェクティングパレット 01 — 3人が紹介
+9. **SHISEIDO** Shiseido ミニアイラッシュカーラー — 3人が紹介
+10. **MAJOLICA MAJORCA** ラッシュエキスパンダー ロングロングロング EX — 3人が紹介
+11. **資生堂** 資生堂 ミニアイラッシュカーラー — 3人が紹介
+12. **LUNASOL** アイカラーレーションN — 3人が紹介
+13. **MAYBELLINE** MAYBELLINE NEW YORK メイベリン SP フ — 3人が紹介
+14. **TAG** 友利新のInstagram — 3人が紹介
+15. **WAKEMAKE** 提供： — 3人が紹介
+16. **エレガンス** 27.Elégance（） — 3人が紹介
+17. **LUNA** 提供： — 3人が紹介
+18. **キス** マジョリカマジョルカ　ラッシュエパンダードーリーカール — 3人が紹介
+19. **ロート** プロモーション：製薬株式会社 — 3人が紹介
+20. **AMUSE** AMUSE(アミューズ) — 2人が紹介
+21. **SHARP（シャープ）** プラズマクラスターヘアブラシ — 2人が紹介
+22. **CEZANNE（セザンヌ）** CEZANNE フェイスグロウカラー 03 ロマンスグロウ — 2人が紹介
+23. **SUQQU（スック）** SUQQU メイクアップ キット 舜華 11/1数量限定発売 — 2人が紹介
 24. **プリマヴィスタ** プリマヴィスタ プレメイクアップ ジェルウォッシュ — 2人が紹介
 25. **VODANA** GLAMWAVE CURLING IRON 40mm Pow — 2人が紹介
 26. **ETVOS（エトヴォス）** ETVOS ミネラルクラッシィシャドー シフォンアンサンブル — 2人が紹介
@@ -100,9 +100,10 @@
 91. **TAG** ▼Insram▼ — 2人が紹介
 92. **Dior** Christian　 Addict Eau Fraiche — 2人が紹介
 93. **COSRX** 提供： — 2人が紹介
-94. **CANMAKE** CANMAKE ジュエリーシャドウベール 01 / 06 各 — 2人が紹介
-95. **TAG** ［Insram］ — 2人が紹介
-96. **TAG** Insram→ — 2人が紹介
+94. **RMK** ダンシング ディメンションズ — 2人が紹介
+95. **CANMAKE** CANMAKE ジュエリーシャドウベール 01 / 06 各 — 2人が紹介
+96. **TAG** ［Insram］ — 2人が紹介
+97. **TAG** Insram→ — 2人が紹介
 
 ---
 
@@ -191,6 +192,25 @@
 **紹介YouTuber**: 水越みさと / 鹿の間 / ひよんちゃんねる
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=REJURAN%20REJURAN&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00tzmj9.zqde72f2.g00tzmj9.zqde805f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluluhana%2Frej-rh-set1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluluhana%2Fi%2F10000234%2F&rafcid=wsc_i_is_8c4d76b1-3790-4251-a266-bf36d299266b&af=mobi.0319)
+
+---
+
+### ジルスチュアート ジルスチュアート リボンファッションショー コレクション 10/31数量限定発売
+
+![ジルスチュアート ジルスチュアート リボンファッションショー コレクション 10/31数量限定発売](https://thumbnail.image.rakuten.co.jp/@0_mall/momizistore/cabinet/imgrc0097545909.jpg?_ex=500x500)
+
+**価格**: 8800円 | **3人のYouTuberが紹介**
+
+> **水越みさと**: 「ジルスチュアート リボンファッションショーコレクションのコフレを紹介。毎年お得で人気が高く、可愛いデザインが魅力。」
+> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
+
+> **コスメヲタちゃんねるサラ**: 「ジルスチュアート ブルーミングラッシュマスカラベース01を使用。トーンアップ効果のあるホワイトカラーで、しっかりとしたマスカラと評価。」
+> [動画を見る](https://www.youtube.com/watch?v=fMOy2LKgFZU)
+
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「はい、そうしたらお次はこちら ジルスチュアートのドレスドブルームアイズの2番です 今日紹介するアイシャドウ6商品の中で この商品がね、一番最近出たばっかりのアイテム 事前にね、」
+> [動画を見る](https://www.youtube.com/watch?v=4sJZIgnSihM)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%83%AA%E3%83%9C%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2010/31%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/1340/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -422,22 +442,6 @@
 > [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=SUQQU%20SUQQU%20%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%AD%E3%83%83%E3%83%88%20%E8%88%9C%E8%8F%AF%2011/1%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/2263/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
-
----
-
-### ジルスチュアート ジルスチュアート リボンファッションショー コレクション 10/31数量限定発売
-
-![ジルスチュアート ジルスチュアート リボンファッションショー コレクション 10/31数量限定発売](https://thumbnail.image.rakuten.co.jp/@0_mall/momizistore/cabinet/imgrc0097545909.jpg?_ex=500x500)
-
-**価格**: 8800円 | **2人のYouTuberが紹介**
-
-> **水越みさと**: 「ジルスチュアート リボンファッションショーコレクションのコフレを紹介。毎年お得で人気が高く、可愛いデザインが魅力。」
-> [動画を見る](https://www.youtube.com/watch?v=CVjpVPZYKpI)
-
-> **コスメヲタちゃんねるサラ**: 「ジルスチュアート ブルーミングラッシュマスカラベース01を使用。トーンアップ効果のあるホワイトカラーで、しっかりとしたマスカラと評価。」
-> [動画を見る](https://www.youtube.com/watch?v=fMOy2LKgFZU)
-
-[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%83%AA%E3%83%9C%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%20%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2010/31%E6%95%B0%E9%87%8F%E9%99%90%E5%AE%9A%E7%99%BA%E5%A3%B2&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://item.rakuten.co.jp/emporio8888/1340/?rafcid=wsc_i_is_739ffc64-590c-4496-bb0f-cbdc05991026&af=mobi.0319)
 
 ---
 
@@ -1393,6 +1397,20 @@
 > [動画を見る](https://www.youtube.com/watch?v=fk8BibJRQJY)
 
 [🛒 Amazonで見る](https://www.amazon.co.jp/s?k=COSRX%20%E6%8F%90%E4%BE%9B%EF%BC%9A&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/COSRX%20%E6%8F%90%E4%BE%9B%EF%BC%9A/?af=mobi.0319)
+
+---
+
+### RMK ダンシング ディメンションズ
+
+**価格**: 8800円 | **2人のYouTuberが紹介**
+
+> **nanachannel**: 「こんばんはみです今日はRMKの クリスマスコフレ使ってメイクしていき たいと思います」
+> [動画を見る](https://www.youtube.com/watch?v=igWjrPFHwPg)
+
+> **ありちゃん〜毎月の支出の半分をコスメに充てる女〜**: 「お次はナーズまず10月27日発売の エンドレスナイツアイシャドウパレットと アフターパーティーライト リフレクティングセッティングパウダー プレストそれと11月17日発売の オーガズムアフターグローリップ スティック&ミニリキッドブラッシュデオ この3点レビューしてい」
+> [動画を見る](https://www.youtube.com/watch?v=sIyXtSx8SA0)
+
+[🛒 Amazonで見る](https://www.amazon.co.jp/s?k=RMK%20%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA&tag=yuaffiliate01-22) | [🛒 楽天で見る](https://search.rakuten.co.jp/search/mall/RMK%20%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%20%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA/?af=mobi.0319)
 
 ---
 

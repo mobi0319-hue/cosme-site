@@ -1,5 +1,5 @@
 <!-- GENRE: cosme -->
-<!-- LAST_UPDATED: 2026-05-03 -->
+<!-- LAST_UPDATED: 2026-05-07 -->
 # MAI TAKASUGIおすすめファンデーション11選【2026年05月版】
 
 人気美容YouTuber **MAI TAKASUGI** さんが動画で紹介したファンデーションアイテムをまとめました。
