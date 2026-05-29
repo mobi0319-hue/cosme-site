@@ -42,3 +42,7 @@ next-env.d.ts
 
 .vercel
 pandoc*
+
+scripts/node_modules/
+.env
+data/raw/
