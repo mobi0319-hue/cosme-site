@@ -3,6 +3,7 @@
 
 import type { Product } from '@/lib/data'
 import { slugifyProduct } from '@/lib/data'
+import BuyButtons from '@/app/components/BuyButtons'
 
 type Props = {
   products: Product[]
@@ -49,31 +50,7 @@ export default function ArticleProducts({ products }: Props) {
             </div>
 
             {/* 購入ボタン */}
-            <div className="flex flex-wrap gap-2">
-              {/* Amazonボタン */}
-              {product.amazon_url && (
-                <a
-                  href={product.amazon_url}
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="inline-flex items-center justify-center bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-xs sm:text-sm font-bold px-4 sm:px-5 py-2 sm:py-2.5 rounded-xl transition-colors shadow-sm flex-1 min-w-0 sm:min-w-[180px]"
-                >
-                  🛒 Amazonで見る
-                </a>
-              )}
-
-              {/* 楽天ボタン */}
-              {product.rakuten_url && (
-                <a
-                  href={product.rakuten_url}
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="inline-flex items-center justify-center bg-red-500 hover:bg-red-600 text-white text-xs sm:text-sm font-bold px-4 sm:px-5 py-2 sm:py-2.5 rounded-xl transition-colors shadow-sm flex-1 min-w-0 sm:min-w-[180px]"
-                >
-                  🛒 楽天で見る
-                </a>
-              )}
-            </div>
+            <BuyButtons product={product} layout="compact" />
           </div>
         ))}
       </div>

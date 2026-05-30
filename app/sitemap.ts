@@ -1,4 +1,4 @@
-import { getVideos, getCreators, getArticles, slugifyCreator } from '@/lib/data'
+import { getVideos, getCreators, getArticles, getProducts, slugifyCreator, slugifyProduct } from '@/lib/data'
 import { CONCERNS } from '@/lib/concerns'
 
 const BASE_URL = 'https://cosme-ch.com'
@@ -7,6 +7,7 @@ export default function sitemap() {
   const videos = getVideos()
   const creators = getCreators()
   const articles = getArticles()
+  const products = getProducts()
 
   const staticPages = [
     { url: BASE_URL, lastModified: new Date(), changeFrequency: 'daily' as const, priority: 1.0 },
@@ -40,6 +41,24 @@ export default function sitemap() {
     priority: 0.6,
   }))
 
+  const productPages = products.map(p => {
+    // mentioned_by の published_at 最新値をlastModifiedに使う
+    const dates = (p.mentioned_by || [])
+      .map(m => m.published_at)
+      .filter((d): d is string => Boolean(d))
+      .map(d => new Date(d))
+      .filter(d => !isNaN(d.getTime()))
+    const lastMod = dates.length > 0
+      ? new Date(Math.max(...dates.map(d => d.getTime())))
+      : new Date()
+    return {
+      url: `${BASE_URL}/product/${encodeURIComponent(slugifyProduct(p))}`,
+      lastModified: lastMod,
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    }
+  })
+
   const concernPages = [
     {
       url: `${BASE_URL}/concerns`,
@@ -55,5 +74,5 @@ export default function sitemap() {
     })),
   ]
 
-  return [...staticPages, ...videoPages, ...creatorPages, ...articlePages, ...concernPages]
+  return [...staticPages, ...productPages, ...videoPages, ...creatorPages, ...articlePages, ...concernPages]
 }

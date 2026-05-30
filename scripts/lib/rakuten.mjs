@@ -35,14 +35,38 @@ export async function searchRakutenItem(query) {
   };
 }
 
+// 検索クエリのノイズを除去する共通関数
+// 除去対象: 全角/半角括弧とその中身、SPF/PA規格表記、過剰記号、末尾容量ノイズ
+export function normalizeSearchQuery(productName) {
+  let q = productName;
+  // 全角丸括弧とその中身を除去: （医薬部外品）等
+  q = q.replace(/（[^）]*）/g, '');
+  // 半角丸括弧とその中身を除去: (医薬部外品) 等
+  q = q.replace(/\([^)]*\)/g, '');
+  // SPF数値表記: SPF50+ / SPF50
+  q = q.replace(/SPF\d+\+?/gi, '');
+  // PA表記: PA++++ 等
+  q = q.replace(/PA\++/gi, '');
+  // スラッシュ区切りのカラー/仕様ノイズ（例: "全11色" "クリームイエロー"のような後続）
+  // スラッシュ前後のスペースを含む区切りを除去
+  q = q.replace(/\s*\/\s*/g, ' ');
+  // 中点・プラス記号の単独使用を除去
+  q = q.replace(/[・+＋]/g, ' ');
+  // 末尾の容量・型番ノイズ（例: "30ml" "50g" "SPF30"）
+  q = q.replace(/\s+\d+(?:ml|mL|g|mg|ml|L|枚|個|本|色)\s*$/i, '');
+  // 連続スペースを1つに圧縮し、前後トリム
+  q = q.replace(/\s+/g, ' ').trim();
+  return q;
+}
+
 // 楽天検索URL生成（API failed時のフォールバック）
 export function buildRakutenSearchUrl(brand, productName) {
-  const q = encodeURIComponent(`${brand} ${productName}`);
+  const q = encodeURIComponent(`${brand} ${normalizeSearchQuery(productName)}`);
   return `https://search.rakuten.co.jp/search/mall/${q}/?af=${AFF_ID}`;
 }
 
 // Amazon検索URL生成（PA-APIなしでも tag は付与可能）
 export function buildAmazonSearchUrl(brand, productName) {
-  const q = encodeURIComponent(`${brand} ${productName}`);
+  const q = encodeURIComponent(`${brand} ${normalizeSearchQuery(productName)}`);
   return `https://www.amazon.co.jp/s?k=${q}&tag=${AMAZON_TAG}`;
 }

@@ -1,21 +1,21 @@
 // 商品詳細ページ（CV改善版）
 import { getProducts, getProductBySlug, getRelatedProducts, slugifyProduct, extractVideoId, getChannelDisplayInfo, getMeaningfulMentions } from '@/lib/data'
+import BuyButtons from '@/app/components/BuyButtons'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 
-// ビルド時はアクセスの多い上位500件のみ静的生成。残りはアクセス時に動的生成+キャッシュ
+// ビルド時に全件静的生成（4051件）
 export async function generateStaticParams() {
   const products = getProducts()
-  // mention_count順にソートして上位100件のみ（Vercel 80MBデプロイ制限対策）
-  const sorted = [...products].sort((a, b) => (b.mention_count || 0) - (a.mention_count || 0))
-  return sorted.slice(0, 100).map((p) => ({
+  return products.map((p) => ({
     slug: slugifyProduct(p),
   }))
 }
 
-// 未生成ページはアクセス時に動的生成（日本語スラッグのcache-tagヘッダー問題を回避）
+// 未生成ページはアクセス時にISR生成
 export const dynamicParams = true
-export const dynamic = 'force-dynamic'
+// ISR: 24時間ごとに再生成（データ更新頻度に合わせて調整可）
+export const revalidate = 86400
 
 export async function generateMetadata({
   params,
@@ -29,8 +29,9 @@ export async function generateMetadata({
   const videoCount = new Set(product.mentioned_by.map(m => m.video_url)).size
   const hasMeaningfulContent = getMeaningfulMentions(product.mentioned_by).length > 0
   // 薄いページはnoindexでGoogle除外
-  // 条件: (1人以下 AND 意味あるコメントなし) OR (意味あるコメントが1つもない = 全部「概要欄で紹介」)
-  const isThin = !hasMeaningfulContent
+  // 条件: 紹介YouTuberが1人以下 かつ 意味あるコメントが1件もない
+  // 2人以上が紹介していれば比較価値あり → index
+  const isThin = youtuberCount <= 1 && !hasMeaningfulContent
   const now = new Date()
   const yearMonth = `${now.getFullYear()}年${now.getMonth() + 1}月`
   return {
@@ -172,21 +173,8 @@ export default async function ProductPage({
           </div>
         )}
 
-        {/* 購入ボタン（上部） — Amazon・楽天均等 */}
-        <div className="flex flex-col sm:flex-row gap-3">
-          {product.amazon_url && (
-            <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
-              className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
-              🛒 Amazonで見る
-            </a>
-          )}
-          {product.rakuten_url && (
-            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
-              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
-              🛒 楽天で見る
-            </a>
-          )}
-        </div>
+        {/* 購入ボタン（上部） */}
+        <BuyButtons product={product} layout="full" />
       </div>
 
       {/* 動画で紹介されたポイント（コメントを購入ボタン直前に） */}
@@ -302,20 +290,7 @@ export default async function ProductPage({
         <p className="text-xs sm:text-sm font-bold text-gray-700 mb-3 text-center line-clamp-2">
           {youtuberCount}人が紹介した{product.brand} {product.product_name}を購入する
         </p>
-        <div className="flex flex-col sm:flex-row gap-3">
-          {product.amazon_url && (
-            <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
-              className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
-              🛒 Amazonで見る
-            </a>
-          )}
-          {product.rakuten_url && (
-            <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
-              className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-4 rounded-xl transition-colors text-base shadow-sm">
-              🛒 楽天で見る
-            </a>
-          )}
-        </div>
+        <BuyButtons product={product} layout="full" />
         <p className="text-xs text-gray-400 mt-2 text-center">
           ※ 当サイトはアフィリエイトリンクを含みます
         </p>
@@ -329,20 +304,7 @@ export default async function ProductPage({
       {/* モバイル スティッキー購入ボタン（画面下部に固定表示） */}
       {(product.amazon_url || product.rakuten_url) && (
         <div className="fixed bottom-0 left-0 right-0 z-50 sm:hidden bg-white border-t border-gray-200 px-4 py-3 shadow-lg">
-          <div className="flex gap-2">
-            {product.amazon_url && (
-              <a href={product.amazon_url} target="_blank" rel="noopener noreferrer nofollow"
-                className="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 text-center font-bold py-3 rounded-xl transition-colors text-sm shadow-sm">
-                🛒 Amazonで見る
-              </a>
-            )}
-            {product.rakuten_url && (
-              <a href={product.rakuten_url} target="_blank" rel="noopener noreferrer nofollow"
-                className="flex-1 bg-red-500 hover:bg-red-600 text-white text-center font-bold py-3 rounded-xl transition-colors text-sm shadow-sm">
-                🛒 楽天で見る
-              </a>
-            )}
-          </div>
+          <BuyButtons product={product} layout="compact" />
         </div>
       )}
 

@@ -5,17 +5,18 @@ import { notFound } from 'next/navigation'
 import ArticleContent from './ArticleContent'
 import ArticleProducts from './ArticleProducts'
 
-// 記事のスラッグを静的パスとして生成（上位50件、残りはアクセス時生成）
+// ビルド時に全件静的生成（621件）
 export function generateStaticParams() {
   const articles = getArticles()
-  return articles.slice(0, 50).map((article) => ({
+  return articles.map((article) => ({
     slug: article.slug,
   }))
 }
 
-// 未生成ページはアクセス時に動的生成（日本語スラッグのcache-tagヘッダー問題を回避）
+// 未生成ページはアクセス時にISR生成
 export const dynamicParams = true
-export const dynamic = 'force-dynamic'
+// ISR: 24時間ごとに再生成
+export const revalidate = 86400
 
 // メタデータ生成
 export async function generateMetadata({
